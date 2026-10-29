@@ -1,9 +1,16 @@
 /* 基督教世界新闻 · 前端交互
-   首页：热门地区/主题点击筛选 + 按日期导航
-   分类页：标题/来源搜索
+   首页：热门地区/主题点击筛选 + 按日期导航 + 只看福音派来源
+   分类页：标题/来源搜索 + 隐藏需留意的来源/争议
 */
 (function () {
   "use strict";
+  var FLAGGED_STANCES = ["catholic", "orthodox", "mainline"];
+
+  function isFlagged(card) {
+    var st = card.getAttribute("data-stance") || "";
+    var fl = card.getAttribute("data-flags") || "";
+    return FLAGGED_STANCES.indexOf(st) !== -1 || fl.length > 0;
+  }
 
   // ---------- 首页 ----------
   function initHome() {
@@ -14,30 +21,34 @@
     var filterLabel = document.getElementById("filter-label");
     var filterCount = document.getElementById("filter-count");
     var clearBtn = document.getElementById("clear-filter");
-    var calData = null;
-    try { calData = JSON.parse(document.getElementById("calendar-data").textContent || "{}"); } catch (e) { calData = {}; }
+    var hideFlagged = document.getElementById("hide-flagged");
+    var currentKw = "";
 
-    function applyFilter(keyword) {
-      keyword = (keyword || "").trim().toLowerCase();
-      if (!keyword) { clearFilter(); return; }
+    function apply() {
+      var kw = currentKw.trim().toLowerCase();
+      var hide = hideFlagged && hideFlagged.checked;
       var shown = 0;
       cards.forEach(function (card) {
-        var text = card.textContent.toLowerCase();
-        var hit = text.indexOf(keyword) !== -1;
-        card.style.display = hit ? "" : "none";
-        if (hit) shown++;
+        var textOk = !kw || card.textContent.toLowerCase().indexOf(kw) !== -1;
+        var flagOk = !hide || !isFlagged(card);
+        var vis = textOk && flagOk;
+        card.style.display = vis ? "" : "none";
+        if (vis) shown++;
       });
-      filterLabel.textContent = keyword;
-      filterCount.textContent = shown;
-      filterBar.hidden = false;
+      if (kw) {
+        filterLabel.textContent = kw;
+        filterCount.textContent = shown;
+        filterBar.hidden = false;
+      } else {
+        filterBar.hidden = true;
+      }
     }
 
-    function clearFilter() {
-      cards.forEach(function (card) { card.style.display = ""; });
-      filterBar.hidden = true;
-    }
+    function applyFilter(keyword) { currentKw = keyword; apply(); }
+    function clearFilter() { currentKw = ""; apply(); }
 
     if (clearBtn) clearBtn.addEventListener("click", clearFilter);
+    if (hideFlagged) hideFlagged.addEventListener("change", apply);
 
     document.querySelectorAll(".hot-item, .topic-tag").forEach(function (el) {
       function trigger() { applyFilter(el.getAttribute("data-filter")); }
@@ -65,21 +76,23 @@
       dateTitle.textContent = (sel.id || "").replace("date-", "");
     }
     if (datePrev) datePrev.addEventListener("click", function () {
-      navIndex = Math.max(0, navIndex - 1); renderNav();
+      navIndex = Math.max(0, navIndex - 1); renderNav(); apply();
     });
     if (dateNext) dateNext.addEventListener("click", function () {
-      navIndex = Math.min(dateSections.length, navIndex + 1); renderNav();
+      navIndex = Math.min(dateSections.length, navIndex + 1); renderNav(); apply();
     });
     if (dateAll) dateAll.addEventListener("click", function () {
-      navIndex = 0; renderNav();
+      navIndex = 0; renderNav(); apply();
     });
     renderNav();
+    apply();
   }
 
   // ---------- 分类页 ----------
   function initCategory() {
     var input = document.getElementById("filter-input");
     var select = document.getElementById("source-filter");
+    var hideFlagged = document.getElementById("hide-flagged");
     var list = document.getElementById("article-list");
     if (!list) return;
     var cards = Array.prototype.slice.call(list.querySelectorAll(".article-card"));
@@ -87,15 +100,18 @@
     function apply() {
       var kw = (input.value || "").trim().toLowerCase();
       var src = (select.value || "").trim();
+      var hide = hideFlagged && hideFlagged.checked;
       cards.forEach(function (card) {
         var text = card.textContent.toLowerCase();
         var okText = !kw || text.indexOf(kw) !== -1;
         var okSrc = !src || card.getAttribute("data-source") === src;
-        card.style.display = (okText && okSrc) ? "" : "none";
+        var flagOk = !hide || !isFlagged(card);
+        card.style.display = (okText && okSrc && flagOk) ? "" : "none";
       });
     }
     if (input) input.addEventListener("input", apply);
     if (select) select.addEventListener("change", apply);
+    if (hideFlagged) hideFlagged.addEventListener("change", apply);
   }
 
   document.addEventListener("DOMContentLoaded", function () {

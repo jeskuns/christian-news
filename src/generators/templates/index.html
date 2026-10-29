@@ -14,6 +14,7 @@
       <button type="button" class="btn-date" id="date-next" aria-label="后一天">›</button>
       <button type="button" class="btn-date btn-date--all" id="date-all">全部</button>
     </div>
+    <label class="chk-inline"><input type="checkbox" id="hide-flagged"> 只看福音派来源</label>
   </div>
 </section>
 
@@ -36,12 +37,16 @@
         </div>
         <div class="article-list">
           {% for article in items %}
-          <article class="article-card cat-{{ article.category }}">
+          <article class="article-card cat-{{ article.category }}" data-stance="{{ article.stance or '' }}" data-flags="{{ (article.flags or [])|join(',') }}">
             <div class="article-meta">
               <span class="category-tag cat-{{ article.category }}">{{ category_labels[article.category] }}</span>
               <span class="source">{{ article.source }}</span>
               {% if article.region %}<span class="region">{{ article.region }}</span>{% endif %}
               <span class="country">{{ article.country }}</span>
+              {% if article.stance and article.stance != 'evangelical' %}
+              <span class="stance-tag {% if article.stance in flagged_stances %}stance-warn{% else %}stance-info{% endif %}">{{ stance_labels.get(article.stance, article.stance) }}</span>
+              {% endif %}
+              {% for f in (article.flags or []) %}<span class="flag-tag">{{ f }}</span>{% endfor %}
             </div>
             <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title_zh or article.title }}</a></h3>
             {% if article.title_zh %}
@@ -85,6 +90,12 @@
       </div>
     </div>
     {% endif %}
+
+    <div class="widget legend-widget">
+      <h3>阅读提示</h3>
+      <p><span class="stance-tag stance-warn">不同传统来源</span> 立场与福音派有别，阅读时宜分辨</p>
+      <p><span class="flag-tag">争议话题</span> 涉及同性婚姻、堕胎等公共议题</p>
+    </div>
   </aside>
 </div>
 

@@ -35,6 +35,52 @@ CATEGORY_LABELS = {
     "wiki": "百科背景",
 }
 
+# 来源立场推断：按名称关键词识别与福音派传统不同的来源（用于阅读提示）
+STANCE_KEYWORDS = [
+    ("catholic", ["天主教", "catholic", "vatican", "asia news"]),
+    ("orthodox", ["东正教", "orthodox"]),
+    ("mainline", ["卫理公会", "methodist", "圣公会", "anglican", "普世", "ecumenical", "world council", "wcc"]),
+    ("charismatic", ["灵恩", "charisma", "pentecostal"]),
+    ("academic", ["季刊", "期刊", "journal", "themelios", "first things", "modern reformation",
+                  "life quarterly", "建道", "神学研究院", "jets"]),
+]
+
+# 争议话题关键词（扫描标题+摘要；命中则加「争议话题」标记）
+CONTROVERSY_KEYWORDS = {
+    "同性婚姻": ["同性婚姻", "同性恋", "同性婚礼", "gay marriage", "same-sex", "lgbt", "lgbtq", "homosexual"],
+    "堕胎": ["堕胎", "abortion", "罗诉韦德", "roe v. wade"],
+    "女性按立": ["女性按立", "女牧师", "女性牧者", "women ordination", "female pastor", "女主教"],
+    "跨性别": ["跨性别", "变性", "transgender"],
+    "成功神学": ["成功神学", "prosperity gospel", "健康财富", "财富福音"],
+    "灵恩现象": ["说方言", "圣灵恩赐", "灵恩", "charismatic", "speaking in tongues"],
+    "圣经权威": ["圣经无误", "圣经权威", "inerrancy"],
+    "创造与进化": ["进化论", "创造论", "evolution", "creationism"],
+}
+
+# 需向读者提示「立场不同于福音派」的传统
+FLAGGED_STANCES = {"catholic", "orthodox", "mainline"}
+
+
+def infer_stance(source: "SourceConfig") -> str:
+    """按来源名称关键词推断其神学传统；默认福音派"""
+    name = (source.name or "").lower()
+    for stance, kws in STANCE_KEYWORDS:
+        for kw in kws:
+            if kw in name:
+                return stance
+    return "evangelical"
+
+
+def flag_articles(articles: List[Article]) -> None:
+    """扫描标题+摘要，为涉及争议公共议题的条目打上标记（上限 3 个）"""
+    for a in articles:
+        text = " ".join([a.title or "", a.summary or "", a.summary_zh or ""]).lower()
+        fl = []
+        for label, kws in CONTROVERSY_KEYWORDS.items():
+            if any(kw.lower() in text for kw in kws):
+                fl.append(label)
+        a.flags = fl[:3]
+
 
 class Collector:
     def __init__(self, config_path: str, data_dir: str, workers: int = 8):
@@ -70,6 +116,7 @@ class Collector:
                 a.category = source.category  # 强制按配置分类
                 if not a.region:
                     a.region = source.region or ""
+                a.stance = source.stance or infer_stance(source)
             return articles
         except Exception as e:
             msg = f"Source '{source.name}' failed: {e}"
@@ -110,6 +157,9 @@ class Collector:
         # 英文标题自动翻译为中文（带本地缓存；失败则保留原标题）
         translator = Translator(os.path.join(self.data_dir, "translation_cache.json"))
         translator.translate_articles(self.articles)
+
+        # 为涉及争议公共议题的条目打标记（福音派视角阅读提示）
+        flag_articles(self.articles)
 
         return self.articles
 

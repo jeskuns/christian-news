@@ -16,16 +16,21 @@
     <option value="{{ s }}">{{ s }}</option>
     {% endfor %}
   </select>
+  <label class="chk-inline"><input type="checkbox" id="hide-flagged"> 隐藏需留意的来源/争议</label>
 </section>
 
 <section class="article-list {% if key == 'wiki' %}compact-grid{% endif %}" id="article-list">
   {% for article in articles %}
-  <article class="article-card cat-{{ article.category }}" data-source="{{ article.source }}">
+  <article class="article-card cat-{{ article.category }}" data-source="{{ article.source }}" data-stance="{{ article.stance or '' }}" data-flags="{{ (article.flags or [])|join(',') }}">
     <div class="article-meta">
       <span class="source">{{ article.source }}</span>
       {% if article.region %}<span class="region">{{ article.region }}</span>{% endif %}
       <span class="country">{{ article.country }}</span>
       <span class="date">{{ article.published }}</span>
+      {% if article.stance and article.stance != 'evangelical' %}
+      <span class="stance-tag {% if article.stance in flagged_stances %}stance-warn{% else %}stance-info{% endif %}">{{ stance_labels.get(article.stance, article.stance) }}</span>
+      {% endif %}
+      {% for f in (article.flags or []) %}<span class="flag-tag">{{ f }}</span>{% endfor %}
     </div>
     <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title_zh or article.title }}</a></h3>
     {% if article.title_zh %}

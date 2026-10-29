@@ -41,6 +41,19 @@ TOPIC_KEYWORDS = {
     "慈善关怀": ["慈善", "赈灾", "援助", "relief", "charity", "poverty"],
 }
 
+# 来源立场中文标签（福音派视角阅读提示）
+STANCE_LABELS = {
+    "catholic": "天主教来源",
+    "orthodox": "东正教来源",
+    "mainline": "主流宗派来源",
+    "charismatic": "灵恩背景",
+    "academic": "学术期刊",
+    "evangelical": "福音派",
+    "other": "其他来源",
+}
+# 需提示「立场不同于福音派」的传统
+FLAGGED_STANCES = ["catholic", "orthodox", "mainline"]
+
 
 def _match_keyword(text: str, kw: str) -> bool:
     """纯 ASCII 关键词按整词匹配，含中文按子串匹配"""
@@ -190,6 +203,8 @@ class SiteGenerator:
             calendar_data=calendar_data,
             hot_regions=_count_groups(articles, REGION_KEYWORDS, 8),
             hot_topics=_count_groups(articles, TOPIC_KEYWORDS, 8),
+            stance_labels=STANCE_LABELS,
+            flagged_stances=FLAGGED_STANCES,
             updated_at=updated_at,
         )
         with open(os.path.join(self.site_dir, "index.html"), "w", encoding="utf-8") as f:
@@ -210,6 +225,8 @@ class SiteGenerator:
                 articles=cat_articles,
                 updated_at=updated_at,
                 total=len(articles),
+                stance_labels=STANCE_LABELS,
+                flagged_stances=FLAGGED_STANCES,
             )
             with open(os.path.join(self.site_dir, "categories", f"{key}.html"), "w", encoding="utf-8") as f:
                 f.write(html)
