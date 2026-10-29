@@ -1,15 +1,18 @@
 # 基督教世界新闻知识库信息源配置
-# category 取值: news, persecution, mission, church, theology, culture, wiki
+# category 取值: news, persecution, mission, church, theology, culture, wiki, heresy
 # parser 取值: rss, generic, wikipedia, news_search
 #
 # 说明：
 #   - 机构官网 HTML 结构各异、且多家存在 SSL/403 问题，统一改用关键词新闻检索（news_search）
 #     在 GitHub Actions 运行，Google News 可达；不可达时自动切换 GDELT 兜底。
 #   - 真实 RSS 源优先用 rss 解析器；被反爬时改 news_search 同样可工作。
+#   - 已覆盖：国际/中文新闻机构、逼迫监测、宣教机构、各宗派（改革宗/浸信会/路德会/
+#     卫理公会/圣公会/天主教/东正教/长老会/灵恩）、神学期刊（含生命季刊等学术性期刊）、
+#     文化媒体、异端辨析、百科背景。
 # 可按需启用/禁用、添加新源或调整查询词。
 
 sources:
-  # ==================== 基督教世界资讯（国际） ====================
+  # ==================== 基督教世界资讯（国际 / 中文） ====================
   - name: Christianity Today
     url: https://www.christianitytoday.com/news/rss/
     category: news
@@ -17,6 +20,22 @@ sources:
     language: en
     country: US
     max_items: 20
+
+  - name: The Christian Post
+    url: https://www.christianpost.com/rss/full/
+    category: news
+    parser: rss
+    language: en
+    country: US
+    max_items: 18
+
+  - name: Religion News Service
+    url: https://religionnews.com/feed/
+    category: news
+    parser: rss
+    language: en
+    country: US
+    max_items: 18
 
   - name: Premier Christian News
     url: https://premierchristian.news/rss
@@ -45,6 +64,29 @@ sources:
       provider: google
       query: "Christian news world"
 
+  - name: Christian Today India
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: en
+    country: IN
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "Christian news India church"
+
+  - name: Vatican News
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: en
+    country: VA
+    max_items: 12
+    extra:
+      provider: google
+      query: "Vatican news Christianity Pope"
+
   - name: 福音时报
     url: https://news.google.com/rss/search
     category: news
@@ -66,6 +108,110 @@ sources:
     extra:
       provider: google
       query: "基督日报 基督教"
+
+  - name: 基督教论坛报
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "基督教论坛报 新闻 教会"
+
+  - name: 国度复兴报
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: HK
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "国度复兴报 复兴 教会"
+
+  - name: 海外校园
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: US
+    region: 北美
+    max_items: 10
+    extra:
+      provider: google
+      query: "海外校园 基督 信仰 华人"
+
+  - name: 中国基督教两会
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: CN
+    region: 中国
+    max_items: 12
+    extra:
+      provider: google
+      query: "中国基督教 两会 三自 爱国"
+
+  - name: 普世教会新闻
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: en
+    country: CH
+    max_items: 12
+    extra:
+      provider: google
+      query: "World Council of Churches ecumenical news"
+
+  - name: Christianity Daily
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: en
+    country: US
+    max_items: 12
+    extra:
+      provider: google
+      query: "Christianity daily news headline"
+
+  - name: 基督邮报中文
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 12
+    extra:
+      provider: google
+      query: "基督邮报 基督教 新闻"
+
+  - name: 亚洲基督教新闻
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: en
+    country: SG
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "Christian news Asia church"
+
+  - name: 基督教今日
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 12
+    extra:
+      provider: google
+      query: "基督教 今日 要闻 教会"
 
   # ==================== 信仰自由与逼迫 ====================
   - name: Open Doors
@@ -101,6 +247,110 @@ sources:
       provider: google
       query: "基督徒 宗教自由 逼迫"
 
+  - name: Release International
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: GB
+    max_items: 10
+    extra:
+      provider: google
+      query: "Release International persecution Christians"
+
+  - name: CSW 宗教自由
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: GB
+    max_items: 10
+    extra:
+      provider: google
+      query: "Christian Solidarity Worldwide religious freedom"
+
+  - name: USCIRF
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "USCIRF religious freedom persecuted"
+
+  - name: 殉道者声音
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Voice of the Martyrs persecution"
+
+  - name: 巴基斯坦基督徒
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: PK
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "Pakistan Christians persecution blasphemy"
+
+  - name: 尼日利亚逼迫
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: NG
+    region: 非洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "Nigeria Christians persecution Boko Haram"
+
+  - name: 朝鲜基督徒
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: KP
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "North Korea Christians persecution"
+
+  - name: 中东逼迫
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: IL
+    region: 中东
+    max_items: 10
+    extra:
+      provider: google
+      query: "Middle East Christians persecution"
+
+  - name: 印度宗教自由
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: IN
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "India Christians religious freedom persecution"
+
   # ==================== 宣教运动 ====================
   - name: Mission Network News
     url: https://www.mnnonline.org/feed/
@@ -130,9 +380,111 @@ sources:
     max_items: 12
     extra:
       provider: google
-      query: "基督教 宣教 宣教士"
+      query: "基督教 宣教 宣教士 差会"
 
-  # ==================== 教会与机构 ====================
+  - name: Operation Mobilization
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: en
+    country: GB
+    max_items: 10
+    extra:
+      provider: google
+      query: "Operation Mobilization mission"
+
+  - name: Frontiers 伊斯兰宣教
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Frontiers Islamic world mission"
+
+  - name: SIM 宣教
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "SIM mission Africa"
+
+  - name: 学园传道会
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "学园传道会 校园 福音"
+
+  - name: 青年使命团 YWAM
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Youth With A Mission YWAM"
+
+  - name: 福音证主协会
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: zh
+    country: HK
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "福音证主协会 宣教"
+
+  - name: 伊斯兰宣教
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Christian mission to Muslims"
+
+  - name: 未得之民
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "unreached people groups mission"
+
+  - name: 非洲宣教
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: en
+    country: US
+    region: 非洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "Christian mission Africa"
+
+  # ==================== 教会与机构 / 各宗派 ====================
   - name: Baptist Press
     url: https://www.baptistpress.com/feed/
     category: church
@@ -176,7 +528,173 @@ sources:
       provider: google
       query: "Middle East church Christians"
 
-  # ==================== 神学与合一 ====================
+  - name: 9Marks 改革宗
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "9Marks church healthy"
+
+  - name: Reformation21 改革宗
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Reformation21 Reformed"
+
+  - name: Monergism 改革宗
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Monergism Reformed theology"
+
+  - name: 改革宗神学翻译社
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 10
+    extra:
+      provider: google
+      query: "改革宗 神学 翻译 教会"
+
+  - name: Baptist News Global
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Baptist News Global"
+
+  - name: 美南浸信会 SBC
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Southern Baptist Convention SBC"
+
+  - name: 浸信会世界联盟 BWA
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Baptist World Alliance"
+
+  - name: Lutheran World Federation
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: CH
+    max_items: 10
+    extra:
+      provider: google
+      query: "Lutheran World Federation"
+
+  - name: 路德会 LCMS
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "LCMS Lutheran church"
+
+  - name: Anglican Journal 圣公会
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: CA
+    max_items: 10
+    extra:
+      provider: google
+      query: "Anglican Journal church"
+
+  - name: 圣公会 ACNA
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: GB
+    max_items: 10
+    extra:
+      provider: google
+      query: "Anglican Communion ACNA"
+
+  - name: 卫理公会
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Methodist church news"
+
+  - name: 长老会
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Presbyterian church mission"
+
+  - name: 东正教
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: GR
+    region: 欧洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "Orthodox Christianity church"
+
+  - name: Charisma News 灵恩
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Charisma News charismatic"
+
+  # ==================== 神学与合一 / 学术性期刊 ====================
   - name: World Council of Churches
     url: https://www.oikoumene.org/rss.xml
     category: theology
@@ -206,6 +724,141 @@ sources:
     extra:
       provider: google
       query: "基督教 神学 研讨会 神学院"
+
+  - name: 生命季刊
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: zh
+    country: US
+    region: 北美
+    max_items: 10
+    extra:
+      provider: google
+      query: "生命季刊 基督教 神学"
+
+  - name: 教会期刊
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 10
+    extra:
+      provider: google
+      query: "教会期刊 神学 基督教学术"
+
+  - name: First Things
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "First Things Christianity"
+
+  - name: Modern Reformation
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Modern Reformation magazine"
+
+  - name: Themelios
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: en
+    country: GB
+    max_items: 10
+    extra:
+      provider: google
+      query: "Themelios theology"
+
+  - name: JETS 福音神学期刊
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Journal Evangelical Theological Society"
+
+  - name: 中国神学研究院
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: zh
+    country: HK
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "中国神学研究院 神学"
+
+  - name: 建道神学院
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: zh
+    country: HK
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "建道神学院 神学 研究"
+
+  - name: 福音派神学
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "evangelical theology"
+
+  - name: 改革宗神学
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Reformed theology covenant"
+
+  - name: 中宣神学
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 10
+    extra:
+      provider: google
+      query: "中国 神学 研究 圣经"
+
+  - name: 神学与文化
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "theology and culture Christianity"
 
   # ==================== 文化媒体 ====================
   - name: The Gospel Coalition
@@ -246,6 +899,109 @@ sources:
       provider: google
       query: "基督教 音乐 影视 文化"
 
+  - name: 赞美之泉音乐
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "赞美之泉 诗歌 敬拜"
+
+  - name: 约书亚乐团
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "约书亚乐团 敬拜 音乐"
+
+  - name: 耶稣电影项目
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Jesus Film Project"
+
+  - name: 橄榄华宣出版
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "橄榄华宣 出版 基督教"
+
+  - name: 校园书房
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "校园书房 出版 信仰"
+
+  - name: 基督教电影
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 10
+    extra:
+      provider: google
+      query: "基督教 电影 信仰 见证"
+
+  - name: 信仰与科学
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "faith and science Christianity"
+
+  - name: 基督徒婚姻家庭
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 10
+    extra:
+      provider: google
+      query: "基督徒 婚姻 家庭 亲子"
+
+  - name: 基督徒艺术
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Christian art painting"
+
   # ==================== 异端辨析 ====================
   - name: Christian Apologetics & Cults
     url: https://news.google.com/rss/search
@@ -279,6 +1035,61 @@ sources:
     extra:
       provider: google
       query: "异端 邪教 辨析 基督教 辨别"
+
+  - name: 耶和华见证人
+    url: https://news.google.com/rss/search
+    category: heresy
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Jehovah's Witnesses cult Christianity"
+
+  - name: 摩门教 LDS
+    url: https://news.google.com/rss/search
+    category: heresy
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Mormon LDS church"
+
+  - name: 统一教
+    url: https://news.google.com/rss/search
+    category: heresy
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 10
+    extra:
+      provider: google
+      query: "统一教 异端 韩国"
+
+  - name: 东方闪电
+    url: https://news.google.com/rss/search
+    category: heresy
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 10
+    extra:
+      provider: google
+      query: "东方闪电 全能神 异端"
+
+  - name: 新纪元思潮
+    url: https://news.google.com/rss/search
+    category: heresy
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 10
+    extra:
+      provider: google
+      query: "新纪元 成功神学 异端 辨别"
 
   # ==================== 百科背景 ====================
   - name: Wikipedia English
