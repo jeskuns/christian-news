@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-29T09:36:07.327083+08:00",
-  "total": 152,
+  "updated_at": "2026-10-29T10:03:58.952945+08:00",
+  "total": 158,
   "categories": {
     "mission": 17,
     "culture": 16,
-    "theology": 11,
-    "wiki": 41,
+    "theology": 13,
+    "wiki": 42,
     "persecution": 33,
-    "news": 16,
-    "church": 18
+    "news": 17,
+    "church": 20
   },
   "regions": {
-    "中东": 12,
+    "中东": 14,
     "中国": 1,
     "全球": 2
   },
@@ -20,13 +20,14 @@
     "The Gospel Coalition": 15,
     "World Council of Churches": 10,
     "Wikipedia (zh)": 21,
-    "Wikipedia (en)": 20,
+    "Wikipedia (en)": 21,
     "Open Doors": 15,
-    "World News (Christian)": 14,
+    "World News (Christian)": 15,
     "基督徒逼迫（国际）": 16,
-    "中东教会": 11,
+    "中东教会": 13,
     "教会增长（国际）": 5,
     "基督教文化（中文）": 1,
+    "合一运动（国际）": 3,
     "中国教会动态": 1,
     "示例 · 世界福音联盟": 1,
     "Wycliffe Bible Translators": 3,
@@ -34,7 +35,6 @@
     "示例 · 威克理夫圣经翻译会": 1,
     "宣教运动（中文）": 3,
     "宗教自由（中文）": 2,
-    "合一运动（国际）": 1,
     "示例 · 中东基督教遗产保护": 1
   },
   "articles": [
@@ -46,6 +46,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "With Lebanon currently being impacted by war, a refugee crisis, and more, stories of beauty can be hard to come across. For ministries active in Lebanon, meeting the spiritual, physical...",
+      "summary_zh": "由于黎巴嫩目前受到战争、难民危机等的影响，美丽的故事可能很难被理解。对于在黎巴嫩活跃的事工，满足精神，物质...",
       "title_zh": "黎巴嫩的艺术项目将美丽带入危机",
       "content": "",
       "author": "Ellie Tiemens",
@@ -55,7 +56,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.298232",
+      "fetched_at": "2026-10-29T02:00:10.419474",
       "extra": {
         "feed_type": "rss20"
       }
@@ -68,6 +69,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "This incident took place over 15 years ago, and yet, I remember it clearly. In the buzz of daily life, it is easy to get caught up in the carelessness...",
+      "summary_zh": "这件事发生在15年前，但我记得很清楚。在日常生活的嗡嗡声中，很容易陷入粗心大意……",
       "title_zh": "v.容忍",
       "content": "",
       "author": "Morgan",
@@ -77,7 +79,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.298384",
+      "fetched_at": "2026-10-29T02:00:10.419574",
       "extra": {
         "feed_type": "rss20"
       }
@@ -90,6 +92,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "Koinonia (Koy-no-nee’-ah) is a Greek word, occurring 20 times in the Bible, which means “fellowship” or “brotherly love.” It carries with it the meaning of a committed, trustworthy, and dependable...",
+      "summary_zh": "Koinonia （ Koy-no-nee '-ah ）是一个希腊语单词，在圣经中出现了20次，意思是“团契”或“兄弟之爱”。“它带有忠诚、值得信赖和可靠的意义……",
       "title_zh": "Koinonia",
       "content": "",
       "author": "Morgan",
@@ -99,7 +102,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.298573",
+      "fetched_at": "2026-10-29T02:00:10.419745",
       "extra": {
         "feed_type": "rss20"
       }
@@ -112,6 +115,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "Isaiah 54:10 Though the mountains be shaken and the hills be removed, yet my unfailing love for you will not be shaken nor my covenant of peace be removed,” says...",
+      "summary_zh": "Isaiah 54:10大山虽摇动，小山虽迁移，我对你们永不止息的爱却不摇动，我平安的约也不迁移。”",
       "title_zh": "契  约",
       "content": "",
       "author": "Morgan",
@@ -121,7 +125,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.298692",
+      "fetched_at": "2026-10-29T02:00:10.419835",
       "extra": {
         "feed_type": "rss20"
       }
@@ -134,6 +138,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "The Scriptures Ephesians 6:10-18 (NIV) 10 Finally, be strong in the Lord and in his mighty power. 11 Put on the full armor of God, so that you can take...",
+      "summary_zh": "以弗所书6:10 -18 （ NIV ） 10最后，靠着主和祂的大能要坚强。11穿上神的全副军装，这样你就可以……",
       "title_zh": "Innocent As Doves",
       "content": "",
       "author": "Morgan",
@@ -143,7 +148,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.298823",
+      "fetched_at": "2026-10-29T02:00:10.419917",
       "extra": {
         "feed_type": "rss20"
       }
@@ -156,6 +161,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "Genesis 13 So Abram left Egypt and traveled north into the Negev, along with his wife and Lot and all that they owned. 2 (Abram was very rich in livestock,...",
+      "summary_zh": "创世记第13章于是亚伯兰离开埃及，带着他的妻子和罗得以及他们所拥有的一切，向北进入内盖夫。2 （亚伯兰的牲畜非常丰富， ……",
       "title_zh": "亚伯拉罕和洛特",
       "content": "",
       "author": "Morgan",
@@ -166,7 +172,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.298940",
+      "fetched_at": "2026-10-29T02:00:10.419995",
       "extra": {
         "feed_type": "rss20"
       }
@@ -179,6 +185,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "My family still wrestles with what feels like very fresh grief over my dad’s passing last September. There are moments where things hit us and we feel this ache of...",
+      "summary_zh": "我的家人仍然在为父亲去年9月的逝世感到非常新鲜的悲伤而挣扎。在某些时刻，事情触动了我们，我们感到这种痛苦......",
       "title_zh": "神的安慰",
       "content": "",
       "author": "R.B. Klama",
@@ -191,7 +198,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.299073",
+      "fetched_at": "2026-10-29T02:00:10.420083",
       "extra": {
         "feed_type": "rss20"
       }
@@ -204,6 +211,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "You’ve probably heard someone say ‘There is no such thing as a coincidence’. Usually people nod their heads and murmur agreement, but the real question is “Do you believe it?“...",
+      "summary_zh": "您可能听说过有人说“没有所谓的巧合”。通常人们会点头低语，但真正的问题是“你相信吗？” ……",
       "title_zh": "一相逢",
       "content": "",
       "author": "R.B. Klama",
@@ -218,7 +226,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.299274",
+      "fetched_at": "2026-10-29T02:00:10.420190",
       "extra": {
         "feed_type": "rss20"
       }
@@ -231,6 +239,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "One thing I am noticing here is how different the context of ministry is from country to country. You can sometimes THINK you understand the concept of the vehicle, like...",
+      "summary_zh": "我在这里注意到的一件事是，不同国家的事工背景是多么的不同。有时您可能会认为自己了解车辆的概念，例如...",
       "title_zh": "先吃鸡还是先吃鸡蛋？",
       "content": "",
       "author": "R.B. Klama",
@@ -246,7 +255,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.299399",
+      "fetched_at": "2026-10-29T02:00:10.420273",
       "extra": {
         "feed_type": "rss20"
       }
@@ -259,6 +268,7 @@
       "source_url": "https://www.mnnonline.org/feed/",
       "published": "2026-10-29",
       "summary": "Last night, I attended a prayer meeting at a church in downtown Cairo, near Tahrir Square. The church was gathering to cry out to God in their distress over the...",
+      "summary_zh": "昨晚，我在开罗市中心解放广场附近的一个教堂参加了一次祈祷会。教会聚集在一起，在他们的痛苦中向上帝呼求……",
       "title_zh": "释放祈祷的力量",
       "content": "",
       "author": "R.B. Klama",
@@ -274,7 +284,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.299533",
+      "fetched_at": "2026-10-29T02:00:10.420353",
       "extra": {
         "feed_type": "rss20"
       }
@@ -287,6 +297,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "While thousands of Americans are dechurching, some churches are baptizing many new members. Here’s how the country’s most evangelistically effective churches are sharing the gospel.",
+      "summary_zh": "虽然成千上万的美国人正在脱离教会，但一些教会正在为许多新成员施洗。以下是该国传福音最有效的教会如何分享福音。",
       "title_zh": "传福音有效教会的最佳实践",
       "content": "",
       "author": "Sarah Eekhoff Zylstra",
@@ -298,7 +309,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.838649",
+      "fetched_at": "2026-10-29T02:00:11.612596",
       "extra": {
         "feed_type": "rss20"
       }
@@ -311,6 +322,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "This volume is an invitation to rediscover that heritage and to find fresh encouragement in the faithfulness of God, who has sustained his church through the centuries.",
+      "summary_zh": "这本书邀请我们重新发现这一遗产，并在上帝的信实中找到新的鼓励，上帝几个世纪以来一直支撑着他的教会。",
       "title_zh": "我们需要了解我们的改革根源",
       "content": "",
       "author": "DeMyron Haynes",
@@ -327,7 +339,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.838832",
+      "fetched_at": "2026-10-29T02:00:11.612803",
       "extra": {
         "feed_type": "rss20"
       }
@@ -340,6 +352,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Do pregnancy centers, food pantries, or campus ministries exist because the church is failing to do her work?",
+      "summary_zh": "怀孕中心、食品储藏室或校园事工的存在是否是因为教会未能做好她的工作？",
       "title_zh": "如果教会做了它的工作，教堂会存在吗？",
       "content": "",
       "author": "Nathan Mayo",
@@ -351,7 +364,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.838993",
+      "fetched_at": "2026-10-29T02:00:11.612969",
       "extra": {
         "feed_type": "rss20"
       }
@@ -364,6 +377,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Joel Beeke joins Matt Smethurst and Ligon Duncan to explore what the Puritans can teach today’s pastors about prayer, preaching, personal holiness, shepherding souls, handling criticism, and persevering in ministry.",
+      "summary_zh": "乔尔·比克 (Joel Beeke) 与马特·斯梅瑟斯特 (Matt Smethurst) 和里贡·邓肯 (Ligon Duncan) 一起探索清教徒可以教导当今的牧师关于祈祷、讲道、个人圣洁、牧养灵魂、处理批评和坚持事工的知识。",
       "title_zh": "清教徒的教训（与Joel Beeke一起）",
       "content": "",
       "author": "Matt Smethurst, Ligon Duncan, Joel R. Beeke",
@@ -376,7 +390,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.839162",
+      "fetched_at": "2026-10-29T02:00:11.613148",
       "extra": {
         "feed_type": "rss20"
       }
@@ -389,6 +403,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "L. Michael Morales talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
+      "summary_zh": "L. 迈克尔·莫拉莱斯 (L. Michael Morales) 谈论他的床头柜上有什么、最喜欢的小说、最喜欢的重读等等。",
       "title_zh": "在我的架子上： L. Michael Morales的生活和书籍",
       "content": "",
       "author": "Ivan Mesa, L. Michael Morales",
@@ -399,7 +414,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.839347",
+      "fetched_at": "2026-10-29T02:00:11.613301",
       "extra": {
         "feed_type": "rss20"
       }
@@ -412,6 +427,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Let’s start by counting the cost.",
+      "summary_zh": "我们先从计算成本开始。",
       "title_zh": "如何找到更好地利用工作时间的动力？",
       "content": "",
       "author": "Kaitlin Febles",
@@ -423,7 +439,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.839497",
+      "fetched_at": "2026-10-29T02:00:11.613453",
       "extra": {
         "feed_type": "rss20"
       }
@@ -436,6 +452,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Several features indicate that the eyewitness accounts of Simon stand behind Mark’s Gospel.",
+      "summary_zh": "有几个特征表明，西门的目击者叙述是马可福音的依据。",
       "title_zh": "西蒙说：马可福音中不明显的目击者证据",
       "content": "",
       "author": "Bruce Henning",
@@ -451,7 +468,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.839654",
+      "fetched_at": "2026-10-29T02:00:11.613606",
       "extra": {
         "feed_type": "rss20"
       }
@@ -464,6 +481,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "We must view our foreign-feeling bodies as vessels through which God demonstrates his redeeming strength.",
+      "summary_zh": "我们必须将我们陌生的身体视为神借以彰显他救赎力量的器皿。",
       "title_zh": "破碎的身体造就美丽的寺庙",
       "content": "",
       "author": "James Abernathy",
@@ -476,7 +494,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.839802",
+      "fetched_at": "2026-10-29T02:00:11.613783",
       "extra": {
         "feed_type": "rss20"
       }
@@ -489,6 +507,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "You’re being prepared for the work the Lord has for you in ways you may not understand until you’re standing in a hospice living room.",
+      "summary_zh": "你正在为主为你安排的工作做好准备，而你可能无法理解，直到你站在临终关怀的客厅里。",
       "title_zh": "关于牧灵事工，我的祖父母教会了我什么",
       "content": "",
       "author": "Jared Cornutt",
@@ -500,7 +519,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.839956",
+      "fetched_at": "2026-10-29T02:00:11.619161",
       "extra": {
         "feed_type": "rss20"
       }
@@ -513,6 +532,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Many of us have seen the statistics that Gen Z is the least explicitly Christian or religious generation on record.",
+      "summary_zh": "我们中的许多人都看到过统计数据，Z 世代是有记录以来最不明确的基督徒或宗教信仰的一代。",
       "title_zh": "Z世代事工的福音希望",
       "content": "",
       "author": "Rachel Gilson, Alex Harris, Kori Porter, Derek Rishmawy",
@@ -525,7 +545,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.840103",
+      "fetched_at": "2026-10-29T02:00:11.619358",
       "extra": {
         "feed_type": "rss20"
       }
@@ -538,6 +558,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "The Hebrew Roots Movement is a modern version of the New Testament Judaizers who were rebuked by Paul.",
+      "summary_zh": "希伯来根源运动是被保罗斥责的新约犹太教徒的现代版本。",
       "title_zh": "关于希伯来根源运动，你应该知道什么",
       "content": "",
       "author": "R. L. Solberg",
@@ -552,7 +573,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.840274",
+      "fetched_at": "2026-10-29T02:00:11.619539",
       "extra": {
         "feed_type": "rss20"
       }
@@ -565,6 +586,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Learn long-term planning from Joseph, artful delegation from Jethro, lifelong consistency from Daniel, and aged wisdom from John.",
+      "summary_zh": "向约瑟夫学习长期规划，向叶忒罗学习巧妙的授权，向丹尼尔学习终生的一致性，向约翰学习古老的智慧。",
       "title_zh": "在终身事工中茁壮成长的7个关键",
       "content": "",
       "author": "Joel R. Beeke",
@@ -578,7 +600,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.840419",
+      "fetched_at": "2026-10-29T02:00:11.619772",
       "extra": {
         "feed_type": "rss20"
       }
@@ -591,6 +613,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "‘Fjord’ challenges ‘tolerant’ progressives to reflect on their intolerance of conservative evangelical Christians.",
+      "summary_zh": "“峡湾”挑战“宽容”的进步人士反思他们对保守福音派基督徒的不宽容。",
       "title_zh": "《峡湾》是2026年迄今为止最好的电影",
       "content": "",
       "author": "Brett McCracken",
@@ -603,7 +626,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.840585",
+      "fetched_at": "2026-10-29T02:00:11.619940",
       "extra": {
         "feed_type": "rss20"
       }
@@ -616,6 +639,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "The power behind AI is the perception of objectivity and infallibility.",
+      "summary_zh": "人工智能背后的力量是对客观性和无误性的认知。",
       "title_zh": "为什么人类假装成计算机",
       "content": "",
       "author": "Collin Hansen",
@@ -629,7 +653,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.840727",
+      "fetched_at": "2026-10-29T02:00:11.620088",
       "extra": {
         "feed_type": "rss20"
       }
@@ -642,6 +666,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Wheaton College’s Denise Daniels draws on research with thousands of American workers to help us have a more holistic vision of how our work matters to us, our neighbors, our families, and God.",
+      "summary_zh": "惠顿学院的丹尼斯·丹尼尔斯对数千名美国工人进行了研究，帮助我们更全面地了解我们的工作对我们、我们的邻居、我们的家庭和上帝的重要性。",
       "title_zh": "在日常工作中寻找意义（与Denise Daniels合作）",
       "content": "",
       "author": "Dan Doriani, Mark Vroegop, Denise Daniels",
@@ -653,7 +678,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.840880",
+      "fetched_at": "2026-10-29T02:00:11.620240",
       "extra": {
         "feed_type": "rss20"
       }
@@ -666,6 +691,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "WCC Faith and Order meeting opens with path toward deep dialogue   iku   Mon, 10/26/2026 - 15:19     The meeting of the World Council of Churches (WCC) Commission on Faith and Order opened in Lund, Sweden, on 26 October, marking the second time in history that the commission has met in Sweden.            Image             26 October 2026, Höör, Sweden: Opening prayer observed at the World Council of Churches (WCC) Commission on Faith and Order meeting taking place 25-31 October 2026.    Photo:  ",
+      "summary_zh": "世界基督教协进会信仰与秩序会议以深入对话的道路开幕， iku Mon, 10/26/2026 - 15:19世界基督教协进会（ WCC ）信仰与秩序委员会会议于10月26日在瑞典隆德开幕，这是该委员会历史上第二次在瑞典举行会议。图片2026年10月26日，瑞典赫尔：在2026年10月25日至31日举行的世界教会理事会（ WCC ）信仰与秩序委员会会议上进行的开幕祈祷。照片：",
       "title_zh": "WCC信仰与秩序会议开启了深入对话的道路",
       "content": "",
       "author": "",
@@ -673,7 +699,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.474212",
+      "fetched_at": "2026-10-29T02:00:11.416951",
       "extra": {
         "feed_type": "rss20"
       }
@@ -686,6 +712,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "Global Prayer for Peace in Ukraine   iku   Wed, 05/20/2026 - 17:21     In a series of global prayers for peace, the World Council of Churches (WCC) invites people and churches around the world to join in the Global Prayer for Peace in Ukraine on 11 June at 13.00 CET.           Image             Thousands of Ukrainian flags have been placed at the Maidan Nezalezhnosti/Independence Square - the central square of Kyiv, capital city of Ukraine, in front of the Independence Monument, in memory of tho",
+      "summary_zh": "全球祈求乌克兰和平祈祷iku Wed, 05/20/2026 - 17:21在一系列全球祈求和平祈祷中，世界基督教协进会（ WCC ）邀请世界各地的人们和教会于6月11日欧洲中部时间13:00加入全球祈求乌克兰和平祈祷。图片成千上万的乌克兰国旗被放置在独立纪念碑前面的乌克兰首都基辅中央广场Maidan Nezalezhnosti/独立广场，以纪念",
       "title_zh": "祈求乌克兰和平的全球祈祷",
       "content": "",
       "author": "",
@@ -693,7 +720,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.478255",
+      "fetched_at": "2026-10-29T02:00:11.458890",
       "extra": {
         "feed_type": "rss20"
       }
@@ -706,6 +733,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "GETI 2025: \"Where now for visible unity?\"   msc   Tue, 10/15/2024 - 16:29     The Global Ecumenical Theological Institute 2025 (GETI), at the WCC Commission on Faith and Order’s World Conference in Egypt, is the fourth in a series of such global study programmes.           Image                        GETI is an international study programme of the WCC’s Ecumenical Theological Education (WCC-ETE) programme.  The first GETI took place at the 10th WCC Assembly in 2013 in Busan, South Korea. Subseq",
+      "summary_zh": "GETI 2025 ： “现在在哪里实现可见的统一？” msc Tue, 10/15/2024 - 16:29在埃及举行的WCC信仰与秩序委员会世界会议上，全球基督教神学研究所2025 （ GETI ）是一系列此类全球研究计划中的第四个。Image GETI是WCC全基督教神学教育（ WCC-ETE ）计划的国际研究项目。第一届GETI于2013年在韩国釜山举行的第十届WCC大会上举行。Subseq",
       "title_zh": "GETI 2025 ： “现在可见的统一在哪里？”",
       "content": "",
       "author": "",
@@ -713,7 +741,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.482591",
+      "fetched_at": "2026-10-29T02:00:11.463031",
       "extra": {
         "feed_type": "rss20"
       }
@@ -726,6 +754,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "Religious Leaders Unite for Climate Peace in Solidarity with Refugees   GDF   Tue, 12/05/2023 - 17:39     Religious leaders will gather on12 December for an event inked to the Global Refugee Forum. The programme is hosted by the UNHCR, the World Council of Churches (WCC), and Religions for Peace (RfP) at the Ecumenical Centre, Geneva.           Image            Photo:  Albin Hillert                 The Global Refugee Forum, the world ’ s largest international gathering on refugees, will take pla",
+      "summary_zh": "宗教领袖团结一致促进气候和平，声援难民GDF周二， 2023年12月5日- 17:39宗教领袖将于12月12日聚集在一起，参加全球难民论坛的活动。该方案由难民署、世界基督教协进会（ WCC ）和宗教争取和平会议（ RfP ）在日内瓦全基督教中心主办。图片来源： Albin Hillert全球难民论坛，世界上最大的难民问题国际会议，将举办",
       "title_zh": "宗教领袖团结一致维护气候和平，声援难民",
       "content": "",
       "author": "",
@@ -733,7 +762,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.486800",
+      "fetched_at": "2026-10-29T02:00:11.471731",
       "extra": {
         "feed_type": "rss20"
       }
@@ -746,6 +775,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "A Week of Prayer in the Time of the COVID-19 Pandemic   albin   Thu, 03/04/2021 - 16:25     The World Council of Churches will observe a week of prayer from 22-27 March, one year into the COVID-19 pandemic.            Image            Photo:  Marcelo Schneider/WCC; Mike DuBose/UM News                 The week will invite a time of prayer and reflection on both the lament and the hope expressed and experienced across the world during what has been a year of unprecedented suffering, but also one w",
+      "summary_zh": "新冠肺炎疫情期间的祈祷周albin Thu, 03/04/2021 - 16:25世界基督教协进会将在新冠肺炎疫情爆发一年后的3月22日至27日进行为期一周的祈祷。图片来源： Marcelo Schneider/WCC; Mike DuBose/UM新闻本周将邀请人们一起祈祷，反思在这前所未有的痛苦的一年中，世界各地所表达和体验到的哀悼和希望，同时也",
       "title_zh": "新冠肺炎疫情期间的一周祈祷",
       "content": "",
       "author": "",
@@ -753,7 +783,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.509655",
+      "fetched_at": "2026-10-29T02:00:11.482963",
       "extra": {
         "feed_type": "rss20"
       }
@@ -766,6 +796,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "Biodiversity COP17: Catholicos receives WCC, ecumenical prayer follows   valter   Wed, 10/28/2026 - 14:19     On 25 October, churches in Armenia met the UN Biodiversity Conference (COP17) with an encounter and a prayer. At the Mother See of Holy Etchmiadzin, His Holiness Karekin II, Supreme Patriarch and Catholicos of All Armenians, received the World Council of Churches (WCC) delegation. In the evening, the WCC led an ecumenical prayer at St Anna Church in Yerevan.           Image             E",
+      "summary_zh": "生物多样性COP17 ： Catholicos接受WCC ，普世祈祷遵循Valter Wed ， 10/28/2026 - 14:19 10月25日，亚美尼亚的教堂举行了联合国生物多样性会议（ COP17 ） ，并进行了相遇和祈祷。在圣埃奇米亚津母教堂，所有亚美尼亚人的最高宗主教和天主教徒卡雷金二世宗座接见了世界基督教协进会（ WCC ）代表团。当晚，世界基督教协进会在埃里温的圣安娜教堂举行了全基督教祈祷。图片E",
       "title_zh": "生物多样性COP17 ：天主教徒接受WCC ，普世祈祷随之而来",
       "content": "",
       "author": "",
@@ -773,7 +804,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.517782",
+      "fetched_at": "2026-10-29T02:00:11.485956",
       "extra": {
         "feed_type": "rss20"
       }
@@ -786,6 +817,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "Young Nordic theologians voice what visible unity means to them today    msc   Tue, 10/27/2026 - 17:39     Young Nordic theologians who are participating in the ongoing meeting of the World Council of Churches (WCC) Commission on Faith and Order voiced their reflections on what visible unity means today.            Image             26 October 2026, Höör, Sweden: Rev. Hilda María Sigurðardóttir, Church of Iceland, speaks on a panel entitled 'Church in Transition: Learning from the Nordic Experie",
+      "summary_zh": "今天，年轻的北欧神学家表达了可见的合一对他们意味着什么， msc Tue, 10/27/2026 - 17:39参加世界基督教协进会（ WCC ）信仰与秩序委员会正在举行的会议的年轻北欧神学家表达了他们对今天可见的合一意味着什么的思考。图片2026年10月26日，瑞典Höör ：冰岛教会的Hilda María Sigurðardóttir牧师在题为“转型中的教会：从北欧经验中学习”的小组讨论中发言",
       "title_zh": "年轻的北欧神学家说出今天可见的团结对他们意味着什么",
       "content": "",
       "author": "",
@@ -793,7 +825,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.530900",
+      "fetched_at": "2026-10-29T02:00:11.499256",
       "extra": {
         "feed_type": "rss20"
       }
@@ -806,6 +838,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "Swedish “Singstunde” invites spiritual encounter with and through music   iku   Tue, 10/27/2026 - 15:09     A Swedish “Singstunde” offered spiritual musical encounters on the opening day of the Commission on Faith and Order meeting 2026.            Image             26 October 2026, Höör, Sweden: Evening prayer in the form of a Swedish Singstunde providing participants in the World Council of Churches (WCC) Commission on Faith and Order meeting 2026 with an opportunity to experience the spiritua",
+      "summary_zh": "瑞典语“Singstunde”邀请与iku音乐的灵性相遇星期二， 2026年10月27日- 15:09瑞典语“Singstunde”在2026年信仰与秩序委员会会议开幕当天提供灵性音乐相遇。图片2026年10月26日，瑞典Höör ：瑞典Singstunde形式的晚间祈祷，为世界教会理事会（ WCC ） 2026年信仰与秩序委员会会议的参与者提供体验灵魂的机会",
       "title_zh": "瑞典“Singstunde”邀请与音乐并通过音乐进行精神接触",
       "content": "",
       "author": "",
@@ -813,7 +846,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.554902",
+      "fetched_at": "2026-10-29T02:00:11.518046",
       "extra": {
         "feed_type": "rss20"
       }
@@ -826,6 +859,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "Church of Sweden's interreligious engagement reflects decades of dialogue, trust, shared action   valter   Tue, 10/27/2026 - 14:57     From 12-14 October, the Church of Sweden's officers responsible for interreligious dialogue, Rev. Peter Lööv Roos, Rev. Maria Kjellsdotter Rydinger, and Dr Anita Suneson, hosted Prof. Angeliki Ziaka, programme executive for Interreligious Dialogue and Cooperation at the World Council of Churches (WCC), at the Church of Sweden's National Office in Uppsala.        ",
+      "summary_zh": "瑞典教会的宗教间参与反映了数十年的对话、信任和共同行动 valter，2026 年 10 月 27 日，星期二 - 14:57 10 月 12 日至 14 日，瑞典教会负责宗教间对话的官员 Peter Lööv Roos 牧师、Maria Kjellsdotter Rydinger 牧师和 Anita Suneson 博士接待了宗教间对话项目主管 Angeliki Ziaka 教授以及在世界基督教协进会（WCC）、瑞典教会乌普萨拉国家办事处的合作。",
       "title_zh": "瑞典教会的宗教间参与反映了数十年的对话、信任和共同行动",
       "content": "",
       "author": "",
@@ -833,7 +867,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.556775",
+      "fetched_at": "2026-10-29T02:00:11.520002",
       "extra": {
         "feed_type": "rss20"
       }
@@ -846,6 +880,7 @@
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
       "summary": "WCC shares tribute to Rev. Dr Walter Altmann   msc   Tue, 10/27/2026 - 14:43     World Council of Churches general secretary Rev. Prof. Dr Jerry Pillay shared a tribute to Rev. Dr Walter Altmann, during a ceremony conferring the degree of doctor honoris causa upon Altmann by Faculdades EST, in São Leopoldo, Brazil on 26 October.           Image             Rev. Dr Walter Altmann addressing the WCC 11th Assembly, in Busan, Republic of Korea, 2013.    Photo:  Peter Williams/WCC                 “ A",
+      "summary_zh": "WCC 向沃尔特·阿尔特曼牧师致敬 周二，2026 年 10 月 27 日 - 14:43 10 月 26 日，在巴西圣莱奥波尔多举行的 Faculdades EST 授予阿尔特曼荣誉博士学位的仪式上，世界基督教协进会秘书长杰里·皮莱牧师教授博士博士向沃尔特·阿尔特曼牧师致敬。           图片 Walter Altmann 牧师博士在 2013 年于韩国釜山举行的 WCC 第 11 届大会上发表讲话。照片：Peter Williams/WCC “ A",
       "title_zh": "WCC向Walter Altmann博士致敬",
       "content": "",
       "author": "",
@@ -853,7 +888,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.565354",
+      "fetched_at": "2026-10-29T02:00:11.528525",
       "extra": {
         "feed_type": "rss20"
       }
@@ -866,6 +901,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Johnson, T.M., Crossing, P.F., Table （页面存档备份，存于互联网档案馆） derived from World Christianity 2025: Regional Perspectives, International Bulletin of Mission Research",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -873,7 +909,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.579975",
+      "fetched_at": "2026-10-29T02:00:11.780355",
       "extra": {
         "wordcount": 7969
       }
@@ -886,6 +922,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "of Christianity）。 基督教神學包含以下信仰：耶稣由圣灵感孕，由处女马利亚所生，施行神迹，创立基督教会，因十字架刑为赦免世人的罪而死，死后第三日复活，升入天堂（英语：Heaven in Christianity",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -893,7 +930,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.580002",
+      "fetched_at": "2026-10-29T02:00:11.780379",
       "extra": {
         "wordcount": 31085
       }
@@ -906,6 +943,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "日本人信奉什么宗教？. 日本儿童网. [2014-03-02]. （原始内容存档于2019-05-02）. Mariko Kato. Christianity&#039;s long history in the margins. The Japan Times. 2009-02-24 [2014-04-22]",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -913,7 +951,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.580026",
+      "fetched_at": "2026-10-29T02:00:11.780402",
       "extra": {
         "wordcount": 24144
       }
@@ -926,6 +964,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "議活動的標誌。有網友發起在各國報章登廣告的群眾募資，亦有網友開設使用「長輩圖」的「保民生抗修例大聯盟」專頁宣傳。隨著許多香港基督教（英语：Christianity in Hong Kong）信徒參與抗議，由於警方較難驅散宗教集會，一些抗議者建議吟唱基督教讚美詩《唱哈利路亞》，將該歌曲視為示威的主題曲。",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -933,7 +972,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.913981",
+      "fetched_at": "2026-10-29T02:00:11.780430",
       "extra": {
         "wordcount": 30107
       }
@@ -946,6 +985,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Melton, J.G., Encyclopedia of Protestantism, pp39-40 McGrath, A.E., Marks, D.C. (ed), The Blackwell Companion to Protestantism, p211 南亞路德會，《信仰立場》，頁3：「祂顯明",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -953,7 +993,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.915000",
+      "fetched_at": "2026-10-29T02:00:12.111104",
       "extra": {
         "wordcount": 11792
       }
@@ -966,6 +1006,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "神學的一派被稱為「主流新教」。主流新教中最有影響力的七個教會又稱「美國新教七姐妹」（Seven Sisters of American Protestantism），分別是美北浸礼会（浸信會）、聯合循道會（循道宗）、基督會（改革宗）、美國聖公會（聖公宗）、美國福音路德教會（信義宗）、聯合基督教會（",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -973,7 +1014,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.915024",
+      "fetched_at": "2026-10-29T02:00:12.111128",
       "extra": {
         "wordcount": 495
       }
@@ -986,6 +1027,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "religion, and very small minorities practice Islam, Catholicism, or Protestantism. Some scholars estimate that there are as many as 400,000 Bon followers",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -993,7 +1035,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.915048",
+      "fetched_at": "2026-10-29T02:00:12.111151",
       "extra": {
         "wordcount": 6250
       }
@@ -1006,6 +1048,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "西班牙裔或拉丁裔血統： 81.3% 非西班牙裔或拉丁裔 18.7% 拉丁裔 宗教 （2023年） 67% 基督教 33% 新教（英语：Protestantism in the United States） 22% 天主教（英语：Catholic Church in the United States）",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -1013,7 +1056,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.915071",
+      "fetched_at": "2026-10-29T02:00:12.111173",
       "extra": {
         "wordcount": 18768
       }
@@ -1026,6 +1069,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "天主教會，正式名稱為公教會（拉丁語：Ecclesia Catholica，英語：Catholic Church），漢譯多稱為天主教（英語：Catholicism），又譯為公教、舊教，是基督教信仰人數（英语：List of Christian denominations by number of",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -1033,7 +1077,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.231360",
+      "fetched_at": "2026-10-29T02:00:12.482923",
       "extra": {
         "wordcount": 9802
       }
@@ -1046,6 +1090,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Syro-Malankara Catholic Church （页面存档备份，存于互联网档案馆） Syro-Malabar Catholic Church （页面存档备份，存于互联网档案馆） Official website Byzantine Catholic Church in America",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -1053,7 +1098,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.231390",
+      "fetched_at": "2026-10-29T02:00:12.482952",
       "extra": {
         "wordcount": 2815
       }
@@ -1066,6 +1111,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Catholic Church）是加拿大安大略省萬錦市的一座華人天主教堂，最初位於士嘉堡。該堂為大多倫多地區第二座華人天主教堂，以19至20世紀期間的中華殉道聖人命名。 聖彌額爾聖殿主教座堂 (多倫多) 聖保祿聖殿 (多倫多) 聖博德堂 (多倫多)（英语：St. Patrick&#039;s Church (Toronto)）",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -1073,7 +1119,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.231423",
+      "fetched_at": "2026-10-29T02:00:12.482982",
       "extra": {
         "wordcount": 156
       }
@@ -1086,6 +1132,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "《天主教教理》（拉丁語：Catechismus Catholicae Ecclesiae，英語：Catechism of the Catholic Church，縮寫為CCC），或譯《天主教要理》，是天主教会出版的教理問答全書，完整收錄天主教會的教義及信仰生活指引，以作為各地教會進行教理講授（英语",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -1093,7 +1140,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.231440",
+      "fetched_at": "2026-10-29T02:00:12.482999",
       "extra": {
         "wordcount": 266
       }
@@ -1106,6 +1153,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Εκκλησία），正式名称为正统大公教会（希腊语：Ορθόδοξη Καθολική και Αποστολική Εκκλησία、英語：Orthodox Catholic Church），又称正教會（希腊语：Ορθόδοξη Εκκλησία）、東方正教會，漢語圈中常稱東正教，是基督宗教的一個教派及教會，與天",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -1113,7 +1161,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.564866",
+      "fetched_at": "2026-10-29T02:00:12.909524",
       "extra": {
         "wordcount": 6733
       }
@@ -1126,6 +1174,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Eastern Orthodox church architecture）被關閉，王泉生無法在教堂內活動。文化大革命期間，王泉生被關押進勞改營。 2009年8月，王泉生為额尔古纳市的一個東正教教堂（英语：Eastern Orthodox church architecture）主持祝圣仪式。",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -1133,7 +1182,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.564898",
+      "fetched_at": "2026-10-29T02:00:12.909555",
       "extra": {
         "wordcount": 229
       }
@@ -1146,6 +1195,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "al-Qibṭiyya al-ʾUrṯūḏuksiyya；英語：Coptic Orthodox Patriarchate of Alexandria 或 Coptic Orthodox Church），简称科普特正教会，是在埃及最具规模的基督教教会之一，属于东方正统教会。科普特正教会传统",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -1153,7 +1203,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.564923",
+      "fetched_at": "2026-10-29T02:00:12.909579",
       "extra": {
         "wordcount": 3907
       }
@@ -1166,6 +1216,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "希臘正教會（希臘語：Ελληνορθόδοξη Εκκλησία，英語：Greek Orthodox Church）是羅馬帝國國家教會分裂後，羅馬正教會的幾個教會統稱，其神學根植於早期教父以及拜占庭文化，禮拜儀式使用通用希臘語。與普世牧首共融。其起源於近東的早期基督教以及拜占庭帝國，当代東正教修道",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -1173,7 +1224,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.564941",
+      "fetched_at": "2026-10-29T02:00:12.909595",
       "extra": {
         "wordcount": 1263
       }
@@ -1266,6 +1317,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Christianity is an Abrahamic monotheistic religion based on the Bible and the teachings of Jesus. The Gospels state that Jesus is the Son of God and rose",
+      "summary_zh": "基督教是基于圣经和耶稣教义的亚伯拉罕一神论宗教。福音书说耶稣是神的儿子并且复活了",
       "title_zh": "基督教",
       "content": "",
       "author": "",
@@ -1273,7 +1325,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.650381",
+      "fetched_at": "2026-10-29T02:00:11.756950",
       "extra": {
         "wordcount": 33525
       }
@@ -1286,6 +1338,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "A Christian denomination is a distinct religious group within Christianity that comprises all church congregations of the same kind, identifiable by traits",
+      "summary_zh": "基督教教派是基督教内的一个独特的宗教团体，由所有同类教会会众组成，可通过特征来识别",
       "title_zh": "基督教派系",
       "content": "",
       "author": "",
@@ -1293,7 +1346,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.650416",
+      "fetched_at": "2026-10-29T02:00:11.756990",
       "extra": {
         "wordcount": 9235
       }
@@ -1306,6 +1359,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Reformed Christianity, also called Calvinism, is a major branch of Protestantism that began during the 16th-century Reformation. In the modern day, it",
+      "summary_zh": "改革宗基督教，也称为加尔文主义，是新教的一个主要分支，始于 16 世纪宗教改革时期。在现代，它",
       "title_zh": "改革宗基督教",
       "content": "",
       "author": "",
@@ -1313,7 +1367,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.650401",
+      "fetched_at": "2026-10-29T02:00:11.756972",
       "extra": {
         "wordcount": 13167
       }
@@ -1326,6 +1380,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Western Christianity is one of two subdivisions of Christianity (Eastern Christianity being the other). Western Christianity is composed of the Latin Church",
+      "summary_zh": "西方基督教是基督教的两个分支之一（另一个是东方基督教）。西方基督教由拉丁教会组成",
       "title_zh": "西方基督教",
       "content": "",
       "author": "",
@@ -1333,7 +1388,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.650433",
+      "fetched_at": "2026-10-29T02:00:11.757009",
       "extra": {
         "wordcount": 2469
       }
@@ -1346,6 +1401,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "usually refers to evangelical Protestant churches, and therefore to a certain part of Protestantism rather than to Protestantism as a whole. The English word",
+      "summary_zh": "通常指福音派新教教会，因此指新教的某一部分，而不是整个新教。英语单词",
       "title_zh": "新教",
       "content": "",
       "author": "",
@@ -1353,7 +1409,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.206376",
+      "fetched_at": "2026-10-29T02:00:12.280821",
       "extra": {
         "wordcount": 29554
       }
@@ -1366,6 +1422,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "justification. Protestantism also introduced new ecclesiology. The general points of theological agreement by the different Protestant groups have been",
+      "summary_zh": "理由。新教还引入了新的教会学。不同新教团体的神学共识的一般要点是",
       "title_zh": "宗教改革 Reformation",
       "content": "",
       "author": "",
@@ -1373,7 +1430,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.206410",
+      "fetched_at": "2026-10-29T02:00:12.280856",
       "extra": {
         "wordcount": 31255
       }
@@ -1386,6 +1443,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Proto-Protestantism, also called pre-Protestantism, refers to individuals and movements that propagated various ideas later associated with Protestantism before",
+      "summary_zh": "原始新教，也称为前新教，是指后来传播与新教相关的各种思想的个人和运动。",
       "title_zh": "原始-原始新教",
       "content": "",
       "author": "",
@@ -1393,7 +1451,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.206395",
+      "fetched_at": "2026-10-29T02:00:12.280840",
       "extra": {
         "wordcount": 5737
       }
@@ -1406,6 +1464,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "largest Protestant minority. Protestantism is growing in Africa, Asia, Latin America while declining in North America and Europe. In France, Protestantism was",
+      "summary_zh": "最大的新教少数群体。新教在非洲、亚洲、拉丁美洲正在增长，而在北美和欧洲却在衰落。在法国，新教是",
       "title_zh": "按国家/地区划分的新教",
       "content": "",
       "author": "",
@@ -1413,7 +1472,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:02.206426",
+      "fetched_at": "2026-10-29T02:00:12.280873",
       "extra": {
         "wordcount": 3118
       }
@@ -1426,6 +1485,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "The Catholic Church (Latin: Ecclesia Catholica), also called the Roman Catholic Church (Latin: Ecclesia Catholica Romana), is the largest Christian church",
+      "summary_zh": "天主教堂（拉丁语：Ecclesia Catholica），也称罗马天主教堂（拉丁语：Ecclesia Catholica Romana），是最大的基督教教堂",
       "title_zh": "天主教教会",
       "content": "",
       "author": "",
@@ -1433,7 +1493,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.028075",
+      "fetched_at": "2026-10-29T02:00:13.086153",
       "extra": {
         "wordcount": 24771
       }
@@ -1446,6 +1506,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "The Eastern Catholic Churches or Oriental Catholic Churches, also known as the Eastern-Rite Catholic Churches, Eastern Rite Catholicism, or simply the",
+      "summary_zh": "东方天主教会或东方天主教会，也称为东方礼天主教会、东方礼天主教，或简称为东方礼天主教会。",
       "title_zh": "东方天主教堂",
       "content": "",
       "author": "",
@@ -1453,7 +1514,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.028099",
+      "fetched_at": "2026-10-29T02:00:13.086176",
       "extra": {
         "wordcount": 9244
       }
@@ -1466,6 +1527,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "The hierarchy of the Catholic Church consists of its bishops, priests, and deacons. In the ecclesiological sense of the term, hierarchy strictly means",
+      "summary_zh": "天主教会的等级制度由主教、神父和执事组成。从教会学的意义上来说，等级制度严格意味着",
       "title_zh": "天主教会的等级制度",
       "content": "",
       "author": "",
@@ -1473,7 +1535,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.028117",
+      "fetched_at": "2026-10-29T02:00:13.086195",
       "extra": {
         "wordcount": 8701
       }
@@ -1486,6 +1548,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "The Old Catholic Church, Old Catholics, Old-Catholic churches, or Old Catholic movement are &quot;any of the groups of Western Christians who believe themselves",
+      "summary_zh": "旧天主教会、旧天主教徒、旧天主教堂或旧天主教运动是“任何相信自己的西方基督徒团体”",
       "title_zh": "天主教教会",
       "content": "",
       "author": "",
@@ -1493,7 +1556,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.028137",
+      "fetched_at": "2026-10-29T02:00:13.086213",
       "extra": {
         "wordcount": 5010
       }
@@ -1506,6 +1569,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "The Eastern Orthodox Church, officially the Orthodox Catholic Church, also known as the Greek Orthodox Church is the second-largest Christian body in",
+      "summary_zh": "东正教，正式名称为东正教天主教会，也称为希腊东正教，是希腊第二大基督教团体。",
       "title_zh": "东正教",
       "content": "",
       "author": "",
@@ -1513,7 +1577,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.561940",
+      "fetched_at": "2026-10-29T02:00:13.735429",
       "extra": {
         "wordcount": 26795
       }
@@ -1526,6 +1590,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "The Eastern Orthodox Church, officially the Orthodox Catholic Church and commonly known simply as the Orthodox Church, is a communion composed of up to",
+      "summary_zh": "东正教，正式名称为东正教天主教会，通常简称为东正教，是一个由最多",
       "title_zh": "东正教会组织",
       "content": "",
       "author": "",
@@ -1533,7 +1598,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.561963",
+      "fetched_at": "2026-10-29T02:00:13.735454",
       "extra": {
         "wordcount": 3170
       }
@@ -1546,6 +1611,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "for the Orthodox Rum&#039;), is an autocephalous Eastern Orthodox church in full communion with the other autocephalous Eastern Orthodox churches and originates",
+      "summary_zh": "为东正教朗姆酒'），是一个独立的东正教教堂，与其他独立的东正教教堂完全共融，起源于",
       "title_zh": "安提阿希腊东正教牧首辖区",
       "content": "",
       "author": "",
@@ -1553,7 +1619,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.561983",
+      "fetched_at": "2026-10-29T02:00:13.735475",
       "extra": {
         "wordcount": 7689
       }
@@ -1566,6 +1632,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Jerusalem, the Church of Greece and the Church of Cyprus. The third meaning refers to the Church of Greece, an Eastern Orthodox Church operating within",
+      "summary_zh": "耶路撒冷、希腊教会和塞浦路斯教会。第三个含义是指希腊教会，一个在境内运作的东正教教会。",
       "title_zh": "希腊东正教",
       "content": "",
       "author": "",
@@ -1573,7 +1640,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.562001",
+      "fetched_at": "2026-10-29T02:00:13.735493",
       "extra": {
         "wordcount": 1499
       }
@@ -1586,6 +1653,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "The Bible is an anthology of religious texts that are central to Judaism and Christianity, and important in other Abrahamic religions such as Islam. The",
+      "summary_zh": "圣经是犹太教和基督教的核心宗教文本选集，在伊斯兰教等其他亚伯拉罕宗教中也很重要。这",
       "title_zh": "圣经",
       "content": "",
       "author": "",
@@ -1593,7 +1661,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.988525",
+      "fetched_at": "2026-10-29T02:00:14.140502",
       "extra": {
         "wordcount": 23130
       }
@@ -1606,6 +1674,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "The Hebrew Bible, Jewish Bible, or Tanakh (US: /tɑːˈnɑːx/, UK: /tæˈnæx/ or /təˈnæx/; Hebrew: תַּנַ״ךְ, romanized: tanaḵ; תָּנָ״ךְ, tānāḵ; or תְּנַ״ךְ",
+      "summary_zh": "希伯来圣经、犹太圣经或塔纳赫（美国：/tɑːˈnɑːx/，英国：/tæˈnæx/ 或 /təˈnæx/；希伯来语：תַּנַ״ךְ，罗马化：tanaḵ；תָּנָ״ךְ，tānāḵ；或תְּנַ״ךְ",
       "title_zh": "希伯来圣经",
       "content": "",
       "author": "",
@@ -1613,7 +1682,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.988549",
+      "fetched_at": "2026-10-29T02:00:14.140527",
       "extra": {
         "wordcount": 8302
       }
@@ -1626,6 +1695,7 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Look up Bible or bible in Wiktionary, the free dictionary. The Bible is a canonical collection of texts treated as religious scripture in Judaism, Christianity",
+      "summary_zh": "在免费词典维基词典中查找《圣经》或《圣经》。圣经是犹太教、基督教中被视为宗教经典的经典文本集",
       "title_zh": "圣经",
       "content": "",
       "author": "",
@@ -1633,7 +1703,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:03.988583",
+      "fetched_at": "2026-10-29T02:00:14.140561",
       "extra": {
         "wordcount": 348
       }
@@ -1679,6 +1749,27 @@
       }
     },
     {
+      "title": "Bible study",
+      "url": "https://en.wikipedia.org/wiki/Bible_study",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-10-29",
+      "summary": "up Bible study in Wiktionary, the free dictionary. Bible study or Biblical study may refer to: Bible study (Christianity), the study of the Bible by people",
+      "summary_zh": "在免费词典维基词典中进行圣经学习。圣经研究或圣经研究可以指：圣经研究（基督教），人们对圣经的研究",
+      "title_zh": "圣经研究",
+      "content": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:00:14.140580",
+      "extra": {
+        "wordcount": 252
+      }
+    },
+    {
       "title": "Petition against anti-Christian violence in Africa aims for a million signatures",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMGpLb1FQLURiRlZVaE14UDllT3ZIN2E5QmdFT05yMXdKV2FocHJ0cUNaR0ZZRWhYMTB6aWdtQjIyVXFQcmFrRktHZDhwcW81TTBlY1ZUSUJnY1dNbjh6T2g2ZmJtTnVEQzU3TmxGRmEwei1uMjhJZW9WLXlVVzZseklMV2VaYTNUZzFxS1plaFp6ZDJDUnBBOVFLbHNMaUdKckRXS1FUXzI4dUxMTTExLXBZbThzanc?oc=5",
       "category": "persecution",
@@ -1686,6 +1777,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Petition against anti-Christian violence in Africa aims for a million signatures www.christiantoday.com",
+      "summary_zh": "反对非洲反基督教暴力的请愿旨在争取一百万个签名www.christiantoday.com",
       "title_zh": "反对非洲反基督教暴力的请愿旨在争取一百万个签名",
       "content": "",
       "author": "www.christiantoday.com",
@@ -1693,7 +1785,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.254374",
+      "fetched_at": "2026-10-29T02:00:10.318807",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -1708,6 +1800,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Teaching Christian Theology in the World of Online Learning Flatland KC",
+      "summary_zh": "在线学习世界中教授基督教神学Flatland KC",
       "title_zh": "在线学习世界中教授基督教神学",
       "content": "",
       "author": "Flatland KC",
@@ -1715,7 +1808,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.256512",
+      "fetched_at": "2026-10-29T02:00:10.176686",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1730,6 +1823,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Government help sought to recover pastor’s wife, daughter in Nigeria www.christiandaily.com",
+      "summary_zh": "尼日利亚政府帮助寻找牧师的妻子和女儿www.christiandaily.com",
       "title_zh": "尼日利亚政府帮助寻找牧师的妻子和女儿",
       "content": "",
       "author": "www.christiandaily.com",
@@ -1737,7 +1831,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.258809",
+      "fetched_at": "2026-10-29T02:00:10.176881",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1752,6 +1846,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns Premier Christian News",
+      "summary_zh": "全球报告警告说，极端主义和暴力“助长了最古老社区的基督徒外流”",
       "title_zh": "全球报告警告说，极端主义和暴力“助长了最古老社区的基督徒外流”",
       "content": "",
       "author": "Premier Christian News",
@@ -1759,7 +1854,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.031968",
+      "fetched_at": "2026-10-29T02:00:10.094390",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -1774,6 +1869,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "World Series: Brewers' Christian Yelich answer questions ahead of Game 5 FOX6 News Milwaukee",
+      "summary_zh": "世界系列赛： Brewers的Christian Yelich在第5场比赛前回答问题FOX6新闻密尔沃基",
       "title_zh": "世界系列赛： Brewers的Christian Yelich在第五场比赛前回答问题",
       "content": "",
       "author": "FOX6 News Milwaukee",
@@ -1781,7 +1877,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.257919",
+      "fetched_at": "2026-10-29T02:00:10.177498",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1796,6 +1892,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Violence and persecution driving global Christian exodus, report warns www.christiantoday.com",
+      "summary_zh": "暴力和迫害驱使全球基督徒外流，报告警告www.christiantoday.com",
       "title_zh": "报告警告称，暴力和迫害驱使全球基督徒外流",
       "content": "",
       "author": "www.christiantoday.com",
@@ -1803,7 +1900,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.256957",
+      "fetched_at": "2026-10-29T02:00:10.177712",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1840,6 +1937,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Whose Christian values? Baptist News Global",
+      "summary_zh": "谁的基督教价值观？全球浸信会新闻",
       "title_zh": "谁的基督教价值观？",
       "content": "",
       "author": "Baptist News Global",
@@ -1847,7 +1945,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.257200",
+      "fetched_at": "2026-10-29T02:00:10.177879",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1862,6 +1960,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Middle Eastern Christians fear if 'future in the region is sustainable' amid rising persecution: watchdog Christian Post",
+      "summary_zh": "在迫害日益加剧的情况下，中东基督徒担心“该地区的未来是否可持续” ：监管机构基督邮报",
       "title_zh": "中东基督徒担心，在迫害日益加剧的情况下， “该地区的未来是否可持续” ：监管机构",
       "content": "",
       "author": "Christian Post",
@@ -1869,7 +1968,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.258104",
+      "fetched_at": "2026-10-29T02:00:10.178038",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1884,6 +1983,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia Pakistan Christian Post",
+      "summary_zh": "LEAD部委创始人兼国际宣传主任萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）呼吁采取紧急国际行动保护埃塞俄比亚的基督徒巴基斯坦基督邮报",
       "title_zh": "LEAD部委创始人兼国际宣传主任萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）呼吁采取紧急国际行动保护埃塞俄比亚的基督徒",
       "content": "",
       "author": "Pakistan Christian Post",
@@ -1891,7 +1991,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.032372",
+      "fetched_at": "2026-10-29T02:00:10.094922",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -1906,6 +2006,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Nearly 1 in 3 Germans favor uniting Protestant and Catholic churches, poll finds www.christiandaily.com",
+      "summary_zh": "民意调查发现，近三分之一的德国人赞成联合新教和天主教教会www.christiandaily.com",
       "title_zh": "民意调查发现，近三分之一的德国人赞成将新教教会和天主教教会联合起来",
       "content": "",
       "author": "www.christiandaily.com",
@@ -1913,7 +2014,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.259129",
+      "fetched_at": "2026-10-29T02:00:10.178977",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1928,6 +2029,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Canelo Alvarez vs. Christian M'billi undercard: Who is on the fight card for Riyadh world title fight? DAZN",
+      "summary_zh": "Canelo Alvarez vs. Christian M 'billi undercard ：谁在利雅得世界冠军争夺战的战斗牌上？ DAZN",
       "title_zh": "卡内洛·阿尔瓦雷斯（ Canelo Alvarez ） vs克里斯蒂安·姆比利（ Christian M 'billi ）底牌：谁在利雅得世界冠军争夺战的战斗",
       "content": "",
       "author": "DAZN",
@@ -1935,7 +2037,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.258644",
+      "fetched_at": "2026-10-29T02:00:10.178658",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1950,6 +2052,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Christian persecution worsened in 55% of countries assessed, report finds EWTN News",
+      "summary_zh": "EWTN新闻报道称， 55%受访国家的基督教迫害加剧",
       "title_zh": "报告发现， 55%的受评估国家基督徒受迫害情况恶化",
       "content": "",
       "author": "EWTN News",
@@ -1957,7 +2060,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.031246",
+      "fetched_at": "2026-10-29T02:00:10.093303",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -1972,6 +2075,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Religious freedom champion tells UK Parliament that extremists in Pakistan have terrified Christians and other minorities into silence Aid to the Church in Need",
+      "summary_zh": "宗教自由倡导者告诉英国议会，巴基斯坦的极端主义分子恐吓基督徒和其他少数群体，迫使他们保持沉默援助有需要的教会",
       "title_zh": "宗教自由倡导者告诉英国议会，巴基斯坦的极端主义分子已经吓坏了基督徒和其他少数民族，让他们保持沉默",
       "content": "",
       "author": "Aid to the Church in Need",
@@ -1979,7 +2083,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.032132",
+      "fetched_at": "2026-10-29T02:00:10.094663",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -1994,6 +2098,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "The persecution against Christians worsens in ten countries and directly affects 220 million believers InfoVaticana",
+      "summary_zh": "十个国家对基督徒的迫害不断加剧，直接影响到2.2亿信徒InfoVaticana",
       "title_zh": "十个国家对基督徒的迫害加剧，直接影响2.2亿信徒",
       "content": "",
       "author": "InfoVaticana",
@@ -2001,7 +2106,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.032540",
+      "fetched_at": "2026-10-29T02:00:10.095161",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2016,6 +2121,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Rising tide of persecution of Christians documented in latest ACN report The Tablet",
+      "summary_zh": "ACN最新报告《平板电脑》（ The Tablet ）中记录的基督徒迫害浪潮抬头",
       "title_zh": "ACN最新报告记录的基督徒迫害浪潮抬头",
       "content": "",
       "author": "The Tablet",
@@ -2023,11 +2129,34 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.032699",
+      "fetched_at": "2026-10-29T02:00:10.095387",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
         "publisher": "The Tablet"
+      }
+    },
+    {
+      "title": "'I'm going to destroy him' - M'billi teases gameplan to beat Canelo in Riyadh",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX1A3U0hEQlNVY3hEYy1CbDNQM3RORHZMdENzaEF2aWRDUEswRlQ3Y3RiTzBzVXhJWmZRZUhSeG5KM0JiS3lCV0dPTFZZdU1HUDBka2FJZkNhWHhiLVA0QkhyT1ByTXI1UVg0aGNhM1NqT1hodHUzdEtGeEpPWEcwTThuc3ZYT3ZCY2Y1bG0zYzg5SVN5XzZIaUNCVFhmNVRJTkpZeE1YT09sMGxxZkNpSF9PMXozX192aFBJTllsc1BNVVpLZ1JMSWwwNA?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "'I'm going to destroy him' - M'billi teases gameplan to beat Canelo in Riyadh DAZN",
+      "summary_zh": "“我要毁了他” - M 'billi戏弄在利雅得DAZN击败Canelo的比赛计划",
+      "title_zh": "“我要毁了他” - M 'billi戏弄在利雅得击败Canelo的游戏计划",
+      "content": "",
+      "author": "DAZN",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:00:10.179139",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "DAZN"
       }
     },
     {
@@ -2038,6 +2167,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "ACN report: 220 million Christians face persecution worldwide Vatican News",
+      "summary_zh": "ACN报告：全球2.2亿基督徒面临迫害梵蒂冈新闻",
       "title_zh": "ACN报告：全球2.2亿基督徒面临迫害",
       "content": "",
       "author": "Vatican News",
@@ -2045,7 +2175,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.031012",
+      "fetched_at": "2026-10-29T02:00:10.093048",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2060,6 +2190,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Pope says 'there is no such thing as a holy war' in message to religious leaders NBC News",
+      "summary_zh": "教皇在给宗教领袖的消息中说“没有所谓的圣战” NBC新闻",
       "title_zh": "教皇在给宗教领袖的信息中说“没有所谓的圣战”",
       "content": "",
       "author": "NBC News",
@@ -2067,7 +2198,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.258316",
+      "fetched_at": "2026-10-29T02:00:10.178477",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2082,6 +2213,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Study: Christian persecution worsening in most of already bad cases Aleteia EN",
+      "summary_zh": "研究：在大多数已经很糟糕的案例中，基督徒迫害加剧Aleteia EN",
       "title_zh": "研究：在大多数已经很糟糕的案件中，基督徒的迫害加剧",
       "content": "",
       "author": "Aleteia EN",
@@ -2089,7 +2221,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.031439",
+      "fetched_at": "2026-10-29T02:00:10.093553",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2104,6 +2236,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Sixty people killed in attack on Orthodox Christian village in Ethiopia Vatican News",
+      "summary_zh": "埃塞俄比亚东正教村庄遭袭60人死亡梵蒂冈新闻",
       "title_zh": "埃塞俄比亚东正教村庄遭到袭击， 60人丧生",
       "content": "",
       "author": "Vatican News",
@@ -2111,7 +2244,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.266201",
+      "fetched_at": "2026-10-29T02:00:10.179386",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2126,6 +2259,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Persecution of Christians worsens in almost 56% of countries studied, with none improving Church in Need",
+      "summary_zh": "在所研究的国家中，近56%的国家对基督徒的迫害加剧，没有国家改善有需要的教会",
       "title_zh": "在所研究的国家中，近56%的国家对基督徒的迫害加剧，没有任何改善",
       "content": "",
       "author": "Church in Need",
@@ -2133,7 +2267,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.031624",
+      "fetched_at": "2026-10-29T02:00:10.093832",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2148,6 +2282,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Pastor Jin’s Release Does Not End China’s Persecution of Christians International Christian Concern",
+      "summary_zh": "金牧师获释并不能结束中国对基督徒的迫害国际基督徒关怀",
       "title_zh": "金牧师获释并不能结束中国对基督徒的迫害",
       "content": "",
       "author": "International Christian Concern",
@@ -2155,7 +2290,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.031803",
+      "fetched_at": "2026-10-29T02:00:10.094102",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2170,6 +2305,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Persecuted and Forgotten? 2024-2026 edition | Aid to the Church in Need Aid to the Church in Need",
+      "summary_zh": "被迫害和被遗忘？ 2024-2026年版|援助有需要的教会援助有需要的教会",
       "title_zh": "被迫害和被遗忘？ 2024-2026年版|援助有需要的教会",
       "content": "",
       "author": "Aid to the Church in Need",
@@ -2177,7 +2313,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.032858",
+      "fetched_at": "2026-10-29T02:00:10.095617",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2192,6 +2328,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Jordanians rally around Christian community after church attack Middle East Eye",
+      "summary_zh": "教堂袭击中东之眼后，约旦人聚集在基督教社区周围",
       "title_zh": "教堂遭到袭击后，约旦人聚集在基督教社区周围",
       "content": "",
       "author": "Middle East Eye",
@@ -2199,7 +2336,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:35:00.981632",
+      "fetched_at": "2026-10-29T02:00:10.869616",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2214,6 +2351,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Who's who in 50th CGI Conference The Korea Times",
+      "summary_zh": "第50届CGI大会上谁是谁韩国时报",
       "title_zh": "第50届CGI大会上谁是谁",
       "content": "",
       "author": "The Korea Times",
@@ -2221,7 +2359,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.820523",
+      "fetched_at": "2026-10-29T02:00:11.034488",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -2258,6 +2396,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-26",
       "summary": "Nine Dead in Attack on Jordanian Church as Pope Leo XIV and Middle Eastern Patriarchs Call for Unity ZENIT - English",
+      "summary_zh": "教皇利奥十四世和中东宗主教呼吁团结ZENIT时，约旦教会遭到袭击， 9人死亡-英文",
       "title_zh": "教皇利奥十四世和中东宗主教呼吁团结，约旦教会遇袭九人死亡- ZENIT",
       "content": "",
       "author": "English",
@@ -2265,7 +2404,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:35:00.982508",
+      "fetched_at": "2026-10-29T02:00:10.870331",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2280,6 +2419,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-26",
       "summary": "Middle East Christians are facing extinction The Spectator",
+      "summary_zh": "中东基督徒面临灭绝《旁观者》",
       "title_zh": "中东基督徒面临灭绝",
       "content": "",
       "author": "The Spectator",
@@ -2287,7 +2427,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:35:00.982822",
+      "fetched_at": "2026-10-29T02:00:10.870487",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2324,6 +2464,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-25",
       "summary": "Syriac Union Party in Syria: The terrorist attack on Saint George Church threatens the Christian presence and the religious and cultural diversity of the Middle East SyriacPress",
+      "summary_zh": "叙利亚叙利亚联合党：对圣乔治教堂的恐怖袭击威胁到基督教的存在以及中东叙利亚的宗教和文化多样性",
       "title_zh": "叙利亚叙利亚联合党：对圣乔治教堂的恐怖袭击威胁到中东的基督教存在以及宗教和文化多样性",
       "content": "",
       "author": "SyriacPress",
@@ -2331,7 +2472,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:35:00.981975",
+      "fetched_at": "2026-10-29T02:00:10.869989",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2346,6 +2487,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-25",
       "summary": "Sardar Mushtaq Gill Condemns Extremist Attack on Christians at Funeral in Jordan, Calls for Global Action Against Christian Persecution Pakistan Christian Post",
+      "summary_zh": "萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）谴责极端主义分子在约旦葬礼上对基督徒的袭击，呼吁全球采取行动打击基督徒迫害巴基斯坦基督邮报",
       "title_zh": "萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）谴责极端主义分子在约旦葬礼上对基督徒的袭击，呼吁采取全球行动反对基督徒的迫害",
       "content": "",
       "author": "Pakistan Christian Post",
@@ -2353,7 +2495,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.033413",
+      "fetched_at": "2026-10-29T02:00:10.096368",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2368,6 +2510,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-24",
       "summary": "Jordan church attack death toll rises to 9 as Christian leaders call for unity EWTN News",
+      "summary_zh": "约旦教堂袭击死亡人数上升至9人，基督教领袖呼吁团结EWTN新闻",
       "title_zh": "约旦教堂袭击死亡人数上升至9人，基督教领袖呼吁团结",
       "content": "",
       "author": "EWTN News",
@@ -2375,7 +2518,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:35:00.981802",
+      "fetched_at": "2026-10-29T02:00:10.869816",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2478,6 +2621,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-23",
       "summary": "薛子樂談香港教會詩歌史 反映文化身分認同的變遷 基督日報",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "基督日報",
@@ -2485,11 +2629,34 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.016869",
+      "fetched_at": "2026-10-29T02:00:11.174556",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
         "publisher": "基督日報"
+      }
+    },
+    {
+      "title": "VIDEO | Address by His All-Holiness Ecumenical Patriarch Bartholomew On the Bestowal of an Honorary Doctorate From the Pontifical University of St. Thomas Aquinas (Rome, 23 October 2026)",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeFlCeEVmS0YyeE5PN1VGMGFMMVNqeEhPYnUyYTRKcGlOY1daZm9oYlBmTUF1dFhBUTVlOW1fajRrbVc5TlZsLWRJSHRMQWNNZ3RTN0FjSkwyMzNoNm9QLWktYnhCZWt4SUFUZ0FZOEhBX3FQcklBTV9YS1RwN1RZZGpQX0s1Vm9ScmhmYVhiaU1jdmR5Zll0TmlVLWtCMGtXU3dKcExvQlJWWlQxNWtSaEZrZ3JBNDZyZHp2Y3FrNVlLTDYxMVVMUkNtZElOZzlzaGZaOXNLUnBVcFNSVDJpWWNKUHUtQV9SZmZsbm1mRFg5VjFyVGFwU0VDbmJyZWdyYTFaWHZoTU9WR1ZsajUydkt2eVRIQk5mUTQzWjFPZVNRMHFBWkV2ZjViTEk5cVloVF9EdDlYQ3ZabUdUMkEtaHN4UjdzcW8wbWY4Xw?oc=5",
+      "category": "theology",
+      "source": "合一运动（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-23",
+      "summary": "VIDEO | Address by His All-Holiness Ecumenical Patriarch Bartholomew On the Bestowal of an Honorary Doctorate From the Pontifical University of St. Thomas Aquinas (Rome, 23 October 2026) Οικουμενικό Πατριαρχείο",
+      "summary_zh": "视频|全圣大主教巴塞洛缪关于授予圣托马斯·阿奎那宗座大学荣誉博士学位的讲话（ 2026年10月23日，罗马）",
+      "title_zh": "视频|普世宗主教巴塞洛缪关于授予圣托马斯·阿奎那宗座大学荣誉博士学位的讲话（ 2026年10月23日，罗马）",
+      "content": "",
+      "author": "Οικουμενικό Πατριαρχείο",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "fetched_at": "2026-10-29T02:00:11.357462",
+      "extra": {
+        "provider": "google_news",
+        "query": "ecumenical council theology",
+        "publisher": "Οικουμενικό Πατριαρχείο"
       }
     },
     {
@@ -2544,6 +2711,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-19",
       "summary": "中国江西家庭教会聚会遭当局搜查 负责人及多名信徒被带走 对华援助新闻网",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "对华援助新闻网",
@@ -2551,7 +2719,7 @@
       "language": "zh",
       "country": "CN",
       "region": "中国",
-      "fetched_at": "2026-10-29T01:35:00.709238",
+      "fetched_at": "2026-10-29T02:00:10.616205",
       "extra": {
         "provider": "google_news",
         "query": "中国 教会 基督徒 聚会",
@@ -2610,6 +2778,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-15",
       "summary": "Georgia church sees attendance grow among young people Biblical Recorder",
+      "summary_zh": "格鲁吉亚教会看到年轻人的出席人数增加圣经记录员",
       "title_zh": "格鲁吉亚教会看到年轻人的出席率有所增加",
       "content": "",
       "author": "Biblical Recorder",
@@ -2617,7 +2786,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.821854",
+      "fetched_at": "2026-10-29T02:00:11.036238",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -2698,6 +2867,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-06",
       "summary": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity International Christian Concern",
+      "summary_zh": "消失的基督教中东，第五部分：圣地--当基督徒离开基督教的诞生地时",
       "title_zh": "消失的基督教中东，第五部分：圣地—当基督徒离开基督教的诞生地",
       "content": "",
       "author": "International Christian Concern",
@@ -2705,7 +2875,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:35:00.982340",
+      "fetched_at": "2026-10-29T02:00:10.870167",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2808,6 +2978,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-30",
       "summary": "Wycliffe celebrates ‘remarkable moment’ as Bible translation advances at rapid pace www.christiantoday.com",
+      "summary_zh": "随着圣经翻译的快速发展，威克里夫庆祝“非凡时刻” www.christiantoday.com",
       "title_zh": "威克里夫庆祝圣经翻译快速发展的“非凡时刻”",
       "content": "",
       "author": "www.christiantoday.com",
@@ -2815,11 +2986,34 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.525660",
+      "fetched_at": "2026-10-29T02:00:10.486114",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
         "publisher": "www.christiantoday.com"
+      }
+    },
+    {
+      "title": "The Disappearing Christian Middle East, Part I: Can Christianity Disappear from the Land Where It Was Born?",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSE16UDlVUzlVTmYyVnVUc3JJWnk3WkowUlJaTzV1MWV0VFowRmFSMWdCYWJ1cXRjeFNMUzJlRVRnVzZMcE5NaWN2R1laWWtEZ1NZRmtUa1l1Nl83VjBSQW1hcXJQb3lUVFQwX1ZKaW05N0dJaUV4UTFnYXdiWWxCUWhIRHRiVEFKU3IzNUUycWpqX2d6VUtscEZCbTAxb0g4MXFZNDQyczYxM3JMTklvdndMRWlFRXM1TjdDTTFES0JOZnRQRjJ1eVlwbk9uN2o1UjV2b3FjRQ?oc=5",
+      "category": "church",
+      "source": "中东教会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-30",
+      "summary": "The Disappearing Christian Middle East, Part I: Can Christianity Disappear from the Land Where It Was Born? International Christian Concern",
+      "summary_zh": "消失的基督教中东，第一部分：基督教能否从诞生之地消失？国际基督教关注",
+      "title_zh": "消失的基督教中东，第一部分：基督教能否从诞生之地消失？",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:00:10.876342",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East church Christians",
+        "publisher": "International Christian Concern"
       }
     },
     {
@@ -2830,6 +3024,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-29",
       "summary": "President Trump Bans Christians Fleeing Persecution: Matthew Soerens on the Collapse of Refugee Resettlement and Why Churches Should Care Austin Kocher | Substack",
+      "summary_zh": "特朗普总统禁止逃离迫害的基督徒： Matthew Soerens谈难民安置的崩溃以及为什么教会应该关心Austin Kocher | Substack",
       "title_zh": "特朗普总统禁止逃离迫害的基督徒：马修·索伦斯关于难民安置的崩溃以及为什么教会应该关心",
       "content": "",
       "author": "Austin Kocher | Substack",
@@ -2837,11 +3032,34 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.259665",
+      "fetched_at": "2026-10-29T02:00:10.319317",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
         "publisher": "Austin Kocher | Substack"
+      }
+    },
+    {
+      "title": "WCC Global Ecumenical Indigenous Women’s Theological Network launched",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTBoeEoySnd1WXM1WUpfc0lDYk16OFZRNm1KdUdkS21FNnVHNnVDUkhLSG1SQnlyT1J5UEV5eEdpY2FuWnF5SF9BTllVbXAzTFltNWMxV3AzUHhiNUUyRFJRbDJNbDRrTmhlV0ZvemNJUGliZW9uR1FkZnNlVi1EcjNQSm9Md245cGhOQTZ4eUM4dUN4T21fODY1WHI5RmVL?oc=5",
+      "category": "theology",
+      "source": "合一运动（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-29",
+      "summary": "WCC Global Ecumenical Indigenous Women’s Theological Network launched World Council of Churches",
+      "summary_zh": "世界基督教协进会全球基督教土著妇女神学网络成立世界基督教协进会",
+      "title_zh": "WCC全球基督教土著妇女神学网络启动",
+      "content": "",
+      "author": "World Council of Churches",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "fetched_at": "2026-10-29T02:00:11.377113",
+      "extra": {
+        "provider": "google_news",
+        "query": "ecumenical council theology",
+        "publisher": "World Council of Churches"
       }
     },
     {
@@ -2852,6 +3070,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-24",
       "summary": "China Open Doors International",
+      "summary_zh": "中国敞开的门国际",
       "title_zh": "中国",
       "content": "",
       "author": "Open Doors International",
@@ -2859,7 +3078,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.260031",
+      "fetched_at": "2026-10-29T02:00:10.319616",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2874,6 +3093,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-24",
       "summary": "India Open Doors International",
+      "summary_zh": "印度敞开的门国际",
       "title_zh": "印度",
       "content": "",
       "author": "Open Doors International",
@@ -2881,7 +3101,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.259479",
+      "fetched_at": "2026-10-29T02:00:10.319143",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2896,6 +3116,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-24",
       "summary": "Laos Open Doors International",
+      "summary_zh": "老挝敞开的门国际",
       "title_zh": "老挝",
       "content": "",
       "author": "Open Doors International",
@@ -2903,7 +3124,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.260401",
+      "fetched_at": "2026-10-29T02:00:10.319984",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2918,6 +3139,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-24",
       "summary": "Yemen Open Doors International",
+      "summary_zh": "也门敞开的门国际",
       "title_zh": "也门",
       "content": "",
       "author": "Open Doors International",
@@ -2925,7 +3147,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.260549",
+      "fetched_at": "2026-10-29T02:00:10.320142",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2940,6 +3162,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-24",
       "summary": "Colombia Open Doors International",
+      "summary_zh": "哥伦比亚敞开的门国际",
       "title_zh": "哥伦比亚",
       "content": "",
       "author": "Open Doors International",
@@ -2947,11 +3170,34 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.260859",
+      "fetched_at": "2026-10-29T02:00:10.320431",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
         "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "If Hope Is Gone, Slow Extinction Looms for Middle East Christians",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFVrX3J4OVVaMWFGMVd5Zi1KelZlWGVnSkdQZHhqSzBFalRkTXF6aWJuSUxNdmRVWUN2SGU1VmxmczNoa244V0hMTUZOZFdYNnI0bzBKQTA3Q1A1WWVBTGoyYkJENFFVV1VPdTNaaXp1WENscDlqb21ENlA0Tm1RWDFYVWhXSVJ0MllOQlBISDVYZw?oc=5",
+      "category": "church",
+      "source": "中东教会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-15",
+      "summary": "If Hope Is Gone, Slow Extinction Looms for Middle East Christians National Catholic Register",
+      "summary_zh": "如果希望消失，中东基督徒国家天主教登记处的缓慢灭绝迫在眉睫",
+      "title_zh": "如果希望消失，中东基督徒的缓慢灭绝迫在眉睫",
+      "content": "",
+      "author": "National Catholic Register",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:00:10.876162",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East church Christians",
+        "publisher": "National Catholic Register"
       }
     },
     {
@@ -2962,6 +3208,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-14",
       "summary": "Worship at Any Cost: Hope for Persecuted Christians Open Doors US",
+      "summary_zh": "不惜一切代价敬拜：美国受迫害基督徒的希望敞开大门",
       "title_zh": "不惜一切代价敬拜：受迫害基督徒的希望",
       "content": "",
       "author": "Open Doors US",
@@ -2969,7 +3216,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.260235",
+      "fetched_at": "2026-10-29T02:00:10.319831",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2984,6 +3231,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-10",
       "summary": "人工智能輔助教會 韓國專家：AI無法完全理解文化和人類情感 基督日報",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "基督日報",
@@ -2991,7 +3239,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.554095",
+      "fetched_at": "2026-10-29T02:00:10.512554",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士",
@@ -3006,6 +3254,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-09",
       "summary": "当教会高喊「习大大」，我们还敢宣告「基督是主」吗？ 对华援助新闻网",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "对华援助新闻网",
@@ -3013,7 +3262,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.578190",
+      "fetched_at": "2026-10-29T02:00:10.256338",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 宗教自由 逼迫",
@@ -3028,6 +3277,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-03",
       "summary": "Pope Leo XIV says Christians in the Middle East offer a ‘precious testimony for the entire Church’ OSV News",
+      "summary_zh": "教皇利奥十四世说，中东的基督徒为整个教会提供了“宝贵的见证” OSV新闻",
       "title_zh": "教皇利奥十四世说，中东的基督徒为“整个教会提供了宝贵的见证”",
       "content": "",
       "author": "OSV News",
@@ -3035,7 +3285,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:35:00.983322",
+      "fetched_at": "2026-10-29T02:00:10.870691",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -3072,6 +3322,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-28",
       "summary": "在華宣教士司徒雷登誕辰150週年 中國多地展開紀念活動 基督日報",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "基督日報",
@@ -3079,7 +3330,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.552792",
+      "fetched_at": "2026-10-29T02:00:10.511029",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士",
@@ -3116,6 +3367,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-24",
       "summary": "在新時代回應大使命：蔡頌輝牧師談宣教五大轉向 基督日報",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "基督日報",
@@ -3123,7 +3375,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.507248",
+      "fetched_at": "2026-10-29T02:00:10.513337",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士",
@@ -3138,6 +3390,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-20",
       "summary": "極權下的福音奇蹟：伊朗女孩藉AI讓信仰逼迫地區認識耶穌 基督日報",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "基督日報",
@@ -3145,7 +3398,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.132844",
+      "fetched_at": "2026-10-29T02:00:10.256520",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 宗教自由 逼迫",
@@ -3182,6 +3435,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-13",
       "summary": "Ecumenical Institute brings emerging theologians together across North America–Turtle Island World Council of Churches",
+      "summary_zh": "普世教会研究所汇集了北美新兴的神学家--海龟岛世界教会理事会",
       "title_zh": "普世教会研究所汇集了北美-海龟岛的新兴神学家",
       "content": "",
       "author": "World Council of Churches",
@@ -3189,7 +3443,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.702726",
+      "fetched_at": "2026-10-29T02:00:11.357677",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -3226,6 +3480,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-05",
       "summary": "The Church in Britain is growing – and not only in places we can count Premier Christianity Magazine",
+      "summary_zh": "英国的教会正在成长–不仅仅是在我们可以计算的地方Premier Christianity Magazine",
       "title_zh": "英国的教会正在成长--而且不仅仅是在我们可以计算的地方",
       "content": "",
       "author": "Premier Christianity Magazine",
@@ -3233,7 +3488,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.821200",
+      "fetched_at": "2026-10-29T02:00:11.035185",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -3248,6 +3503,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-04",
       "summary": "India Open Doors US",
+      "summary_zh": "印度敞开大门美国",
       "title_zh": "印度",
       "content": "",
       "author": "Open Doors US",
@@ -3255,7 +3511,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.259266",
+      "fetched_at": "2026-10-29T02:00:10.318985",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -3292,6 +3548,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-04",
       "summary": "China Open Doors US",
+      "summary_zh": "中国敞开大门美国",
       "title_zh": "中国",
       "content": "",
       "author": "Open Doors US",
@@ -3299,7 +3556,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.259870",
+      "fetched_at": "2026-10-29T02:00:10.319467",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -3314,6 +3571,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-04",
       "summary": "Laos Open Doors US",
+      "summary_zh": "美国老挝敞开大门",
       "title_zh": "老挝",
       "content": "",
       "author": "Open Doors US",
@@ -3321,7 +3579,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.260694",
+      "fetched_at": "2026-10-29T02:00:10.320288",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -3336,6 +3594,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-04",
       "summary": "Yemen Open Doors US",
+      "summary_zh": "美国也门敞开大门",
       "title_zh": "也门",
       "content": "",
       "author": "Open Doors US",
@@ -3343,7 +3602,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:00.261004",
+      "fetched_at": "2026-10-29T02:00:10.320573",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
