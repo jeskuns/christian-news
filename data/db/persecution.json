@@ -1,8 +1,8 @@
 {
   "category": "persecution",
   "label": "信仰自由与逼迫",
-  "count": 33,
-  "updated_at": "2026-10-29T10:03:58.960775+08:00",
+  "count": 74,
+  "updated_at": "2026-10-29T10:20:55.875125+08:00",
   "articles": [
     {
       "title": "Petition against anti-Christian violence in Africa aims for a million signatures",
@@ -20,57 +20,11 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.318807",
+      "fetched_at": "2026-10-29T02:13:11.563138",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
         "publisher": "www.christiantoday.com"
-      }
-    },
-    {
-      "title": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFM2SDJBWHE5dUtwYVJ1Yl9PTE42Z2NoNEZMd0t4VTVSckhGN3h3SHFvZ3BTQldJNklweGFYTGR4b3JMV0FGdlZtZlNLZU9FX2tIVXJUbm9KYWNnVmc3eXNGM0I4YzA3bjhjUWJDVm1uM3lWZkN1SE9sUURERlNDdklJYjhMcnVWa01UeEpHUkxWRWh3Q241eHI3dWF4LXBzcWZlYzV3dmxWd01LUVZRa3lPN2Zrc1BmTGU0UUJkal9nSmdzZ19YWWlaSHRYUFJFM2cyZg?oc=5",
-      "category": "persecution",
-      "source": "基督徒逼迫（国际）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-28",
-      "summary": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns Premier Christian News",
-      "summary_zh": "全球报告警告说，极端主义和暴力“助长了最古老社区的基督徒外流”",
-      "title_zh": "全球报告警告说，极端主义和暴力“助长了最古老社区的基督徒外流”",
-      "content": "",
-      "author": "Premier Christian News",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "fetched_at": "2026-10-29T02:00:10.094390",
-      "extra": {
-        "provider": "google_news",
-        "query": "persecution of Christians religious freedom",
-        "publisher": "Premier Christian News"
-      }
-    },
-    {
-      "title": "Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NaWpWOU9jTnN3aDkxdXJNMGxSTHpXT0JxR2N1VlA5NjN2S1RHWE9aRWZvellDc2g4TjhFSkM2MXJ5RmJvZXJzZk5kSnFNOHp6amQ5bFNDbmEzOUJkRUZVMHl3blVBbUdDM0xvY2xFRVBBT0E?oc=5",
-      "category": "persecution",
-      "source": "基督徒逼迫（国际）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-28",
-      "summary": "Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia Pakistan Christian Post",
-      "summary_zh": "LEAD部委创始人兼国际宣传主任萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）呼吁采取紧急国际行动保护埃塞俄比亚的基督徒巴基斯坦基督邮报",
-      "title_zh": "LEAD部委创始人兼国际宣传主任萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）呼吁采取紧急国际行动保护埃塞俄比亚的基督徒",
-      "content": "",
-      "author": "Pakistan Christian Post",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "fetched_at": "2026-10-29T02:00:10.094922",
-      "extra": {
-        "provider": "google_news",
-        "query": "persecution of Christians religious freedom",
-        "publisher": "Pakistan Christian Post"
       }
     },
     {
@@ -89,7 +43,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.093303",
+      "fetched_at": "2026-10-29T02:13:11.663105",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -112,7 +66,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.094663",
+      "fetched_at": "2026-10-29T02:13:11.664417",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -135,7 +89,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.095161",
+      "fetched_at": "2026-10-29T02:13:11.664623",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -158,7 +112,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.095387",
+      "fetched_at": "2026-10-29T02:13:11.665019",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -166,49 +120,72 @@
       }
     },
     {
-      "title": "ACN report: 220 million Christians face persecution worldwide",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY19uM0xyVDN1SDREOUFpZnZvYzVsRDltUC1GRHNhYXV2SlZOLUMxYzFCTk1TRkFQM1pXbE1VUkx4dVdtX2tGbzVrR0VIZk1TOGVOcko4NkdnQWgwUUVEUXhqX1pjdENNYlA5ZXhrdUV0VlNMcnZwU25BRmNhb0h0S0htVHZMX0dGYjBteHR1WlRjckNjOVh3cklocnFUc3JRYndXd0J6aEVDV251SjJlYl9hYw?oc=5",
+      "title": "CubaBrief: International Religious Freedom Day in Cuba",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjNpakotYTdPVElaQjF1dHA1aEdLNWdCMVpJZllZS1dEaS1mWklLM0VwTUQzN3dCOGNCT0ZLYXZ6NkdfN2Z0TnZCVlhpZWxCUnFsSC0wbm5wVlI0MU5jYjdlV3J6VjhObDRwUENxRzdNRFhfSjZySS0yYXItR3RMYnBaX3RmSXp5c0J5MHhWREIwcnNyUjlTMER2dTZMdlhP?oc=5",
       "category": "persecution",
-      "source": "基督徒逼迫（国际）",
+      "source": "USCIRF",
       "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "ACN report: 220 million Christians face persecution worldwide Vatican News",
-      "summary_zh": "ACN报告：全球2.2亿基督徒面临迫害梵蒂冈新闻",
-      "title_zh": "ACN报告：全球2.2亿基督徒面临迫害",
+      "published": "2026-10-28",
+      "summary": "CubaBrief: International Religious Freedom Day in Cuba Center for Free Cuba",
+      "summary_zh": "古巴简介：古巴国际宗教自由日 Center for Free Cuba",
+      "title_zh": "CubaBrief ：古巴国际宗教自由日",
       "content": "",
-      "author": "Vatican News",
+      "author": "Center for Free Cuba",
       "tags": [],
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.093048",
+      "fetched_at": "2026-10-29T02:13:11.720414",
       "extra": {
         "provider": "google_news",
-        "query": "persecution of Christians religious freedom",
-        "publisher": "Vatican News"
+        "query": "USCIRF religious freedom persecuted",
+        "publisher": "Center for Free Cuba"
       }
     },
     {
-      "title": "Study: Christian persecution worsening in most of already bad cases",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazc5SkFiS09DcVhCZ2E2OE0xQzV0RmhmVW4yM0NDWDBsLThSeFR2QUdIejVBcGtZMFlmMFRRSXZqUjB5SnZnajl4dlBpa0FpUTVkOEdVZUdlNThrMDEwbFUwOGhtemNBMXRQVGtuNjFEaVFmWmJlRGNWZWFfY3pQNFFJMmtDcHdPbDEwN3lHdDVfcEQ2MmttaGhVN1ltcjRhRXc?oc=5",
+      "title": "IDOP Video from The Voice of the Martyrs Highlights Former Muslim who Turned to Christ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ291MVJvalVqNW9ma1JSOUtpWmRXMjIwVVdwQ1dpQW5YODJFNFQ5WW5ZemZpNDFtMUdVbU1WR28zQ2dEZHA5TWhwQ1hHS1VkYktYT0ZfR3NxUUQwSzZTNjYxM0JDd3E0eGRJYmxERThwY3R2TFM5OXFoMFdoMFlUSHllSnB6RDVyNkd0RG4yc09jWE1kS0xsb0o5Yi16Wm1HVmk5cFZRX1A3QQ?oc=5",
       "category": "persecution",
-      "source": "基督徒逼迫（国际）",
+      "source": "殉道者声音",
       "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Study: Christian persecution worsening in most of already bad cases Aleteia EN",
-      "summary_zh": "研究：在大多数已经很糟糕的案例中，基督徒迫害加剧Aleteia EN",
-      "title_zh": "研究：在大多数已经很糟糕的案件中，基督徒的迫害加剧",
+      "published": "2026-10-28",
+      "summary": "IDOP Video from The Voice of the Martyrs Highlights Former Muslim who Turned to Christ Digital Journal",
+      "summary_zh": "烈士之声的 IDOP 视频重点介绍了皈依基督的前穆斯林 Digital Journal",
+      "title_zh": "来自殉道者之声的IDOP视频突出了转向基督的前穆斯林",
       "content": "",
-      "author": "Aleteia EN",
+      "author": "Digital Journal",
       "tags": [],
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.093553",
+      "fetched_at": "2026-10-29T02:13:11.906745",
       "extra": {
         "provider": "google_news",
-        "query": "persecution of Christians religious freedom",
-        "publisher": "Aleteia EN"
+        "query": "Voice of the Martyrs persecution",
+        "publisher": "Digital Journal"
+      }
+    },
+    {
+      "title": "Five Ways to Pray for Persecuted Christians",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JdEluVUxaSjZQQTBRZ3ZOaGhLT2JId2tMZVU1clNtUXdsc2UyRVR4bGNCbTVpMXVmMmJhUWdyWVplVHJlYXlIbnlWeVg5Y01UOW9YYWRURzZlMlc2TXlzeWw0MUPSAWxBVV95cUxOeklvSDdPeTZ4bEN5bjlOd2R0eHRQMEVIeU9RTDF2QTlMc1pEemVwUnlOTnU1WlZSVU9jSDYyb1p3alp6aDlmTlVSemdMRWE3YkI4a1pHb1NCRXN5R0pPWUlFWlRUMnJoS0gxLWo?oc=5",
+      "category": "persecution",
+      "source": "朝鲜基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "Five Ways to Pray for Persecuted Christians Make Jesus Known Everywhere",
+      "summary_zh": "为受迫害的基督徒祈祷的五种方法让耶稣无处不在",
+      "title_zh": "为受迫害的基督徒祈祷的五种方式",
+      "content": "",
+      "author": "Make Jesus Known Everywhere",
+      "tags": [],
+      "language": "en",
+      "country": "KP",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.524518",
+      "extra": {
+        "provider": "google_news",
+        "query": "North Korea Christians persecution",
+        "publisher": "Make Jesus Known Everywhere"
       }
     },
     {
@@ -227,7 +204,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.093832",
+      "fetched_at": "2026-10-29T02:13:11.663594",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -238,7 +215,7 @@
       "title": "Pastor Jin’s Release Does Not End China’s Persecution of Christians",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVNmZVRFdWVGSXptTUtwN1NBcUlPTW9JOUx5UGFZWDVucXhEcDRSaXBNUkJvd0V1LWUycTc4QnVHd3FzMlpYZ2hJdXY2QUJCUEdJX3NISzVoVGtJMFVJeXpfazVVVWFBbXNDRHpsV0ZLWHMxYjcxRUlmVUZGTkVKalRvY1hsSXpzZ3p6bFVTMDFOUWVBZVVrbW9DdUtFc1ZSYWhZ?oc=5",
       "category": "persecution",
-      "source": "基督徒逼迫（国际）",
+      "source": "Release International",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Pastor Jin’s Release Does Not End China’s Persecution of Christians International Christian Concern",
@@ -248,12 +225,12 @@
       "author": "International Christian Concern",
       "tags": [],
       "language": "en",
-      "country": "US",
+      "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.094102",
+      "fetched_at": "2026-10-29T02:13:11.600381",
       "extra": {
         "provider": "google_news",
-        "query": "persecution of Christians religious freedom",
+        "query": "Release International persecution Christians",
         "publisher": "International Christian Concern"
       }
     },
@@ -273,11 +250,80 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.095617",
+      "fetched_at": "2026-10-29T02:13:11.665602",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
         "publisher": "Aid to the Church in Need"
+      }
+    },
+    {
+      "title": "USCIRF Commemorates International Religious Freedom Day",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDBqU2Fkazl1LVhTVWJ6TUx0N0VNZUVOM3FEMWVaNmcyNkstRnBDRVZsZ1c0bjVqY0x4VjlBWjhac3liM0tNS3BPREpBWUdpY1FrS0JxUEsxOHNhWXRvNVI0RmNBckF3LUMyRmFhTDJVQkNJNFBLak8xazlNTmI0WDlyLXkxb2JrNnVGSHhR?oc=5",
+      "category": "persecution",
+      "source": "USCIRF",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "USCIRF Commemorates International Religious Freedom Day Standard Newswire",
+      "summary_zh": "美国国际宗教自由委员会纪念国际宗教自由日 Standard Newswire",
+      "title_zh": "USCIRF纪念国际宗教自由日",
+      "content": "",
+      "author": "Standard Newswire",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.720560",
+      "extra": {
+        "provider": "google_news",
+        "query": "USCIRF religious freedom persecuted",
+        "publisher": "Standard Newswire"
+      }
+    },
+    {
+      "title": "Voice of the Martyrs Hosting 30th Annual International Day of Prayer for Persecuted Christians Event",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVzdIU29uNFZGby0tdTBGMjFMQWgwV05tanVOUk5jczc5eEZpWkVRSVd4WDNmSUY5bTcyX3JZTVZ4UVZ0OVdHQ0RJMHhjMEJ3dTl5ZzZBTVJERHJfMG94ZkdrWEEteDNXc2pQVHdlNWxTYkhBdzIteGRCY1pOdjZST29ybzRHamQ5RGVVTThnWW5YTF9vMFdFV3J1YmlUNnNOamcyN05IRXczTFlaNjA0eXNCU1R6RGg4RTZFeWZnRWxieWFoaGR5ZHh0ZEFkaElnci1QcW5aZDNFQlFuSXEtTjc0aVRIQ2I3RzFXZ3pYQUctYkh3SkdPTms5bTJrRjRnQ2c?oc=5",
+      "category": "persecution",
+      "source": "殉道者声音",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "Voice of the Martyrs Hosting 30th Annual International Day of Prayer for Persecuted Christians Event Crosswalk.com",
+      "summary_zh": "烈士之声举办第 30 届国际受迫害基督徒祈祷日活动 Crosswalk.com",
+      "title_zh": "殉道者之声主办第30届受迫害基督徒国际祈祷日活动",
+      "content": "",
+      "author": "Crosswalk.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.906918",
+      "extra": {
+        "provider": "google_news",
+        "query": "Voice of the Martyrs persecution",
+        "publisher": "Crosswalk.com"
+      }
+    },
+    {
+      "title": "Pakistan’s top court upholds Christian man’s death sentence for blasphemy",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVRLT2NkWkt0dVNFbmdndEhyaHQtWXZpTDFYa3NwZjFMZGZDVUJheUlKN3MyWV9xaDBTNm9YV3JQeEhxN0VIazJGWVZfbV9Za29Ud2tDeXNYMXlYUmFUSDZrdlFGbDVzR1p5RlVCMWZpbWdaMUxCQ1VEWFRCdTFUSHk1czJVOHFRNlZrVTY1VkFSMG51dUhIWUJpdm9Sd9IBowFBVV95cUxOa1ZlQWlXRTMwaV9IUHZHMUxiUGZ3YmZvS0EwOHhOMzdJSTN4WE9RejhsalI4dHJaUXhsTlpDOXNGNXNvMEtsR3lxazdkWVIxUmRvZ2NHeTV6NnJGM1I5bi1UaEVzQXFCQ2FVVEZkSlBmaGxWdEV1anVyOGJWRkdIc0sxeGEzcnZmSlFHNW1Eb0l5YjFxS2Z1RFR0TXBhRWhiXzlF?oc=5",
+      "category": "persecution",
+      "source": "巴基斯坦基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "Pakistan’s top court upholds Christian man’s death sentence for blasphemy Fox News",
+      "summary_zh": "巴基斯坦最高法院维持基督徒男子因亵渎罪的死刑判决 福克斯新闻",
+      "title_zh": "巴基斯坦最高法院以亵渎罪维持对基督徒男子的死刑判决",
+      "content": "",
+      "author": "Fox News",
+      "tags": [],
+      "language": "en",
+      "country": "PK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.175930",
+      "extra": {
+        "provider": "google_news",
+        "query": "Pakistan Christians persecution blasphemy",
+        "publisher": "Fox News"
       }
     },
     {
@@ -288,6 +334,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-26",
       "summary": "Praying with purpose for the persecuted church Denison Forum",
+      "summary_zh": "有目的地为受迫害的教会祈祷 丹尼森论坛",
       "title_zh": "有目的地为受迫害的教会祈祷",
       "content": "",
       "author": "Denison Forum",
@@ -295,11 +342,34 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.440724",
+      "fetched_at": "2026-10-29T02:13:11.663320",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
         "publisher": "Denison Forum"
+      }
+    },
+    {
+      "title": "Middle East Christians are facing extinction",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3BpNE81THR1Q3RHUmV1VjZzb3dtMHN1cGdEZ3pKWWIzeGloWWI3cWd4OW1ZOHp1ZFdESUNpaE9DSU5WalBpc0ZoSFVJVlR5b20zQlNlTkRNWGgyMWpod0ZWZUNrQV9IQzZxdVRzZ1gtTTRRMWpHU0RGdWR1S3hKdw?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-26",
+      "summary": "Middle East Christians are facing extinction The Spectator",
+      "summary_zh": "中东基督徒面临灭绝《旁观者》",
+      "title_zh": "中东基督徒面临灭绝",
+      "content": "",
+      "author": "The Spectator",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:13:12.414710",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "The Spectator"
       }
     },
     {
@@ -326,6 +396,52 @@
       }
     },
     {
+      "title": "Christian medic’s clinic and home torched in Pakistan over blasphemy allegations",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc2haLWtEa3pvT2JTb3ZRdGZ2cEhTZUQxTXRaMldpc3FpLTRURXFEekNCb1V4S3ZjUnpRUFNhTHJkdWRxOXdJTlRKb2lWMjl3NmFKQ1BwMHBKcXpGaENTY0c1TnAtZFRyek5UY2dKeU4zOGRqLXdKdG1IQ0RxVTlPWmUtNE5qXzd6YzcwcHFLSUhLdG9xTU1RWkNCOUt6aTBmQXNydVU4S29fNEdxYVcyZFdIdTBOMDB2TUFJd0F1dUhRWnpp?oc=5",
+      "category": "persecution",
+      "source": "巴基斯坦基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-25",
+      "summary": "Christian medic’s clinic and home torched in Pakistan over blasphemy allegations Premier Christian News",
+      "summary_zh": "基督教医生的诊所和家因亵渎指控在巴基斯坦被烧毁 - 新闻 - 2020",
+      "title_zh": "巴基斯坦基督教医生的诊所和家因亵渎指控而被烧毁",
+      "content": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "PK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.176105",
+      "extra": {
+        "provider": "google_news",
+        "query": "Pakistan Christians persecution blasphemy",
+        "publisher": "Premier Christian News"
+      }
+    },
+    {
+      "title": "American politicians talk about persecuted Christians abroad – but here’s what happens when those Christians migrate to the US",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQOVNxd0hrYjY1NDktcGRlZFVtNmdWMjJVWHpaTmlRbXoybGtUbUdINDFabWVTaktLMnJ6VnA0Slg0QjhCTFViN1NJQks2M2ZCU3Z4Vm1ZZTVyNEpCUFBZaUtkaXBBQWhpUktyRUFNRnRHUnlIWkJsa0FiXzZkZUkyVm5YU3dnMVA4VGZSTlVTQWlVUVdlelQ2RE55SFA5QTdkdG1MeDI4NmpxNmlTMF9jd0g4ekZ4cWFyNzZ4YXZtWUN0Z3hjbWdLeW41X3Z1eWZReVRYLXZPQUo1T0twRFkzUEE5bGFlYy1qdzlWaFVWOVBHanFZMHNXRnlKd1lJSjNtNlFGdmRMQ2hmOUE0eGh6NXhIN08tb09QMmgtTWt4QlJ0NVRHaFZr?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-24",
+      "summary": "American politicians talk about persecuted Christians abroad – but here’s what happens when those Christians migrate to the US Nonstop Local News",
+      "summary_zh": "美国政客谈论在国外受迫害的基督徒——但当这些基督徒移民到美国时会发生什么",
+      "title_zh": "美国政界人士谈论海外受迫害的基督徒–但当这些基督徒移民到美国时会发生什么",
+      "content": "",
+      "author": "Nonstop Local News",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:13:12.414385",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "Nonstop Local News"
+      }
+    },
+    {
       "title": "We cannot be indifferent to religious persecution, says bishop for Freedom of Religion and Belief",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcy1UTWtkRVRzdFduUHFRYjlMMG5lRWlrZWhuTUFWSFBEc3Q0UnpvQ2hrV2ZzeGZkd3BNdnhYdWVXaGg2MkREc2VwemVHR0pROVRuU014YVpEclNQLVlTSFhfMFRNVDNTMEhLUVBtbVA0cE1sczFsWDI1MnQwZV8tQg?oc=5",
       "category": "persecution",
@@ -333,6 +449,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-22",
       "summary": "We cannot be indifferent to religious persecution, says bishop for Freedom of Religion and Belief Catholic Church in England and Wales",
+      "summary_zh": "英格兰和威尔士宗教与信仰自由天主教会主教表示，我们不能对宗教迫害无动于衷",
       "title_zh": "宗教和信仰自由主教说，我们不能对宗教迫害漠不关心",
       "content": "",
       "author": "Catholic Church in England and Wales",
@@ -340,11 +457,57 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.442535",
+      "fetched_at": "2026-10-29T02:13:11.665204",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
         "publisher": "Catholic Church in England and Wales"
+      }
+    },
+    {
+      "title": "‘Demonic’ wave of persecution sweeps Africa as Voice of the Martyrs aids displaced Christians",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUDUwNjRrM2hvN2dGRWhzT21XTGlfMWRtZTAwRlBCZDRXbTEyYjNyaTE2VG9lSFVvemVRX3M3T2w4dlRnMmlQeUJ0U1FQUHp5czZQWW5UdTA4SnhPVWtJS0lnY0lrQm1FSUZRX2N3QkVHVWZqTWFLWEhLOGY2R3BTQmpjTHVRWmxOcGVTNGpTNURjN25vMlBGclNXZFB2bzRNcUIyTG9wWEZVLVBGYzdKTzJvV1ZNTlF6SnB5RA?oc=5",
+      "category": "persecution",
+      "source": "殉道者声音",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-21",
+      "summary": "‘Demonic’ wave of persecution sweeps Africa as Voice of the Martyrs aids displaced Christians Heartlander News",
+      "summary_zh": "烈士之声帮助流离失所的基督徒，“恶魔”迫害浪潮席卷非洲",
+      "title_zh": "“恶魔”迫害浪潮席卷非洲，殉道者之声帮助流离失所的基督徒",
+      "content": "",
+      "author": "Heartlander News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.907082",
+      "extra": {
+        "provider": "google_news",
+        "query": "Voice of the Martyrs persecution",
+        "publisher": "Heartlander News"
+      }
+    },
+    {
+      "title": "Christian Mother Sentenced to 14 Years in Prison in Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1pXTXFLS0MtT2ZWc0M4dWpEY2h2QnFiUGI0ejNoOUxOcWswSFBkVXdzRmhST1Y0OUstell0M2tBTWpteTJXTWV6YXFPQWRQeTZCSEtCV2FfcS1wRzF2V01lRGFvai1TVGU2d29UbFplWEJEOVNkM0l6QVhWS3BLOHpQc0dSQ3FqOFhOc3JpTnpDQ0NaWmJrcWxNdw?oc=5",
+      "category": "persecution",
+      "source": "尼日利亚逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-21",
+      "summary": "Christian Mother Sentenced to 14 Years in Prison in Nigeria International Christian Concern",
+      "summary_zh": "尼日利亚基督徒母亲被判 14 年监禁 International Christian Concern",
+      "title_zh": "尼日利亚基督徒母亲被判入狱14年",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "NG",
+      "region": "非洲",
+      "fetched_at": "2026-10-29T02:13:12.232982",
+      "extra": {
+        "provider": "google_news",
+        "query": "Nigeria Christians persecution Boko Haram",
+        "publisher": "International Christian Concern"
       }
     },
     {
@@ -355,6 +518,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-19",
       "summary": "Nigerian Christian mother acquitted of “blasphemy” charges receives First Step Forum Shahbaz Bhatti Freedom Award ADF International",
+      "summary_zh": "尼日利亚基督徒母亲因“亵渎”指控被无罪释放，荣获“第一步论坛沙赫巴兹·巴蒂自由奖” ADF International",
       "title_zh": "尼日利亚基督徒母亲因“亵渎”指控而被无罪释放，获得First Step Forum Shahbaz Bhatti自由奖",
       "content": "",
       "author": "ADF International",
@@ -362,11 +526,80 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.442734",
+      "fetched_at": "2026-10-29T02:13:11.665400",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
         "publisher": "ADF International"
+      }
+    },
+    {
+      "title": "ICC Releases Report on Financial Networks Enabling Christian Persecution - International Christian Concern",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1pYa0Zob01LdWxUMjExdlBPS0wzUnlFNXlBejVnQWlwOXA2ZHhscG9zNEVPOTQwN2tneTAtS1RqbnVZVjlwc3loa05VdmpGa1FqX3A5Z2YxQnMtUjQ2RDkyMWxBa3prOWNvbUhEdFRTQXF5d01OcjR4TTR2NVFYd3NiT1BMSjJRcEVyRy1iOEZpV09uM0R6TmIxUmtEcDZVSkgzcU1kMjFPeTZn?oc=5",
+      "category": "persecution",
+      "source": "Release International",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-19",
+      "summary": "ICC Releases Report on Financial Networks Enabling Christian Persecution - International Christian Concern International Christian Concern",
+      "summary_zh": "国际刑事法院发布关于金融网络助长基督徒迫害的报告 - International Christian Concern International Christian Concern",
+      "title_zh": "国际商会发布《金融网络促成基督徒受迫害--国际基督徒关注》报告",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.600573",
+      "extra": {
+        "provider": "google_news",
+        "query": "Release International persecution Christians",
+        "publisher": "International Christian Concern"
+      }
+    },
+    {
+      "title": "American Center for Law and Justice Calls for International Action After Pakistan's Supreme Court Upholds Christian’s Death Sentence for Blasphemy in Historic Ruling",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPTkE0VDdlNUszOHBsQ2k4TEFMWDlmX0JXNlJPcHo5QVJ5b3h4RXFZRUNCbzBWQzMxZGFpTWQtUnFBeVNBNzM1REZwc1dtdDh1SC1nMFBZT20xc0g3QkhxT1FIYVhEanp5RE9CZlc2WGwwdjNObW5WX0FyWlE4cTZoS1BvbG1XN25PZl9hNmpLN3pjTVFGTGhpYS1lQWZCaVpMWFg1dDFDR2hycVBVRUxLX2ZvREZrcXZLR2ZlV0NLYl9WQWdXN0NicFVHTU5aX3lDckdmRU9NM21iMFlfNG42Y2JCX1MyVk5CMjllU0hoWFAzZVJybzVhWUUwakR4ZjE1U2RrUjU4X3p1elhXaVVLLVlVMngydFNEWDFiamVOUG5xSGt3NEZ5QTAyakdaVEt5YXZ5WEN3Q2dROXdEUkJ2U1VxQ2ZKQW9fSmRjbHBfdjE3VVF6TTB3MdIB3gJBVV95cUxPQ3NFWHFEWXNmRjhlcm1HdThBM3plQzZ5eDlYcTEyTE5EWENGQXJwQ0FwcmpFX21IOENCY2ZJaXpkM3AwZ3JhYUk0V3ZfdlNTb01SbDFNc3NYLWpibFpOS0hsbzhfdHN0Mnc4MzB6d0VRUnpZc0NfZkxCRU9pS09TSXd2RVRRMjNvMnNyVkY0QTJSV1lMX3pwb1I4X3JTODdCUk5qT21OclNHR3E1VjRqRHB6WHJUX19QZm5VYV9UQmZmRHlmRDIyQy1aV1lpb19pZ1htYU80bmtaMER5bjJ2OFRjSmdCdm9wYjF3ZGRTZXV2aDJsNmdhQU14WThJZXVBOWY4VWFwdHRJRHczUkxuV2FOb01Pc1ZkSC1HZ3ZSb21oUWswZlE4S2dXZ3ZxSHpOa2tQcjgtLUlzaUdhZEYydTVjWjJDZEFTU0NzYWxhenRvQjU4d1RLMGIyaXNGdw?oc=5",
+      "category": "persecution",
+      "source": "巴基斯坦基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-17",
+      "summary": "American Center for Law and Justice Calls for International Action After Pakistan's Supreme Court Upholds Christian’s Death Sentence for Blasphemy in Historic Ruling The Manila Times",
+      "summary_zh": "巴基斯坦最高法院维持基督徒因亵渎罪判处死刑的历史性裁决后，美国法律和正义中心呼吁国际社会采取行动 - 马尼拉时报",
+      "title_zh": "在巴基斯坦最高法院维持克里斯蒂安在历史性裁决中亵渎神灵的死刑判决后，美国法律和司法中心呼吁采取国际行动",
+      "content": "",
+      "author": "The Manila Times",
+      "tags": [],
+      "language": "en",
+      "country": "PK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.177267",
+      "extra": {
+        "provider": "google_news",
+        "query": "Pakistan Christians persecution blasphemy",
+        "publisher": "The Manila Times"
+      }
+    },
+    {
+      "title": "Christian’s Death Sentence Upheld in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaHBiM0JDc2pTTjE1bll1OEw0Y05YVzZIbHdVMEtUTHByV19xTHJGc2tVWE5lWjE0RUNoTElEVDlJdkdtNkpPUHE5bzY0eHdlM2Vkc0hMX3dqSV9FeE9IRFRlRjlNVVlfYzZkY2trZ25SYTk3N0JpWXNSckNFZFladENWcmY3LTg?oc=5",
+      "category": "persecution",
+      "source": "巴基斯坦基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-16",
+      "summary": "Christian’s Death Sentence Upheld in Pakistan International Christian Concern",
+      "summary_zh": "巴基斯坦维持基督徒死刑判决 International Christian Concern",
+      "title_zh": "巴基斯坦维持对克里斯蒂安的死刑判决",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "PK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.176840",
+      "extra": {
+        "provider": "google_news",
+        "query": "Pakistan Christians persecution blasphemy",
+        "publisher": "International Christian Concern"
       }
     },
     {
@@ -377,6 +610,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-15",
       "summary": "Theological symposium in Africa tackles freedom of belief and persecution World Council of Churches",
+      "summary_zh": "非洲神学研讨会探讨信仰自由和迫害问题 世界基督教联合会",
       "title_zh": "非洲神学研讨会探讨信仰自由和迫害问题",
       "content": "",
       "author": "World Council of Churches",
@@ -384,11 +618,310 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.442211",
+      "fetched_at": "2026-10-29T02:13:11.664821",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
         "publisher": "World Council of Churches"
+      }
+    },
+    {
+      "title": "Mob Burns Christian Man’s Home, Pharmacy Over Blasphemy Allegation - International Christian Concern",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUng3cFhIVFBOVFpFdk5MZTVFSDVEODk4SUZHNFRZaUxjTzYyS3p2OF8tcnQ1S0dnaTRNWUFBV3BSWVJXZEJPQVhsdXdMMlZkQ3Jhc2lKekxMdklnd25CVTRNTldpMUFEYlZJLUpwRFlvUUlWdVZjSzNmazloY0h4c0JsQ25GZXpKZURyb0ZsMVZ0Rzh6a1Vqb3UwOXlXUktrS3c?oc=5",
+      "category": "persecution",
+      "source": "巴基斯坦基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-13",
+      "summary": "Mob Burns Christian Man’s Home, Pharmacy Over Blasphemy Allegation - International Christian Concern International Christian Concern",
+      "summary_zh": "暴徒因亵渎指控烧毁基督徒男子的家和药房 - International Christian Concern International Christian Concern",
+      "title_zh": "暴徒焚烧基督徒的家，亵渎指控的药房-国际基督徒关注",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "PK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.176250",
+      "extra": {
+        "provider": "google_news",
+        "query": "Pakistan Christians persecution blasphemy",
+        "publisher": "International Christian Concern"
+      }
+    },
+    {
+      "title": "Pakistan’s blasphemy laws under scrutiny over relentless minority persecution - India Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelBWTmhFeDU1QWpLTTUxUHJ1R2lqZXJncnJzSjEweUc1bkJydW0yYVdXQkM3WGtkMTgtNnA1bWQ4c2thWUxsTDFKLWl3dk1FT2hYNEVYUEdxSkp0YVUwelBvbkVUQUQwdjFJWEVUMDV2TEdqS1p1XzM3eG5LZWNzRmxvZ19sQTd0R0NhS0xTdjI1VTNVVE9ZWjhqYXZaXzRxblMtOGNaQ2g?oc=5",
+      "category": "persecution",
+      "source": "巴基斯坦基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-10",
+      "summary": "Pakistan’s blasphemy laws under scrutiny over relentless minority persecution India Tribune - Chicago",
+      "summary_zh": "巴基斯坦亵渎法因残酷迫害少数民族而受到审查 印度论坛报 - 芝加哥",
+      "title_zh": "巴基斯坦的亵渎法因无情的少数民族迫害而受到严格审查--《印度论坛报》",
+      "content": "",
+      "author": "Chicago",
+      "tags": [],
+      "language": "en",
+      "country": "PK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.176523",
+      "extra": {
+        "provider": "google_news",
+        "query": "Pakistan Christians persecution blasphemy",
+        "publisher": "Chicago"
+      }
+    },
+    {
+      "title": "Myanmar militia sparks anger over military ceremony inside Baptist church",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVAzZE56WURBRm5hREdmNUVQRkliLW14Z25hWWF6Um9zUkJZLVJmaVdOdUxJeklhb082ci1ObnAtU1RQZzdicGUyemk3QzIxZ2NKTV9LdDVIY3cwbXRodjJrQndnaURpajJuLUZtZ3hrOEpEUDZDMVdFR3RqZnpkNkxxelItYTZwdWRMRURHQ2V1cFduSkR4SUJwWlhiOVNIZnF6YkZFekU0VUN5TllrLXhHc1ZlQkRPVGdj?oc=5",
+      "category": "persecution",
+      "source": "CSW 宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-09",
+      "summary": "Myanmar militia sparks anger over military ceremony inside Baptist church Premier Christian News",
+      "summary_zh": "缅甸民兵对浸信会教堂内的军事仪式引发愤怒 - 基督教新闻",
+      "title_zh": "缅甸民兵对浸信会教堂内的军事仪式引发愤怒",
+      "content": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.959658",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian Solidarity Worldwide religious freedom",
+        "publisher": "Premier Christian News"
+      }
+    },
+    {
+      "title": "Muslims burn home, shop of Christian in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMHU4emEyT1F4bHlKNFN6ZndJRGNwVGlFMnBQaUlaLVZlVm5JQndOazA1N2lNM0dzM0dpTlZRdFBhaHlzd01rYUstdXQtamdRRUgzU00wRzc0NkJ3WVp1YXZtYk52WFlzMkhKYUMtM1AweGlDRS1XT3pTZGFEUGU3TURmclczcC1fVkww?oc=5",
+      "category": "persecution",
+      "source": "巴基斯坦基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-09",
+      "summary": "Muslims burn home, shop of Christian in Pakistan www.christiandaily.com",
+      "summary_zh": "巴基斯坦穆斯林焚烧房屋和基督教商店 www.christiandaily.com",
+      "title_zh": "穆斯林在巴基斯坦烧毁家园，开设基督徒商店",
+      "content": "",
+      "author": "www.christiandaily.com",
+      "tags": [],
+      "language": "en",
+      "country": "PK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.176389",
+      "extra": {
+        "provider": "google_news",
+        "query": "Pakistan Christians persecution blasphemy",
+        "publisher": "www.christiandaily.com"
+      }
+    },
+    {
+      "title": "The Disappearing Christian Middle East, Part VI: When Christianity Becomes History",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjJkODVMVWVvRXVNcGNtY0dicnBBdE5QbEVfUGtfdUVYdVlpd3Uzd055amxMM0lCd0hZa0lNMXdqeWtBZ3M4UjkwbHRmM0xVbEo2bm12c2x6QzFyU2lnR3pWR09aRFVINl8wNkRQRGpZZDVucWxPUmlBNmdxMldpRWhhUHJnWWlyNGlVcE54a180N29lNFFMOE9ucHNGVkJrblVLbmxncF9Rcno1MjhqR3BuSlFZdm8?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-07",
+      "summary": "The Disappearing Christian Middle East, Part VI: When Christianity Becomes History International Christian Concern",
+      "summary_zh": "正在消失的中东基督教，第六部分：当基督教成为历史时 International Christian Concern",
+      "title_zh": "消失的基督教中东，第六部分：当基督教成为历史",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:13:12.414548",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "International Christian Concern"
+      }
+    },
+    {
+      "title": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcjE3Vk9Mc2lZd3lUVGN1YVUtVVoyTC0zdmVZbXJLdm43RElXVXNiNmNTUmdVNlhGcnVKNVA3ekRGR2pDMVZTX3U1VlRBOGd0U0ZlWm9Eanptdm52LTZvQ2VzSlFnWEg5eWpUQjJTUlNZVV9jWlBaTnh0aEVKcVFWZUE1ZVp3WjNWZW5TcGZiUlpDdWQ0Z2YxOWZndGNZdTBHdm1yZlMyUHNWTEpMM1ZDd3huRURYaGdUUlBabGVCajJiUUNzakgyUTJuZGU3dFIyNDR6Z0hfNEdVRjY4dHBWTXBB?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-06",
+      "summary": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity International Christian Concern",
+      "summary_zh": "消失的基督教中东，第五部分：圣地--当基督徒离开基督教的诞生地时",
+      "title_zh": "消失的基督教中东，第五部分：圣地—当基督徒离开基督教的诞生地",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:13:12.414987",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "International Christian Concern"
+      }
+    },
+    {
+      "title": "More than 4,200 Christians killed in Nigeria this year - report",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUY0dHF3ZWtsWVlSaFN6MjQxcWVSUWFZUWYybHk4cE5EQTZuRHJObG9jWDJYMkFWOU81OHg4ZFJRY3hXeUdfbDJ0VVpJb0RycGoya1pVODhPRHI0TFZjQ25qQlRYWTh0RWd6MGxlaWcyQ2l6SmRRd2NjdzFRNndQVUFOQ01nMGhESjZsdjVSWkxXVE14aTVmX1A2d2R1UQ?oc=5",
+      "category": "persecution",
+      "source": "尼日利亚逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-05",
+      "summary": "More than 4,200 Christians killed in Nigeria this year - report www.christiantoday.com",
+      "summary_zh": "今年有超过 4,200 名基督徒在尼日利亚被杀 - 报告 www.christiantoday.com",
+      "title_zh": "尼日利亚今年有4200多名基督徒被杀-报告",
+      "content": "",
+      "author": "www.christiantoday.com",
+      "tags": [],
+      "language": "en",
+      "country": "NG",
+      "region": "非洲",
+      "fetched_at": "2026-10-29T02:13:12.233113",
+      "extra": {
+        "provider": "google_news",
+        "query": "Nigeria Christians persecution Boko Haram",
+        "publisher": "www.christiantoday.com"
+      }
+    },
+    {
+      "title": "Serbian Orthodox Church says Christians in Palestine face persecution, discrimination",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdm1XYzgwLTQycmdlSEVCalB0RWtaVzd2UkV1Y1dmZVFOa0lnOWVQbVphcWdXdkRqbXZyeGFWOWRJckltaVpBY2o1Z1NCdk1hRHJkZWFwSlc5cnZYWVFBNkpBWXZ0U0NXNEtzRDAxeUExbmhjbm93RFMyWTVQZ0hnZ2tFa3E1ekJDWllSOWFIdmw3MmNzRTVhd3JwQ3FsVUM5V3ljS3pQMG9sWklwVC1sQ1FmSGY2ZFBxeFdhNDNLNVpoQTNYS2hR0gHMAUFVX3lxTE8xQWV2UFozbk4tREUxRzdnQXhjdkgtRDNnc2s3LTNjYXJZczY3NTF2NUtKeWxPRGZzcUkzNFJyc19oN0FNRzRVWXJkVnRFQnlEandKRmdFY3F6bG81UEdxZFRoN25kVktNMi16TnRqSENzUm9EOThidmR0RXliSzN6UVdiRUx6d0t3ekF5WDVXV25lWk1EcDlIbTJQcHgzWTNjUFRrVmpPN0pWR3Itb2tyczgxVkJjRUJmYVllUmpxWUpMcDJGU2ZKdWM1NA?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-04",
+      "summary": "Serbian Orthodox Church says Christians in Palestine face persecution, discrimination Middle East Monitor",
+      "summary_zh": "塞尔维亚东正教表示巴勒斯坦基督徒面临迫害和歧视 中东监察员",
+      "title_zh": "塞尔维亚东正教会称巴勒斯坦基督徒面临迫害和歧视",
+      "content": "",
+      "author": "Middle East Monitor",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:13:12.414845",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "Middle East Monitor"
+      }
+    },
+    {
+      "title": "Serbian Church warns of Christian persecution in Palestine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWpKQmMwV2NQNTh3SjJyVTBPVEd3UjE4NG84aXlma09xUUE4QkVQMlp5dElRU0NqZ0NucmctV1huUUxESHN6RmFuazJ3THBsc0M2dnhrMlFKelV2MHg0a1hoTU1PdWVXSFNJQU9iZ1FwVUFKT0JpamNRVzR4V0o4SDVROEFyWFNnYWFjdlFURzdxQTBIa2thcjBIOE5Udw?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-04",
+      "summary": "Serbian Church warns of Christian persecution in Palestine Yeni Şafak English",
+      "summary_zh": "塞尔维亚教会警告基督徒在巴勒斯坦遭受迫害 Yeni Şafak",
+      "title_zh": "塞尔维亚教会警告基督徒在巴勒斯坦遭受迫害",
+      "content": "",
+      "author": "Yeni Şafak English",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:13:12.415241",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "Yeni Şafak English"
+      }
+    },
+    {
+      "title": "War, surveillance changing how Christians defend religious freedom, advocates say",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbE9rSkdCQ19tWlZKQUVlcDMyWXR0YlRQSHBiYWFIOF9xR09ZWkstdEtIUmIzc1o3dGNBaDJGRWJ1Q21ZYTV0ODBRT1lrWEZXbXBEelJmb3hEeGgzYnlWSEU4Z1dxVnVILUlpeDFEVHBkcjlYN1FPUkVHT0RhTlV0OUl3YUtwakw5Q29hQ2ExNTYzbFpfVl82X3hseGYtdw?oc=5",
+      "category": "persecution",
+      "source": "CSW 宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-02",
+      "summary": "War, surveillance changing how Christians defend religious freedom, advocates say Christian Post",
+      "summary_zh": "倡导者称战争、监视改变了基督徒捍卫宗教自由的方式 基督邮报",
+      "title_zh": "倡导者说，战争、监视改变了基督徒捍卫宗教自由的方式",
+      "content": "",
+      "author": "Christian Post",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.959088",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian Solidarity Worldwide religious freedom",
+        "publisher": "Christian Post"
+      }
+    },
+    {
+      "title": "Religious nationalism narrows over time and props up authoritarian rule, advocates say",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0JndjUwdGJ0TUJ1ejlGV3JXOUJac2tGUG5XUTRZdENDN08xdzNVeHp2SWNDN0xLdmhvamhsV3dpX0oxT0c5QmZLQjFTc2Y4aE9KNVBQSTAzZ0RTR08wV2VvaG9aeUJyb0l0NmllT3lZVTZDQmFPeWRmYUhJVDhvcUprTHVwT3hSYWVnbWRlYUZkWWVsdXFCcG1QRmFRVnR6emd6YWwwWmE4eVRGSndsNVdYRzZxWjdLeXdFbm1R?oc=5",
+      "category": "persecution",
+      "source": "CSW 宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-02",
+      "summary": "Religious nationalism narrows over time and props up authoritarian rule, advocates say www.christiandaily.com",
+      "summary_zh": "倡导者称，宗教民族主义随着时间的推移而缩小，并支持独裁统治 www.christiandaily.com",
+      "title_zh": "倡导者说，宗教民族主义随着时间的推移而缩小，并支持专制统治",
+      "content": "",
+      "author": "www.christiandaily.com",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.959227",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian Solidarity Worldwide religious freedom",
+        "publisher": "www.christiandaily.com"
+      }
+    },
+    {
+      "title": "Pakistan: New Report Highlights Discrimination Against Religious Minorities - ZENIT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTV0dEljYklyYkRCVFdqdVBPYjdMTHFzVndEUi03d195WEFpWHh3bkR4TGh5RThaT3RLOVVoX1pQWV9XQnVZM3J5ZmcxbF9mTHE2cjJ6dTIzcGNTTGwxMVpleld5cUhNa1Q1b3VlVFBRdzJzRDQ1N01QX1NJUkRQcFdobEM0ZVBKRU11eUFDSTZDUnpzQzVWZjluV3g2TnZMT2NRRW1CWQ?oc=5",
+      "category": "persecution",
+      "source": "巴基斯坦基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-02",
+      "summary": "Pakistan: New Report Highlights Discrimination Against Religious Minorities ZENIT - English",
+      "summary_zh": "巴基斯坦：新报告强调对宗教少数群体的歧视 ZENIT - 中文",
+      "title_zh": "巴基斯坦：新报告凸显了对宗教少数群体的歧视--ZENIT",
+      "content": "",
+      "author": "English",
+      "tags": [],
+      "language": "en",
+      "country": "PK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.176983",
+      "extra": {
+        "provider": "google_news",
+        "query": "Pakistan Christians persecution blasphemy",
+        "publisher": "English"
+      }
+    },
+    {
+      "title": "The Disappearing Christian Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85Q0VCa3VxekFPT1ZFOUk5dDN5dm1POWJyYkFjcVFGWEZzdTRhOEp4aUlkVE5pUkJsTi1UdXBUNGFWWTBtSVgzV2I4ejNTT1pTTjJOTHFn?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-01",
+      "summary": "The Disappearing Christian Middle East Assyrian International News Agency",
+      "summary_zh": "正在消失的中东基督徒 亚述国际通讯社",
+      "title_zh": "正在消失的中东基督教",
+      "content": "",
+      "author": "Assyrian International News Agency",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:13:12.415115",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "Assyrian International News Agency"
       }
     },
     {
@@ -415,6 +948,98 @@
       }
     },
     {
+      "title": "No indication Trump addressed religious freedom with China’s Xi Jinping",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3ZvaXRDN2daMFRUekE5b0VNbGRsYTFiVHBXR2pWQWVLWEUwRldueks5Yzk0VEtyWHdvcWtCdEN5YktCeHYwZ2JDV3FWNDctcVhlR1NhV1NkZ0tVSnVVVDVBUnhELU5GOWVsMUNpVWUwZFk4RmM0QVRheEs5bXExcEh1aXU3b2IzTEg0WUxucFlBZUpPMWY4VXc1UGRFbnc?oc=5",
+      "category": "persecution",
+      "source": "CSW 宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-28",
+      "summary": "No indication Trump addressed religious freedom with China’s Xi Jinping Biblical Recorder",
+      "summary_zh": "没有迹象表明特朗普在中国的习近平圣经录音机上谈到了宗教自由",
+      "title_zh": "没有迹象表明特朗普与中国的习近平谈到宗教自由",
+      "content": "",
+      "author": "Biblical Recorder",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.959936",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian Solidarity Worldwide religious freedom",
+        "publisher": "Biblical Recorder"
+      }
+    },
+    {
+      "title": "American Christians Should Take Religious Persecution as Seriously as Christ Did",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZnJKZWxqZkNrSnVHQllNMUpXUUt3RjNoNTdLeWFvZkU2MmVUNmNSX3ZIZWpOd3RQZmFRQ0xmcURXSEZ2dGh0aWU1Tmpoa1hjeF9YR1JoYkRuMXM5Y3Z0THpfczQ5Mi1SLUFnU2xxVmt1cVA4YjRIcWpVbnNYYzNLdg?oc=5",
+      "category": "persecution",
+      "source": "朝鲜基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-27",
+      "summary": "American Christians Should Take Religious Persecution as Seriously as Christ Did The Dispatch",
+      "summary_zh": "美国基督徒应该像基督一样严肃对待宗教迫害",
+      "title_zh": "美国基督徒应该像基督一样严肃对待宗教迫害",
+      "content": "",
+      "author": "The Dispatch",
+      "tags": [],
+      "language": "en",
+      "country": "KP",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.525726",
+      "extra": {
+        "provider": "google_news",
+        "query": "North Korea Christians persecution",
+        "publisher": "The Dispatch"
+      }
+    },
+    {
+      "title": "At least one Christian slain every 86 minutes in Nigeria, study says",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlFDX1Z6SzdDbFlyXzI4TWxzQzBXalBITFAzRWd4dmpEbVA2X1diMmMxZHMzeHdjSzR6alFEcFUzekFpdHpka0FGcERacG9lQ3ZYa1g2a2stUFY1dnh6Rjl3S0t5WllBaHFrNFVWOWIydEstVjJpazgwMEdaQ1RrUXFCczBid1ZJN0RyN0FGZ21wLVpKa2FZMWNzTDQ4NXBwYXVtUDRR?oc=5",
+      "category": "persecution",
+      "source": "尼日利亚逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-26",
+      "summary": "At least one Christian slain every 86 minutes in Nigeria, study says www.christiandaily.com",
+      "summary_zh": "研究称尼日利亚每 86 分钟至少有一名基督徒被杀 www.christiandaily.com",
+      "title_zh": "研究表明，尼日利亚每86分钟至少有一名基督徒被杀",
+      "content": "",
+      "author": "www.christiandaily.com",
+      "tags": [],
+      "language": "en",
+      "country": "NG",
+      "region": "非洲",
+      "fetched_at": "2026-10-29T02:13:12.234082",
+      "extra": {
+        "provider": "google_news",
+        "query": "Nigeria Christians persecution Boko Haram",
+        "publisher": "www.christiandaily.com"
+      }
+    },
+    {
+      "title": "What do persecuted Christians know that we don’t?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDR4bW1LWW12RFM0clhOZlNkVURyTjFRbFhWTlBvZ1FfTEU1bkh1SVpJQ2k4TjJBMlUzbGoyRjZsWm5lNnVIbDk2ZW1nOXNleDl2Ulc5aTYtWWdoZlh2dFhCTk1nNFlweklIZUw2ZVRjd1M3bUFWZGlTTXU1WDNlOFlGTmUtc25jeUg5NUNwUjFQN2h5T0NlZg?oc=5",
+      "category": "persecution",
+      "source": "Release International",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-25",
+      "summary": "What do persecuted Christians know that we don’t? Voice of Persecuted Christians",
+      "summary_zh": "受迫害的基督徒知道哪些我们不知道的事情？受迫害基督徒的声音",
+      "title_zh": "受迫害的基督徒知道我们不知道什么？",
+      "content": "",
+      "author": "Voice of Persecuted Christians",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.601214",
+      "extra": {
+        "provider": "google_news",
+        "query": "Release International persecution Christians",
+        "publisher": "Voice of Persecuted Christians"
+      }
+    },
+    {
       "title": "China",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zeWx3ZUw5dkhmUGJ5bmpvejItalpDYUU4NU12aEN1LTFKblNkcTNMVVhFbTA5d1QxSjNGR0VPT3FfOTJGbGVtVmVjTQ?oc=5",
       "category": "persecution",
@@ -430,7 +1055,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.319616",
+      "fetched_at": "2026-10-29T02:13:11.563535",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -453,7 +1078,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.319143",
+      "fetched_at": "2026-10-29T02:13:11.563277",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -476,7 +1101,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.319984",
+      "fetched_at": "2026-10-29T02:13:11.563799",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -499,7 +1124,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.320142",
+      "fetched_at": "2026-10-29T02:13:11.563917",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -522,11 +1147,126 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.320431",
+      "fetched_at": "2026-10-29T02:13:11.564140",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
         "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "Kazakhstan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVUFhGNUhiMEUxMzJFdkYtV3lXazU4Qy1GT3JjOG96R1ItUjBrMndpcTlWSnNkbHZuOHByZVloNmhRaU5MU016RTJLRHlpTW5FckE?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "Kazakhstan Open Doors International",
+      "summary_zh": "哈萨克斯坦国际敞开的门",
+      "title_zh": "哈萨克斯坦",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.564360",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "New report paints worrying picture for religious minorities in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRXVzZFMyOGVxNnBZTlZfcjFVRzRoa1dPYnZWTTVkYmFIZ21jUmszNXFFUWI4TEZPQ19sVlhHZEFrTkQwY0RTSG55TlpnYWxlaTJiUnE3bHdZNmxkdGl5dW5maFBUbnAxYkdUOVdVbzhtQkxCZjdJTEtLd1JVaDlKMHBfLWNERUdjc25wMUI0Q0xrc3hEUVJwWkZMdw?oc=5",
+      "category": "persecution",
+      "source": "巴基斯坦基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "New report paints worrying picture for religious minorities in Pakistan Church in Need",
+      "summary_zh": "新报告描绘了巴基斯坦宗教少数群体的令人担忧的状况 Church in Need",
+      "title_zh": "新报告为巴基斯坦宗教少数群体描绘了令人担忧的画面",
+      "content": "",
+      "author": "Church in Need",
+      "tags": [],
+      "language": "en",
+      "country": "PK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.177111",
+      "extra": {
+        "provider": "google_news",
+        "query": "Pakistan Christians persecution blasphemy",
+        "publisher": "Church in Need"
+      }
+    },
+    {
+      "title": "North Korea",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50NUQ1TDBZVFlIMkRibjNpSW5fd0VFcVBqaWlmLXFHTEowdE1FSGtqYzJIVnoxYW5ZdHlKaDNtdHFMWkVpQ2hBbkZremppZ2x4ZDZZ?oc=5",
+      "category": "persecution",
+      "source": "朝鲜基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "North Korea Open Doors International",
+      "summary_zh": "朝鲜敞开的门国际",
+      "title_zh": "北韓",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "KP",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.524967",
+      "extra": {
+        "provider": "google_news",
+        "query": "North Korea Christians persecution",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "Jesus is desperately needed in this 100 percent Muslim nation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObE1QQVZNNEJlcVhGSmFWNlZYUWwxeGZoV3liRDc2Zk9mOWFNaFF0T0x5MVRyZi1Ed1V2bEZ3WkpWemxkLXhQXzhpaGt1bnM5cWNBWXBsVTRlRHR6VkZTeVU5V0x4YWRubXhWZEh3MEhLOV9tcEs5QTFMRF85T29YU0xYbVNnS2t3ZXpvblhueFdpYlRJUnZtUQ?oc=5",
+      "category": "persecution",
+      "source": "殉道者声音",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-23",
+      "summary": "Jesus is desperately needed in this 100 percent Muslim nation Mission Network News",
+      "summary_zh": "这个 100% 穆斯林国家迫切需要耶稣 Mission Network News",
+      "title_zh": "在这个100%的穆斯林国家迫切需要耶稣",
+      "content": "",
+      "author": "Mission Network News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:11.907351",
+      "extra": {
+        "provider": "google_news",
+        "query": "Voice of the Martyrs persecution",
+        "publisher": "Mission Network News"
+      }
+    },
+    {
+      "title": "Church-less believers stand strong in North Korea",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjloYndwbFlibm5PVERPNWs4OWMxcGFrc211UEx6bjhUc2ppeElsMG1qR2tKWlZtM1lfVE5yVlF1VDZfUUVXQ3N1eGhmd3BvcW85VHFJMDhMbG42N0p4TlhMTGdYSktjamstRFpwWGhWajRFUTF4RmdyNkZGbnFlZXZLalRfUmFG?oc=5",
+      "category": "persecution",
+      "source": "朝鲜基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-21",
+      "summary": "Church-less believers stand strong in North Korea Mission Network News",
+      "summary_zh": "无教会信徒在朝鲜坚挺 宣教网络新闻",
+      "title_zh": "无教会信徒在朝鲜站稳脚跟",
+      "content": "",
+      "author": "Mission Network News",
+      "tags": [],
+      "language": "en",
+      "country": "KP",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.525217",
+      "extra": {
+        "provider": "google_news",
+        "query": "North Korea Christians persecution",
+        "publisher": "Mission Network News"
       }
     },
     {
@@ -545,11 +1285,57 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.319831",
+      "fetched_at": "2026-10-29T02:13:11.563681",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
         "publisher": "Open Doors US"
+      }
+    },
+    {
+      "title": "When freedom of religion is not",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBheVRFamRyM1hMVEh2eWUzazNVTkJ4Y09IS0V2YTBCUWdiMEtJTFVEMGNZaFgwUGQ5eHpTMXIybi00SVVGM1pjc21qWlpBSktIU1M2NGhjSE1nX3NYYzY1X09GWWljMnZWVmJ1QVVDOVlDLXR5N3c?oc=5",
+      "category": "persecution",
+      "source": "印度宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-12",
+      "summary": "When freedom of religion is not www.christiandaily.com",
+      "summary_zh": "当宗教自由不再存在时 www.christiandaily.com",
+      "title_zh": "当宗教自由不是",
+      "content": "",
+      "author": "www.christiandaily.com",
+      "tags": [],
+      "language": "en",
+      "country": "IN",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.319273",
+      "extra": {
+        "provider": "google_news",
+        "query": "India Christians religious freedom persecution",
+        "publisher": "www.christiandaily.com"
+      }
+    },
+    {
+      "title": "Nigeria: 3,000 people killed and 3,000 kidnapped: the toll of anti-Christian persecution in the first 8 months of 2026 - ZENIT",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFY4R2ZaY0txQXdGc0w5cVQwZVN4V2dINGJRVHlqWkxsM2Y4VnM1RXRYemlydXNjSnVMb0p6cVJMMzRDQXljcjUtZnhDSnBFeEZybHdzbmdpYV9sdnBYVVlrX2ZyZElnMU1FUFI1cko4VldjdnJUbk1BT0cyamV0cnZfeTlxWktMeXIyWWpqSXhoa09BamdmQWpuYnFUZ0VIZk9iM2M3OHdzazNBeTJsbEVSNG9rcWtvbWJtNDIzNXNCSzFseWxwUnBBQ2lBbjIzVFpJLTQ4YWFQNjJV?oc=5",
+      "category": "persecution",
+      "source": "尼日利亚逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-10",
+      "summary": "Nigeria: 3,000 people killed and 3,000 kidnapped: the toll of anti-Christian persecution in the first 8 months of 2026 ZENIT - English",
+      "summary_zh": "尼日利亚：3,000 人被杀、3,000 人被绑架：2026 年前 8 个月反基督徒迫害造成的损失 ZENIT - 中文",
+      "title_zh": "尼日利亚： 3,000人被杀， 3,000人被绑架： 2026年前8个月反基督教迫害的人数- ZENIT",
+      "content": "",
+      "author": "English",
+      "tags": [],
+      "language": "en",
+      "country": "NG",
+      "region": "非洲",
+      "fetched_at": "2026-10-29T02:13:12.233246",
+      "extra": {
+        "provider": "google_news",
+        "query": "Nigeria Christians persecution Boko Haram",
+        "publisher": "English"
       }
     },
     {
@@ -568,11 +1354,80 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.256338",
+      "fetched_at": "2026-10-29T02:13:11.769370",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 宗教自由 逼迫",
         "publisher": "对华援助新闻网"
+      }
+    },
+    {
+      "title": "New report says over 3000 Christians killed in Nigeria in first 8 months of 2026",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFdXRnBwQnRqTExYZ3RNNWFyNWxVQjJkZ19Db2RXcDZOc3NwRU1ILVRaY1ZGYnZmbGRLMy01SU5ZR05FaXNud2hyZGthdzh4a1hiTmczMWFZZ24xVHh6TmdZQzdmZlJaSDRDUzMwWDBMNnBmM2oxYTZWVVpWUVd1bW1ZbzRoaEV5aWlpeEs0WjBFeUJHQTRSSzdxWVpaZGdxaWlLdDdNZDNKMm4yanVwVnl5Sk1VX2Q1bHpwWU16bFpkTXJ4aGh0dXpkdw?oc=5",
+      "category": "persecution",
+      "source": "尼日利亚逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-08",
+      "summary": "New report says over 3000 Christians killed in Nigeria in first 8 months of 2026 Catholic World Report",
+      "summary_zh": "新报告称 2026 年前 8 个月尼日利亚有 3000 多名基督徒被杀 天主教世界报告",
+      "title_zh": "新报告称2026年前8个月有3000多名基督徒在尼日利亚遇害",
+      "content": "",
+      "author": "Catholic World Report",
+      "tags": [],
+      "language": "en",
+      "country": "NG",
+      "region": "非洲",
+      "fetched_at": "2026-10-29T02:13:12.233442",
+      "extra": {
+        "provider": "google_news",
+        "query": "Nigeria Christians persecution Boko Haram",
+        "publisher": "Catholic World Report"
+      }
+    },
+    {
+      "title": "Visions of Jesus: Many Muslims Turning to Christ Amid Middle East Conflict",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0VfNEVNSktDM0NlRGxuakVvY1FqSDAtLW03VHE4SVBDZnowWUFKNTFiQ29DUzJaczlqYWhnd3BvOVY4ZVFUcTI5b2ozTjB3V3VTcmdWSGxvc1ZrUWszaTlVTlZwdlZnWm40Z2cwemRBSU84a190b0lxeUNmanJiWU1kRzljR2dfM2I5cVFvY0VHd1RWTWNF?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-07",
+      "summary": "Visions of Jesus: Many Muslims Turning to Christ Amid Middle East Conflict CBN.com",
+      "summary_zh": "耶稣的异象：许多穆斯林在中东冲突中转向基督 CBN.com",
+      "title_zh": "耶稣的异象：许多穆斯林在中东冲突中转向基督",
+      "content": "",
+      "author": "CBN.com",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "fetched_at": "2026-10-29T02:13:12.415364",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "CBN.com"
+      }
+    },
+    {
+      "title": "RSS Celebrates in New York Amid Continuing Persecution in India - International Christian Concern",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2sxLTVVVmJWcUNYcDkwVHIxNHhfOUpjbjZ0Qkh2RFQ5eWdGWk5BVmdBNF9hTENBNzdMNGl3b0k1c1ZJV2dkbzBXdjFSV0JVNEJPNk1qRVViMWdTcnREVVBjMl9HVkRWNnZleGJWYXlGTmRlaDhBb3ZrbFVYTzZNbHRFMUNqVHVBQW1YcGJuYWJGTGV5MDQxSnJzdWRGd29u?oc=5",
+      "category": "persecution",
+      "source": "印度宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-04",
+      "summary": "RSS Celebrates in New York Amid Continuing Persecution in India - International Christian Concern International Christian Concern",
+      "summary_zh": "RSS 在纽约庆祝印度持续的迫害 - International Christian Concern International Christian Concern",
+      "title_zh": "RSS在印度持续迫害中在纽约庆祝-国际基督徒关怀",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "IN",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.319399",
+      "extra": {
+        "provider": "google_news",
+        "query": "India Christians religious freedom persecution",
+        "publisher": "International Christian Concern"
       }
     },
     {
@@ -613,11 +1468,34 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.256520",
+      "fetched_at": "2026-10-29T02:13:11.769580",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 宗教自由 逼迫",
         "publisher": "基督日報"
+      }
+    },
+    {
+      "title": "CAIR Joins USCIRF in Call for Sanctions Against Indian RSS Members Responsible for Persecution of Religious Minorities",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUVRsWWZENzJILVFXSURCak00X0c4M2VjU0FPVkdDMDBTQXdfa2FhZUpOLUlJREYwQ0lRSVdsX2VDMWd1NWNZcnliTHBiLWg4a0JtMExFUUgzcmVMVmwydXRHb1FocE5aM28yOFJabzlwUFBzMGJGTm5EM0R4b0tFNkYtcFlEbEFLV0hfdmtyNEpWREZkTDh3c1hZZTBob1BrMDVpZGlSRnBERkp3S0U0dnBRVHpfUW4xcEstR0xydFlzejhETXdCWnc1NnlETGlOM2tXRGUtR0dJUW92aGR6T0hGVlNoV2k2blp3?oc=5",
+      "category": "persecution",
+      "source": "印度宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-20",
+      "summary": "CAIR Joins USCIRF in Call for Sanctions Against Indian RSS Members Responsible for Persecution of Religious Minorities CAIR",
+      "summary_zh": "CAIR 与 USCIRF 一起呼吁对负责迫害宗教少数群体的印度 RSS 成员实施制裁 CAIR",
+      "title_zh": "CAIR与USCIRF一道呼吁制裁对迫害宗教少数群体负责的印度RSS成员",
+      "content": "",
+      "author": "CAIR",
+      "tags": [],
+      "language": "en",
+      "country": "IN",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.320071",
+      "extra": {
+        "provider": "google_news",
+        "query": "India Christians religious freedom persecution",
+        "publisher": "CAIR"
       }
     },
     {
@@ -643,6 +1521,52 @@
       }
     },
     {
+      "title": "India Bill That Threatens Christian Ministries Paused Amid Outcry",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmlaRGlERnBpUkFhd1BIdEU5QUZmSjZFNnFWcVZMUV9QQTZhVFRjbHVVR1B0b1R0WUM3Uk52eW1zS0FjWWhXZlZKLTZQWHdVeE5MZnFfQjBtZHBNM0pQQWdvOXY3NmhwLUlsMjNad0w4MG0tUDBDeGwwTmFHVkhYTC1jWk1RLTBBdmdfUDRGTzJkSmNILVJ3WkhLODZZRGhMYjhwWnR4Y255REttWGY4d3ZKRjdteDg?oc=5",
+      "category": "persecution",
+      "source": "印度宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-17",
+      "summary": "India Bill That Threatens Christian Ministries Paused Amid Outcry Billy Graham Evangelistic Association",
+      "summary_zh": "印度威胁基督教事工的法案在强烈抗议中暂停 比利·格雷厄姆福音派协会",
+      "title_zh": "威胁基督教事工的印度法案在抗议声中暂停",
+      "content": "",
+      "author": "Billy Graham Evangelistic Association",
+      "tags": [],
+      "language": "en",
+      "country": "IN",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.319152",
+      "extra": {
+        "provider": "google_news",
+        "query": "India Christians religious freedom persecution",
+        "publisher": "Billy Graham Evangelistic Association"
+      }
+    },
+    {
+      "title": "The Modern Axis of Christian Persecutors",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcXhETkp5bFNLcVVndmtmU2xLNHNVOWVkRzdnNG9zYnlMSWc4Y3MwVVRKNHg0SzI0Z1ptcmVNcy15NVVTX25HMVBnd2IzNXpPM1p6QkJhalI4b1VvT3ZKSHZVQVF5XzBlbXRFRGRPTFlodXJZSko1SDNMZUM4Z3NoVA?oc=5",
+      "category": "persecution",
+      "source": "朝鲜基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-11",
+      "summary": "The Modern Axis of Christian Persecutors Providence Magazine",
+      "summary_zh": "基督教迫害者的现代轴心 普罗维登斯杂志",
+      "title_zh": "基督教迫害者的现代轴心",
+      "content": "",
+      "author": "Providence Magazine",
+      "tags": [],
+      "language": "en",
+      "country": "KP",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.525470",
+      "extra": {
+        "provider": "google_news",
+        "query": "North Korea Christians persecution",
+        "publisher": "Providence Magazine"
+      }
+    },
+    {
       "title": "India",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10N2NCM0tkaEdKTEI4c2Jsb01LVzJrLWgzYXZ5WXJXUVpyU3JBcGFrdGFFMjFnMTZnT20wX281NzZ5YmFyNkhrQk1Uc3k4dw?oc=5",
       "category": "persecution",
@@ -658,7 +1582,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.318985",
+      "fetched_at": "2026-10-29T02:13:11.562971",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -703,7 +1627,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.319467",
+      "fetched_at": "2026-10-29T02:13:11.563408",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -726,7 +1650,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.320288",
+      "fetched_at": "2026-10-29T02:13:11.564028",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -749,10 +1673,33 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.320573",
+      "fetched_at": "2026-10-29T02:13:11.564251",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors US"
+      }
+    },
+    {
+      "title": "North Korea",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42UmhoNmVOdnFQTU9TUzhhZjBNSjVYUVU1WWR6dWZLZ1l5cFZDTkV6Z2lIaXJjTWFKS3ZiS2M1WjF1c1Q3dzFtU1d0M1B4WWd1RGVoX3dB?oc=5",
+      "category": "persecution",
+      "source": "朝鲜基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-04",
+      "summary": "North Korea Open Doors US",
+      "summary_zh": "朝鲜向美国敞开大门",
+      "title_zh": "北韓",
+      "content": "",
+      "author": "Open Doors US",
+      "tags": [],
+      "language": "en",
+      "country": "KP",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.524839",
+      "extra": {
+        "provider": "google_news",
+        "query": "North Korea Christians persecution",
         "publisher": "Open Doors US"
       }
     }

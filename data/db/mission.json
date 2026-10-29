@@ -1,8 +1,8 @@
 {
   "category": "mission",
   "label": "宣教运动",
-  "count": 17,
-  "updated_at": "2026-10-29T10:03:58.956761+08:00",
+  "count": 36,
+  "updated_at": "2026-10-29T10:20:55.866570+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -22,7 +22,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.419474",
+      "fetched_at": "2026-10-29T02:13:12.354658",
       "extra": {
         "feed_type": "rss20"
       }
@@ -45,7 +45,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.419574",
+      "fetched_at": "2026-10-29T02:13:12.354744",
       "extra": {
         "feed_type": "rss20"
       }
@@ -68,7 +68,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.419745",
+      "fetched_at": "2026-10-29T02:13:12.354857",
       "extra": {
         "feed_type": "rss20"
       }
@@ -91,7 +91,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.419835",
+      "fetched_at": "2026-10-29T02:13:12.354928",
       "extra": {
         "feed_type": "rss20"
       }
@@ -114,7 +114,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.419917",
+      "fetched_at": "2026-10-29T02:13:12.354991",
       "extra": {
         "feed_type": "rss20"
       }
@@ -138,7 +138,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.419995",
+      "fetched_at": "2026-10-29T02:13:12.355507",
       "extra": {
         "feed_type": "rss20"
       }
@@ -164,7 +164,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.420083",
+      "fetched_at": "2026-10-29T02:13:12.355610",
       "extra": {
         "feed_type": "rss20"
       }
@@ -192,7 +192,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.420190",
+      "fetched_at": "2026-10-29T02:13:12.355748",
       "extra": {
         "feed_type": "rss20"
       }
@@ -221,7 +221,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.420273",
+      "fetched_at": "2026-10-29T02:13:12.355822",
       "extra": {
         "feed_type": "rss20"
       }
@@ -250,9 +250,124 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.420353",
+      "fetched_at": "2026-10-29T02:13:12.355900",
       "extra": {
         "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "Texas Christians die in wreck on Africa mission trip",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFuQWhHU0pfNnF2d1c5cWpLSUlqU2E5Vk9YdFJzaHg3eWU0WHN3aHRsUDJqQy0tMEVFZkJwY2VTR0JlMVZ5MEx0eVduRTcyUk9UdW41QmlpWkNiQV8zUEoxcU9zQU5RTlY1QWhEdDkzZkRfUzFkdGVpSnE3c25uZFFyMzhNV0ozQ21NMQ?oc=5",
+      "category": "mission",
+      "source": "非洲宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-24",
+      "summary": "Texas Christians die in wreck on Africa mission trip The Christian Chronicle",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "The Christian Chronicle",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "fetched_at": "2026-10-29T02:13:12.980114",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian mission Africa",
+        "publisher": "The Christian Chronicle"
+      }
+    },
+    {
+      "title": "Confronting workplace injustice part of Christian mission, Nigerian bishop says",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjNSSVI2cV8tREVRUFNNd2Y0LVlyU0J2MDNHbGtibTJuSlNiVVZvbjlydHNJTHI4NFBZM2pKQkZpSy1mS25yQmNWYkkzY1F2bUNOS0Nvd05vdGpFZWp6amxzbXRvUXlCWXplMWhmUTZHa3dyT3lqUUJ4TkNyWmg4RkdTUUNVRW1JLTFhWWJrN0RydUQ0ZVRVdW93V2RkV1ZOeG1ZVlpjdkZSaWZ5VnowSWJ2ZHoycHM?oc=5",
+      "category": "mission",
+      "source": "非洲宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-22",
+      "summary": "Confronting workplace injustice part of Christian mission, Nigerian bishop says EWTN News",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "EWTN News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "fetched_at": "2026-10-29T02:13:12.980292",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian mission Africa",
+        "publisher": "EWTN News"
+      }
+    },
+    {
+      "title": "学园传道会CM2007分享会深化普世校园使命之承担 （8月13日消息）",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSEhTMnIwb1MzTmdab0dtd25raTlpZXRUMnVic1M0WGFaVThreVlHbkg1VjJoVzFwOHdmdlZESW5ZQzd4eF8zNy0wUzA1ZGNLYWZYYnlrcDVZNWpTWGRkNUtnN3NINldxem50VS1kcmhObl9PSlR6ZG5lZzQ0UU5FM0pVVmJlX3lwVjZHSkpZQkRBcnBtU21fTlJWX2dUbXZ1eXJ3Rkh1Z29Zb3QyVU9Oeg?oc=5",
+      "category": "mission",
+      "source": "学园传道会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-20",
+      "summary": "学园传道会CM2007分享会深化普世校园使命之承担 （8月13日消息） 《時代論壇》Christian Times",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "《時代論壇》Christian Times",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.640548",
+      "extra": {
+        "provider": "google_news",
+        "query": "学园传道会 校园 福音",
+        "publisher": "《時代論壇》Christian Times"
+      }
+    },
+    {
+      "title": "New York Guard Mobilizes for Southern Border Mission",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3dNRTVrcmY0M2JQV2ViYU1faklFTENTQzdjRlhYX1dzUG0tb0ZPMmhVd09IZFpBZS03LXk1c0RRMTFNTmU0dVJPNlpVb1ZHNTVOcHB2ZmpQanh3eEF0ME1vMU5fWGJrNTZQTFpvRFVmeE1kNGpYeWJUclJkakQwcXJyOXMtRjlEc2RrSXc5V1pBcGx2X1BoS3F6LWt5dmNyTHlJN2RncDJDdEtXdnN0Q1JnYTdTeHRY?oc=5",
+      "category": "mission",
+      "source": "Operation Mobilization",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-14",
+      "summary": "New York Guard Mobilizes for Southern Border Mission National Guard.mil",
+      "summary_zh": "纽约警卫动员执行南部边境任务国民警卫队.mil",
+      "title_zh": "纽约警卫队动员起来执行南部边境任务",
+      "content": "",
+      "author": "National Guard.mil",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.601389",
+      "extra": {
+        "provider": "google_news",
+        "query": "Operation Mobilization mission",
+        "publisher": "National Guard.mil"
+      }
+    },
+    {
+      "title": "What is life like for mission worker kids in North Africa?",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HNEdNTVhRa1c4MEhlOFlWNEJsaFl4dzdIRXVaNERTS203cTRBRTJoZHZNT2VHVHhRVklxWklSdTIzZkxoTDhGM29wVHRVM21USlB0Sm9wTmgtcDI5bTFtTDFCQW1qRGRmdzBlT2NB?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-14",
+      "summary": "What is life like for mission worker kids in North Africa? Serving in Mission",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Serving in Mission",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.941506",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "Serving in Mission"
       }
     },
     {
@@ -337,11 +452,34 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.486114",
+      "fetched_at": "2026-10-29T02:13:12.257353",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
         "publisher": "www.christiantoday.com"
+      }
+    },
+    {
+      "title": "Richard and Valérie teach mission workers and Christians to walk in spiritual authority",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OT2ZnMXduVVJKNGZRTUpPOGtxeGo5T3JXcHp3RHJleENpY0hGRWZLMWZZR1VKT3huSDBJUXd5OENIQmVjRUtvSVowU21fYUEyeFBBWXB3X0VGOWt4VDhtM0VxbDVUMGRKNVlpbjRqOV9wUFBaLXc?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-25",
+      "summary": "Richard and Valérie teach mission workers and Christians to walk in spiritual authority Serving in Mission",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Serving in Mission",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.941964",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "Serving in Mission"
       }
     },
     {
@@ -365,6 +503,29 @@
         "provider": "google_news",
         "query": "基督教 宣教 宣教士",
         "publisher": "基督日報"
+      }
+    },
+    {
+      "title": "Missionaries are still going to Africa. But for African Christian leaders, it is the West that needs help",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIOU9WMEtvN085WXYyYnhaSmhxZ3hRaGRhX0h0NTI5RDYyeHNvMWJ3c0dueGhzcmFiV1ozUGhtaXZBU0tlZTVGbGxCOHg5ZW5OMjhxVGFPMnFhRGJHT0x5V3dTdUFMaFZmdlJfOWpPeXFHN3JtUHBlZXBOTnpsdw?oc=5",
+      "category": "mission",
+      "source": "非洲宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-04",
+      "summary": "Missionaries are still going to Africa. But for African Christian leaders, it is the West that needs help CNN",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "CNN",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "fetched_at": "2026-10-29T02:13:12.980445",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian mission Africa",
+        "publisher": "CNN"
       }
     },
     {
@@ -406,10 +567,286 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:10.513337",
+      "fetched_at": "2026-10-29T02:13:12.330828",
       "extra": {
         "provider": "google_news",
-        "query": "基督教 宣教 宣教士",
+        "query": "基督教 宣教 宣教士 差会",
+        "publisher": "基督日報"
+      }
+    },
+    {
+      "title": "People Vision: Reimagining Mission to Least Reached Peoples",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObVlybE9uQkRHbzNoeVBsaVJIbl9XSDMwZGtXdFZJdVpYOGJRbzh1aGtfYnlVTlZUUC1rRnlOZmVVTHJxQkdXR1A3eTh4VWZDZ1pqTmU0dkk1WjhhVHY2eE1BVDdtckkybzN6LVM3dzg0LUM0cVZLRlJfMHJBR2U4QkNuUlJDTXlhclljTlduZ2MzMWlablEzbTVsMHE3NWFwR19lbWtKWFRxS1l5RXNndQ?oc=5",
+      "category": "mission",
+      "source": "未得之民",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-18",
+      "summary": "People Vision: Reimagining Mission to Least Reached Peoples The Gospel Coalition",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "The Gospel Coalition",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:13.044540",
+      "extra": {
+        "provider": "google_news",
+        "query": "unreached people groups mission",
+        "publisher": "The Gospel Coalition"
+      }
+    },
+    {
+      "title": "Religiosity and corruption tolerance in Muslim-majority countries",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWxwcnFwSFJhUVFvZUt4cTN3STB3RUE3VHNzOWpURGR2REJxdFhrU3VwUkNyOE5sWmVlMFBWTGVmMmUzSTdBM3pBbU9CRDZFZmkxLTBySm9HdnVEWTRGZDR1dFN3Vk1qeGQzaFRlNE5fSjE1TkxGMGtJa0ROSkphNER1cWFlbk15R09leklPZw?oc=5",
+      "category": "mission",
+      "source": "Frontiers 伊斯兰宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-17",
+      "summary": "Religiosity and corruption tolerance in Muslim-majority countries Frontiers",
+      "summary_zh": "穆斯林占多数的国家的宗教信仰和腐败容忍度",
+      "title_zh": "穆斯林占多数的国家的宗教信仰和腐败容忍度",
+      "content": "",
+      "author": "Frontiers",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.656320",
+      "extra": {
+        "provider": "google_news",
+        "query": "Frontiers Islamic world mission",
+        "publisher": "Frontiers"
+      }
+    },
+    {
+      "title": "The architect of defiance: the Shaheed who guarded faith, frontiers, and future: Remembering President Gen Zia-ul-Haq Shaheed on his death anniversary",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPaWZxaWRzb3V5NGhZcEkzTGMzbUI2dWFQNzEzV3VNU3pLUlRhWXVrNXJsekJBVlVQTVE1aEdtTkF5dEhjQ3lab3RsTktZT3BfS0FsdkxXRmJadHZ2ODd0UGxEVVBVR1d6Y2swWmZ1VmZ6TlJYRXJJY0lidFNZM2JsUHNaVzFaU2Jpa3M3NTdvcXVRNnF0VzRtVE9rUlZjQzhNVzJvWkxCbjMwRWFwWE9JMlhUdnpfYWFmRUN6dWNnZTFoMVdqWnlyN3ppdUZhenJkM3g2TUtLekJzc1ZGOERXYklhMDNuS0o4TGZYR3A4V0JKZHNvblZ1RGNUNmtxWWQxcUNNVXNRcVlrZlZMa0l6Xw?oc=5",
+      "category": "mission",
+      "source": "Frontiers 伊斯兰宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-17",
+      "summary": "The architect of defiance: the Shaheed who guarded faith, frontiers, and future: Remembering President Gen Zia-ul-Haq Shaheed on his death anniversary The News Pakistan",
+      "summary_zh": "反抗的缔造者：守护信仰、边境和未来的沙希德：纪念齐亚·哈克·沙希德总统逝世周年纪念日 巴基斯坦新闻",
+      "title_zh": "反抗的建筑师：守护信仰、边界和未来的沙希德：纪念齐亚·哈克·沙希德将军逝世纪念日",
+      "content": "",
+      "author": "The News Pakistan",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.656623",
+      "extra": {
+        "provider": "google_news",
+        "query": "Frontiers Islamic world mission",
+        "publisher": "The News Pakistan"
+      }
+    },
+    {
+      "title": "Kidnapped U.S. Missionary Pilot Freed in Niger - International Christian Concern",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEN0VkhxdmhNYzVFVkJwS1U1YmdQS25WcTN3ZUN6MGNrWWJIU1BYMUt1MG1CNzl4T3pMdXRRV3M0dlhPSUNHZEJrYXJSV2VnOUhvTmZObG54OS1KdUhZQlJqZE1TeWEyNWhkQnNPZ3hNWUhWaXBsdDgtT1BYeG9iLUVGRVVvaE5r?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-17",
+      "summary": "Kidnapped U.S. Missionary Pilot Freed in Niger - International Christian Concern International Christian Concern",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.941825",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "International Christian Concern"
+      }
+    },
+    {
+      "title": "NC missionary pilot freed after 9 months in captivity in Niger",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjVRSHZZWFBJTTRVWkVPaTJ6OWZqazRfWVM1SndFSXRPS2lKaWRVaEY4cHFySFE4c19LZ1R5aTdaUC1sQjNHMWk4UG9QRlhpZVViTTJmVUxVc0V2Q0JiVzVnX1dkRU9wWWFiOFdVWnpzYWtqbDg3NEhoem53T2ZCcUE1dWYyMDJOdWFhSW0wcWxnbW9oVlhkY1VLQQ?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-17",
+      "summary": "NC missionary pilot freed after 9 months in captivity in Niger Carolina Journal",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Carolina Journal",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.942346",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "Carolina Journal"
+      }
+    },
+    {
+      "title": "American missionary kidnapped in Niger in October is freed",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDdBWFN6aFYxUG05V1dJSXdsbU1KbjJmSDJJSXZtcVZMRDA3MEowUDV0Z0l3NUpfUjN1UnVDdUhfMnVGNGVrMGhlSGlFOURRUER2WUhhRXRSb2Z5ZnFka0FBOXNRTFlENmRTa1B4V1Njak5wVndyUk1HdlhSMWVJTmx2TzlSZHlOY1FJTno3VEVDMnd2N200QkEzM1g?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-14",
+      "summary": "American missionary kidnapped in Niger in October is freed CBS News",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "CBS News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.941683",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "CBS News"
+      }
+    },
+    {
+      "title": "Trump celebrates return of US missionary kidnapped in West Africa",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejNYY2ZTREJySHZRdlpYQkl4bzlQd3JIdHBiTWFHa2JWV3Y1ajhzQUhvTF9ZVHpxZEZsZGFkV0dqckhzYWp2STlpXzRPOF92MThXMU1ZMGVlMTNEb2ZuQ25CLUVYUnFJTG1MVWdweFFWODE2N3pkbUZYQ2pvd3pJZVZJWEMtaXFrcEdOd3VPRGxoOEJYOFdVYzFFONIBoAFBVV95cUxPY3EyMmhPNFpSdzAzN0hmQ0VqN2lySlFkOTJtQTNwTldzaVd1TFZoYnhUQnFpc1g1SFVVY1BlVTZUSDRNOWhPUEdvUFpLQmdKTFU0UjhhX0lQVVlNU0U5WGRmY2NtMnJTRUpQbHdoTnJmcEE1eE93dkJLNmE2NzY2RklZZk9RcThEVjJjZENRaUp1VEVqVjNzMW1VQ0hMZmFW?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-14",
+      "summary": "Trump celebrates return of US missionary kidnapped in West Africa The Hill",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "The Hill",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.942093",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "The Hill"
+      }
+    },
+    {
+      "title": "Kidnapped American Missionary in Niger Released After Nearly Nine Months of Captivity",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONTNLX3hDaHJfQWx6RlFMdXFVX1p4TDZTTG5wcGRGdGJmYThLazA1aXEzUXJka1JNbEo0QUpzazAwMDFYTVZQX3MyNmZ4OUZPbjI5WGNuLUwzMEZfMzZWRjJJV3NjQVRBc0JJZHVRQy1HQW5TMFJPdUQ1UThyOUlESnZfRzViWXptVlpTZ1BPb0szT3FIVnkxOXBTbTBTUFk0SEszRVYxMXRZSHZ0bkZqS2hxTnVRLXJySUJzWWlNSG8ybDdYdFl6Tk9MS0ZSRVA5aWc?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-14",
+      "summary": "Kidnapped American Missionary in Niger Released After Nearly Nine Months of Captivity Billy Graham Evangelistic Association",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Billy Graham Evangelistic Association",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.942223",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "Billy Graham Evangelistic Association"
+      }
+    },
+    {
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6aVJUZ0tZRmh5N0RyMWp3TWxhX3cyX0tyblYyaUpzeVBCWlhpbno5YW52aFFWcWsybUp2TUFYSnp3M1Qxc1VZMzcyNE1hS2thNVZBWk5taU9UTnV4?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-14",
+      "summary": "US missionary released following kidnap in Niger, Christian group says BBC",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "BBC",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.942596",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "BBC"
+      }
+    },
+    {
+      "title": "SIM International Statement: Kevin Rideout Release",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ra1Q2dnVOQUtEWm10SmY0bG1GRTNIU1o1SzU3S2NsQ0dtRzhYZGxabW5LcjhoeE42dmlHUUNzWHYwR1hzSEtBdzJiU0JuUDJFcXUzYVcycTluNmxSWWU4?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-14",
+      "summary": "SIM International Statement: Kevin Rideout Release Serving in Mission",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Serving in Mission",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T02:13:12.942733",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "Serving in Mission"
+      }
+    },
+    {
+      "title": "The fastest-growing mission field on earth",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc01fM2J0YTlDNjlBUmlsUm82RENZeEFlTHBHQUVzU08wRG9GckJtYkktbmx6S1dpNVQzNlZMM2JfYU04YUhYQ0pMVU1xVkFkLWlWb3RieXltZ1JDbkdzcmtpZEwwQ0hWYlFhRW5MNjhzQWFnc2tJSlFFNzhFWlBSSldTVkk?oc=5",
+      "category": "mission",
+      "source": "非洲宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-04",
+      "summary": "The fastest-growing mission field on earth www.christiandaily.com",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "www.christiandaily.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "fetched_at": "2026-10-29T02:13:12.980576",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian mission Africa",
+        "publisher": "www.christiandaily.com"
+      }
+    },
+    {
+      "title": "第十屆華福大會回聲：感動、啟發與使命仍在延續",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFbkNvRnh0T3c1ZmFZcWRJM1lobFFWZEltLWlBQ0ZJVWNoelA1b3lDaTR5dHFGZzU3MzBmaTBSaDR3ZWRWZldqTm90YkRrVkxsZ3NPNmtBQVMxT3JZOGxwclFXMFdfWUVpbV91RU9Edw?oc=5",
+      "category": "mission",
+      "source": "福音证主协会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-07-31",
+      "summary": "第十屆華福大會回聲：感動、啟發與使命仍在延續 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "HK",
+      "region": "亚洲",
+      "fetched_at": "2026-10-29T02:13:12.722947",
+      "extra": {
+        "provider": "google_news",
+        "query": "福音证主协会 宣教",
         "publisher": "基督日報"
       }
     }
