@@ -1,0 +1,298 @@
+# 基督教世界新闻知识库信息源配置
+# category 取值: news, persecution, mission, church, theology, culture, wiki
+# parser 取值: rss, generic, wikipedia, news_search
+#
+# 说明：
+#   - 机构官网 HTML 结构各异、且多家存在 SSL/403 问题，统一改用关键词新闻检索（news_search）
+#     在 GitHub Actions 运行，Google News 可达；不可达时自动切换 GDELT 兜底。
+#   - 真实 RSS 源优先用 rss 解析器；被反爬时改 news_search 同样可工作。
+# 可按需启用/禁用、添加新源或调整查询词。
+
+sources:
+  # ==================== 基督教世界资讯（国际） ====================
+  - name: Christianity Today
+    url: https://www.christianitytoday.com/news/rss/
+    category: news
+    parser: rss
+    language: en
+    country: US
+    max_items: 20
+
+  - name: Premier Christian News
+    url: https://premierchristian.news/rss
+    category: news
+    parser: rss
+    language: en
+    country: GB
+    max_items: 15
+
+  - name: Evangelical Focus
+    url: https://evangelicalfocus.com/rss
+    category: news
+    parser: rss
+    language: en
+    country: ES
+    max_items: 15
+
+  - name: World News (Christian)
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: en
+    country: US
+    max_items: 15
+    extra:
+      provider: google
+      query: "Christian news world"
+
+  - name: 福音时报
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 12
+    extra:
+      provider: google
+      query: "福音时报 基督教"
+
+  - name: 基督日报
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 12
+    extra:
+      provider: google
+      query: "基督日报 基督教"
+
+  # ==================== 信仰自由与逼迫 ====================
+  - name: Open Doors
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: NL
+    max_items: 12
+    extra:
+      provider: google
+      query: "Open Doors persecution Christians"
+
+  - name: 基督徒逼迫（国际）
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: US
+    max_items: 15
+    extra:
+      provider: google
+      query: "persecution of Christians religious freedom"
+
+  - name: 宗教自由（中文）
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 12
+    extra:
+      provider: google
+      query: "基督徒 宗教自由 逼迫"
+
+  # ==================== 宣教运动 ====================
+  - name: Mission Network News
+    url: https://www.mnnonline.org/feed/
+    category: mission
+    parser: rss
+    language: en
+    country: US
+    max_items: 15
+
+  - name: Wycliffe Bible Translators
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: en
+    country: US
+    max_items: 12
+    extra:
+      provider: google
+      query: "Wycliffe Bible translators"
+
+  - name: 宣教运动（中文）
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 12
+    extra:
+      provider: google
+      query: "基督教 宣教 宣教士"
+
+  # ==================== 教会与机构 ====================
+  - name: Baptist Press
+    url: https://www.baptistpress.com/feed/
+    category: church
+    parser: rss
+    language: en
+    country: US
+    max_items: 15
+
+  - name: 教会增长（国际）
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: US
+    max_items: 12
+    extra:
+      provider: google
+      query: "church growth planting"
+
+  - name: 中国教会动态
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: zh
+    country: CN
+    region: 中国
+    max_items: 12
+    extra:
+      provider: google
+      query: "中国 教会 基督徒 聚会"
+
+  - name: 中东教会
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: en
+    country: IL
+    region: 中东
+    max_items: 12
+    extra:
+      provider: google
+      query: "Middle East church Christians"
+
+  # ==================== 神学与合一 ====================
+  - name: World Council of Churches
+    url: https://www.oikoumene.org/rss.xml
+    category: theology
+    parser: rss
+    language: en
+    country: CH
+    max_items: 15
+
+  - name: 合一运动（国际）
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: en
+    country: CH
+    max_items: 12
+    extra:
+      provider: google
+      query: "ecumenical council theology"
+
+  - name: 神学会议（中文）
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 12
+    extra:
+      provider: google
+      query: "基督教 神学 研讨会 神学院"
+
+  # ==================== 文化媒体 ====================
+  - name: The Gospel Coalition
+    url: https://www.thegospelcoalition.org/feed/
+    category: culture
+    parser: rss
+    language: en
+    country: US
+    max_items: 15
+
+  - name: Desiring God
+    url: https://www.desiringgod.org/feed
+    category: culture
+    parser: rss
+    language: en
+    country: US
+    max_items: 15
+
+  - name: 基督教影视文化（国际）
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: en
+    country: US
+    max_items: 12
+    extra:
+      provider: google
+      query: "Christian film music movie"
+
+  - name: 基督教文化（中文）
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 12
+    extra:
+      provider: google
+      query: "基督教 音乐 影视 文化"
+
+  # ==================== 异端辨析 ====================
+  - name: Christian Apologetics & Cults
+    url: https://news.google.com/rss/search
+    category: heresy
+    parser: news_search
+    language: en
+    country: US
+    max_items: 12
+    extra:
+      provider: google
+      query: "cult watch heresy Christianity apologetics"
+
+  - name: Watchman Fellowship
+    url: https://news.google.com/rss/search
+    category: heresy
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Watchman Fellowship new religious movements"
+
+  - name: 异端辨析（中文）
+    url: https://news.google.com/rss/search
+    category: heresy
+    parser: news_search
+    language: zh
+    country: CN
+    max_items: 12
+    extra:
+      provider: google
+      query: "异端 邪教 辨析 基督教 辨别"
+
+  # ==================== 百科背景 ====================
+  - name: Wikipedia English
+    url: https://en.wikipedia.org/w/api.php
+    category: wiki
+    parser: wikipedia
+    language: en
+    country: US
+    max_items: 20
+
+  - name: Wikipedia Chinese
+    url: https://zh.wikipedia.org/w/api.php
+    category: wiki
+    parser: wikipedia
+    language: zh
+    country: CN
+    max_items: 20

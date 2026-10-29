@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}{{ label }} - 基督教世界新闻{% endblock %}
+{% block content %}
+<section class="category-header">
+  <h1>{{ icon }} {{ label }}</h1>
+  <p>共 {{ count }} 条资料，来自 {{ sources|length }} 个信息源。</p>
+</section>
+
+<section class="filters">
+  <input type="text" id="filter-input" placeholder="搜索标题、来源或摘要...">
+  <select id="source-filter">
+    <option value="">全部来源</option>
+    {% for s in sources %}
+    <option value="{{ s }}">{{ s }}</option>
+    {% endfor %}
+  </select>
+</section>
+
+<section class="article-list {% if key == 'wiki' %}compact-grid{% endif %}" id="article-list">
+  {% for article in articles %}
+  <article class="article-card" data-source="{{ article.source }}">
+    <div class="article-meta">
+      <span class="source">{{ article.source }}</span>
+      {% if article.region %}<span class="region">{{ article.region }}</span>{% endif %}
+      <span class="country">{{ article.country }}</span>
+      <span class="date">{{ article.published }}</span>
+    </div>
+    <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title_zh or article.title }}</a></h3>
+    {% if article.title_zh %}
+    <div class="title-original">{{ article.title }}</div>
+    {% endif %}
+    {% if article.summary %}<p>{{ article.summary }}</p>{% endif %}
+    {% if article.tags %}
+    <div class="tags">
+      {% for tag in article.tags %}
+      <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </article>
+  {% endfor %}
+</section>
+{% endblock %}

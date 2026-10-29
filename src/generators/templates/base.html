@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#1f3a5f">
+  <title>{% block title %}基督教世界新闻{% endblock %}</title>
+  <link rel="stylesheet" href="{{ root }}assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="{{ root }}index.html" class="logo">
+        <span class="logo-icon">✝</span>
+        基督教世界新闻
+      </a>
+      <nav class="main-nav">
+        <a href="{{ root }}index.html">首页</a>
+        <a href="{{ root }}categories/news.html">资讯</a>
+        <a href="{{ root }}categories/persecution.html">逼迫</a>
+        <a href="{{ root }}categories/mission.html">宣教</a>
+        <a href="{{ root }}categories/church.html">教会</a>
+        <a href="{{ root }}categories/theology.html">神学</a>
+        <a href="{{ root }}categories/heresy.html">异端</a>
+        <a href="{{ root }}categories/culture.html">文化</a>
+        <a href="{{ root }}categories/wiki.html">百科</a>
+        <a href="{{ root }}sources.html">信息源</a>
+      </nav>
+      <div class="updated-at">更新于 {{ updated_at }}</div>
+    </div>
+  </header>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>基督教世界新闻 · 每日自动采集全球基督教资讯源 · 共 {{ total }} 条资料</p>
+      <p class="disclaimer">本站为静态聚合示例，新闻条目版权归原始来源所有；内容仅供学习参考，请以官方来源为准。</p>
+    </div>
+  </footer>
+  <script src="{{ root }}assets/js/main.js"></script>
+</body>
+</html>

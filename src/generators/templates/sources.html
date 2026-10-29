@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}信息源目录 - 基督教世界新闻{% endblock %}
+{% block content %}
+<div class="sources-page">
+  <div class="sources-header">
+    <h1>信息源目录</h1>
+    <p>共收录 <strong>{{ total }}</strong> 个基督教资讯源，按分类分组。点击名称可访问原始网站。</p>
+  </div>
+
+  {% for cat, items in by_cat.items() %}
+  <section class="source-group">
+    <h2>
+      {{ category_icons[cat] }} {{ category_labels[cat] }}
+      <span class="group-count">{{ items|length }} 个源</span>
+    </h2>
+    <div class="source-grid">
+      {% for s in items %}
+      <a class="source-card" href="{{ s.url }}" target="_blank" rel="noopener">
+        <div class="source-card-head">
+          <span class="source-card-name">{{ s.name }}</span>
+          <span class="country-badge c-{{ s.country|lower }}">{{ s.country }}</span>
+        </div>
+        <div class="source-card-url">{{ s.url }}</div>
+        <div class="source-card-meta">
+          <span class="parser-tag">{{ s.parser|upper }}</span>
+          {% if s.language %}<span>{{ s.language }}</span>{% endif %}
+          {% if s.region %}<span>地区：{{ s.region }}</span>{% endif %}
+          {% if s.max_items %}<span>每次 {{ s.max_items }} 条</span>{% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</div>
+{% endblock %}

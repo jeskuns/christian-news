@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block title %}基督教世界新闻 - 首页{% endblock %}
+{% block content %}
+<div class="home-layout">
+  <div class="main-col">
+    <div class="filter-bar" id="filter-bar" hidden>
+      <span>筛选：<strong id="filter-label"></strong>（<span id="filter-count"></span> 条）</span>
+      <button id="clear-filter" class="btn-clear" type="button">清除筛选</button>
+    </div>
+
+    <div class="date-nav">
+      <button type="button" class="btn-date" id="date-prev">‹ 前一天</button>
+      <span class="date-nav-title" id="date-nav-title"></span>
+      <button type="button" class="btn-date" id="date-next">后一天 ›</button>
+    </div>
+
+    <section class="timeline">
+      {% for date, items in date_groups.items() %}
+      <div class="date-section" id="date-{{ date }}">
+        <div class="date-header">
+          <h2>
+            <span class="date-badge">{{ date }}</span>
+            <span class="date-label">{{ date_weekday[date] }}</span>
+          </h2>
+          <span class="date-count">{{ items|length }} 条资料</span>
+        </div>
+        <div class="article-list">
+          {% for article in items %}
+          <article class="article-card">
+            <div class="article-meta">
+              <span class="category-tag cat-{{ article.category }}">{{ category_labels[article.category] }}</span>
+              <span class="source">{{ article.source }}</span>
+              {% if article.region %}<span class="region">{{ article.region }}</span>{% endif %}
+              <span class="country">{{ article.country }}</span>
+            </div>
+            <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title_zh or article.title }}</a></h3>
+            {% if article.title_zh %}
+            <div class="title-original">{{ article.title }}</div>
+            {% endif %}
+            {% if article.summary %}
+            <p>{{ article.summary }}</p>
+            {% endif %}
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </section>
+  </div>
+
+  <aside class="sidebar">
+    {% if hot_regions %}
+    <div class="widget">
+      <h3>热门地区</h3>
+      <div class="hot-list">
+        {% for region in hot_regions %}
+        <div class="hot-item" data-filter="{{ region.filter }}" role="button" tabindex="0">
+          <span class="hot-rank rank-{{ loop.index }}">{{ loop.index }}</span>
+          <span class="hot-name">{{ region.name }}</span>
+          <span class="hot-count">{{ region.count }}</span>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if hot_topics %}
+    <div class="widget">
+      <h3>热门主题</h3>
+      <div class="tag-cloud">
+        {% for topic in hot_topics %}
+        <span class="topic-tag" data-filter="{{ topic.filter }}" role="button" tabindex="0">
+          {{ topic.name }}<span class="count">{{ topic.count }}</span>
+        </span>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </aside>
+</div>
+
+<script id="calendar-data" type="application/json">{{ calendar_data | tojson }}</script>
+{% endblock %}
