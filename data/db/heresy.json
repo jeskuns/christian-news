@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 9,
-  "updated_at": "2026-10-29T10:39:19.015320+08:00",
+  "count": 13,
+  "updated_at": "2026-10-29T14:09:29.945721+08:00",
   "articles": [
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church - ABC News",
@@ -47,7 +47,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.312484",
+      "fetched_at": "2026-10-29T06:06:08.590661",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -72,11 +72,86 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.312374",
+      "fetched_at": "2026-10-29T06:06:08.590565",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Star Beacon"
+      }
+    },
+    {
+      "title": "UCF fined for fans' chants at BYU; Big 12 sets policy with in-game penalties",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGdxOUZaQW0yVWRHR2JQZFlaaGJfOGdjdWhid1FvWWViaTF1WDVYekEwS3hjY0Vna1dvaDFLWUZ1d1RGWHdTM08xYWxsWWtDZm5yZy02aVRnOXZPN3ZtOTdfLWZZczViQ3BKS1NqTjFKcTNZa2hQQkp1NTUtYTdsR2hsT1ptdjA3LWhmYkpGcHBOQ3RINkgycEtkOE85Q01qTktCaHM1LXpEYlBiREE?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "UCF fined for fans' chants at BYU; Big 12 sets policy with in-game penalties ESPN",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "ESPN",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:08.590014",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "ESPN"
+      }
+    },
+    {
+      "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPN1VSMTRoQnQ4Sm13SUU0RzRpMU9SRXkxMnBVN3BBM2ZVcEJ1eE5mS3pJTVVkSGF6dXdMUnB1ZF9nUzNTZTEtQnNVSC1KVjlvVE9GQWNrd1MzVGo4cGhORXI5TWdRd1M3X3B3TlN1R0pmZVBTMDhQR1M4SDk2RXlOc3R5emdoSTVjbDJDYTc4YmtwY0FlVGdsZnl6SDZGeFhmNUNwS0plalR4MlNlY0hqeU9maWpKR2dxYndNNTd6LWRqWHNtRGJxQXpScmVBOURyWDFfQ3l6N2JIdlZuejZNSDl2S095N0FRVnhmaGN2WGUtdTVlZS1j?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church chronicleonline.com",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "chronicleonline.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:08.590267",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "chronicleonline.com"
+      }
+    },
+    {
+      "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3lIWlpVVzNWdlluX0xUVXJ4M3FJNWl4QWItUGNaR3M5ekdNeUxRQkIyZi12R3AtaHE1X002QTVEZ2RrRDRkSW1sNXpMLVhyWHktWUlTZlpkV2tZMUo4aHhFRHZxalV0ejRXY0Y3WWNoQm9jMVpjbi1oSkdKLWdmTUpsQ0NWaVhKbG5iTy1XR3RuazNNNElRMFpqMTlMQnZSbll4NFExamxtU0gwaGhMNDhIdldHSHgzRW90YUc0cHRxN2w2Zm5rSnN4Uk81ZUpNc0NaSkFIbktGdjhuWTdzLVo1LTQ0NUd5?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church The Killeen Daily Herald",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "The Killeen Daily Herald",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:08.590370",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Killeen Daily Herald"
       }
     },
     {
@@ -122,7 +197,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.312262",
+      "fetched_at": "2026-10-29T06:06:08.590469",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -147,11 +222,36 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.312144",
+      "fetched_at": "2026-10-29T06:06:08.590145",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Church News"
+      }
+    },
+    {
+      "title": "Church of Jesus Christ of Latter-day Saints buys prime commercial land for new Metro East church",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUkyOGJIejBrUlBkZ0tUaGo0RnV6SlV6SVlaUjU5Vl8xMWlURXNDWWt2dEJrODJjRkpBc1VDV1lWMEIzb3NhNmVPRlA2VGgxT1FYclMwUDZLUkdyVkhlc1ZfN2xjVkZtZTA3ZkZiRVpIeUMzN3ZNUi04eGdYVmo4NHhxTlJzSzJIdVhPNmwycjBlc1ZDTy1jOExWdVg1cHZQNFlmVEFFekluUQ?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-23",
+      "summary": "Church of Jesus Christ of Latter-day Saints buys prime commercial land for new Metro East church The Business Journals",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "The Business Journals",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:08.590754",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Business Journals"
       }
     },
     {
@@ -172,7 +272,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.312690",
+      "fetched_at": "2026-10-29T06:06:08.591186",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -222,7 +322,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.198487",
+      "fetched_at": "2026-10-29T06:06:08.394260",
       "extra": {
         "provider": "google_news",
         "query": "统一教 异端 韩国",

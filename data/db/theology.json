@@ -1,8 +1,8 @@
 {
   "category": "theology",
   "label": "神学与合一",
-  "count": 32,
-  "updated_at": "2026-10-29T10:39:19.009882+08:00",
+  "count": 36,
+  "updated_at": "2026-10-29T14:09:29.939533+08:00",
   "articles": [
     {
       "title": "WCC Faith and Order meeting opens with path toward deep dialogue",
@@ -22,7 +22,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.839691",
+      "fetched_at": "2026-10-29T06:06:07.320134",
       "extra": {
         "feed_type": "rss20"
       }
@@ -45,7 +45,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.842369",
+      "fetched_at": "2026-10-29T06:06:07.323017",
       "extra": {
         "feed_type": "rss20"
       }
@@ -68,7 +68,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.844962",
+      "fetched_at": "2026-10-29T06:06:07.325546",
       "extra": {
         "feed_type": "rss20"
       }
@@ -91,7 +91,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.847116",
+      "fetched_at": "2026-10-29T06:06:07.327809",
       "extra": {
         "feed_type": "rss20"
       }
@@ -114,7 +114,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.854619",
+      "fetched_at": "2026-10-29T06:06:07.334656",
       "extra": {
         "feed_type": "rss20"
       }
@@ -137,7 +137,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.856582",
+      "fetched_at": "2026-10-29T06:06:07.336525",
       "extra": {
         "feed_type": "rss20"
       }
@@ -160,7 +160,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.861872",
+      "fetched_at": "2026-10-29T06:06:07.343099",
       "extra": {
         "feed_type": "rss20"
       }
@@ -183,7 +183,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.867250",
+      "fetched_at": "2026-10-29T06:06:07.348149",
       "extra": {
         "feed_type": "rss20"
       }
@@ -206,7 +206,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.869042",
+      "fetched_at": "2026-10-29T06:06:07.349823",
       "extra": {
         "feed_type": "rss20"
       }
@@ -229,7 +229,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.871177",
+      "fetched_at": "2026-10-29T06:06:07.352549",
       "extra": {
         "feed_type": "rss20"
       }
@@ -252,7 +252,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:13.150587",
+      "fetched_at": "2026-10-29T06:06:07.085803",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -300,7 +300,7 @@
       "region": "",
       "stance": "academic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.601873",
+      "fetched_at": "2026-10-29T06:06:07.008383",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -423,7 +423,7 @@
       "region": "北美",
       "stance": "academic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.538773",
+      "fetched_at": "2026-10-29T06:06:06.590897",
       "extra": {
         "provider": "google_news",
         "query": "生命季刊 基督教 神学",
@@ -498,11 +498,36 @@
       "region": "",
       "stance": "academic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.642849",
+      "fetched_at": "2026-10-29T06:06:06.829029",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
         "publisher": "Modern Reformation"
+      }
+    },
+    {
+      "title": "Let’s Reclaim ‘Evangelical’ for the Sake of the Global Church",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYkRiWnljbDhUdDZqWlRzXzZfVHJiZzNrdEtHaE5wMnpZWmpMOFg2Zk4yV3c1dWtfZnJncDE2MXoxbWVEakRTenFIUWpKWUFEeDl0dEREVi1mOHNYamsxYjc2MG0tcjJBVVN6ZW8tdmp3R0h1X3NrMkd1TlcycjhRd2xn?oc=5",
+      "category": "theology",
+      "source": "福音派神学",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-09",
+      "summary": "Let’s Reclaim ‘Evangelical’ for the Sake of the Global Church The Gospel Coalition",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "The Gospel Coalition",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:07.085958",
+      "extra": {
+        "provider": "google_news",
+        "query": "evangelical theology",
+        "publisher": "The Gospel Coalition"
       }
     },
     {
@@ -548,7 +573,7 @@
       "region": "亚洲",
       "stance": "academic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.921042",
+      "fetched_at": "2026-10-29T06:06:06.955805",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -573,11 +598,36 @@
       "region": "",
       "stance": "academic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.979686",
+      "fetched_at": "2026-10-29T06:06:07.247619",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
         "publisher": "Rapides Parish Journal"
+      }
+    },
+    {
+      "title": "The Monstering of Evangelicalism",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IMWpoUXQ4ejZPQzdQRFFVRzZVNGVxSk1paVhEVmtSQ1M4WTFqeHhWVnlSX3BCaEtDUjQwUlgwQThUcDc2U0dhOTRPRzNJMW5haVNNSnlmVjhYa2tVTVJNdWhRTHlMUUpD?oc=5",
+      "category": "theology",
+      "source": "First Things",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-02",
+      "summary": "The Monstering of Evangelicalism First Things",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "First Things",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:07.008739",
+      "extra": {
+        "provider": "google_news",
+        "query": "First Things Christianity",
+        "publisher": "First Things"
       }
     },
     {
@@ -623,7 +673,7 @@
       "region": "亚洲",
       "stance": "academic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.921254",
+      "fetched_at": "2026-10-29T06:06:06.956037",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -671,7 +721,7 @@
       "region": "亚洲",
       "stance": "academic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.921149",
+      "fetched_at": "2026-10-29T06:06:06.956150",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -696,7 +746,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:13.474632",
+      "fetched_at": "2026-10-29T06:06:07.683060",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -721,11 +771,36 @@
       "region": "",
       "stance": "academic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.979830",
+      "fetched_at": "2026-10-29T06:06:07.247734",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
         "publisher": "www.christiandaily.com"
+      }
+    },
+    {
+      "title": "God Draws Near: Rethinking the Biblical Theology of Mission",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdDRibEhjQXlRZDVBT1YtdXRwNkVDWnlqNnhfUTlWM1U1ZXFSOGZJN1Q1S1FNbldhQVJvZGJNRnhySmpHbXdfM2NscmpqRVIxLXViNUpCU1pvUWN5VU1UQjQyNUhiQ1JDUEdlQklmZkNvQUpJb0g2YmZQb1JGLUVscU9wb2hCeko5NFFoa2F1Rlcyam5yUGhnNUZUamdxcDBzLW5RYjREcFREaF8wVmdOYQ?oc=5",
+      "category": "theology",
+      "source": "Themelios",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-17",
+      "summary": "God Draws Near: Rethinking the Biblical Theology of Mission The Gospel Coalition",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "The Gospel Coalition",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:07.059940",
+      "extra": {
+        "provider": "google_news",
+        "query": "Themelios theology",
+        "publisher": "The Gospel Coalition"
       }
     },
     {
@@ -746,7 +821,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:13.474975",
+      "fetched_at": "2026-10-29T06:06:07.683349",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -774,6 +849,31 @@
         "provider": "google_news",
         "query": "Reformed theology covenant",
         "publisher": "Modern Reformation"
+      }
+    },
+    {
+      "title": "America Has Always Been a Christian Nation",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XVVl1V0ljTUV2LXp0YXJKMXFMT1htMER2MXdiUU54ZmFfUWZPSmRjc3RwMktwdXlIaXlwek5DOHZpVU9FTUVuWWtkMHB4dGVvRF83ODJXR3RRV0Y2R1dsN0tUM3hubG1XX2hWcks0X3V0VkYwdGc?oc=5",
+      "category": "theology",
+      "source": "First Things",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-02",
+      "summary": "America Has Always Been a Christian Nation First Things",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "First Things",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:07.009512",
+      "extra": {
+        "provider": "google_news",
+        "query": "First Things Christianity",
+        "publisher": "First Things"
       }
     }
   ]

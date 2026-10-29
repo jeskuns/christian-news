@@ -1,8 +1,8 @@
 {
   "category": "news",
   "label": "基督教世界资讯",
-  "count": 85,
-  "updated_at": "2026-10-29T10:39:19.011503+08:00",
+  "count": 91,
+  "updated_at": "2026-10-29T14:09:29.941398+08:00",
   "articles": [
     {
       "title": "Three takeaways from a tight Israeli election with no clear outcome",
@@ -44,7 +44,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.853850",
+      "fetched_at": "2026-10-29T06:06:02.980240",
       "extra": {
         "feed_type": "rss20"
       }
@@ -79,7 +79,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.853971",
+      "fetched_at": "2026-10-29T06:06:02.980344",
       "extra": {
         "feed_type": "rss20"
       }
@@ -112,7 +112,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.854048",
+      "fetched_at": "2026-10-29T06:06:02.980408",
       "extra": {
         "feed_type": "rss20"
       }
@@ -153,7 +153,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.854134",
+      "fetched_at": "2026-10-29T06:06:02.980476",
       "extra": {
         "feed_type": "rss20"
       }
@@ -192,7 +192,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.854210",
+      "fetched_at": "2026-10-29T06:06:02.980539",
       "extra": {
         "feed_type": "rss20"
       }
@@ -230,7 +230,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.854279",
+      "fetched_at": "2026-10-29T06:06:02.980675",
       "extra": {
         "feed_type": "rss20"
       }
@@ -255,7 +255,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.854338",
+      "fetched_at": "2026-10-29T06:06:02.980728",
       "extra": {
         "feed_type": "rss20"
       }
@@ -288,7 +288,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.854396",
+      "fetched_at": "2026-10-29T06:06:02.980782",
       "extra": {
         "feed_type": "rss20"
       }
@@ -319,7 +319,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.854448",
+      "fetched_at": "2026-10-29T06:06:02.980825",
       "extra": {
         "feed_type": "rss20"
       }
@@ -360,7 +360,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:08.854510",
+      "fetched_at": "2026-10-29T06:06:02.980877",
       "extra": {
         "feed_type": "rss20"
       }
@@ -383,11 +383,161 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.050746",
+      "fetched_at": "2026-10-29T06:06:03.227248",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
         "publisher": "Vatican News"
+      }
+    },
+    {
+      "title": "Christian Yelich Dedicates Brewers’ First World Series Title To Bob Uecker",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9neXRTcXV4NTQ2N0NCT2dWcTJpT1EwZ003V1hndHJ3Y2dNeXVRV2VwQ21IMFB3MVJoZTlRdURKN212bF9ZT21TRGFyRWVHTGQ4X0RRbk9uNEI4S3hObUd6QXdvdmRCYVo2WUcxMUNnUTV5Y0XSAXNBVV95cUxORFVHZWhUcVNGM3czcXRpaGZLQkFDbHo2RmIwVFgxVWF0WlFzbnNJYUpleFp4TjJrRHRUeGczZDB0VVVUaGI0NDAyMlMwdnY2TjNzczhFNkFvNVhDU3BaSkFaTXZUSXo1c0h0TUFsZ0pBNm9Z?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Christian Yelich Dedicates Brewers’ First World Series Title To Bob Uecker FOX Sports",
+      "summary_zh": "Christian Yelich将酿酒师的第一个世界系列冠军头衔献给Bob Uecker FOX Sports",
+      "title_zh": "Christian Yelich将Brewers的第一个世界系列冠军头衔献给Bob Uecker",
+      "content": "",
+      "author": "FOX Sports",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.361552",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "FOX Sports"
+      }
+    },
+    {
+      "title": "Christian Yelich on being a World Series champion",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWxxNzZZSGFzX3dVQ2l5UDRWY054MnByQ2tVNUlPbTdLaFZvLUpIRkFjcktEVkRqRVJsY0hvMFQ1N1RUQVVpbmFZNi14S190RG9xVG84NldkOEQ2cE9zREVJbkFrV2dTYndFM0pBSzA0Q1dBaHF5N2Jwbm5ReDhlVw?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Christian Yelich on being a World Series champion MLB.com",
+      "summary_zh": "Christian Yelich成为MLB.com世界系列赛冠军",
+      "title_zh": "克里斯蒂安·耶利奇：成为世界系列赛冠军",
+      "content": "",
+      "author": "MLB.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.361659",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "MLB.com"
+      }
+    },
+    {
+      "title": "'This one’s for Ueck.' Christian Yelich, Brewers dedicate World Series to Bob Uecker",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0xzX3Bta2lpWTl3LTRJTWFDV0Q2WS1LZWJDek5nQVZ4bE5sOFFSd0RVNy1maGowM1M2b1U4RVJ4aG9aajRsR1N0TlNJSmlnSkQ3ZGl4Z2UtZTNCYXhSM190UXptS2FOZVcwWExBWVByRjZfczZsVXV6SVEyXzdmMzExSkNNMUd2Q1E?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "'This one’s for Ueck.' Christian Yelich, Brewers dedicate World Series to Bob Uecker Yahoo Sports",
+      "summary_zh": "“这是给尤克的。“ Christian Yelich ， Brewers将世界大赛献给Bob Uecker雅虎体育",
+      "title_zh": "“这是给尤克的。“ Christian Yelich ， Brewers将世界大赛献给Bob Uecker",
+      "content": "",
+      "author": "Yahoo Sports",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.361762",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Yahoo Sports"
+      }
+    },
+    {
+      "title": "Christian Yelich Speaks As Brewers Capture 1st World Series Title",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1R6SGtCRGw1aWE3djdTSGxBMWxSUGhrNUR2b2xUeU9jQnpVUU1heDNtWHpsck5MSW5KQUpQcjFNSFpsMTlRMG92MDBpUi1oc2ptc0lKYnBteGlBNUkzWW5Bc3lKRXZxbkVoZTE5UUJNN0t6U1o3TjVyUXNRcXNmOTlxX1RzY0lzOF9rQXRzQTMwMmhvRngwb0IxQjFpQlhBNFJfbXdDTGpZQQ?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Christian Yelich Speaks As Brewers Capture 1st World Series Title Sports Illustrated",
+      "summary_zh": "克里斯蒂安·耶利奇（ Christian Yelich ）在酿酒师捕捉第一个世界系列冠军头衔体育画",
+      "title_zh": "克里斯蒂安·耶利奇（ Christian Yelich ）在酿酒师夺得第一个世界大赛冠军",
+      "content": "",
+      "author": "Sports Illustrated",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.361959",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Sports Illustrated"
+      }
+    },
+    {
+      "title": "Christian Yelich pays heartfelt tribute to Bob Uecker as Brewers finally win World Series",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaVhEM0JsZ1FFMnNwSTVsNnFYUTZ0ZjlMTmRCNkZRY1h2OFFfLVBWUkxuYkVic1czRkVWQkRLNFQ4VTdGZGFjS0pNV1FyRU9CX1RpYlUzcHhjWU1VdXFHTWVERVdPNVE0MzNFZWR4YkIxT2JQb1VJYk1zWV9Da0FvRDMyNUkwZUVSaWdVcXplUURJTEFycFpJLXBwSFhPekdKclU0NWtYbUJlajRBeUE?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Christian Yelich pays heartfelt tribute to Bob Uecker as Brewers finally win World Series New York Post",
+      "summary_zh": "Christian Yelich向Bob Uecker致以衷心的敬意，因为Brewers终于赢得了纽约邮报的世界大赛",
+      "title_zh": "Christian Yelich向Bob Uecker致以衷心的敬意，因为Brewers终于赢得了世界大赛",
+      "content": "",
+      "author": "New York Post",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.362343",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "New York Post"
+      }
+    },
+    {
+      "title": "Brewers’ Jacob Misiorowski, Christian Yelich & more react to WORLD SERIES WIN in Game 5 vs Rays",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GR3NCWDNIdXE4N2Y4V3hmcXgxclo5UEtNT2x0UG4yeVNDWmR2cDgySDZNVEpUUlFHME9vSVlEVTlTdXZMcnhNNTFhN2dzdHhaNW53MUpR?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Brewers’ Jacob Misiorowski, Christian Yelich & more react to WORLD SERIES WIN in Game 5 vs Rays Fox News",
+      "summary_zh": "Brewers的Jacob Misiorowski、Christian Yelich等人对第5场对阵Rays Fox News的世界大赛胜利做出反应",
+      "title_zh": "Brewers的Jacob Misiorowski、Christian Yelich等人对第5场对阵Rays的世界大赛胜利做出反应",
+      "content": "",
+      "author": "Fox News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.362734",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Fox News"
       }
     },
     {
@@ -408,7 +558,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.112214",
+      "fetched_at": "2026-10-29T06:06:03.361862",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -433,36 +583,11 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.112415",
+      "fetched_at": "2026-10-29T06:06:03.362056",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
         "publisher": "www.christiandaily.com"
-      }
-    },
-    {
-      "title": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFM2SDJBWHE5dUtwYVJ1Yl9PTE42Z2NoNEZMd0t4VTVSckhGN3h3SHFvZ3BTQldJNklweGFYTGR4b3JMV0FGdlZtZlNLZU9FX2tIVXJUbm9KYWNnVmc3eXNGM0I4YzA3bjhjUWJDVm1uM3lWZkN1SE9sUURERlNDdklJYjhMcnVWa01UeEpHUkxWRWh3Q241eHI3dWF4LXBzcWZlYzV3dmxWd01LUVZRa3lPN2Zrc1BmTGU0UUJkal9nSmdzZ19YWWlaSHRYUFJFM2cyZg?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-28",
-      "summary": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns Premier Christian News",
-      "summary_zh": "全球报告警告说，极端主义和暴力“助长了最古老社区的基督徒外流”",
-      "title_zh": "全球报告警告说，极端主义和暴力“助长了最古老社区的基督徒外流”",
-      "content": "",
-      "author": "Premier Christian News",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.113112",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "Premier Christian News"
       }
     },
     {
@@ -483,7 +608,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.112598",
+      "fetched_at": "2026-10-29T06:06:03.362252",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -508,7 +633,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.112771",
+      "fetched_at": "2026-10-29T06:06:03.362149",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -531,7 +656,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:10.646506",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.362621",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -556,61 +683,11 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.113261",
+      "fetched_at": "2026-10-29T06:06:03.362915",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
         "publisher": "Baptist News Global"
-      }
-    },
-    {
-      "title": "Middle Eastern Christians fear if 'future in the region is sustainable' amid rising persecution: watchdog",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3AxM1hQaURNclY2WXRYRS1abkxnaEZsNFdoY3E4NW5SV0tWWFgtNlZ5Ti0tYlJOdmRHbnZQN2UtNjdQXzBqTmJFdEk5SzQ5aFVzcjB4dV9QWEpzeE9KSVBNWG1JLVhxeUJuRGtZbUJicnJkRzBwbW02RW56aDJDNWhwMXJ4dVgwajVNNVY5bzFsdFFqOGpYdkJlWFhEUk5VYlBqSVdaRQ?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-28",
-      "summary": "Middle Eastern Christians fear if 'future in the region is sustainable' amid rising persecution: watchdog Christian Post",
-      "summary_zh": "在迫害日益加剧的情况下，中东基督徒担心“该地区的未来是否可持续” ：监管机构基督邮报",
-      "title_zh": "中东基督徒担心，在迫害日益加剧的情况下， “该地区的未来是否可持续” ：监管机构",
-      "content": "",
-      "author": "Christian Post",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.113386",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "Christian Post"
-      }
-    },
-    {
-      "title": "Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NaWpWOU9jTnN3aDkxdXJNMGxSTHpXT0JxR2N1VlA5NjN2S1RHWE9aRWZvellDc2g4TjhFSkM2MXJ5RmJvZXJzZk5kSnFNOHp6amQ5bFNDbmEzOUJkRUZVMHl3blVBbUdDM0xvY2xFRVBBT0E?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-28",
-      "summary": "Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia Pakistan Christian Post",
-      "summary_zh": "LEAD部委创始人兼国际宣传主任萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）呼吁采取紧急国际行动保护埃塞俄比亚的基督徒巴基斯坦基督邮报",
-      "title_zh": "LEAD部委创始人兼国际宣传主任萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）呼吁采取紧急国际行动保护埃塞俄比亚的基督徒",
-      "content": "",
-      "author": "Pakistan Christian Post",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.113506",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "Pakistan Christian Post"
       }
     },
     {
@@ -714,6 +791,31 @@
       }
     },
     {
+      "title": "Christian Pulisic in advanced talks over long-term Milan contract extension - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDhmb1BrSmtjOF9XRExyNXlmZl9Ybk5EMi1odzdhRVdFcUh1bndIWXM0elVKRldlT1NhX1VLVW53eFBXZTd2bFZOQTRhdUw0UVUzcDdPM05pTXZrVUp3YXV4cUxHaVBHOTlTdzhyUmlXeFpNeGZFa1VGNnMwWXA4alBwdm1jV2ZLN0stNkNBbFY2QktaVm93?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "Christian Pulisic in advanced talks over long-term Milan contract extension - The Athletic The New York Times",
+      "summary_zh": "克里斯蒂安·普利西奇（ Christian Pulisic ）就米兰长期续约进行高级会谈-《纽约时报》体育报",
+      "title_zh": "克里斯蒂安·普利西奇（ Christian Pulisic ）就米兰长期续约进行高级谈判- The Athletic",
+      "content": "",
+      "author": "The New York Times",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.362524",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "The New York Times"
+      }
+    },
+    {
       "title": "ACN report: 220 million Christians face persecution worldwide",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY19uM0xyVDN1SDREOUFpZnZvYzVsRDltUC1GRHNhYXV2SlZOLUMxYzFCTk1TRkFQM1pXbE1VUkx4dVdtX2tGbzVrR0VIZk1TOGVOcko4NkdnQWgwUUVEUXhqX1pjdENNYlA5ZXhrdUV0VlNMcnZwU25BRmNhb0h0S0htVHZMX0dGYjBteHR1WlRjckNjOVh3cklocnFUc3JRYndXd0J6aEVDV251SjJlYl9hYw?oc=5",
       "category": "news",
@@ -731,7 +833,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.112005",
+      "fetched_at": "2026-10-29T06:06:03.363006",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -759,56 +861,6 @@
         "provider": "google_news",
         "query": "Christian news world",
         "publisher": "NBC News"
-      }
-    },
-    {
-      "title": "Study: Christian persecution worsening in most of already bad cases",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazc5SkFiS09DcVhCZ2E2OE0xQzV0RmhmVW4yM0NDWDBsLThSeFR2QUdIejVBcGtZMFlmMFRRSXZqUjB5SnZnajl4dlBpa0FpUTVkOEdVZUdlNThrMDEwbFUwOGhtemNBMXRQVGtuNjFEaVFmWmJlRGNWZWFfY3pQNFFJMmtDcHdPbDEwN3lHdDVfcEQ2MmttaGhVN1ltcjRhRXc?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Study: Christian persecution worsening in most of already bad cases Aleteia EN",
-      "summary_zh": "研究：在大多数已经很糟糕的案例中，基督徒迫害加剧Aleteia EN",
-      "title_zh": "研究：在大多数已经很糟糕的案件中，基督徒的迫害加剧",
-      "content": "",
-      "author": "Aleteia EN",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.113730",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "Aleteia EN"
-      }
-    },
-    {
-      "title": "Sixty people killed in attack on Orthodox Christian village in Ethiopia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXVlejlRMWRGTW8wd0dtRW95VFlrQ0ZVRnBHRVNQR2c3Z012YTRFMUFzSzY3YkJkU0lEZnlqcG9peTQ0WXVUZ2NLanh3a1RCVHA4WjNxTGpiUHNiRWh0N3ZvMmZ3YkN3WjFSVWRkajIyMEs1bURhZWJySGxjQ0FwMTRzSXJYRzBuazRGMHRjcEdlejNHNEdhY0hjNXRmdWlWS0NweW9EeHZ2Y05HRGk3RUNvN3VlcGs?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Sixty people killed in attack on Orthodox Christian village in Ethiopia Vatican News",
-      "summary_zh": "埃塞俄比亚东正教村庄遭袭60人死亡梵蒂冈新闻",
-      "title_zh": "埃塞俄比亚东正教村庄遭到袭击， 60人丧生",
-      "content": "",
-      "author": "Vatican News",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.114071",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "Vatican News"
       }
     },
     {
@@ -852,7 +904,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.881760",
+      "fetched_at": "2026-10-29T06:06:03.943599",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -902,7 +954,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.882313",
+      "fetched_at": "2026-10-29T06:06:03.944070",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -927,7 +979,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.680594",
+      "fetched_at": "2026-10-29T06:06:04.106416",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -952,7 +1004,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.680820",
+      "fetched_at": "2026-10-29T06:06:04.106543",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -1049,7 +1101,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.882433",
+      "fetched_at": "2026-10-29T06:06:03.944199",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1074,7 +1126,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.882062",
+      "fetched_at": "2026-10-29T06:06:03.943953",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1121,7 +1173,7 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.050957",
+      "fetched_at": "2026-10-29T06:06:03.227438",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1146,7 +1198,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.727871",
+      "fetched_at": "2026-10-29T06:06:04.032067",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -1171,7 +1223,7 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.051342",
+      "fetched_at": "2026-10-29T06:06:03.227907",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1196,7 +1248,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.882545",
+      "fetched_at": "2026-10-29T06:06:03.944305",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1243,11 +1295,36 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.282902",
+      "fetched_at": "2026-10-29T06:06:03.399688",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
         "publisher": "Open Doors UK & Ireland"
+      }
+    },
+    {
+      "title": "What This Mission Sunday Should Ask Of The Church In Asia – OpEd",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0ZZZDJIV3pZZkt2WnE1YzgyWXBHTk8xYndKcFNUSms5anotWlpkZzdZRFFLejFzVkpkdVlCTzc2YkVYRTRpU0lsV0lVY1A2a1lrNVd4eEVuQU5mT0tTaUY0ZWk2aHltMDB0cFFGSGlfdGx6SW96VlJYX1FHWmZyWEJ6Z3MwTE5aYUtZVGFyNnJYRE9qME5KT3JoeWlZU0JiaFQ4Rg?oc=5",
+      "category": "news",
+      "source": "亚洲基督教新闻",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-16",
+      "summary": "What This Mission Sunday Should Ask Of The Church In Asia – OpEd Eurasia Review",
+      "summary_zh": "本使命周日对亚洲教会应该提出什么样的要求–欧亚评论",
+      "title_zh": "本宣教周日对亚洲教会应该提出什么要求– OpEd",
+      "content": "",
+      "author": "Eurasia Review",
+      "tags": [],
+      "language": "en",
+      "country": "SG",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:04.106654",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news Asia church",
+        "publisher": "Eurasia Review"
       }
     },
     {
@@ -1268,7 +1345,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.882865",
+      "fetched_at": "2026-10-29T06:06:03.944488",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1293,7 +1370,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.283025",
+      "fetched_at": "2026-10-29T06:06:03.399790",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1318,7 +1395,7 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.051222",
+      "fetched_at": "2026-10-29T06:06:03.227756",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1343,7 +1420,7 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.051097",
+      "fetched_at": "2026-10-29T06:06:03.227581",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1391,7 +1468,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.882651",
+      "fetched_at": "2026-10-29T06:06:03.944396",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1402,7 +1479,7 @@
       "title": "金明日牧師：獄中266天與對中國教會復興的盼望",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CVkkzcGVpdldURlptMFhFRjJIckVFWjAtRURFUkJ5YV83ZUUzVkxyZzZSTFc3OXhXcEV6cGtxa3B6V3JkM3VlUXdMUUROQVM2VVVVQ3pwcnVPSnI2cXd0ckRSeFoyeVc1R015X1FTaw?oc=5",
       "category": "news",
-      "source": "国度复兴报",
+      "source": "基督邮报中文",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-06",
       "summary": "金明日牧師：獄中266天與對中國教會復興的盼望 基督日報",
@@ -1412,14 +1489,14 @@
       "author": "基督日報",
       "tags": [],
       "language": "zh",
-      "country": "HK",
-      "region": "亚洲",
+      "country": "CN",
+      "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.306569",
+      "fetched_at": "2026-10-29T06:06:03.852150",
       "extra": {
         "provider": "google_news",
-        "query": "国度复兴报 复兴 教会",
+        "query": "基督邮报 基督教 新闻",
         "publisher": "基督日報"
       }
     },
@@ -1441,7 +1518,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.282545",
+      "fetched_at": "2026-10-29T06:06:03.399445",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1466,7 +1543,7 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.051454",
+      "fetched_at": "2026-10-29T06:06:03.228089",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1491,7 +1568,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.282700",
+      "fetched_at": "2026-10-29T06:06:03.399572",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1516,7 +1593,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.294536",
+      "fetched_at": "2026-10-29T06:06:03.400653",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1539,7 +1616,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:10.925847",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.506500",
       "extra": {
         "provider": "google_news",
         "query": "基督日报 基督教",
@@ -1564,7 +1643,7 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.051769",
+      "fetched_at": "2026-10-29T06:06:03.228417",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1589,11 +1668,36 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.645134",
+      "fetched_at": "2026-10-29T06:06:04.000704",
       "extra": {
         "provider": "google_news",
         "query": "Christianity daily news headline",
         "publisher": "Shore Daily News"
+      }
+    },
+    {
+      "title": "Opportunities for the gospel in Asia",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FLTJ5MGNoS0JVT3VRQU1jSl9IR243TGd6MFlKWUstUjRxR2dNWHpSUTNvNVBQRG5IZ1c4ak1STklZdldsWUtnRTk5VENkam5pYnp5dmtnZjZrcUhTekFJYXB6WE5MVFpqOWl1eklKVUJzeWV1MGhMWVdjb0M?oc=5",
+      "category": "news",
+      "source": "亚洲基督教新闻",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-29",
+      "summary": "Opportunities for the gospel in Asia www.christiandaily.com",
+      "summary_zh": "亚洲的福音机会www.christiandaily.com",
+      "title_zh": "亚洲的福音机会",
+      "content": "",
+      "author": "www.christiandaily.com",
+      "tags": [],
+      "language": "en",
+      "country": "SG",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:04.107037",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news Asia church",
+        "publisher": "www.christiandaily.com"
       }
     },
     {
@@ -1614,7 +1718,7 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.051909",
+      "fetched_at": "2026-10-29T06:06:03.228505",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1639,7 +1743,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.293999",
+      "fetched_at": "2026-10-29T06:06:03.400157",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1664,7 +1768,7 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.051668",
+      "fetched_at": "2026-10-29T06:06:03.228323",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1712,7 +1816,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.294404",
+      "fetched_at": "2026-10-29T06:06:03.400547",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1743,6 +1847,31 @@
       }
     },
     {
+      "title": "Nostra aetate, 60 years on: Church renews dialogue against hatred and division",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXpGUE0zbUtNQXhZYkZCZUJoOUg3SjN4QXFjLTF0dGNtdTlrZjVKcE5DRDJYNGFuWW5kSW9fcjFJVGJZZVVrODUtQWRlLS1zTXlhUHJwalVWWGVWdTZZYkoyUHlWNzR0N0treHdvUlVIbU1kSzI1YU82V2FoeDBoWUJYTzhUbkFHN2RNV0hEc3FITGpLSXlsQ0Z5TG5GTmQ5cGhDNUJwXzEzUzZyVVZmdjVOZEZ0Zw?oc=5",
+      "category": "news",
+      "source": "Vatican News",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-16",
+      "summary": "Nostra aetate, 60 years on: Church renews dialogue against hatred and division Vatican News",
+      "summary_zh": "Nostra aetate ， 60周年：教会重启反对仇恨和分裂的对话梵蒂冈新闻",
+      "title_zh": "Nostra aetate ， 60周年：教会重启反对仇恨和分裂的对话",
+      "content": "",
+      "author": "Vatican News",
+      "tags": [],
+      "language": "en",
+      "country": "VA",
+      "region": "",
+      "stance": "catholic",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.228677",
+      "extra": {
+        "provider": "google_news",
+        "query": "Vatican news Christianity Pope",
+        "publisher": "Vatican News"
+      }
+    },
+    {
       "title": "Asian digital missionaries called to turn influence into Christian witness",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOam5RV254MERmaFhuaDdjUEZpUFYyY045Z2xCektPSThfNW5BdHJldDZiTGZlOWZ1WWJwRVE0MGxJa0JZRFN5anc0ZHZ0TFdobFBBcm9TMTB5U09NMndpNUhFY2huWGdrSm9vajZaVUpCakt3dlY2b013NElYQmJKOGpVTmtranRaZ0NGSVZNekJZVGlFS3pxWl9CbEVwdHpvVnIxYlNrUDk0TGxvX0dEcg?oc=5",
       "category": "news",
@@ -1760,7 +1889,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.681216",
+      "fetched_at": "2026-10-29T06:06:04.106756",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -1808,7 +1937,32 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.882984",
+      "fetched_at": "2026-10-29T06:06:03.944582",
+      "extra": {
+        "provider": "google_news",
+        "query": "World Council of Churches ecumenical news",
+        "publisher": "World Council of Churches"
+      }
+    },
+    {
+      "title": "Joint Working Group deepens friendship, cooperation between WCC, Catholic Church",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOemdQTUFQY2tSdU1HQmpJaTM4ZmxoMUF1LUVNcDh6Q1RqSm5OVW9SMXhOYVhqTXVpWTVSRXdvaTFyejNFNFJ3X29wd250Qk5DM3NzdEdFZlNDMGcxVkNvRVdQOHJIaEJRcHlZZjJpNzAwMEU5c3JFb0JIU25PRUNwYzVMZE45M25oZTlwN3RKd3NpM2ZiUXNDcXRnQnBvYVVZbVI3NXJKSFF3RG9xdGc?oc=5",
+      "category": "news",
+      "source": "普世教会新闻",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-03",
+      "summary": "Joint Working Group deepens friendship, cooperation between WCC, Catholic Church World Council of Churches",
+      "summary_zh": "联合工作组深化WCC与天主教会世界教会理事会之间的友谊与合作",
+      "title_zh": "联合工作组深化WCC与天主教会之间的友谊与合作",
+      "content": "",
+      "author": "World Council of Churches",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.944858",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1833,7 +1987,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.283138",
+      "fetched_at": "2026-10-29T06:06:03.399882",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1881,7 +2035,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.283245",
+      "fetched_at": "2026-10-29T06:06:03.399974",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1904,7 +2058,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:11.128621",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:03.944947",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1954,7 +2110,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.294283",
+      "fetched_at": "2026-10-29T06:06:03.400351",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1979,7 +2135,7 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.051562",
+      "fetched_at": "2026-10-29T06:06:03.228225",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2004,7 +2160,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.883098",
+      "fetched_at": "2026-10-29T06:06:03.944672",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2029,7 +2185,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.728246",
+      "fetched_at": "2026-10-29T06:06:04.032390",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -2102,7 +2258,7 @@
       "region": "中国",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.448621",
+      "fetched_at": "2026-10-29T06:06:03.668956",
       "extra": {
         "provider": "google_news",
         "query": "中国基督教 两会 三自 爱国",
@@ -2138,7 +2294,7 @@
       "title": "Catholic bishops in India reject ‘Christian conspiracy’ claim over funds bill",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmJpQmlYTERVNzNlcXRvY0o2YjJJd3dPWGdqX202VDRFTUwwaXVBM3VzVC1xNnlfQzR6WWhFc3p1TzMyX2JxVVR3ai11a1FEVFB4Q3lrb2NXWEFkUGhKNFd5dlQyRlhKYkRnYW5vMTVFa2pTSjBMekhDdndPOU5ORDM5RmZ3QTRRcnZiR0JIbENMMkc1aE53ZEEtZzUtSUNQVW1yUUZCRjdIcnE2cEsyLU9RWlJFb0tLUVM4?oc=5",
       "category": "news",
-      "source": "Christian Today India",
+      "source": "亚洲基督教新闻",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-20",
       "summary": "Catholic bishops in India reject ‘Christian conspiracy’ claim over funds bill EWTN News",
@@ -2148,12 +2304,14 @@
       "author": "EWTN News",
       "tags": [],
       "language": "en",
-      "country": "IN",
+      "country": "SG",
       "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:10.481927",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:04.107323",
       "extra": {
         "provider": "google_news",
-        "query": "Christian news India church",
+        "query": "Christian news Asia church",
         "publisher": "EWTN News"
       }
     },
@@ -2175,7 +2333,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.883214",
+      "fetched_at": "2026-10-29T06:06:03.944766",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",

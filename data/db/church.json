@@ -1,8 +1,8 @@
 {
   "category": "church",
   "label": "教会与机构",
-  "count": 109,
-  "updated_at": "2026-10-29T10:39:19.013281+08:00",
+  "count": 112,
+  "updated_at": "2026-10-29T14:09:29.943636+08:00",
   "articles": [
     {
       "title": "What patriarchy asks of men who oppose it",
@@ -30,6 +30,31 @@
       }
     },
     {
+      "title": "Highland Park votes to leave UMC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DOTNvUFhTcUx0VVhSb01UYzFGM0ZuamFMQ0tha2J1SHBqcjdZemdQOHVwZWVhTVViY2RXaVZRbnJRRjhXdDZuWTVENkJ5S2ZablA1YllqR2R3WlE2NTQ3VHplSHhVandwRmpBakViWUtHZ0FjS0E?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Highland Park votes to leave UMC The Christian Century",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "The Christian Century",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.494588",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "The Christian Century"
+      }
+    },
+    {
       "title": "Which of These 7 Ministries Kept Their Promise After Mishandling Abuse?",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlpieFhZZXlKQmZEWVkzZzJQTGtwZjUtT1VXUWQtc1l1dG5DUXpjU0JaY1NUOXFFM08tTEtwSTRKX21BS0hHczVYRWhGaUs1dWgtcW1IZEw5cjhrNkZ0ZkUtQmFZbUVzbGotNEZ2SHQ4V05oUWJ0bEUxaloxQUFXeWFGOElaZnhxR04xU2hoQ2dZUQ?oc=5",
       "category": "church",
@@ -47,7 +72,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.038734",
+      "fetched_at": "2026-10-29T06:06:06.086882",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -72,7 +97,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.809989",
+      "fetched_at": "2026-10-29T06:06:06.044601",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -97,7 +122,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.831867",
+      "fetched_at": "2026-10-29T06:06:06.219641",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -122,7 +147,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.227419",
+      "fetched_at": "2026-10-29T06:06:06.494807",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -147,7 +172,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.227650",
+      "fetched_at": "2026-10-29T06:06:06.494702",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -172,7 +197,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.227530",
+      "fetched_at": "2026-10-29T06:06:06.495197",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -197,7 +222,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.227763",
+      "fetched_at": "2026-10-29T06:06:06.494908",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -220,7 +245,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.993964",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.495498",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -243,7 +270,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.994087",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.495403",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -268,7 +297,7 @@
       "region": "欧洲",
       "stance": "orthodox",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.343521",
+      "fetched_at": "2026-10-29T06:06:06.699835",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -293,11 +322,61 @@
       "region": "欧洲",
       "stance": "orthodox",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.344252",
+      "fetched_at": "2026-10-29T06:06:06.700119",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
         "publisher": "www.christiantoday.com"
+      }
+    },
+    {
+      "title": "Were 102,000 football fans really praying to Jesus?",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2hKWkExaU1QWDZnVzNTaTh1cDh3a3lnajFnbVpZcVJqdnl6TEg0S3QzYlBNSjU4cm5aYllJY2FKbXlHbXZFWF83eWwtV05pM2FwYVNjeDBGOU5pbURfOGhFTWJJQnMtY0w4Vnd1ZzBDT1N4QndWWE9tVWVaaHYwd0d3NTlfTWctNHc?oc=5",
+      "category": "church",
+      "source": "Baptist News Global",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "Were 102,000 football fans really praying to Jesus? Baptist News Global",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Baptist News Global",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.044452",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist News Global",
+        "publisher": "Baptist News Global"
+      }
+    },
+    {
+      "title": "Sixty people killed in attack on Orthodox Christian village in Ethiopia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXVlejlRMWRGTW8wd0dtRW95VFlrQ0ZVRnBHRVNQR2c3Z012YTRFMUFzSzY3YkJkU0lEZnlqcG9peTQ0WXVUZ2NLanh3a1RCVHA4WjNxTGpiUHNiRWh0N3ZvMmZ3YkN3WjFSVWRkajIyMEs1bURhZWJySGxjQ0FwMTRzSXJYRzBuazRGMHRjcEdlejNHNEdhY0hjNXRmdWlWS0NweW9EeHZ2Y05HRGk3RUNvN3VlcGs?oc=5",
+      "category": "church",
+      "source": "东正教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "Sixty people killed in attack on Orthodox Christian village in Ethiopia Vatican News",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Vatican News",
+      "tags": [],
+      "language": "en",
+      "country": "GR",
+      "region": "欧洲",
+      "stance": "orthodox",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.699729",
+      "extra": {
+        "provider": "google_news",
+        "query": "Orthodox Christianity church",
+        "publisher": "Vatican News"
       }
     },
     {
@@ -318,7 +397,7 @@
       "region": "中东",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.641436",
+      "fetched_at": "2026-10-29T06:06:05.871165",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -368,7 +447,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.810106",
+      "fetched_at": "2026-10-29T06:06:06.044729",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -393,7 +472,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.810214",
+      "fetched_at": "2026-10-29T06:06:06.044848",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -418,7 +497,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.810320",
+      "fetched_at": "2026-10-29T06:06:06.044961",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -432,7 +511,7 @@
       "source": "卫理公会",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
-      "summary": "Prominent Texas Congregation Votes to Leave United Methodist Church The New York Times Planned departure of Highland Park UMC reflects decline of American denomination Dallas News Highland Park UMC votes to cut ties with United Methodist Church after legal dispute WFAA Highland Park votes to leave United Methodist Church UM News One of the largest UMC churches in the country just voted to leave the denomination Religion News Service Did LGBTQ issues drive this massive Texas church's split? Chron",
+      "summary": "Prominent Texas Congregation Votes to Leave United Methodist Church The New York Times Planned departure of Highland Park UMC reflects decline of American denomination Dallas News Highland Park UMC votes to cut ties with United Methodist Church after legal dispute WFAA Highland Park votes to leave United Methodist Church UM News Did LGBTQ issues drive this massive Texas church's split? Chron One of the largest UMC churches in the country just voted to leave the denomination Religion News Service",
       "summary_zh": "",
       "title_zh": "",
       "content": "",
@@ -441,7 +520,11 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.992561",
+      "stance": "mainline",
+      "flags": [
+        "同性婚姻"
+      ],
+      "fetched_at": "2026-10-29T06:06:06.494353",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -466,7 +549,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.227305",
+      "fetched_at": "2026-10-29T06:06:06.494483",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -491,7 +574,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.228094",
+      "fetched_at": "2026-10-29T06:06:06.495305",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -514,7 +597,9 @@
       "language": "en",
       "country": "GR",
       "region": "欧洲",
-      "fetched_at": "2026-10-29T02:13:14.232929",
+      "stance": "orthodox",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.699602",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -539,7 +624,7 @@
       "region": "欧洲",
       "stance": "orthodox",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.344147",
+      "fetched_at": "2026-10-29T06:06:06.700028",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -564,7 +649,7 @@
       "region": "欧洲",
       "stance": "orthodox",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.344359",
+      "fetched_at": "2026-10-29T06:06:06.700223",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -589,7 +674,7 @@
       "region": "欧洲",
       "stance": "orthodox",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.344491",
+      "fetched_at": "2026-10-29T06:06:06.700314",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -614,7 +699,7 @@
       "region": "欧洲",
       "stance": "orthodox",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.344600",
+      "fetched_at": "2026-10-29T06:06:06.700488",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -741,7 +826,7 @@
       "region": "中东",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.641833",
+      "fetched_at": "2026-10-29T06:06:05.871556",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -766,7 +851,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.810424",
+      "fetched_at": "2026-10-29T06:06:06.045071",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -791,7 +876,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.257129",
+      "fetched_at": "2026-10-29T06:06:06.353724",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -816,7 +901,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.072929",
+      "fetched_at": "2026-10-29T06:06:06.330246",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -864,7 +949,7 @@
       "region": "欧洲",
       "stance": "orthodox",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.344039",
+      "fetched_at": "2026-10-29T06:06:06.699934",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -887,7 +972,9 @@
       "language": "en",
       "country": "GR",
       "region": "欧洲",
-      "fetched_at": "2026-10-29T02:13:14.234085",
+      "stance": "orthodox",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.700399",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -920,6 +1007,31 @@
       }
     },
     {
+      "title": "Howerton calls Zach Lambert a ‘heretic’ but welcomes Bo French",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVEzME9HQkhFRWlkLWd2MGtqR2RxbHQxb3RFQlZ3SlgwaFZtWGc3eHZxcDRJUVlhcVVWUzR1aUkzRXg2WU9uV2VBQXhrOXV6cHdHX2g1M2ZZWDJMLWduOXZkOWdiamUzRU5lVFRXUWI2bE94QWs0MEl6MllGT0dmY29YejNfcy1aUDBJTXRDeFRveWtHMXAxdA?oc=5",
+      "category": "church",
+      "source": "Baptist News Global",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-26",
+      "summary": "Howerton calls Zach Lambert a ‘heretic’ but welcomes Bo French Baptist News Global",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Baptist News Global",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.045206",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist News Global",
+        "publisher": "Baptist News Global"
+      }
+    },
+    {
       "title": "Syriac Union Party in Syria: The terrorist attack on Saint George Church threatens the Christian presence and the religious and cultural diversity of the Middle East",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNRlQwZmowVkw3bFdqU0dyekQxRjlwX1pWR201UV9PUkpNTkx2QmxoMmJibjQ4cEhzVTRMNGVLSzlYZVI1bTN1bmhVYVBvenRTbXdXenlYMU45V0FlblJZRk5maFB1T0hTUUdLOXQzNDBNc3hhLUpJaFBDUjdsV21TdHhhR1hDRHROS2lzU21jMWc5dlNlZ0V2QmsxMDJaOW53WklIYXJuUVFhVUxqVlctSzBidWNZOXZvWkdmMi1HZ2NtSzhZbnBzUlVKRmk1NU9OcU9zSEV4R29vcmwwZ0RNV2tHSlppMzdDVzJUV2RvaDk2cXB0VDducWpxb0ExZTBfaDg1bkhDZVVBQ3VjVDQtTXpYenJWdU1tUmdYb3N1bldQYmxybDlnQmhrak9ZZw?oc=5",
       "category": "church",
@@ -937,7 +1049,7 @@
       "region": "中东",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.641700",
+      "fetched_at": "2026-10-29T06:06:05.871671",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -962,7 +1074,7 @@
       "region": "中东",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.641572",
+      "fetched_at": "2026-10-29T06:06:05.871440",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -987,7 +1099,7 @@
       "region": "中东",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.642391",
+      "fetched_at": "2026-10-29T06:06:05.872253",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -1012,7 +1124,7 @@
       "region": "中东",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.641946",
+      "fetched_at": "2026-10-29T06:06:05.872027",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -1035,7 +1147,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.734441",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.219800",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1060,7 +1174,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.810525",
+      "fetched_at": "2026-10-29T06:06:06.045497",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1085,7 +1199,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.810630",
+      "fetched_at": "2026-10-29T06:06:06.045607",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1108,7 +1222,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.734767",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.220128",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1121,7 +1237,7 @@
       "category": "church",
       "source": "Baptist News Global",
       "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-21",
+      "published": "2026-10-20",
       "summary": "Controversy at Ouachita as faculty required to sign doc on sexuality and gender Baptist News Global",
       "summary_zh": "",
       "title_zh": "",
@@ -1133,7 +1249,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.810736",
+      "fetched_at": "2026-10-29T06:06:06.045717",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1158,7 +1274,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.257277",
+      "fetched_at": "2026-10-29T06:06:06.353866",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -1183,7 +1299,7 @@
       "region": "中国",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.418520",
+      "fetched_at": "2026-10-29T06:06:05.491298",
       "extra": {
         "provider": "google_news",
         "query": "中国 教会 基督徒 聚会",
@@ -1231,7 +1347,9 @@
       "language": "en",
       "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.936405",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.330401",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -1254,7 +1372,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.735181",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.220526",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1329,7 +1449,7 @@
       "region": "中东",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.642495",
+      "fetched_at": "2026-10-29T06:06:05.872467",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -1354,7 +1474,7 @@
       "region": "中东",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.642180",
+      "fetched_at": "2026-10-29T06:06:05.871911",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -1379,7 +1499,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.038897",
+      "fetched_at": "2026-10-29T06:06:06.087155",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -1429,7 +1549,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.640387",
+      "fetched_at": "2026-10-29T06:06:05.773977",
       "extra": {
         "provider": "google_news",
         "query": "改革宗 神学 翻译 教会",
@@ -1454,7 +1574,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.832281",
+      "fetched_at": "2026-10-29T06:06:06.220406",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1504,36 +1624,11 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.039146",
+      "fetched_at": "2026-10-29T06:06:06.087291",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
         "publisher": "Baptist News Global"
-      }
-    },
-    {
-      "title": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcjE3Vk9Mc2lZd3lUVGN1YVUtVVoyTC0zdmVZbXJLdm43RElXVXNiNmNTUmdVNlhGcnVKNVA3ekRGR2pDMVZTX3U1VlRBOGd0U0ZlWm9Eanptdm52LTZvQ2VzSlFnWEg5eWpUQjJTUlNZVV9jWlBaTnh0aEVKcVFWZUE1ZVp3WjNWZW5TcGZiUlpDdWQ0Z2YxOWZndGNZdTBHdm1yZlMyUHNWTEpMM1ZDd3huRURYaGdUUlBabGVCajJiUUNzakgyUTJuZGU3dFIyNDR6Z0hfNEdVRjY4dHBWTXBB?oc=5",
-      "category": "church",
-      "source": "中东教会",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-06",
-      "summary": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity International Christian Concern",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "author": "International Christian Concern",
-      "tags": [],
-      "language": "en",
-      "country": "IL",
-      "region": "中东",
-      "stance": "evangelical",
-      "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.642072",
-      "extra": {
-        "provider": "google_news",
-        "query": "Middle East church Christians",
-        "publisher": "International Christian Concern"
       }
     },
     {
@@ -1552,7 +1647,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.735312",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.220645",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1577,7 +1674,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.039027",
+      "fetched_at": "2026-10-29T06:06:06.087028",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -1602,7 +1699,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.039258",
+      "fetched_at": "2026-10-29T06:06:06.087407",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -1627,7 +1724,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.039368",
+      "fetched_at": "2026-10-29T06:06:06.087510",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -1652,7 +1749,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.119329",
+      "fetched_at": "2026-10-29T06:06:06.266787",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Journal church",
@@ -1675,7 +1772,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.088449",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:05.504578",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -1700,7 +1799,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.832013",
+      "fetched_at": "2026-10-29T06:06:06.219944",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1725,7 +1824,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.832156",
+      "fetched_at": "2026-10-29T06:06:06.220282",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1748,7 +1847,9 @@
       "language": "en",
       "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.936814",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.330661",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -1771,7 +1872,9 @@
       "language": "en",
       "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.937002",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.330774",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -1817,7 +1920,9 @@
       "language": "en",
       "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.937530",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.331307",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -1842,7 +1947,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.257872",
+      "fetched_at": "2026-10-29T06:06:06.354453",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -1865,7 +1970,9 @@
       "language": "en",
       "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.937901",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.331513",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -1915,7 +2022,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.039483",
+      "fetched_at": "2026-10-29T06:06:06.087619",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -1965,7 +2072,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.257646",
+      "fetched_at": "2026-10-29T06:06:06.354241",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -2013,7 +2120,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.832607",
+      "fetched_at": "2026-10-29T06:06:06.220851",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -2063,7 +2170,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.039591",
+      "fetched_at": "2026-10-29T06:06:06.087720",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -2086,7 +2193,9 @@
       "language": "en",
       "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.937369",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.330990",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -2109,7 +2218,9 @@
       "language": "en",
       "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.937728",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.331411",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -2134,7 +2245,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.832501",
+      "fetched_at": "2026-10-29T06:06:06.220751",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -2184,7 +2295,7 @@
       "region": "中东",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.642611",
+      "fetched_at": "2026-10-29T06:06:05.872367",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2259,7 +2370,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.257525",
+      "fetched_at": "2026-10-29T06:06:06.354108",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -2284,7 +2395,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.184830",
+      "fetched_at": "2026-10-29T06:06:06.128623",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -2307,7 +2418,9 @@
       "language": "en",
       "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.936596",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.330528",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -2380,7 +2493,9 @@
       "language": "en",
       "country": "GB",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.937186",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.330878",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -2403,7 +2518,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.087936",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:05.503994",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -2553,7 +2670,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.184575",
+      "fetched_at": "2026-10-29T06:06:06.128518",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -2600,7 +2717,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.039700",
+      "fetched_at": "2026-10-29T06:06:06.087817",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -2625,7 +2742,7 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:12.119447",
+      "fetched_at": "2026-10-29T06:06:06.266667",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Journal church",
@@ -2650,7 +2767,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.587319",
+      "fetched_at": "2026-10-29T06:06:05.504155",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -2673,7 +2790,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:13.876237",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:06.130151",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",

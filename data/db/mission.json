@@ -2,7 +2,7 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 40,
-  "updated_at": "2026-10-29T10:39:19.008144+08:00",
+  "updated_at": "2026-10-29T14:09:29.937253+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -24,7 +24,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.440863",
+      "fetched_at": "2026-10-29T06:06:04.758154",
       "extra": {
         "feed_type": "rss20"
       }
@@ -49,7 +49,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.440932",
+      "fetched_at": "2026-10-29T06:06:04.758235",
       "extra": {
         "feed_type": "rss20"
       }
@@ -74,7 +74,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.441031",
+      "fetched_at": "2026-10-29T06:06:04.758326",
       "extra": {
         "feed_type": "rss20"
       }
@@ -99,7 +99,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.441091",
+      "fetched_at": "2026-10-29T06:06:04.758380",
       "extra": {
         "feed_type": "rss20"
       }
@@ -124,7 +124,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.441144",
+      "fetched_at": "2026-10-29T06:06:04.758429",
       "extra": {
         "feed_type": "rss20"
       }
@@ -150,7 +150,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.441196",
+      "fetched_at": "2026-10-29T06:06:04.758474",
       "extra": {
         "feed_type": "rss20"
       }
@@ -178,7 +178,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.441258",
+      "fetched_at": "2026-10-29T06:06:04.758528",
       "extra": {
         "feed_type": "rss20"
       }
@@ -208,7 +208,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.441331",
+      "fetched_at": "2026-10-29T06:06:04.758589",
       "extra": {
         "feed_type": "rss20"
       }
@@ -239,7 +239,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.441387",
+      "fetched_at": "2026-10-29T06:06:04.758637",
       "extra": {
         "feed_type": "rss20"
       }
@@ -270,7 +270,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.441441",
+      "fetched_at": "2026-10-29T06:06:04.758683",
       "extra": {
         "feed_type": "rss20"
       }
@@ -283,8 +283,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-24",
       "summary": "Texas Christians die in wreck on Africa mission trip The Christian Chronicle",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "德克萨斯州基督徒在非洲传教之旅中遇难基督教纪事报",
+      "title_zh": "德克萨斯州基督徒在非洲传教之旅中遇难",
       "content": "",
       "author": "The Christian Chronicle",
       "tags": [],
@@ -293,7 +293,7 @@
       "region": "非洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.274651",
+      "fetched_at": "2026-10-29T06:06:05.362665",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -308,8 +308,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-22",
       "summary": "Confronting workplace injustice part of Christian mission, Nigerian bishop says EWTN News",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "尼日利亚主教说，面对工作场所的不公正是基督教使命的一部分， EWTN新闻",
+      "title_zh": "尼日利亚主教说，面对工作场所的不公正是基督徒使命的一部分",
       "content": "",
       "author": "EWTN News",
       "tags": [],
@@ -318,7 +318,7 @@
       "region": "非洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.274806",
+      "fetched_at": "2026-10-29T06:06:05.362788",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -343,7 +343,7 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.847541",
+      "fetched_at": "2026-10-29T06:06:05.113686",
       "extra": {
         "provider": "google_news",
         "query": "学园传道会 校园 福音",
@@ -368,7 +368,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.616854",
+      "fetched_at": "2026-10-29T06:06:05.067466",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -418,7 +418,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.316642",
+      "fetched_at": "2026-10-29T06:06:05.547467",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -443,7 +443,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.744113",
+      "fetched_at": "2026-10-29T06:06:04.991827",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -468,7 +468,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.744656",
+      "fetched_at": "2026-10-29T06:06:04.992124",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -515,7 +515,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.743359",
+      "fetched_at": "2026-10-29T06:06:04.991363",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -540,7 +540,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.803742",
+      "fetched_at": "2026-10-29T06:06:05.042925",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -603,8 +603,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-04",
       "summary": "Missionaries are still going to Africa. But for African Christian leaders, it is the West that needs help CNN",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "传教士仍然要去非洲。但对于非洲的基督教领袖来说，西方需要CNN的帮助，",
+      "title_zh": "传教士仍然要去非洲。但对于非洲的基督教领袖来说，需要帮助的是西方",
       "content": "",
       "author": "CNN",
       "tags": [],
@@ -613,7 +613,7 @@
       "region": "非洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.274938",
+      "fetched_at": "2026-10-29T06:06:05.362897",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -663,7 +663,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.317054",
+      "fetched_at": "2026-10-29T06:06:05.547892",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -711,7 +711,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.522910",
+      "fetched_at": "2026-10-29T06:06:04.803355",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士 差会",
@@ -726,8 +726,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-18",
       "summary": "People Vision: Reimagining Mission to Least Reached Peoples The Gospel Coalition",
-      "summary_zh": "人们的愿景：重新构想使命，以最少的人民福音联盟",
-      "title_zh": "人才愿景：重新构想对接触最少人群的使命",
+      "summary_zh": "",
+      "title_zh": "",
       "content": "",
       "author": "The Gospel Coalition",
       "tags": [],
@@ -736,7 +736,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.042693",
+      "fetched_at": "2026-10-29T06:06:05.379879",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -761,7 +761,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.683035",
+      "fetched_at": "2026-10-29T06:06:05.000723",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -857,7 +857,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.802952",
+      "fetched_at": "2026-10-29T06:06:05.043044",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -928,7 +928,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.803204",
+      "fetched_at": "2026-10-29T06:06:05.043268",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -953,7 +953,7 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:10.803319",
+      "fetched_at": "2026-10-29T06:06:05.043365",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -968,8 +968,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-04",
       "summary": "The fastest-growing mission field on earth www.christiandaily.com",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "地球上发展最快的任务区www.christiandaily.com",
+      "title_zh": "地球上发展最快的任务场",
       "content": "",
       "author": "www.christiandaily.com",
       "tags": [],
@@ -978,7 +978,7 @@
       "region": "非洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:11.275159",
+      "fetched_at": "2026-10-29T06:06:05.362992",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -1001,7 +1001,9 @@
       "language": "zh",
       "country": "HK",
       "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:12.722947",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T06:06:05.286555",
       "extra": {
         "provider": "google_news",
         "query": "福音证主协会 宣教",
