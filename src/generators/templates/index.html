@@ -1,19 +1,29 @@
 {% extends "base.html" %}
 {% block title %}基督教世界新闻 - 首页{% endblock %}
 {% block content %}
+<section class="hero">
+  <div class="hero-main">
+    <h1>基督教世界新闻</h1>
+    <p class="hero-sub">每日自动采集全球基督教资讯 · 信仰自由、教会、宣教与公共议题一站聚合</p>
+  </div>
+  <div class="hero-tools">
+    <div class="updated-pill">更新于 {{ updated_at }}</div>
+    <div class="date-nav" role="group" aria-label="日期导航">
+      <button type="button" class="btn-date" id="date-prev" aria-label="前一天">‹</button>
+      <span class="date-nav-title" id="date-nav-title">全部日期</span>
+      <button type="button" class="btn-date" id="date-next" aria-label="后一天">›</button>
+      <button type="button" class="btn-date btn-date--all" id="date-all">全部</button>
+    </div>
+  </div>
+</section>
+
+<div class="filter-bar" id="filter-bar" hidden>
+  <span>筛选：<strong id="filter-label"></strong>（<span id="filter-count"></span> 条）</span>
+  <button id="clear-filter" class="btn-clear" type="button">清除筛选</button>
+</div>
+
 <div class="home-layout">
   <div class="main-col">
-    <div class="filter-bar" id="filter-bar" hidden>
-      <span>筛选：<strong id="filter-label"></strong>（<span id="filter-count"></span> 条）</span>
-      <button id="clear-filter" class="btn-clear" type="button">清除筛选</button>
-    </div>
-
-    <div class="date-nav">
-      <button type="button" class="btn-date" id="date-prev">‹ 前一天</button>
-      <span class="date-nav-title" id="date-nav-title"></span>
-      <button type="button" class="btn-date" id="date-next">后一天 ›</button>
-    </div>
-
     <section class="timeline">
       {% for date, items in date_groups.items() %}
       <div class="date-section" id="date-{{ date }}">
@@ -26,7 +36,7 @@
         </div>
         <div class="article-list">
           {% for article in items %}
-          <article class="article-card">
+          <article class="article-card cat-{{ article.category }}">
             <div class="article-meta">
               <span class="category-tag cat-{{ article.category }}">{{ category_labels[article.category] }}</span>
               <span class="source">{{ article.source }}</span>
@@ -37,9 +47,8 @@
             {% if article.title_zh %}
             <div class="title-original">{{ article.title }}</div>
             {% endif %}
-            {% if article.summary %}
-            <p>{{ article.summary }}</p>
-            {% endif %}
+            {% if article.summary_zh %}<p>{{ article.summary_zh }}</p>
+            {% elif article.summary %}<p>{{ article.summary }}</p>{% endif %}
           </article>
           {% endfor %}
         </div>

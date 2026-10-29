@@ -5,14 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="theme-color" content="#1f3a5f">
   <title>基督教世界新闻 - 首页</title>
+  <link rel="preconnect" href="https://fonts.googleapis.cn">
+  <link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin>
+  <link href="https://fonts.googleapis.cn/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
       <a href="index.html" class="logo">
-        <span class="logo-icon">✝</span>
-        基督教世界新闻
+        <span class="logo-mark">✝</span>
+        <span class="logo-text">基督教<em>世界新闻</em></span>
       </a>
       <nav class="main-nav">
         <a href="index.html">首页</a>
@@ -26,25 +29,34 @@
         <a href="categories/wiki.html">百科</a>
         <a href="sources.html">信息源</a>
       </nav>
-      <div class="updated-at">更新于 2026-10-29T09:36:07.327083+08:00</div>
     </div>
   </header>
 
   <main class="container">
     
+<section class="hero">
+  <div class="hero-main">
+    <h1>基督教世界新闻</h1>
+    <p class="hero-sub">每日自动采集全球基督教资讯 · 信仰自由、教会、宣教与公共议题一站聚合</p>
+  </div>
+  <div class="hero-tools">
+    <div class="updated-pill">更新于 2026-10-29T09:36:07.327083+08:00</div>
+    <div class="date-nav" role="group" aria-label="日期导航">
+      <button type="button" class="btn-date" id="date-prev" aria-label="前一天">‹</button>
+      <span class="date-nav-title" id="date-nav-title">全部日期</span>
+      <button type="button" class="btn-date" id="date-next" aria-label="后一天">›</button>
+      <button type="button" class="btn-date btn-date--all" id="date-all">全部</button>
+    </div>
+  </div>
+</section>
+
+<div class="filter-bar" id="filter-bar" hidden>
+  <span>筛选：<strong id="filter-label"></strong>（<span id="filter-count"></span> 条）</span>
+  <button id="clear-filter" class="btn-clear" type="button">清除筛选</button>
+</div>
+
 <div class="home-layout">
   <div class="main-col">
-    <div class="filter-bar" id="filter-bar" hidden>
-      <span>筛选：<strong id="filter-label"></strong>（<span id="filter-count"></span> 条）</span>
-      <button id="clear-filter" class="btn-clear" type="button">清除筛选</button>
-    </div>
-
-    <div class="date-nav">
-      <button type="button" class="btn-date" id="date-prev">‹ 前一天</button>
-      <span class="date-nav-title" id="date-nav-title"></span>
-      <button type="button" class="btn-date" id="date-next">后一天 ›</button>
-    </div>
-
     <section class="timeline">
       
       <div class="date-section" id="date-2026-10-29">
@@ -57,7 +69,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -68,12 +80,10 @@
             
             <div class="title-original">Art Programs in Lebanon Bring Beauty to Midst of Crisis</div>
             
-            
             <p>With Lebanon currently being impacted by war, a refugee crisis, and more, stories of beauty can be hard to come across. For ministries active in Lebanon, meeting the spiritual, physical...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -84,12 +94,10 @@
             
             <div class="title-original">Abide</div>
             
-            
             <p>This incident took place over 15 years ago, and yet, I remember it clearly. In the buzz of daily life, it is easy to get caught up in the carelessness...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -100,12 +108,10 @@
             
             <div class="title-original">Koinonia</div>
             
-            
             <p>Koinonia (Koy-no-nee’-ah) is a Greek word, occurring 20 times in the Bible, which means “fellowship” or “brotherly love.” It carries with it the meaning of a committed, trustworthy, and dependable...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -116,12 +122,10 @@
             
             <div class="title-original">Covenant</div>
             
-            
             <p>Isaiah 54:10 Though the mountains be shaken and the hills be removed, yet my unfailing love for you will not be shaken nor my covenant of peace be removed,” says...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -132,12 +136,10 @@
             
             <div class="title-original">Innocent As Doves</div>
             
-            
             <p>The Scriptures Ephesians 6:10-18 (NIV) 10 Finally, be strong in the Lord and in his mighty power. 11 Put on the full armor of God, so that you can take...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -148,12 +150,10 @@
             
             <div class="title-original">Abraham & Lot</div>
             
-            
             <p>Genesis 13 So Abram left Egypt and traveled north into the Negev, along with his wife and Lot and all that they owned. 2 (Abram was very rich in livestock,...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -164,12 +164,10 @@
             
             <div class="title-original">God’s comfort</div>
             
-            
             <p>My family still wrestles with what feels like very fresh grief over my dad’s passing last September. There are moments where things hit us and we feel this ache of...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -180,12 +178,10 @@
             
             <div class="title-original">A chance meeting?</div>
             
-            
             <p>You’ve probably heard someone say ‘There is no such thing as a coincidence’. Usually people nod their heads and murmur agreement, but the real question is “Do you believe it?“...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -196,12 +192,10 @@
             
             <div class="title-original">What comes first: chicken or the egg?</div>
             
-            
             <p>One thing I am noticing here is how different the context of ministry is from country to country. You can sometimes THINK you understand the concept of the vehicle, like...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Mission Network News</span>
@@ -212,12 +206,10 @@
             
             <div class="title-original">The power of prayer unleashed</div>
             
-            
             <p>Last night, I attended a prayer meeting at a church in downtown Cairo, near Tahrir Square. The church was gathering to cry out to God in their distress over the...</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -228,12 +220,10 @@
             
             <div class="title-original">WCC Faith and Order meeting opens with path toward deep dialogue</div>
             
-            
             <p>WCC Faith and Order meeting opens with path toward deep dialogue   iku   Mon, 10/26/2026 - 15:19     The meeting of the World Council of Churches (WCC) Commission on Faith and Order opened in Lund, Sweden, on 26 October, marking the second time in history that the commission has met in Sweden.            Image             26 October 2026, Höör, Sweden: Opening prayer observed at the World Council of Churches (WCC) Commission on Faith and Order meeting taking place 25-31 October 2026.    Photo:  </p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -244,12 +234,10 @@
             
             <div class="title-original">Global Prayer for Peace in Ukraine</div>
             
-            
             <p>Global Prayer for Peace in Ukraine   iku   Wed, 05/20/2026 - 17:21     In a series of global prayers for peace, the World Council of Churches (WCC) invites people and churches around the world to join in the Global Prayer for Peace in Ukraine on 11 June at 13.00 CET.           Image             Thousands of Ukrainian flags have been placed at the Maidan Nezalezhnosti/Independence Square - the central square of Kyiv, capital city of Ukraine, in front of the Independence Monument, in memory of tho</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -260,12 +248,10 @@
             
             <div class="title-original">GETI 2025: "Where now for visible unity?"</div>
             
-            
             <p>GETI 2025: "Where now for visible unity?"   msc   Tue, 10/15/2024 - 16:29     The Global Ecumenical Theological Institute 2025 (GETI), at the WCC Commission on Faith and Order’s World Conference in Egypt, is the fourth in a series of such global study programmes.           Image                        GETI is an international study programme of the WCC’s Ecumenical Theological Education (WCC-ETE) programme.  The first GETI took place at the 10th WCC Assembly in 2013 in Busan, South Korea. Subseq</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -276,12 +262,10 @@
             
             <div class="title-original">Religious Leaders Unite for Climate Peace in Solidarity with Refugees</div>
             
-            
             <p>Religious Leaders Unite for Climate Peace in Solidarity with Refugees   GDF   Tue, 12/05/2023 - 17:39     Religious leaders will gather on12 December for an event inked to the Global Refugee Forum. The programme is hosted by the UNHCR, the World Council of Churches (WCC), and Religions for Peace (RfP) at the Ecumenical Centre, Geneva.           Image            Photo:  Albin Hillert                 The Global Refugee Forum, the world ’ s largest international gathering on refugees, will take pla</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -292,12 +276,10 @@
             
             <div class="title-original">A Week of Prayer in the Time of the COVID-19 Pandemic</div>
             
-            
             <p>A Week of Prayer in the Time of the COVID-19 Pandemic   albin   Thu, 03/04/2021 - 16:25     The World Council of Churches will observe a week of prayer from 22-27 March, one year into the COVID-19 pandemic.            Image            Photo:  Marcelo Schneider/WCC; Mike DuBose/UM News                 The week will invite a time of prayer and reflection on both the lament and the hope expressed and experienced across the world during what has been a year of unprecedented suffering, but also one w</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -308,12 +290,10 @@
             
             <div class="title-original">Biodiversity COP17: Catholicos receives WCC, ecumenical prayer follows</div>
             
-            
             <p>Biodiversity COP17: Catholicos receives WCC, ecumenical prayer follows   valter   Wed, 10/28/2026 - 14:19     On 25 October, churches in Armenia met the UN Biodiversity Conference (COP17) with an encounter and a prayer. At the Mother See of Holy Etchmiadzin, His Holiness Karekin II, Supreme Patriarch and Catholicos of All Armenians, received the World Council of Churches (WCC) delegation. In the evening, the WCC led an ecumenical prayer at St Anna Church in Yerevan.           Image             E</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -324,12 +304,10 @@
             
             <div class="title-original">Young Nordic theologians voice what visible unity means to them today</div>
             
-            
             <p>Young Nordic theologians voice what visible unity means to them today    msc   Tue, 10/27/2026 - 17:39     Young Nordic theologians who are participating in the ongoing meeting of the World Council of Churches (WCC) Commission on Faith and Order voiced their reflections on what visible unity means today.            Image             26 October 2026, Höör, Sweden: Rev. Hilda María Sigurðardóttir, Church of Iceland, speaks on a panel entitled 'Church in Transition: Learning from the Nordic Experie</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -340,12 +318,10 @@
             
             <div class="title-original">Swedish “Singstunde” invites spiritual encounter with and through music</div>
             
-            
             <p>Swedish “Singstunde” invites spiritual encounter with and through music   iku   Tue, 10/27/2026 - 15:09     A Swedish “Singstunde” offered spiritual musical encounters on the opening day of the Commission on Faith and Order meeting 2026.            Image             26 October 2026, Höör, Sweden: Evening prayer in the form of a Swedish Singstunde providing participants in the World Council of Churches (WCC) Commission on Faith and Order meeting 2026 with an opportunity to experience the spiritua</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -356,12 +332,10 @@
             
             <div class="title-original">Church of Sweden's interreligious engagement reflects decades of dialogue, trust, shared action</div>
             
-            
             <p>Church of Sweden's interreligious engagement reflects decades of dialogue, trust, shared action   valter   Tue, 10/27/2026 - 14:57     From 12-14 October, the Church of Sweden's officers responsible for interreligious dialogue, Rev. Peter Lööv Roos, Rev. Maria Kjellsdotter Rydinger, and Dr Anita Suneson, hosted Prof. Angeliki Ziaka, programme executive for Interreligious Dialogue and Cooperation at the World Council of Churches (WCC), at the Church of Sweden's National Office in Uppsala.        </p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-theology">
             <div class="article-meta">
               <span class="category-tag cat-theology">神学与合一</span>
               <span class="source">World Council of Churches</span>
@@ -372,12 +346,10 @@
             
             <div class="title-original">WCC shares tribute to Rev. Dr Walter Altmann</div>
             
-            
             <p>WCC shares tribute to Rev. Dr Walter Altmann   msc   Tue, 10/27/2026 - 14:43     World Council of Churches general secretary Rev. Prof. Dr Jerry Pillay shared a tribute to Rev. Dr Walter Altmann, during a ceremony conferring the degree of doctor honoris causa upon Altmann by Faculdades EST, in São Leopoldo, Brazil on 26 October.           Image             Rev. Dr Walter Altmann addressing the WCC 11th Assembly, in Busan, Republic of Korea, 2013.    Photo:  Peter Williams/WCC                 “ A</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -388,12 +360,10 @@
             
             <div class="title-original">Best Practices from Evangelistically Effective Churches</div>
             
-            
             <p>While thousands of Americans are dechurching, some churches are baptizing many new members. Here’s how the country’s most evangelistically effective churches are sharing the gospel.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -404,12 +374,10 @@
             
             <div class="title-original">We Need to Know Our Reformed Roots</div>
             
-            
             <p>This volume is an invitation to rediscover that heritage and to find fresh encouragement in the faithfulness of God, who has sustained his church through the centuries.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -420,12 +388,10 @@
             
             <div class="title-original">If the Church Did Its Job, Would the Parachurch Exist?</div>
             
-            
             <p>Do pregnancy centers, food pantries, or campus ministries exist because the church is failing to do her work?</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -436,12 +402,10 @@
             
             <div class="title-original">Ministry Lessons from the Puritans (with Joel Beeke)</div>
             
-            
             <p>Joel Beeke joins Matt Smethurst and Ligon Duncan to explore what the Puritans can teach today’s pastors about prayer, preaching, personal holiness, shepherding souls, handling criticism, and persevering in ministry.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -452,12 +416,10 @@
             
             <div class="title-original">On My Shelf: Life and Books with L. Michael Morales</div>
             
-            
             <p>L. Michael Morales talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -468,12 +430,10 @@
             
             <div class="title-original">How Can I Find the Motivation to Use My Time Better at Work?</div>
             
-            
             <p>Let’s start by counting the cost.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -484,12 +444,10 @@
             
             <div class="title-original">Simon Says: Inconspicuous Evidence of Eyewitnesses in Mark</div>
             
-            
             <p>Several features indicate that the eyewitness accounts of Simon stand behind Mark’s Gospel.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -500,12 +458,10 @@
             
             <div class="title-original">Broken Bodies Make Beautiful Temples</div>
             
-            
             <p>We must view our foreign-feeling bodies as vessels through which God demonstrates his redeeming strength.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -516,12 +472,10 @@
             
             <div class="title-original">What My Grandparents Taught Me About Pastoral Ministry</div>
             
-            
             <p>You’re being prepared for the work the Lord has for you in ways you may not understand until you’re standing in a hospice living room.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -532,12 +486,10 @@
             
             <div class="title-original">Gospel Hope for Gen-Z Ministry</div>
             
-            
             <p>Many of us have seen the statistics that Gen Z is the least explicitly Christian or religious generation on record.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -548,12 +500,10 @@
             
             <div class="title-original">What You Should Know About the Hebrew Roots Movement</div>
             
-            
             <p>The Hebrew Roots Movement is a modern version of the New Testament Judaizers who were rebuked by Paul.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -564,12 +514,10 @@
             
             <div class="title-original">7 Keys for Thriving in Lifelong Ministry</div>
             
-            
             <p>Learn long-term planning from Joseph, artful delegation from Jethro, lifelong consistency from Daniel, and aged wisdom from John.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -580,12 +528,10 @@
             
             <div class="title-original">‘Fjord’ Is the Best Movie of 2026 So Far</div>
             
-            
             <p>‘Fjord’ challenges ‘tolerant’ progressives to reflect on their intolerance of conservative evangelical Christians.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -596,12 +542,10 @@
             
             <div class="title-original">Why Humans Pretend to Be Computers</div>
             
-            
             <p>The power behind AI is the perception of objectivity and infallibility.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">The Gospel Coalition</span>
@@ -612,12 +556,10 @@
             
             <div class="title-original">Finding Meaning in Our Daily Work (with Denise Daniels)</div>
             
-            
             <p>Wheaton College’s Denise Daniels draws on research with thousands of American workers to help us have a more holistic vision of how our work matters to us, our neighbors, our families, and God.</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -628,12 +570,10 @@
             
             <div class="title-original">Christianity</div>
             
-            
             <p>Christianity is an Abrahamic monotheistic religion based on the Bible and the teachings of Jesus. The Gospels state that Jesus is the Son of God and rose</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -644,12 +584,10 @@
             
             <div class="title-original">Christian denomination</div>
             
-            
             <p>A Christian denomination is a distinct religious group within Christianity that comprises all church congregations of the same kind, identifiable by traits</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -660,12 +598,10 @@
             
             <div class="title-original">Reformed Christianity</div>
             
-            
             <p>Reformed Christianity, also called Calvinism, is a major branch of Protestantism that began during the 16th-century Reformation. In the modern day, it</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -676,12 +612,10 @@
             
             <div class="title-original">Western Christianity</div>
             
-            
             <p>Western Christianity is one of two subdivisions of Christianity (Eastern Christianity being the other). Western Christianity is composed of the Latin Church</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -692,12 +626,10 @@
             
             <div class="title-original">Protestantism</div>
             
-            
             <p>usually refers to evangelical Protestant churches, and therefore to a certain part of Protestantism rather than to Protestantism as a whole. The English word</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -708,12 +640,10 @@
             
             <div class="title-original">Reformation</div>
             
-            
             <p>justification. Protestantism also introduced new ecclesiology. The general points of theological agreement by the different Protestant groups have been</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -724,12 +654,10 @@
             
             <div class="title-original">Proto-Protestantism</div>
             
-            
             <p>Proto-Protestantism, also called pre-Protestantism, refers to individuals and movements that propagated various ideas later associated with Protestantism before</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -740,12 +668,10 @@
             
             <div class="title-original">Protestantism by country</div>
             
-            
             <p>largest Protestant minority. Protestantism is growing in Africa, Asia, Latin America while declining in North America and Europe. In France, Protestantism was</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -756,12 +682,10 @@
             
             <div class="title-original">Catholic Church</div>
             
-            
             <p>The Catholic Church (Latin: Ecclesia Catholica), also called the Roman Catholic Church (Latin: Ecclesia Catholica Romana), is the largest Christian church</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -772,12 +696,10 @@
             
             <div class="title-original">Eastern Catholic Churches</div>
             
-            
             <p>The Eastern Catholic Churches or Oriental Catholic Churches, also known as the Eastern-Rite Catholic Churches, Eastern Rite Catholicism, or simply the</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -788,12 +710,10 @@
             
             <div class="title-original">Hierarchy of the Catholic Church</div>
             
-            
             <p>The hierarchy of the Catholic Church consists of its bishops, priests, and deacons. In the ecclesiological sense of the term, hierarchy strictly means</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -804,12 +724,10 @@
             
             <div class="title-original">Old Catholic Church</div>
             
-            
             <p>The Old Catholic Church, Old Catholics, Old-Catholic churches, or Old Catholic movement are &quot;any of the groups of Western Christians who believe themselves</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -820,12 +738,10 @@
             
             <div class="title-original">Eastern Orthodox Church</div>
             
-            
             <p>The Eastern Orthodox Church, officially the Orthodox Catholic Church, also known as the Greek Orthodox Church is the second-largest Christian body in</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -836,12 +752,10 @@
             
             <div class="title-original">Organization of the Eastern Orthodox Church</div>
             
-            
             <p>The Eastern Orthodox Church, officially the Orthodox Catholic Church and commonly known simply as the Orthodox Church, is a communion composed of up to</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -852,12 +766,10 @@
             
             <div class="title-original">Greek Orthodox Patriarchate of Antioch</div>
             
-            
             <p>for the Orthodox Rum&#039;), is an autocephalous Eastern Orthodox church in full communion with the other autocephalous Eastern Orthodox churches and originates</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -868,12 +780,10 @@
             
             <div class="title-original">Greek Orthodox Church</div>
             
-            
             <p>Jerusalem, the Church of Greece and the Church of Cyprus. The third meaning refers to the Church of Greece, an Eastern Orthodox Church operating within</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -884,12 +794,10 @@
             
             <div class="title-original">Bible</div>
             
-            
             <p>The Bible is an anthology of religious texts that are central to Judaism and Christianity, and important in other Abrahamic religions such as Islam. The</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -900,12 +808,10 @@
             
             <div class="title-original">Hebrew Bible</div>
             
-            
             <p>The Hebrew Bible, Jewish Bible, or Tanakh (US: /tɑːˈnɑːx/, UK: /tæˈnæx/ or /təˈnæx/; Hebrew: תַּנַ״ךְ, romanized: tanaḵ; תָּנָ״ךְ, tānāḵ; or תְּנַ״ךְ</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -916,12 +822,10 @@
             
             <div class="title-original">Bible (disambiguation)</div>
             
-            
             <p>Look up Bible or bible in Wiktionary, the free dictionary. The Bible is a canonical collection of texts treated as religious scripture in Judaism, Christianity</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (en)</span>
@@ -932,12 +836,10 @@
             
             <div class="title-original">Biblical canon</div>
             
-            
             <p>particular Jewish or Christian religious community regards as part of the Bible. The English word canon comes from the Greek κανών kanōn, meaning &#039;rule&#039;</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -946,12 +848,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E5%9F%BA%E7%9D%A3%E6%95%99" target="_blank" rel="noopener">基督教</a></h3>
             
-            
             <p>Johnson, T.M., Crossing, P.F., Table （页面存档备份，存于互联网档案馆） derived from World Christianity 2025: Regional Perspectives, International Bulletin of Mission Research</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -960,12 +860,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E8%80%B6%E7%A8%A3" target="_blank" rel="noopener">耶稣</a></h3>
             
-            
             <p>of Christianity）。 基督教神學包含以下信仰：耶稣由圣灵感孕，由处女马利亚所生，施行神迹，创立基督教会，因十字架刑为赦免世人的罪而死，死后第三日复活，升入天堂（英语：Heaven in Christianity</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -974,12 +872,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC" target="_blank" rel="noopener">日本</a></h3>
             
-            
             <p>日本人信奉什么宗教？. 日本儿童网. [2014-03-02]. （原始内容存档于2019-05-02）. Mariko Kato. Christianity&#039;s long history in the margins. The Japan Times. 2009-02-24 [2014-04-22]</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -988,12 +884,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8B%E5%8B%95" target="_blank" rel="noopener">反對逃犯條例修訂草案運動</a></h3>
             
-            
             <p>議活動的標誌。有網友發起在各國報章登廣告的群眾募資，亦有網友開設使用「長輩圖」的「保民生抗修例大聯盟」專頁宣傳。隨著許多香港基督教（英语：Christianity in Hong Kong）信徒參與抗議，由於警方較難驅散宗教集會，一些抗議者建議吟唱基督教讚美詩《唱哈利路亞》，將該歌曲視為示威的主題曲。</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1002,12 +896,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E6%95%99" target="_blank" rel="noopener">新教</a></h3>
             
-            
             <p>Melton, J.G., Encyclopedia of Protestantism, pp39-40 McGrath, A.E., Marks, D.C. (ed), The Blackwell Companion to Protestantism, p211 南亞路德會，《信仰立場》，頁3：「祂顯明</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1016,12 +908,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E4%B8%BB%E6%B5%81%E6%96%B0%E6%95%99" target="_blank" rel="noopener">主流新教</a></h3>
             
-            
             <p>神學的一派被稱為「主流新教」。主流新教中最有影響力的七個教會又稱「美國新教七姐妹」（Seven Sisters of American Protestantism），分別是美北浸礼会（浸信會）、聯合循道會（循道宗）、基督會（改革宗）、美國聖公會（聖公宗）、美國福音路德教會（信義宗）、聯合基督教會（</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1030,12 +920,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA" target="_blank" rel="noopener">西藏自治区</a></h3>
             
-            
             <p>religion, and very small minorities practice Islam, Catholicism, or Protestantism. Some scholars estimate that there are as many as 400,000 Bon followers</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1044,12 +932,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD" target="_blank" rel="noopener">美国</a></h3>
             
-            
             <p>西班牙裔或拉丁裔血統： 81.3% 非西班牙裔或拉丁裔 18.7% 拉丁裔 宗教 （2023年） 67% 基督教 33% 新教（英语：Protestantism in the United States） 22% 天主教（英语：Catholic Church in the United States）</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1058,12 +944,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%B8%BB%E6%95%99" target="_blank" rel="noopener">天主教</a></h3>
             
-            
             <p>天主教會，正式名稱為公教會（拉丁語：Ecclesia Catholica，英語：Catholic Church），漢譯多稱為天主教（英語：Catholicism），又譯為公教、舊教，是基督教信仰人數（英语：List of Christian denominations by number of</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1072,12 +956,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E6%9D%B1%E5%84%80%E5%A4%A9%E4%B8%BB%E6%95%99%E6%9C%83" target="_blank" rel="noopener">東儀天主教會</a></h3>
             
-            
             <p>Syro-Malankara Catholic Church （页面存档备份，存于互联网档案馆） Syro-Malabar Catholic Church （页面存档备份，存于互联网档案馆） Official website Byzantine Catholic Church in America</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1086,12 +968,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%B8%BB%E6%95%99%E4%B8%AD%E8%8F%AF%E6%AE%89%E9%81%93%E8%81%96%E4%BA%BA%E5%A0%82_%28%E8%90%AC%E9%8C%A6%E5%B8%82%29" target="_blank" rel="noopener">天主教中華殉道聖人堂 (萬錦市)</a></h3>
             
-            
             <p>Catholic Church）是加拿大安大略省萬錦市的一座華人天主教堂，最初位於士嘉堡。該堂為大多倫多地區第二座華人天主教堂，以19至20世紀期間的中華殉道聖人命名。 聖彌額爾聖殿主教座堂 (多倫多) 聖保祿聖殿 (多倫多) 聖博德堂 (多倫多)（英语：St. Patrick&#039;s Church (Toronto)）</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1100,12 +980,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E7%90%86" target="_blank" rel="noopener">天主教教理</a></h3>
             
-            
             <p>《天主教教理》（拉丁語：Catechismus Catholicae Ecclesiae，英語：Catechism of the Catholic Church，縮寫為CCC），或譯《天主教要理》，是天主教会出版的教理問答全書，完整收錄天主教會的教義及信仰生活指引，以作為各地教會進行教理講授（英语</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1114,12 +992,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A3%E6%95%99" target="_blank" rel="noopener">東正教</a></h3>
             
-            
             <p>Εκκλησία），正式名称为正统大公教会（希腊语：Ορθόδοξη Καθολική και Αποστολική Εκκλησία、英語：Orthodox Catholic Church），又称正教會（希腊语：Ορθόδοξη Εκκλησία）、東方正教會，漢語圈中常稱東正教，是基督宗教的一個教派及教會，與天</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1128,12 +1004,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B3%89%E7%94%9F" target="_blank" rel="noopener">王泉生</a></h3>
             
-            
             <p>Eastern Orthodox church architecture）被關閉，王泉生無法在教堂內活動。文化大革命期間，王泉生被關押進勞改營。 2009年8月，王泉生為额尔古纳市的一個東正教教堂（英语：Eastern Orthodox church architecture）主持祝圣仪式。</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1142,12 +1016,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%E7%A7%91%E6%99%AE%E7%89%B9%E6%AD%A3%E6%95%99%E6%9C%83" target="_blank" rel="noopener">亞歷山大科普特正教會</a></h3>
             
-            
             <p>al-Qibṭiyya al-ʾUrṯūḏuksiyya；英語：Coptic Orthodox Patriarchate of Alexandria 或 Coptic Orthodox Church），简称科普特正教会，是在埃及最具规模的基督教教会之一，属于东方正统教会。科普特正教会传统</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1156,12 +1028,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%87%98%E6%AD%A3%E6%95%99%E6%9C%83" target="_blank" rel="noopener">希臘正教會</a></h3>
             
-            
             <p>希臘正教會（希臘語：Ελληνορθόδοξη Εκκλησία，英語：Greek Orthodox Church）是羅馬帝國國家教會分裂後，羅馬正教會的幾個教會統稱，其神學根植於早期教父以及拜占庭文化，禮拜儀式使用通用希臘語。與普世牧首共融。其起源於近東的早期基督教以及拜占庭帝國，当代東正教修道</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1170,12 +1040,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93" target="_blank" rel="noopener">聖經</a></h3>
             
-            
             <p>（页面存档备份，存于互联网档案馆） The Holy Bible (Interlinear 中英對照) （页面存档备份，存于互联网档案馆） 和合本網路聖經 （页面存档备份，存于互联网档案馆） 소금성경 （页面存档备份，存于互联网档案馆）: (SaltBible) 성경전서 개역한글, Darby Bible, Chinese Union</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1184,12 +1052,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%81%96%E7%B6%93" target="_blank" rel="noopener">李聖經</a></h3>
             
-            
             <p>李聖經（韓語：이성경，英語：Lee Sung-kyoung，英文別名：Lee Bible，1990年8月10日—），韓國女演員、模特兒，身高174.4公分。 曾夢想成為鋼琴家，直到高中3年級為止一直練習鋼琴並準備考音樂大學，在父母的勸說下出道為模特。有個小四歲，從事音樂劇演員的妹妹。</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1198,12 +1064,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E9%A6%96%E9%A1%B5" target="_blank" rel="noopener">首页</a></h3>
             
-            
             <p>[2016-03-26]. ISBN 978-1-305-17627-0. （原始内容存档于2017-03-05）. Boyce, Jim. Windows 7 Bible. John Wiley &amp; Sons. 2011: 318 [2016-03-26]. ISBN 978-1-118-08127-3. （原始内容存档于2017-03-05）</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1212,12 +1076,10 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E8%80%B6%E5%92%8C%E8%8F%AF%E8%A6%8B%E8%AD%89%E4%BA%BA" target="_blank" rel="noopener">耶和華見證人</a></h3>
             
-            
             <p>主義。由於教義與基督教傳統存有相異之處，其普遍被基督教宗派視為異端。 耶和華見證人的歷史可追溯到1870年代末在美国開始的的“聖經研究者運動”（Bible Student movement）。在1881年，查尔斯·泰兹·罗素在賓夕法尼亞州匹兹堡建立了錫安的守望台書社(今称守望台圣经书社)，當時的追</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-wiki">
             <div class="article-meta">
               <span class="category-tag cat-wiki">百科背景</span>
               <span class="source">Wikipedia (zh)</span>
@@ -1226,9 +1088,7 @@
             </div>
             <h3><a href="https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D" target="_blank" rel="noopener">卡尔·马克思</a></h3>
             
-            
             <p>克思，母親亨丽埃特·普莱斯堡。馬克思一家是猶太人，原本不信教。但在馬克思出生前，全家便已正式皈依基督教（英语：Conversion to Christianity）。馬克思的外祖父是一位荷蘭拉比，而其父系家族自1723年起就世代擔任特里爾的拉比，直至其祖父迈耶·哈莱维·马克思（Meier Halevi</p>
-            
           </article>
           
         </div>
@@ -1244,7 +1104,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1255,12 +1115,10 @@
             
             <div class="title-original">Teaching Christian Theology in the World of Online Learning</div>
             
-            
             <p>Teaching Christian Theology in the World of Online Learning Flatland KC</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1271,12 +1129,10 @@
             
             <div class="title-original">Government help sought to recover pastor’s wife, daughter in Nigeria</div>
             
-            
             <p>Government help sought to recover pastor’s wife, daughter in Nigeria www.christiandaily.com</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1287,12 +1143,10 @@
             
             <div class="title-original">World Series: Brewers' Christian Yelich answer questions ahead of Game 5</div>
             
-            
             <p>World Series: Brewers' Christian Yelich answer questions ahead of Game 5 FOX6 News Milwaukee</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1303,12 +1157,10 @@
             
             <div class="title-original">Violence and persecution driving global Christian exodus, report warns</div>
             
-            
             <p>Violence and persecution driving global Christian exodus, report warns www.christiantoday.com</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1319,12 +1171,10 @@
             
             <div class="title-original">'I'm going to destroy him' - M'billi teases gameplan to beat Canelo in Riyadh</div>
             
-            
             <p>'I'm going to destroy him' - M'billi teases gameplan to beat Canelo in Riyadh DAZN</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1335,12 +1185,10 @@
             
             <div class="title-original">Whose Christian values?</div>
             
-            
             <p>Whose Christian values? Baptist News Global</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1351,12 +1199,10 @@
             
             <div class="title-original">Middle Eastern Christians fear if 'future in the region is sustainable' amid rising persecution: watchdog</div>
             
-            
             <p>Middle Eastern Christians fear if 'future in the region is sustainable' amid rising persecution: watchdog Christian Post</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1367,12 +1213,10 @@
             
             <div class="title-original">Nearly 1 in 3 Germans favor uniting Protestant and Catholic churches, poll finds</div>
             
-            
             <p>Nearly 1 in 3 Germans favor uniting Protestant and Catholic churches, poll finds www.christiandaily.com</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1383,12 +1227,10 @@
             
             <div class="title-original">Canelo Alvarez vs. Christian M'billi undercard: Who is on the fight card for Riyadh world title fight?</div>
             
-            
             <p>Canelo Alvarez vs. Christian M'billi undercard: Who is on the fight card for Riyadh world title fight? DAZN</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -1399,12 +1241,10 @@
             
             <div class="title-original">Petition against anti-Christian violence in Africa aims for a million signatures</div>
             
-            
             <p>Petition against anti-Christian violence in Africa aims for a million signatures www.christiantoday.com</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1415,12 +1255,10 @@
             
             <div class="title-original">Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns</div>
             
-            
             <p>Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns Premier Christian News</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1431,12 +1269,10 @@
             
             <div class="title-original">Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia</div>
             
-            
             <p>Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia Pakistan Christian Post</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1447,12 +1283,10 @@
             
             <div class="title-original">Christian persecution worsened in 55% of countries assessed, report finds</div>
             
-            
             <p>Christian persecution worsened in 55% of countries assessed, report finds EWTN News</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1463,12 +1297,10 @@
             
             <div class="title-original">Religious freedom champion tells UK Parliament that extremists in Pakistan have terrified Christians and other minorities into silence</div>
             
-            
             <p>Religious freedom champion tells UK Parliament that extremists in Pakistan have terrified Christians and other minorities into silence Aid to the Church in Need</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1479,12 +1311,10 @@
             
             <div class="title-original">The persecution against Christians worsens in ten countries and directly affects 220 million believers</div>
             
-            
             <p>The persecution against Christians worsens in ten countries and directly affects 220 million believers InfoVaticana</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1495,9 +1325,7 @@
             
             <div class="title-original">Rising tide of persecution of Christians documented in latest ACN report</div>
             
-            
             <p>Rising tide of persecution of Christians documented in latest ACN report The Tablet</p>
-            
           </article>
           
         </div>
@@ -1513,7 +1341,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1524,12 +1352,10 @@
             
             <div class="title-original">Pope says 'there is no such thing as a holy war' in message to religious leaders</div>
             
-            
             <p>Pope says 'there is no such thing as a holy war' in message to religious leaders NBC News</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1540,12 +1366,10 @@
             
             <div class="title-original">Sixty people killed in attack on Orthodox Christian village in Ethiopia</div>
             
-            
             <p>Sixty people killed in attack on Orthodox Christian village in Ethiopia Vatican News</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1556,12 +1380,10 @@
             
             <div class="title-original">ACN report: 220 million Christians face persecution worldwide</div>
             
-            
             <p>ACN report: 220 million Christians face persecution worldwide Vatican News</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1572,12 +1394,10 @@
             
             <div class="title-original">Study: Christian persecution worsening in most of already bad cases</div>
             
-            
             <p>Study: Christian persecution worsening in most of already bad cases Aleteia EN</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1588,12 +1408,10 @@
             
             <div class="title-original">Persecution of Christians worsens in almost 56% of countries studied, with none improving</div>
             
-            
             <p>Persecution of Christians worsens in almost 56% of countries studied, with none improving Church in Need</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1604,12 +1422,10 @@
             
             <div class="title-original">Pastor Jin’s Release Does Not End China’s Persecution of Christians</div>
             
-            
             <p>Pastor Jin’s Release Does Not End China’s Persecution of Christians International Christian Concern</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1620,12 +1436,10 @@
             
             <div class="title-original">Persecuted and Forgotten? 2024-2026 edition | Aid to the Church in Need</div>
             
-            
             <p>Persecuted and Forgotten? 2024-2026 edition | Aid to the Church in Need Aid to the Church in Need</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -1636,12 +1450,10 @@
             
             <div class="title-original">Jordanians rally around Christian community after church attack</div>
             
-            
             <p>Jordanians rally around Christian community after church attack Middle East Eye</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">教会增长（国际）</span>
@@ -1652,9 +1464,7 @@
             
             <div class="title-original">Who's who in 50th CGI Conference</div>
             
-            
             <p>Who's who in 50th CGI Conference The Korea Times</p>
-            
           </article>
           
         </div>
@@ -1670,7 +1480,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1681,12 +1491,10 @@
             
             <div class="title-original">Can church planting movements awaken the Western church?</div>
             
-            
             <p>Can church planting movements awaken the Western church? www.christiandaily.com</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1697,12 +1505,10 @@
             
             <div class="title-original">Praying with purpose for the persecuted church</div>
             
-            
             <p>Praying with purpose for the persecuted church Denison Forum</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -1713,12 +1519,10 @@
             
             <div class="title-original">Nine Dead in Attack on Jordanian Church as Pope Leo XIV and Middle Eastern Patriarchs Call for Unity - ZENIT</div>
             
-            
             <p>Nine Dead in Attack on Jordanian Church as Pope Leo XIV and Middle Eastern Patriarchs Call for Unity ZENIT - English</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -1729,9 +1533,7 @@
             
             <div class="title-original">Middle East Christians are facing extinction</div>
             
-            
             <p>Middle East Christians are facing extinction The Spectator</p>
-            
           </article>
           
         </div>
@@ -1747,7 +1549,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1758,12 +1560,10 @@
             
             <div class="title-original">Sardar Mushtaq Gill Condemns Extremist Attack on Christians at Funeral in Jordan, Calls for Global Action Against Christian Persecution</div>
             
-            
             <p>Sardar Mushtaq Gill Condemns Extremist Attack on Christians at Funeral in Jordan, Calls for Global Action Against Christian Persecution Pakistan Christian Post</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -1774,9 +1574,7 @@
             
             <div class="title-original">Syriac Union Party in Syria: The terrorist attack on Saint George Church threatens the Christian presence and the religious and cultural diversity of the Middle East</div>
             
-            
             <p>Syriac Union Party in Syria: The terrorist attack on Saint George Church threatens the Christian presence and the religious and cultural diversity of the Middle East SyriacPress</p>
-            
           </article>
           
         </div>
@@ -1792,7 +1590,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1803,12 +1601,10 @@
             
             <div class="title-original">Captain sets tone for Crew: Yelich's RBI triple has teammates 'pumped'</div>
             
-            
             <p>Captain sets tone for Crew: Yelich's RBI triple has teammates 'pumped' MLB.com</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">World News (Christian)</span>
@@ -1819,12 +1615,10 @@
             
             <div class="title-original">Pope: ‘Hearts of young people are longing to discover Christ’s love’</div>
             
-            
             <p>Pope: ‘Hearts of young people are longing to discover Christ’s love’ Vatican News</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -1835,12 +1629,10 @@
             
             <div class="title-original">Jordan church attack death toll rises to 9 as Christian leaders call for unity</div>
             
-            
             <p>Jordan church attack death toll rises to 9 as Christian leaders call for unity EWTN News</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -1851,9 +1643,7 @@
             
             <div class="title-original">Holy Synod of Antioch raises concerns over Christian presence in the Middle East</div>
             
-            
             <p>Holy Synod of Antioch raises concerns over Christian presence in the Middle East Orthodox Times</p>
-            
           </article>
           
         </div>
@@ -1869,7 +1659,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -1880,12 +1670,10 @@
             
             <div class="title-original">Church is attacked in Jordan in region known for interfaith coexistence</div>
             
-            
             <p>Church is attacked in Jordan in region known for interfaith coexistence The Christian Science Monitor</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-culture">
             <div class="article-meta">
               <span class="category-tag cat-culture">文化媒体</span>
               <span class="source">基督教文化（中文）</span>
@@ -1894,9 +1682,7 @@
             </div>
             <h3><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1JZ3NSS3JSaEJ4ZnB5MXdqWnpNX0I4TktwUnl6NFJsR3hvX1dlTkxVM0ZsTkZ2NWphWXRLTldXMUg3c1Yzb0lMTExoNTgzRW5Ia0dSRk1PclpHMTRNRmpZQ3Q4VnhEWVctTk9ZMVdSTQ?oc=5" target="_blank" rel="noopener">薛子樂談香港教會詩歌史 反映文化身分認同的變遷</a></h3>
             
-            
             <p>薛子樂談香港教會詩歌史 反映文化身分認同的變遷 基督日報</p>
-            
           </article>
           
         </div>
@@ -1912,7 +1698,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1923,9 +1709,7 @@
             
             <div class="title-original">We cannot be indifferent to religious persecution, says bishop for Freedom of Religion and Belief</div>
             
-            
             <p>We cannot be indifferent to religious persecution, says bishop for Freedom of Religion and Belief Catholic Church in England and Wales</p>
-            
           </article>
           
         </div>
@@ -1941,7 +1725,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -1952,12 +1736,10 @@
             
             <div class="title-original">Nigerian Christian mother acquitted of “blasphemy” charges receives First Step Forum Shahbaz Bhatti Freedom Award</div>
             
-            
             <p>Nigerian Christian mother acquitted of “blasphemy” charges receives First Step Forum Shahbaz Bhatti Freedom Award ADF International</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中国教会动态</span>
@@ -1966,9 +1748,7 @@
             </div>
             <h3><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jeURQVEp6cElSajVkQ2RULXgwVnE5WlVvTi1CS0o3WHhSUnZZNFJ4NTdxaW8zcFN2YVZPYXE5QTlYNktEaGVqbFpvMkNqSksyUXRWOUJBQmo2Rlg4V0VyUw?oc=5" target="_blank" rel="noopener">中国江西家庭教会聚会遭当局搜查 负责人及多名信徒被带走</a></h3>
             
-            
             <p>中国江西家庭教会聚会遭当局搜查 负责人及多名信徒被带走 对华援助新闻网</p>
-            
           </article>
           
         </div>
@@ -1984,7 +1764,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">示例 · 世界福音联盟</span>
@@ -1995,9 +1775,7 @@
             
             <div class="title-original">World Evangelical Alliance Global Congress Calls for Unity</div>
             
-            
             <p>本届大会汇集百余国家代表，呼吁在宣教与社会关怀上加强跨宗派合作。</p>
-            
           </article>
           
         </div>
@@ -2013,7 +1791,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">基督徒逼迫（国际）</span>
@@ -2024,12 +1802,10 @@
             
             <div class="title-original">Theological symposium in Africa tackles freedom of belief and persecution</div>
             
-            
             <p>Theological symposium in Africa tackles freedom of belief and persecution World Council of Churches</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">教会增长（国际）</span>
@@ -2040,9 +1816,7 @@
             
             <div class="title-original">Georgia church sees attendance grow among young people</div>
             
-            
             <p>Georgia church sees attendance grow among young people Biblical Recorder</p>
-            
           </article>
           
         </div>
@@ -2058,7 +1832,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -2069,9 +1843,7 @@
             
             <div class="title-original">Vatican scholarships to keep Christians in the Middle East</div>
             
-            
             <p>Vatican scholarships to keep Christians in the Middle East Aleteia EN</p>
-            
           </article>
           
         </div>
@@ -2087,7 +1859,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Wycliffe Bible Translators</span>
@@ -2098,12 +1870,10 @@
             
             <div class="title-original">Chasing zero</div>
             
-            
             <p>Chasing zero Premier Christianity Magazine</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -2114,9 +1884,7 @@
             
             <div class="title-original">Middle East churches must protect children orphaned by war, says Christian leader</div>
             
-            
             <p>Middle East churches must protect children orphaned by war, says Christian leader Religion News Service</p>
-            
           </article>
           
         </div>
@@ -2132,7 +1900,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -2143,9 +1911,7 @@
             
             <div class="title-original">The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity</div>
             
-            
             <p>The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity International Christian Concern</p>
-            
           </article>
           
         </div>
@@ -2161,7 +1927,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Wycliffe Bible Translators</span>
@@ -2172,9 +1938,7 @@
             
             <div class="title-original">Lora Mae Toedter - View Obituary & Service Information</div>
             
-            
             <p>Lora Mae Toedter - View Obituary & Service Information www.washburn-mcreavy.com</p>
-            
           </article>
           
         </div>
@@ -2190,7 +1954,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-news">
             <div class="article-meta">
               <span class="category-tag cat-news">基督教世界资讯</span>
               <span class="source">基督日报</span>
@@ -2199,9 +1963,7 @@
             </div>
             <h3><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE95Z1ZUaVBvcnh0TzZ1MFlKOWVLQmZ6ZVgxbHVOcUx2Ny1UVElUUHRZTm1hTmpuYVkybW9mRHdkWEYtd1BGaHdueW45QkloaHB1eHJoRUszcy15NF94QW5jSkNhcDVscFM5dlE?oc=5" target="_blank" rel="noopener">「歡迎神國降臨」國慶祈禱日 香港基督教團體海陸空敬拜</a></h3>
             
-            
             <p>「歡迎神國降臨」國慶祈禱日 香港基督教團體海陸空敬拜 基督日報</p>
-            
           </article>
           
         </div>
@@ -2217,7 +1979,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">教会增长（国际）</span>
@@ -2228,9 +1990,7 @@
             
             <div class="title-original">5 Skills Every Pastor Needs to Grow a Healthy Church</div>
             
-            
             <p>5 Skills Every Pastor Needs to Grow a Healthy Church ChurchLeaders</p>
-            
           </article>
           
         </div>
@@ -2246,7 +2006,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">Wycliffe Bible Translators</span>
@@ -2257,12 +2017,10 @@
             
             <div class="title-original">Wycliffe celebrates ‘remarkable moment’ as Bible translation advances at rapid pace</div>
             
-            
             <p>Wycliffe celebrates ‘remarkable moment’ as Bible translation advances at rapid pace www.christiantoday.com</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">示例 · 威克理夫圣经翻译会</span>
@@ -2273,9 +2031,7 @@
             
             <div class="title-original">Bible Translation Year in Review: Dozens of Languages Receive New Testament</div>
             
-            
             <p>过去一年又有数十种语言完成新约翻译，全球仍有大量语言等待首部圣经。</p>
-            
           </article>
           
         </div>
@@ -2291,7 +2047,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -2302,9 +2058,7 @@
             
             <div class="title-original">President Trump Bans Christians Fleeing Persecution: Matthew Soerens on the Collapse of Refugee Resettlement and Why Churches Should Care</div>
             
-            
             <p>President Trump Bans Christians Fleeing Persecution: Matthew Soerens on the Collapse of Refugee Resettlement and Why Churches Should Care Austin Kocher | Substack</p>
-            
           </article>
           
         </div>
@@ -2320,7 +2074,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -2331,12 +2085,10 @@
             
             <div class="title-original">China</div>
             
-            
             <p>China Open Doors International</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -2347,12 +2099,10 @@
             
             <div class="title-original">India</div>
             
-            
             <p>India Open Doors International</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -2363,12 +2113,10 @@
             
             <div class="title-original">Laos</div>
             
-            
             <p>Laos Open Doors International</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -2379,12 +2127,10 @@
             
             <div class="title-original">Yemen</div>
             
-            
             <p>Yemen Open Doors International</p>
-            
           </article>
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -2395,9 +2141,7 @@
             
             <div class="title-original">Colombia</div>
             
-            
             <p>Colombia Open Doors International</p>
-            
           </article>
           
         </div>
@@ -2413,7 +2157,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -2424,9 +2168,7 @@
             
             <div class="title-original">Worship at Any Cost: Hope for Persecuted Christians</div>
             
-            
             <p>Worship at Any Cost: Hope for Persecuted Christians Open Doors US</p>
-            
           </article>
           
         </div>
@@ -2442,7 +2184,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">宣教运动（中文）</span>
@@ -2451,9 +2193,7 @@
             </div>
             <h3><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE8tZGhVcmxoYjQzNi0xY0xNVXMzWEZ5em1ZN1RBQXcyQ2Z1N0ZBVk9XRW84NEdZcVplNkpDSzgzMjZ0UWI4NDdyMzBOOW1FYVBvbmxEZXdUSlRteE5xU0pKMUFFYWo2clN0LUFlbXRnRQ?oc=5" target="_blank" rel="noopener">人工智能輔助教會 韓國專家：AI無法完全理解文化和人類情感</a></h3>
             
-            
             <p>人工智能輔助教會 韓國專家：AI無法完全理解文化和人類情感 基督日報</p>
-            
           </article>
           
         </div>
@@ -2469,7 +2209,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">宗教自由（中文）</span>
@@ -2478,9 +2218,7 @@
             </div>
             <h3><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TVHJGQXRiQkJ3WnU1SnhhSnFqN2QzeWlfZjV0eHFkZHZiZFZyQTE2bUl2MTJzU0IxUnJCMmJIbmtTcDE3cC0yaHNaYUUySnpldnBKdVdtU25zUjQydlRB?oc=5" target="_blank" rel="noopener">当教会高喊「习大大」，我们还敢宣告「基督是主」吗？</a></h3>
             
-            
             <p>当教会高喊「习大大」，我们还敢宣告「基督是主」吗？ 对华援助新闻网</p>
-            
           </article>
           
         </div>
@@ -2496,7 +2234,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">中东教会</span>
@@ -2507,9 +2245,7 @@
             
             <div class="title-original">Pope Leo XIV says Christians in the Middle East offer a ‘precious testimony for the entire Church’</div>
             
-            
             <p>Pope Leo XIV says Christians in the Middle East offer a ‘precious testimony for the entire Church’ OSV News</p>
-            
           </article>
           
         </div>
@@ -2525,7 +2261,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -2536,9 +2272,7 @@
             
             <div class="title-original">What is the Arise Africa campaign?</div>
             
-            
             <p>What is the Arise Africa campaign? Open Doors UK & Ireland</p>
-            
           </article>
           
         </div>
@@ -2554,7 +2288,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">宣教运动（中文）</span>
@@ -2563,9 +2297,7 @@
             </div>
             <h3><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE43M0J5ZXB0bWZ0SUlWN1c3VHoxOEtOZF81ckYwVFJkNERUNXRJeTZCcjAyMm9oS0ZlSFZEUVBqcVRqNG5lU09FZXkyR09XLTFTV09TSnJuSGlkYjVLMGZ0ZFFtZ1pQOGFZT3Utek1Faw?oc=5" target="_blank" rel="noopener">在華宣教士司徒雷登誕辰150週年 中國多地展開紀念活動</a></h3>
             
-            
             <p>在華宣教士司徒雷登誕辰150週年 中國多地展開紀念活動 基督日報</p>
-            
           </article>
           
         </div>
@@ -2581,7 +2313,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-church">
             <div class="article-meta">
               <span class="category-tag cat-church">教会与机构</span>
               <span class="source">教会增长（国际）</span>
@@ -2592,9 +2324,7 @@
             
             <div class="title-original">5 Barriers That Stall Church Growth (and How to Break Them)</div>
             
-            
             <p>5 Barriers That Stall Church Growth (and How to Break Them) ChurchLeaders</p>
-            
           </article>
           
         </div>
@@ -2610,7 +2340,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-mission">
             <div class="article-meta">
               <span class="category-tag cat-mission">宣教运动</span>
               <span class="source">宣教运动（中文）</span>
@@ -2619,9 +2349,7 @@
             </div>
             <h3><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRDdGQ1FZUGdjdW5maGVkQlY3UGt6WXFTZXFDaTJ2ekhEWkhITWhZblJLMEI1QjhEX1h6SXNvUTYyN3RGX2tERVlKMmhpQUh5MVN3dlR6TDRaUk10c1ZCOXpHUzlVaXNJak9iY3Nxaw?oc=5" target="_blank" rel="noopener">在新時代回應大使命：蔡頌輝牧師談宣教五大轉向</a></h3>
             
-            
             <p>在新時代回應大使命：蔡頌輝牧師談宣教五大轉向 基督日報</p>
-            
           </article>
           
         </div>
@@ -2637,7 +2365,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">宗教自由（中文）</span>
@@ -2646,9 +2374,7 @@
             </div>
             <h3><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE51bTBmRTE5aUNCUFhtQVZfT0hwZW9xdW1zcmVEbGRWbE5ZNE8yc2d4UzIyWEFrSGFzZEZqZ2VJS0pHLUJXeDduX0hDcGEwajBkWG5wVkYza2dUeUdOUEtqUDVUR25VT0RkR1ZCRUtmaw?oc=5" target="_blank" rel="noopener">極權下的福音奇蹟：伊朗女孩藉AI讓信仰逼迫地區認識耶穌</a></h3>
             
-            
             <p>極權下的福音奇蹟：伊朗女孩藉AI讓信仰逼迫地區認識耶穌 基督日報</p>
-            
           </article>
           
         </div>
@@ -2664,7 +2390,7 @@
         </div>
         <div class="article-list">
           
-          <article class="article-card">
+          <article class="article-card cat-persecution">
             <div class="article-meta">
               <span class="category-tag cat-persecution">信仰自由与逼迫</span>
               <span class="source">Open Doors</span>
@@ -2675,9 +2401,7 @@
             
             <div class="title-original">Persecuted Christians amongst victims of earthquake in Colombia</div>
             
-            
             <p>Persecuted Christians amongst victims of earthquake in Colombia Open Doors UK & Ireland</p>
-            
           </article>
           
         </div>

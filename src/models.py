@@ -18,6 +18,7 @@ class Article:
     source_url: str
     published: Optional[str] = None
     summary: str = ""
+    summary_zh: str = ""  # 英文摘要的中文翻译（失败时为空，页面回退显示原摘要）
     title_zh: str = ""   # 英文标题的中文译名（翻译失败时为空，页面回退显示原标题）
     content: str = ""
     author: str = ""

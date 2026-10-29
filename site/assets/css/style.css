@@ -1,89 +1,136 @@
 /* ============================================================
    基督教世界新闻 · 静态站样式
-   深蓝主调 + 金色强调，桌面/移动自适应
+   深蓝主调 + 金色强调，Noto 字体，桌面/移动自适应
    ============================================================ */
 :root {
-  --bg: #f4f6fa;
+  --bg: #eef1f6;
   --group: #ffffff;
-  --ink: #1c2433;
-  --muted: #6b7488;
+  --ink: #1b2433;
+  --muted: #6a7488;
   --accent: #1f3a5f;
   --accent-2: #2f5d8f;
   --gold: #c8932f;
   --gold-2: #e0a93f;
   --separator: rgba(31, 58, 95, 0.12);
-  --shadow: 0 1px 2px rgba(31, 58, 95, .06), 0 8px 22px rgba(31, 58, 95, .07);
-  --radius: 14px;
-  --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "PingFang SC",
+  --shadow: 0 1px 2px rgba(31, 58, 95, .06), 0 10px 30px rgba(31, 58, 95, .08);
+  --radius: 16px;
+  --font: "Noto Sans SC", -apple-system, BlinkMacSystemFont, "PingFang SC",
           "Microsoft YaHei", system-ui, "Segoe UI", Roboto, sans-serif;
+  --font-serif: "Noto Serif SC", Georgia, "Songti SC", "SimSun", serif;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
-html, body { height: 100%; }
+html { scroll-behavior: smooth; }
 body {
   font-family: var(--font);
   color: var(--ink);
   background: var(--bg);
-  line-height: 1.6;
+  line-height: 1.7;
   -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
-/* ---------- 顶部 ---------- */
+/* ---------- 顶部导航 ---------- */
 .site-header {
   position: sticky; top: 0; z-index: 50;
-  background: rgba(244, 246, 250, 0.88);
-  backdrop-filter: saturate(180%) blur(16px);
-  -webkit-backdrop-filter: saturate(180%) blur(16px);
-  border-bottom: 0.5px solid var(--separator);
+  background: rgba(255, 255, 255, .92);
+  backdrop-filter: saturate(180%) blur(10px);
+  -webkit-backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid var(--separator);
+  box-shadow: 0 2px 12px rgba(31, 58, 95, .06);
 }
 .header-inner {
   display: flex; align-items: center; gap: 18px;
-  padding: 10px 16px; flex-wrap: wrap;
+  padding: 12px 16px; flex-wrap: wrap;
 }
 .logo {
-  display: flex; align-items: center; gap: 8px;
-  font-weight: 800; font-size: 18px; color: var(--accent);
-  text-decoration: none; letter-spacing: .5px;
+  display: flex; align-items: center; gap: 9px;
+  text-decoration: none; color: var(--accent);
 }
-.logo-icon {
-  display: inline-grid; place-items: center;
-  width: 28px; height: 28px; border-radius: 8px;
+.logo-mark {
+  display: grid; place-items: center;
+  width: 30px; height: 30px; border-radius: 9px;
   background: linear-gradient(135deg, var(--accent), var(--accent-2));
   color: var(--gold-2); font-size: 18px; font-weight: 700;
 }
-.main-nav { display: flex; gap: 14px; flex-wrap: wrap; flex: 1; }
+.logo-text { font-weight: 700; font-size: 18px; letter-spacing: .5px; }
+.logo-text em { font-style: normal; font-family: var(--font-serif); color: var(--accent-2); }
+.main-nav { display: flex; gap: 4px; flex-wrap: wrap; flex: 1; justify-content: flex-end; }
 .main-nav a {
   color: var(--muted); text-decoration: none; font-size: 14px;
-  padding: 4px 2px; border-bottom: 2px solid transparent;
+  padding: 6px 11px; border-radius: 9px; transition: .15s;
 }
-.main-nav a:hover { color: var(--accent); border-color: var(--gold); }
-.updated-at { font-size: 11.5px; color: var(--muted); white-space: nowrap; }
+.main-nav a:hover { color: var(--accent); background: rgba(31, 58, 95, .06); }
 
 /* ---------- 容器 ---------- */
-.container { max-width: 1100px; margin: 0 auto; padding: 0 16px 40px; }
+.container { max-width: 1120px; margin: 0 auto; padding: 0 16px; }
+main.container { padding-bottom: 48px; }
+
+/* ---------- Hero 标题区 ---------- */
+.hero {
+  position: relative; overflow: hidden;
+  margin: 18px 0 16px; padding: 26px 28px;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #1f3a5f, #2f5d8f 78%);
+  color: #fff; box-shadow: var(--shadow);
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 20px; flex-wrap: wrap;
+}
+.hero::after {
+  content: ""; position: absolute; right: -40px; top: -50px;
+  width: 200px; height: 200px;
+  background: radial-gradient(circle, rgba(224, 169, 63, .35), transparent 70%);
+}
+.hero--compact { margin-top: 18px; }
+.hero-main { position: relative; z-index: 1; }
+.hero h1 {
+  font-family: var(--font-serif); font-size: 30px; font-weight: 700;
+  letter-spacing: 1px; line-height: 1.25;
+}
+.hero-sub { margin-top: 7px; font-size: 14px; color: rgba(255, 255, 255, .82); max-width: 580px; }
+.hero-tools {
+  position: relative; z-index: 1;
+  display: flex; flex-direction: column; align-items: flex-end; gap: 10px;
+}
+.updated-pill {
+  font-size: 12px; color: rgba(255, 255, 255, .9);
+  background: rgba(255, 255, 255, .14); padding: 5px 12px;
+  border-radius: 20px; white-space: nowrap;
+}
+.date-nav {
+  display: flex; align-items: center; gap: 8px;
+  background: rgba(255, 255, 255, .14); padding: 6px 8px; border-radius: 14px;
+}
+.date-nav-title {
+  min-width: 98px; text-align: center; font-weight: 700; font-size: 14px;
+  color: #fff; font-variant-numeric: tabular-nums;
+}
+.btn-date {
+  border: none; background: #fff; color: var(--accent);
+  width: 32px; height: 32px; border-radius: 10px; cursor: pointer;
+  font-size: 16px; line-height: 1; display: grid; place-items: center;
+  transition: .15s; box-shadow: 0 2px 6px rgba(0, 0, 0, .12);
+}
+.btn-date:hover { background: var(--gold-2); color: #fff; }
+.btn-date:disabled { opacity: .4; cursor: default; }
+.btn-date--all { width: auto; padding: 0 12px; font-size: 13px; font-weight: 600; }
 
 /* ---------- 首页布局 ---------- */
-.home-layout { display: flex; gap: 22px; align-items: flex-start; padding-top: 18px; }
+.home-layout { display: flex; gap: 22px; align-items: flex-start; }
 .main-col { flex: 1 1 auto; min-width: 0; }
-.sidebar { width: 290px; flex: 0 0 290px; position: sticky; top: 70px; }
+.sidebar { width: 290px; flex: 0 0 290px; position: sticky; top: 72px; }
 
-/* ---------- 筛选条 / 日期导航 ---------- */
+/* ---------- 筛选条 ---------- */
 .filter-bar {
   display: flex; align-items: center; justify-content: space-between;
   background: var(--group); border: 1px solid var(--separator);
-  border-radius: var(--radius); padding: 10px 14px; margin-bottom: 12px;
+  border-radius: var(--radius); padding: 10px 14px; margin-bottom: 14px;
   font-size: 14px; box-shadow: var(--shadow);
 }
 .btn-clear {
-  border: none; background: rgba(200,147,47,.12); color: var(--gold);
+  border: none; background: rgba(200, 147, 47, .12); color: var(--gold);
   padding: 5px 12px; border-radius: 10px; cursor: pointer; font-size: 13px;
 }
-.date-nav { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
-.btn-date {
-  border: 1px solid var(--separator); background: var(--group); color: var(--accent);
-  padding: 6px 14px; border-radius: 10px; cursor: pointer; font-size: 13px;
-}
-.date-nav-title { flex: 1; text-align: center; font-weight: 700; color: var(--accent); }
 
 /* ---------- 时间线 ---------- */
 .timeline { display: flex; flex-direction: column; gap: 18px; }
@@ -101,32 +148,41 @@ body {
 .article-list { display: flex; flex-direction: column; gap: 10px; }
 .article-card {
   background: var(--group); border: 1px solid var(--separator);
-  border-radius: var(--radius); padding: 14px 16px; box-shadow: var(--shadow);
+  border-left: 4px solid var(--accent-2);
+  border-radius: var(--radius); padding: 15px 18px; box-shadow: var(--shadow);
   transition: transform .12s ease, box-shadow .12s ease;
 }
-.article-card:hover { transform: translateY(-1px); box-shadow: 0 6px 20px rgba(31,58,95,.12); }
+.article-card:hover { transform: translateY(-2px); box-shadow: 0 10px 26px rgba(31, 58, 95, .14); }
+.article-card.cat-persecution { border-left-color: #b32414; }
+.article-card.cat-mission { border-left-color: #2f5d8f; }
+.article-card.cat-church { border-left-color: #5b3da0; }
+.article-card.cat-theology { border-left-color: #c8932f; }
+.article-card.cat-heresy { border-left-color: #b34a1a; }
+.article-card.cat-culture { border-left-color: #1f7a64; }
+.article-card.cat-wiki { border-left-color: #6a7488; }
 .article-meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 6px; font-size: 12px; }
 .category-tag {
   font-weight: 700; padding: 2px 9px; border-radius: 20px;
-  background: rgba(31,58,95,.08); color: var(--accent);
+  background: rgba(31, 58, 95, .08); color: var(--accent);
 }
-.cat-persecution { background: rgba(200,60,47,.12); color: #b32414; }
-.cat-mission { background: rgba(47,93,143,.14); color: var(--accent-2); }
-.cat-church { background: rgba(120,90,160,.14); color: #5b3da0; }
-.cat-theology { background: rgba(200,147,47,.16); color: #946a16; }
-.cat-heresy { background: rgba(200,80,40,.15); color: #b34a1a; }
-.cat-culture { background: rgba(40,140,120,.14); color: #1f7a64; }
-.cat-wiki { background: rgba(110,120,140,.14); color: #566; }
+.cat-persecution { background: rgba(200, 60, 47, .12); color: #b32414; }
+.cat-mission { background: rgba(47, 93, 143, .14); color: var(--accent-2); }
+.cat-church { background: rgba(120, 90, 160, .14); color: #5b3da0; }
+.cat-theology { background: rgba(200, 147, 47, .16); color: #946a16; }
+.cat-heresy { background: rgba(200, 80, 40, .15); color: #b34a1a; }
+.cat-culture { background: rgba(40, 140, 120, .14); color: #1f7a64; }
+.cat-wiki { background: rgba(110, 120, 140, .14); color: #566; }
 .source { color: var(--muted); }
 .region { color: var(--gold); font-weight: 600; }
 .country { color: #9aa3b5; }
-.article-card h3 { font-size: 15.5px; line-height: 1.45; }
+.date { color: #9aa3b5; }
+.article-card h3 { font-family: var(--font-serif); font-size: 17px; line-height: 1.5; font-weight: 600; }
 .article-card h3 a { color: var(--ink); text-decoration: none; }
 .article-card h3 a:hover { color: var(--accent-2); text-decoration: underline; }
 .title-original { font-size: 12px; color: var(--muted); margin-top: 3px; font-style: italic; }
-.article-card p { font-size: 13.5px; color: #444c5e; margin-top: 6px; }
+.article-card p { font-size: 14px; color: #46506a; margin-top: 8px; line-height: 1.75; }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
-.tag { font-size: 11.5px; color: var(--accent-2); background: rgba(47,93,143,.08); padding: 2px 8px; border-radius: 8px; }
+.tag { font-size: 11.5px; color: var(--accent-2); background: rgba(47, 93, 143, .08); padding: 2px 8px; border-radius: 8px; }
 
 /* ---------- 侧栏小部件 ---------- */
 .widget {
@@ -139,7 +195,7 @@ body {
   display: flex; align-items: center; gap: 10px; padding: 7px 6px;
   border-radius: 10px; cursor: pointer; font-size: 13.5px;
 }
-.hot-item:hover { background: rgba(31,58,95,.05); }
+.hot-item:hover { background: rgba(31, 58, 95, .05); }
 .hot-rank {
   width: 22px; height: 22px; border-radius: 50%; display: grid; place-items: center;
   font-size: 12px; font-weight: 700; background: var(--bg); color: var(--muted);
@@ -151,10 +207,10 @@ body {
 .hot-count { font-size: 12px; color: var(--muted); }
 .tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
 .topic-tag {
-  font-size: 13px; color: var(--accent-2); background: rgba(47,93,143,.08);
+  font-size: 13px; color: var(--accent-2); background: rgba(47, 93, 143, .08);
   padding: 5px 11px; border-radius: 20px; cursor: pointer;
 }
-.topic-tag:hover { background: rgba(47,93,143,.16); }
+.topic-tag:hover { background: rgba(47, 93, 143, .16); }
 .topic-tag .count { color: var(--muted); font-size: 11px; margin-left: 4px; }
 
 /* ---------- 分类页 ---------- */
@@ -191,11 +247,11 @@ body {
 .country-badge { font-size: 11px; color: #fff; background: var(--accent-2); padding: 1px 7px; border-radius: 8px; }
 .source-card-url { font-size: 11.5px; color: var(--muted); margin: 5px 0; word-break: break-all; }
 .source-card-meta { display: flex; flex-wrap: wrap; gap: 6px; font-size: 11px; color: var(--muted); }
-.parser-tag { background: rgba(200,147,47,.14); color: #946a16; padding: 1px 7px; border-radius: 6px; }
+.parser-tag { background: rgba(200, 147, 47, .14); color: #946a16; padding: 1px 7px; border-radius: 6px; }
 
 /* ---------- 页脚 ---------- */
 .site-footer {
-  border-top: 0.5px solid var(--separator); margin-top: 30px;
+  border-top: 1px solid var(--separator); margin-top: 30px;
   padding: 22px 16px; background: var(--group);
 }
 .site-footer p { text-align: center; color: var(--muted); font-size: 13px; }
@@ -206,9 +262,14 @@ body {
   .home-layout { flex-direction: column; }
   .sidebar { width: 100%; position: static; display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
   .widget { margin-bottom: 0; }
-  .main-nav { font-size: 13px; gap: 10px; }
+  .hero { padding: 20px 18px; }
+  .hero h1 { font-size: 24px; }
+  .main-nav { font-size: 13px; gap: 2px; }
+  .main-nav a { padding: 6px 8px; }
 }
 @media (max-width: 560px) {
   .sidebar { grid-template-columns: 1fr; }
-  .updated-at { display: none; }
+  .hero-tools { align-items: flex-start; width: 100%; }
+  .date-nav { width: 100%; justify-content: space-between; }
+  .date-nav-title { flex: 1; }
 }

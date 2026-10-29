@@ -107,19 +107,35 @@ class Translator:
         return result
 
     def translate_articles(self, articles: List[Article], max_items: int = 250) -> int:
-        pending = [
+        title_pending = [
             a for a in articles
             if (a.language or "").lower().startswith("en")
             and a.title and not (a.title_zh or "")
         ]
+        summary_pending = [
+            a for a in articles
+            if (a.language or "").lower().startswith("en")
+            and a.summary and not (a.summary_zh or "")
+        ]
         done = 0
-        for a in pending[:max_items]:
+        for a in title_pending[:max_items]:
             zh = self.translate(a.title, "en")
             if zh:
                 a.title_zh = zh
                 done += 1
             time.sleep(self.delay)
 
+        sdone = 0
+        for a in summary_pending[:max_items]:
+            zh = self.translate(a.summary, "en")
+            if zh:
+                a.summary_zh = zh
+                sdone += 1
+            time.sleep(self.delay)
+
         self.save_cache()
-        logger.info(f"标题翻译完成: {done}/{len(pending)} 条英文标题已转为中文（缓存共 {len(self.cache)} 条）")
+        logger.info(
+            f"翻译完成: 标题 {done}/{len(title_pending)} 条、摘要 {sdone}/{len(summary_pending)} 条"
+            f"已转为中文（缓存共 {len(self.cache)} 条）"
+        )
         return done

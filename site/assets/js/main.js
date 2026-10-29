@@ -49,6 +49,7 @@
     var dateSections = Array.prototype.slice.call(document.querySelectorAll(".date-section"));
     var datePrev = document.getElementById("date-prev");
     var dateNext = document.getElementById("date-next");
+    var dateAll = document.getElementById("date-all");
     var dateTitle = document.getElementById("date-nav-title");
     var navIndex = 0; // 0 = 全部
     function renderNav() {
@@ -68,6 +69,9 @@
     });
     if (dateNext) dateNext.addEventListener("click", function () {
       navIndex = Math.min(dateSections.length, navIndex + 1); renderNav();
+    });
+    if (dateAll) dateAll.addEventListener("click", function () {
+      navIndex = 0; renderNav();
     });
     renderNav();
   }
