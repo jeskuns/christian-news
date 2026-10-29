@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-29",
+  "total": 251,
+  "categories": {
+    "news": 37,
+    "persecution": 35,
+    "mission": 34,
+    "church": 35,
+    "theology": 34,
+    "culture": 29,
+    "heresy": 7,
+    "wiki": 40
+  },
+  "sources": {
+    "基督日报": 12,
+    "福音时报": 10,
+    "Open Doors": 12,
+    "World News (Christian)": 15,
+    "Mission Network News": 10,
+    "基督徒逼迫（国际）": 11,
+    "Wycliffe Bible Translators": 12,
+    "宣教运动（中文）": 12,
+    "宗教自由（中文）": 12,
+    "中国教会动态": 12,
+    "教会增长（国际）": 12,
+    "神学会议（中文）": 12,
+    "合一运动（国际）": 12,
+    "中东教会": 11,
+    "基督教文化（中文）": 2,
+    "Watchman Fellowship": 3,
+    "Christian Apologetics & Cults": 4,
+    "The Gospel Coalition": 15,
+    "基督教影视文化（国际）": 12,
+    "World Council of Churches": 10,
+    "Wikipedia (zh)": 20,
+    "Wikipedia (en)": 20
+  },
+  "regions": {
+    "中国": 12,
+    "中东": 11
+  },
+  "errors": []
+}
