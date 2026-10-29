@@ -1,8 +1,8 @@
 {
   "category": "mission",
   "label": "宣教运动",
-  "count": 40,
-  "updated_at": "2026-10-29T14:09:29.937253+08:00",
+  "count": 42,
+  "updated_at": "2026-10-29T14:24:09.897231+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -24,7 +24,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758154",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218039",
       "extra": {
         "feed_type": "rss20"
       }
@@ -49,7 +50,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758235",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218134",
       "extra": {
         "feed_type": "rss20"
       }
@@ -74,7 +76,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758326",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218259",
       "extra": {
         "feed_type": "rss20"
       }
@@ -99,7 +102,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758380",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218344",
       "extra": {
         "feed_type": "rss20"
       }
@@ -124,7 +128,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758429",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218421",
       "extra": {
         "feed_type": "rss20"
       }
@@ -150,7 +155,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758474",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218496",
       "extra": {
         "feed_type": "rss20"
       }
@@ -178,7 +184,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758528",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218586",
       "extra": {
         "feed_type": "rss20"
       }
@@ -208,7 +215,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758589",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218692",
       "extra": {
         "feed_type": "rss20"
       }
@@ -239,7 +247,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758637",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218775",
       "extra": {
         "feed_type": "rss20"
       }
@@ -270,7 +279,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.758683",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.218853",
       "extra": {
         "feed_type": "rss20"
       }
@@ -293,7 +303,8 @@
       "region": "非洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.362665",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:57.079075",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -318,7 +329,8 @@
       "region": "非洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.362788",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:57.079258",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -343,7 +355,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.113686",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.666632",
       "extra": {
         "provider": "google_news",
         "query": "学园传道会 校园 福音",
@@ -368,7 +381,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.067466",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.579977",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -408,8 +422,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-14",
       "summary": "Nigerian Catholic Sister Recalls Muslim-Christian Cooperation during Six-Year Mission in Mali ACI Africa",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "尼日利亚天主教修女回顾马里六年传教期间穆斯林与基督徒的合作 ACI Africa",
+      "title_zh": "尼日利亚天主教修女回忆穆斯林-基督教在马里六年传教期间的合作",
       "content": "",
       "author": "ACI Africa",
       "tags": [],
@@ -418,7 +432,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.547467",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:57.171967",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -515,7 +530,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.991363",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.368605",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -540,7 +556,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.042925",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.645784",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -613,7 +630,8 @@
       "region": "非洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.362897",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:57.079430",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -653,8 +671,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-02",
       "summary": "Provocative preaching threatens religious harmony – Ghana Muslim Mission CitiNewsroom.com",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "挑衅性的讲道威胁宗教和谐——加纳穆斯林传教会 CitiNewsroom.com",
+      "title_zh": "挑衅性讲道威胁宗教和谐--加纳穆斯林传教会",
       "content": "",
       "author": "CitiNewsroom.com",
       "tags": [],
@@ -663,7 +681,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.547892",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:57.172529",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -711,7 +730,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.803355",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.427752",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士 差会",
@@ -726,8 +746,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-18",
       "summary": "People Vision: Reimagining Mission to Least Reached Peoples The Gospel Coalition",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "人们的愿景：重新构想使命，以最少的人民福音联盟",
+      "title_zh": "人才愿景：重新构想对接触最少人群的使命",
       "content": "",
       "author": "The Gospel Coalition",
       "tags": [],
@@ -736,7 +756,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.379879",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:57.056061",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -761,7 +782,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.000723",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.596554",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -857,7 +879,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.043044",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.646015",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -928,7 +951,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.043268",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.646367",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -953,11 +977,64 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.043365",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.646523",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
         "publisher": "Serving in Mission"
+      }
+    },
+    {
+      "title": "廿六年跨文化宣教：國際關懷協會會長黃亮宇回顧差會發展歷程",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fR2NUSmZYenJZNGdQc01feklld2hLNGNUNE5nVjlyUUUzSTFtR0RBcUcxZWxyaUhCcC1vTm9NTUNZN3ZOYkFpSy1DTFlLbURPUGZENDN1ZURKV3ViUTFITXhkTklLeWJlLXIxUjBBUQ?oc=5",
+      "category": "mission",
+      "source": "宣教运动（中文）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-12",
+      "summary": "廿六年跨文化宣教：國際關懷協會會長黃亮宇回顧差會發展歷程 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.429503",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督教 宣教 宣教士 差会",
+        "publisher": "基督日報"
+      }
+    },
+    {
+      "title": "跳出框框！Arise Asia香港青年參加者的宣教反思",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GdEw5Q0VsNFpmdjktSU00dUs0dUZpekdKNVlFY05scEZVWFRNaDJ2NHMtQnNzSGo0SXJURG1nQWFnMjVhRWNTN214WTFVQ2VPZTNrRUdQSTlpRS1BX0NSdHFEdVBjSDJVWlVLTVpYZw?oc=5",
+      "category": "mission",
+      "source": "宣教运动（中文）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-11",
+      "summary": "跳出框框！Arise Asia香港青年參加者的宣教反思 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.429355",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督教 宣教 宣教士 差会",
+        "publisher": "基督日報"
       }
     },
     {
@@ -978,7 +1055,8 @@
       "region": "非洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.362992",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:57.079591",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -1003,7 +1081,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:05.286555",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:56.815039",
       "extra": {
         "provider": "google_news",
         "query": "福音证主协会 宣教",

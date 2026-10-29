@@ -1,8 +1,8 @@
 {
   "category": "news",
   "label": "基督教世界资讯",
-  "count": 91,
-  "updated_at": "2026-10-29T14:09:29.941398+08:00",
+  "count": 93,
+  "updated_at": "2026-10-29T14:24:09.902114+08:00",
   "articles": [
     {
       "title": "Three takeaways from a tight Israeli election with no clear outcome",
@@ -44,7 +44,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980240",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556053",
       "extra": {
         "feed_type": "rss20"
       }
@@ -79,7 +80,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980344",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556205",
       "extra": {
         "feed_type": "rss20"
       }
@@ -112,7 +114,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980408",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556307",
       "extra": {
         "feed_type": "rss20"
       }
@@ -153,7 +156,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980476",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556415",
       "extra": {
         "feed_type": "rss20"
       }
@@ -192,7 +196,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980539",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556522",
       "extra": {
         "feed_type": "rss20"
       }
@@ -230,7 +235,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980675",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556621",
       "extra": {
         "feed_type": "rss20"
       }
@@ -255,7 +261,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980728",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556715",
       "extra": {
         "feed_type": "rss20"
       }
@@ -288,7 +295,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980782",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556802",
       "extra": {
         "feed_type": "rss20"
       }
@@ -319,7 +327,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980825",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556885",
       "extra": {
         "feed_type": "rss20"
       }
@@ -360,7 +369,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:02.980877",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.556978",
       "extra": {
         "feed_type": "rss20"
       }
@@ -369,7 +379,7 @@
       "title": "From John Paul II to Pope Leo XIV: 40 years of the ‘Spirit of Assisi’",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXRCaF9FYXVPYzR3R21MRUR5YXlzUHp5Q0M1elIwV1pGSDctSXFQa19jSEg0aGVFYlB1a0FjcllrbG9zbk1OYXJDRDExcWMybkZ4c2Nwd0t6UHFhR25WMEZ0ZjM0VXRPaWtMazlBUFQzX2xCUnh3bGlBVDQ4cUc1NHZmUmxSbzRsaEE0TmdTYWtDajlVdnBVOS1sUnlGeWI4OFNWZUxyb2NreF85cUZhMldYeW9lcW9RTkx2QVNB?oc=5",
       "category": "news",
-      "source": "Vatican News",
+      "source": "World News (Christian)",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-29",
       "summary": "From John Paul II to Pope Leo XIV: 40 years of the ‘Spirit of Assisi’ Vatican News",
@@ -379,14 +389,15 @@
       "author": "Vatican News",
       "tags": [],
       "language": "en",
-      "country": "VA",
+      "country": "US",
       "region": "",
-      "stance": "catholic",
+      "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.227248",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.900418",
       "extra": {
         "provider": "google_news",
-        "query": "Vatican news Christianity Pope",
+        "query": "Christian news world",
         "publisher": "Vatican News"
       }
     },
@@ -408,7 +419,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.361552",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.900606",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -433,7 +445,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.361659",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.900772",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -458,7 +471,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.361762",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.900939",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -483,7 +497,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.361959",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.901281",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -508,7 +523,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.362343",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.901915",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -533,7 +549,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.362734",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.902270",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -558,7 +575,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.361862",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.901122",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -583,11 +601,38 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.362056",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.901449",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
         "publisher": "www.christiandaily.com"
+      }
+    },
+    {
+      "title": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFM2SDJBWHE5dUtwYVJ1Yl9PTE42Z2NoNEZMd0t4VTVSckhGN3h3SHFvZ3BTQldJNklweGFYTGR4b3JMV0FGdlZtZlNLZU9FX2tIVXJUbm9KYWNnVmc3eXNGM0I4YzA3bjhjUWJDVm1uM3lWZkN1SE9sUURERlNDdklJYjhMcnVWa01UeEpHUkxWRWh3Q241eHI3dWF4LXBzcWZlYzV3dmxWd01LUVZRa3lPN2Zrc1BmTGU0UUJkal9nSmdzZ19YWWlaSHRYUFJFM2cyZg?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns Premier Christian News",
+      "summary_zh": "全球报告警告说，极端主义和暴力“助长了最古老社区的基督徒外流”",
+      "title_zh": "全球报告警告说，极端主义和暴力“助长了最古老社区的基督徒外流”",
+      "content": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.902575",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Premier Christian News"
       }
     },
     {
@@ -608,7 +653,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.362252",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.901762",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -633,7 +679,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.362149",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.901608",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -683,7 +730,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.362915",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.902421",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -808,7 +856,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.362524",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.902095",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -833,7 +882,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.363006",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.902723",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -904,7 +954,8 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.943599",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.345370",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -954,7 +1005,8 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.944070",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.345723",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -979,7 +1031,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.106416",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.601830",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -1004,36 +1057,12 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.106543",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.602039",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
         "publisher": "AsiaNews"
-      }
-    },
-    {
-      "title": "Authorities in Egypt hold Christian incommunicado",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHF0WWxfSzlNQVo1dzkwTW04alctZ1BJRTRpUlp1WDJ3WUNnTjNTN2IxNWl3dk1OdFplV0ZPUURQejdjNGNnWjlNM1piZkxpOW83RXBNb0JfWUNWdXBHQXRhN0hsbE8zV0lDcHJTMzYwU19mLWlFNUhKUHpnb3hLSExiSzJsY2xuTzQ4LTB1NnY?oc=5",
-      "category": "news",
-      "source": "Christianity Daily",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Authorities in Egypt hold Christian incommunicado www.christiandaily.com",
-      "summary_zh": "埃及当局将基督徒单独监禁www.christiandaily.com",
-      "title_zh": "埃及当局禁止基督徒与外界接触",
-      "content": "",
-      "author": "www.christiandaily.com",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.645030",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christianity daily news headline",
-        "publisher": "www.christiandaily.com"
       }
     },
     {
@@ -1101,7 +1130,8 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.944199",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.345901",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1126,7 +1156,8 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.943953",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.345556",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1173,7 +1204,8 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.227438",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.966210",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1198,7 +1230,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.032067",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.469462",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -1223,7 +1256,8 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.227907",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.966725",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1248,7 +1282,8 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.944305",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.346092",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1320,7 +1355,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.106654",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.602221",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -1370,7 +1406,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.399790",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.820116",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1395,7 +1432,8 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.227756",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.966557",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1420,7 +1458,8 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.227581",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.966388",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1443,7 +1482,10 @@
       "language": "en",
       "country": "VA",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:10.699498",
+      "stance": "catholic",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.966888",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1468,7 +1510,8 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.944396",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.346252",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1493,7 +1536,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.852150",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.379116",
       "extra": {
         "provider": "google_news",
         "query": "基督邮报 基督教 新闻",
@@ -1543,7 +1587,8 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.228089",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.967077",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1601,6 +1646,32 @@
       }
     },
     {
+      "title": "WCC programme director strengthens strategic vision for ecumenical formation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVoxaGM4ZUlqVlFZTVpLV191UVJ3WnA0enJCMndabFVnanJuUVpoSy1Ndzg0dnUxSXB2c1dZWnBmN2Rscy1yUEpVZTVveDNZWGdEOXJfTUVRY01ncDFEYnc3SHdOMkc4RW9mZVNKTW5FX1kzMXlzWXFqU0dCcUVyc2JDa2VDeHpYTXBkemJOOU1ISkJSU3dJYnYzRzZvbnlMTUJLZlNIQkJtdmc?oc=5",
+      "category": "news",
+      "source": "普世教会新闻",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-05",
+      "summary": "WCC programme director strengthens strategic vision for ecumenical formation World Council of Churches",
+      "summary_zh": "WCC 项目主任加强普世合一形成的战略愿景 World Council of Churches",
+      "title_zh": "WCC项目主任加强普世形成的战略愿景",
+      "content": "",
+      "author": "World Council of Churches",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.346890",
+      "extra": {
+        "provider": "google_news",
+        "query": "World Council of Churches ecumenical news",
+        "publisher": "World Council of Churches"
+      }
+    },
+    {
       "title": "「歡迎神國降臨」國慶祈禱日 香港基督教團體海陸空敬拜",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95Z1ZUaVBvcnh0TzZ1MFlKOWVLQmZ6ZVgxbHVOcUx2Ny1UVElUUHRZTm1hTmpuYVkybW9mRHdkWEYtd1BGaHdueW45QkloaHB1eHJoRUszcy15NF94QW5jSkNhcDVscFM5dlE?oc=5",
       "category": "news",
@@ -1618,7 +1689,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.506500",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.085601",
       "extra": {
         "provider": "google_news",
         "query": "基督日报 基督教",
@@ -1643,7 +1715,8 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.228417",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.968029",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1693,7 +1766,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.107037",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.602877",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -1768,7 +1842,8 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.228323",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.967689",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1791,7 +1866,10 @@
       "language": "en",
       "country": "VA",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:10.699914",
+      "stance": "catholic",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.967398",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1816,7 +1894,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.400547",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.821044",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1839,7 +1918,10 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:11.715947",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.720422",
       "extra": {
         "provider": "google_news",
         "query": "Christianity daily news headline",
@@ -1889,7 +1971,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.106756",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.602388",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -1912,7 +1995,10 @@
       "language": "en",
       "country": "IN",
       "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:10.482271",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.822019",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -1987,7 +2073,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.399882",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.820327",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -2010,7 +2097,10 @@
       "language": "en",
       "country": "IN",
       "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:10.481208",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.821210",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -2060,7 +2150,8 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.944947",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.346739",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2085,7 +2176,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.738850",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.379293",
       "extra": {
         "provider": "google_news",
         "query": "基督邮报 基督教 新闻",
@@ -2135,7 +2227,8 @@
       "region": "",
       "stance": "catholic",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.228225",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.967241",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2160,7 +2253,8 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.944672",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.346409",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2185,7 +2279,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.032390",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.469968",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -2208,7 +2303,10 @@
       "language": "en",
       "country": "IN",
       "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:10.480591",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.820518",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -2258,7 +2356,8 @@
       "region": "中国",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.668956",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.197878",
       "extra": {
         "provider": "google_news",
         "query": "中国基督教 两会 三自 爱国",
@@ -2294,7 +2393,7 @@
       "title": "Catholic bishops in India reject ‘Christian conspiracy’ claim over funds bill",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmJpQmlYTERVNzNlcXRvY0o2YjJJd3dPWGdqX202VDRFTUwwaXVBM3VzVC1xNnlfQzR6WWhFc3p1TzMyX2JxVVR3ai11a1FEVFB4Q3lrb2NXWEFkUGhKNFd5dlQyRlhKYkRnYW5vMTVFa2pTSjBMekhDdndPOU5ORDM5RmZ3QTRRcnZiR0JIbENMMkc1aE53ZEEtZzUtSUNQVW1yUUZCRjdIcnE2cEsyLU9RWlJFb0tLUVM4?oc=5",
       "category": "news",
-      "source": "亚洲基督教新闻",
+      "source": "Christian Today India",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-20",
       "summary": "Catholic bishops in India reject ‘Christian conspiracy’ claim over funds bill EWTN News",
@@ -2304,14 +2403,15 @@
       "author": "EWTN News",
       "tags": [],
       "language": "en",
-      "country": "SG",
+      "country": "IN",
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:04.107323",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.821698",
       "extra": {
         "provider": "google_news",
-        "query": "Christian news Asia church",
+        "query": "Christian news India church",
         "publisher": "EWTN News"
       }
     },
@@ -2333,7 +2433,8 @@
       "region": "",
       "stance": "mainline",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:03.944766",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.346582",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2356,11 +2457,40 @@
       "language": "en",
       "country": "IN",
       "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:10.482107",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:54.821850",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
         "publisher": "Premier Christian News"
+      }
+    },
+    {
+      "title": "WCC Ecumenical Institute at Bossey to mark 80 years with two global webinars",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUQyVUNKQ3piV0N5TGtJc3VISDZvcTltVGVpdGFTNjRBYUxyTm5VUFFmQ1FtUWJJc01PdEpXbG9iU19KRlZ2aDY4Mm1SaWh2S1M3bVN0aU90blpXaVBrOXZwaG8zdHUxMV9BVmVTaUE0dW9LdXhKYm1LUGVXdDlDZVhwVjNiTHRBMXN3WjU0RmtWWFIyRTBWU0FGMVZlTzJob2pqY09uU283OUE?oc=5",
+      "category": "news",
+      "source": "普世教会新闻",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-03",
+      "summary": "WCC Ecumenical Institute at Bossey to mark 80 years with two global webinars World Council of Churches",
+      "summary_zh": "WCC 博西普世学院将举办两场全球网络研讨会庆祝成立 80 周年 World Council of Churches",
+      "title_zh": "博西WCC全基督教研究所举办两场全球网络研讨会，纪念80周年",
+      "content": "",
+      "author": "World Council of Churches",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:55.347232",
+      "extra": {
+        "provider": "google_news",
+        "query": "World Council of Churches ecumenical news",
+        "publisher": "World Council of Churches"
       }
     }
   ]

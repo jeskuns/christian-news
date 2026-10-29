@@ -1,8 +1,8 @@
 {
   "category": "culture",
   "label": "文化媒体",
-  "count": 27,
-  "updated_at": "2026-10-29T14:09:29.938370+08:00",
+  "count": 29,
+  "updated_at": "2026-10-29T14:24:09.898669+08:00",
   "articles": [
     {
       "title": "Best Practices from Evangelistically Effective Churches",
@@ -12,8 +12,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "While thousands of Americans are dechurching, some churches are baptizing many new members. Here’s how the country’s most evangelistically effective churches are sharing the gospel.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "虽然成千上万的美国人正在脱离教会，但一些教会正在为许多新成员施洗。以下是该国传福音最有效的教会如何分享福音。",
+      "title_zh": "传福音有效教会的最佳实践",
       "content": "",
       "author": "Sarah Eekhoff Zylstra",
       "tags": [
@@ -26,7 +26,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.837708",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.067199",
       "extra": {
         "feed_type": "rss20"
       }
@@ -39,8 +40,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "This volume is an invitation to rediscover that heritage and to find fresh encouragement in the faithfulness of God, who has sustained his church through the centuries.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "这本书邀请我们重新发现这一遗产，并在上帝的信实中找到新的鼓励，上帝几个世纪以来一直支撑着他的教会。",
+      "title_zh": "我们需要了解我们的改革根源",
       "content": "",
       "author": "DeMyron Haynes",
       "tags": [
@@ -58,7 +59,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.837835",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.067379",
       "extra": {
         "feed_type": "rss20"
       }
@@ -71,8 +73,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Do pregnancy centers, food pantries, or campus ministries exist because the church is failing to do her work?",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "怀孕中心、食品储藏室或校园事工的存在是否是因为教会未能做好她的工作？",
+      "title_zh": "如果教会做了它的工作，教堂会存在吗？",
       "content": "",
       "author": "Nathan Mayo",
       "tags": [
@@ -85,7 +87,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.837939",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.067534",
       "extra": {
         "feed_type": "rss20"
       }
@@ -98,8 +101,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Joel Beeke joins Matt Smethurst and Ligon Duncan to explore what the Puritans can teach today’s pastors about prayer, preaching, personal holiness, shepherding souls, handling criticism, and persevering in ministry.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "乔尔·比克 (Joel Beeke) 与马特·斯梅瑟斯特 (Matt Smethurst) 和里贡·邓肯 (Ligon Duncan) 一起探索清教徒可以教导当今的牧师关于祈祷、讲道、个人圣洁、牧养灵魂、处理批评和坚持事工的知识。",
+      "title_zh": "清教徒的教训（与Joel Beeke一起）",
       "content": "",
       "author": "Matt Smethurst, Ligon Duncan, Joel R. Beeke",
       "tags": [
@@ -113,7 +116,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.838068",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.067700",
       "extra": {
         "feed_type": "rss20"
       }
@@ -126,8 +130,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "L. Michael Morales talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "L. 迈克尔·莫拉莱斯 (L. Michael Morales) 谈论他的床头柜上有什么、最喜欢的小说、最喜欢的重读等等。",
+      "title_zh": "在我的架子上： L. Michael Morales的生活和书籍",
       "content": "",
       "author": "Ivan Mesa, L. Michael Morales",
       "tags": [
@@ -139,7 +143,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.838207",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.067851",
       "extra": {
         "feed_type": "rss20"
       }
@@ -152,8 +157,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Let’s start by counting the cost.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "我们先从计算成本开始。",
+      "title_zh": "如何找到更好地利用工作时间的动力？",
       "content": "",
       "author": "Kaitlin Febles",
       "tags": [
@@ -166,7 +171,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.838311",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.068019",
       "extra": {
         "feed_type": "rss20"
       }
@@ -179,8 +185,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Several features indicate that the eyewitness accounts of Simon stand behind Mark’s Gospel.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "有几个特征表明，西门的目击者叙述是马可福音的依据。",
+      "title_zh": "西蒙说：马可福音中不明显的目击者证据",
       "content": "",
       "author": "Bruce Henning",
       "tags": [
@@ -197,7 +203,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.838406",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.068180",
       "extra": {
         "feed_type": "rss20"
       }
@@ -210,8 +217,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "We must view our foreign-feeling bodies as vessels through which God demonstrates his redeeming strength.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "我们必须将我们陌生的身体视为神借以彰显他救赎力量的器皿。",
+      "title_zh": "破碎的身体造就美丽的寺庙",
       "content": "",
       "author": "James Abernathy",
       "tags": [
@@ -225,7 +232,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.838495",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.068326",
       "extra": {
         "feed_type": "rss20"
       }
@@ -238,8 +246,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "You’re being prepared for the work the Lord has for you in ways you may not understand until you’re standing in a hospice living room.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "你正在为主为你安排的工作做好准备，而你可能无法理解，直到你站在临终关怀的客厅里。",
+      "title_zh": "关于牧灵事工，我的祖父母教会了我什么",
       "content": "",
       "author": "Jared Cornutt",
       "tags": [
@@ -252,7 +260,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.838807",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.068475",
       "extra": {
         "feed_type": "rss20"
       }
@@ -265,8 +274,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Many of us have seen the statistics that Gen Z is the least explicitly Christian or religious generation on record.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "我们中的许多人都看到过统计数据，Z 世代是有记录以来最不明确的基督徒或宗教信仰的一代。",
+      "title_zh": "Z世代事工的福音希望",
       "content": "",
       "author": "Rachel Gilson, Alex Harris, Kori Porter, Derek Rishmawy",
       "tags": [
@@ -280,7 +289,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.838903",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.071948",
       "extra": {
         "feed_type": "rss20"
       }
@@ -293,8 +303,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "The Hebrew Roots Movement is a modern version of the New Testament Judaizers who were rebuked by Paul.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "希伯来根源运动是被保罗斥责的新约犹太教徒的现代版本。",
+      "title_zh": "关于希伯来根源运动，你应该知道什么",
       "content": "",
       "author": "R. L. Solberg",
       "tags": [
@@ -310,7 +320,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.839012",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.072184",
       "extra": {
         "feed_type": "rss20"
       }
@@ -323,8 +334,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Learn long-term planning from Joseph, artful delegation from Jethro, lifelong consistency from Daniel, and aged wisdom from John.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "向约瑟夫学习长期规划，向叶忒罗学习巧妙的授权，向丹尼尔学习终生的一致性，向约翰学习古老的智慧。",
+      "title_zh": "在终身事工中茁壮成长的7个关键",
       "content": "",
       "author": "Joel R. Beeke",
       "tags": [
@@ -339,7 +350,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.839105",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.072342",
       "extra": {
         "feed_type": "rss20"
       }
@@ -352,8 +364,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "‘Fjord’ challenges ‘tolerant’ progressives to reflect on their intolerance of conservative evangelical Christians.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "“峡湾”挑战“宽容”的进步人士反思他们对保守福音派基督徒的不宽容。",
+      "title_zh": "《峡湾》是2026年迄今为止最好的电影",
       "content": "",
       "author": "Brett McCracken",
       "tags": [
@@ -367,7 +379,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.839213",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.072499",
       "extra": {
         "feed_type": "rss20"
       }
@@ -380,8 +393,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "The power behind AI is the perception of objectivity and infallibility.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "人工智能背后的力量是对客观性和无误性的认知。",
+      "title_zh": "为什么人类假装成计算机",
       "content": "",
       "author": "Collin Hansen",
       "tags": [
@@ -396,7 +409,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.839319",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.072658",
       "extra": {
         "feed_type": "rss20"
       }
@@ -409,8 +423,8 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-29",
       "summary": "Wheaton College’s Denise Daniels draws on research with thousands of American workers to help us have a more holistic vision of how our work matters to us, our neighbors, our families, and God.",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "惠顿学院的丹尼斯·丹尼尔斯对数千名美国工人进行了研究，帮助我们更全面地了解我们的工作对我们、我们的邻居、我们的家庭和上帝的重要性。",
+      "title_zh": "在日常工作中寻找意义（与Denise Daniels合作）",
       "content": "",
       "author": "Dan Doriani, Mark Vroegop, Denise Daniels",
       "tags": [
@@ -423,7 +437,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.839417",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.072812",
       "extra": {
         "feed_type": "rss20"
       }
@@ -471,7 +486,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.567443",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:59.660867",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
@@ -501,6 +517,32 @@
         "provider": "google_news",
         "query": "Christian art painting",
         "publisher": "YouTube"
+      }
+    },
+    {
+      "title": "萬聖節只是扮鬼取糖？前撒但教領袖、女巫提醒基督徒勿向黑暗妥協",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uNFNLb2F3bk9ycTRmZEQ1anhRT2tXUjd2VENaeTMxNGdzcFNBMGFRVHJrRWN6b0NURlN2c3FDRVY0S1c5c2tzczlnNFVBSGViMDlPTy1aUVA5RUliZXpEc3FDUmc3N2hlZF9CR0c0MA?oc=5",
+      "category": "culture",
+      "source": "基督教电影",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-21",
+      "summary": "萬聖節只是扮鬼取糖？前撒但教領袖、女巫提醒基督徒勿向黑暗妥協 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.179155",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督教 电影 信仰 见证",
+        "publisher": "基督日報"
       }
     },
     {
@@ -546,7 +588,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.697548",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:13:59.737100",
       "extra": {
         "provider": "google_news",
         "query": "赞美之泉 诗歌 敬拜",
@@ -576,6 +619,32 @@
         "provider": "google_news",
         "query": "Christian art painting",
         "publisher": "Eugene Weekly"
+      }
+    },
+    {
+      "title": "為失敗作見證：華人作家牧者武陵驛重讀遠藤周作《沉默》",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jMTlBLTRXamlyMWdvMDhpUkZvaDZIZVo4T05hMF8ydUNXZGVpWERUZ1JPM05lZTdHemZrczM5dnpHVHRHejJtSmZYLVJVSHFDU2hnN29rTHAwQlYtVmxIdXJDcTNZbV9IYVE?oc=5",
+      "category": "culture",
+      "source": "基督教电影",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-09",
+      "summary": "為失敗作見證：華人作家牧者武陵驛重讀遠藤周作《沉默》 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:14:00.179340",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督教 电影 信仰 见证",
+        "publisher": "基督日報"
       }
     },
     {
