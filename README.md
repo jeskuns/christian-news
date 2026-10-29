@@ -37,7 +37,7 @@ Christian-News/
 │   ├── models.py             # 数据模型（Article 含 region 地区维度）
 │   ├── parsers/              # rss / generic / wikipedia / news_search
 │   ├── generators/          # 静态站点生成器（Jinja2 模板）
-│   ├── translator.py         # 英文标题自动译中（本地缓存）
+│   ├── translator.py         # 英文标题/摘要自动译中（云端优先 + 离线 argos 兜底，本地缓存）
 │   └── utils.py
 ├── run.py                    # 命令行入口
 ├── update.bat                # Windows 一键更新脚本
@@ -82,6 +82,19 @@ python run.py schedule --hour 8 --minute 30
 | `python run.py generate` | 仅基于已有数据库生成网站 |
 | `python run.py full` | 采集 + 生成 |
 | `python run.py schedule` | 每日定时调度 |
+
+## 翻译策略（英文标题/摘要自动译中）
+
+站点会把英文条目的标题与摘要翻译成中文，采用「**云端优先 + 离线兜底**」双保险：
+
+- **云端翻译（默认）**：依次使用 MyMemory、Google 翻译作为后端，带本地缓存（`data/translation_cache.json`），同一句话只翻一次。
+  - 免费接口单日有请求配额（约数百条）；配额内速度快、质量好。
+- **离线兜底（按需安装）**：当云端配额用尽或调用失败时，自动回退到本地 **argos-translate** 离线翻译（en→zh）。
+  - **不常驻、按需装**：`argostranslate` 及其翻译模型**不会**随 `requirements.txt` 安装，而是仅在云端配额真正用尽时才在运行时 `pip install` 并下载约数十 MB 的 en→zh 模型（同一运行环境仅一次）。日常有配额时完全不装，采集运行保持轻量。
+  - **不限量、无密钥**：离线翻译在本机 CPU 运行，不依赖任何 API key，也不受每日配额限制，可把全部英文条目译完。
+  - 质量为「中上」，适合快速浏览；若需更高质感，可在 `src/translator.py` 接入 DeepL / Azure / Google Cloud 等付费后端（需自备 key）。
+
+> 注：RSS 源不开放点赞数、阅读量，因此「精选 250」按 **来源优先级 + 新鲜度 + 分类均衡** 排序，而非互动量。完整列表见首页「查看全部 N 条」入口（`all.html`）。
 
 ## 数据源配置
 
