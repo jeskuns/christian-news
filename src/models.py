@@ -28,6 +28,7 @@ class Article:
     region: str = ""      # 地区维度：中国/中东/北美/欧洲/非洲/拉美/亚洲/全球
     stance: str = ""      # 来源立场/传统：evangelical/catholic/orthodox/mainline/charismatic/academic/other
     flags: List[str] = field(default_factory=list)  # 争议话题标签（如「同性婚姻」「堕胎」）
+    priority: int = 2   # 精选优先级：3=高（权威/常看）、2=中、1=低（聚合类）
     fetched_at: str = field(default_factory=lambda: datetime.now().isoformat())
     extra: Dict[str, Any] = field(default_factory=dict)
 
@@ -62,6 +63,7 @@ class SourceConfig:
     max_items: int = 20
     region: str = ""
     stance: str = ""      # 信息源立场/传统（可选，留空则由采集器按名称推断）
+    priority: int = 2      # 精选优先级（可选，留空则由采集器按名称推断）
     headers: Dict[str, str] = field(default_factory=dict)
     extra: Dict[str, Any] = field(default_factory=dict)
 

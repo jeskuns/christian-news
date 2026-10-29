@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}全部资料 - 基督教世界新闻{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero-main">
+    <h1>全部资料</h1>
+    <p class="hero-sub">共 {{ total }} 条（不受精选上限限制）· 按发布日期排列</p>
+  </div>
+  <div class="hero-tools">
+    <a class="link-pill" href="index.html">← 返回首页（精选）</a>
+  </div>
+</section>
+
+<div class="home-layout">
+  <div class="main-col">
+    <section class="timeline">
+      {% for date, items in date_groups.items() %}
+      <div class="date-section" id="date-{{ date }}">
+        <div class="date-header">
+          <h2>
+            <span class="date-badge">{{ date }}</span>
+            <span class="date-label">{{ date_weekday[date] }}</span>
+          </h2>
+          <span class="date-count">{{ items|length }} 条资料</span>
+        </div>
+        <div class="article-list">
+          {% for article in items %}
+          <article class="article-card cat-{{ article.category }}" data-stance="{{ article.stance or '' }}" data-flags="{{ (article.flags or [])|join(',') }}">
+            <div class="article-meta">
+              <span class="category-tag cat-{{ article.category }}">{{ category_labels[article.category] }}</span>
+              <span class="source">{{ article.source }}</span>
+              {% if article.region %}<span class="region">{{ article.region }}</span>{% endif %}
+              <span class="country">{{ article.country }}</span>
+              {% if article.stance and article.stance != 'evangelical' %}
+              <span class="stance-tag {% if article.stance in flagged_stances %}stance-warn{% else %}stance-info{% endif %}">{{ stance_labels.get(article.stance, article.stance) }}</span>
+              {% endif %}
+              {% for f in (article.flags or []) %}<span class="flag-tag">{{ f }}</span>{% endfor %}
+            </div>
+            <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title_zh or article.title }}</a></h3>
+            {% if article.title_zh %}
+            <div class="title-original">{{ article.title }}</div>
+            {% endif %}
+            {% if article.summary_zh %}<p>{{ article.summary_zh }}</p>
+            {% elif article.summary %}<p>{{ article.summary }}</p>{% endif %}
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </section>
+  </div>
+  <aside class="sidebar">
+    <div class="widget">
+      <h3>说明</h3>
+      <p>此页为全部采集资料，未做精选裁剪。首页默认展示按「优先级 + 新鲜度 + 分类均衡」精选出的 250 条。</p>
+    </div>
+  </aside>
+</div>
+{% endblock %}

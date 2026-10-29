@@ -71,6 +71,27 @@ def infer_stance(source: "SourceConfig") -> str:
     return "evangelical"
 
 
+# 精选优先级：权威/常看福音派媒体排高；聚合类（Google News 搜索）与百科背景排低
+PRIORITY_HIGH = [
+    "gospel coalition", "9marks", "desiring god", "christianity today", "crossway",
+    "ligonier", "monergism", "banner of truth", "witherspoon", "first things",
+    "modern reformation", "themelios", "lifeway", "got questions", "answers in genesis",
+    "persecution", "opendoors", "uscirf",
+]
+
+
+def infer_priority(source: "SourceConfig") -> int:
+    """按来源类型/名称推断精选优先级：3=高、2=中、1=低"""
+    if source.parser == "news_search":
+        return 1  # Google News 聚合结果（多为重复）
+    if (source.category or "") == "wiki":
+        return 1  # 百科背景非时效性新闻
+    name = (source.name or "").lower()
+    if any(kw in name for kw in PRIORITY_HIGH):
+        return 3
+    return 2
+
+
 def flag_articles(articles: List[Article]) -> None:
     """扫描标题+摘要，为涉及争议公共议题的条目打上标记（上限 3 个）"""
     for a in articles:
@@ -117,6 +138,7 @@ class Collector:
                 if not a.region:
                     a.region = source.region or ""
                 a.stance = source.stance or infer_stance(source)
+                a.priority = source.priority or infer_priority(source)
             return articles
         except Exception as e:
             msg = f"Source '{source.name}' failed: {e}"
@@ -172,6 +194,37 @@ class Collector:
         save_json(path, data)
         logger.info(f"Raw data saved to {path}")
 
+    def _select_featured(self, articles: List[Dict[str, Any]], limit: int = 250) -> List[Dict[str, Any]]:
+        """精选：优先级高、更新鲜的优先；并保证各分类都有基本覆盖"""
+        ordered = sorted(
+            articles,
+            key=lambda a: (
+                a.get("priority", 2),
+                (a.get("published") or a.get("fetched_at") or "")[:10],
+            ),
+            reverse=True,
+        )
+        cats: Dict[str, List[Dict[str, Any]]] = {}
+        for a in ordered:
+            cats.setdefault(a.get("category", ""), []).append(a)
+        ncat = len(cats)
+        if ncat == 0:
+            return ordered[:limit]
+        min_per = max(3, limit // ncat)
+        picked: List[Dict[str, Any]] = []
+        picked_ids = set()
+        for items in cats.values():
+            for a in items[:min_per]:
+                picked.append(a)
+                picked_ids.add(a.get("id"))
+        for a in ordered:
+            if len(picked) >= limit:
+                break
+            if a.get("id") not in picked_ids:
+                picked.append(a)
+                picked_ids.add(a.get("id"))
+        return picked[:limit]
+
     def build_database(self, retention_days: int = 90, max_articles: int = 8000):
         """构建数据库：与历史数据合并（按 id 去重），并保留最近 retention_days 天"""
         ensure_dir(self.db_dir)
@@ -202,6 +255,9 @@ class Collector:
         kept.sort(key=lambda a: ((a.get("published") or a.get("fetched_at") or "")[:10]), reverse=True)
         kept = kept[:max_articles]
 
+        # 精选：按「优先级 + 新鲜度 + 分类均衡」筛选 limit 条，供首页/分类页展示
+        featured = self._select_featured(kept, limit=250)
+
         logger.info(
             f"Database merged: {len(self.articles)} new + history -> {len(kept)} kept "
             f"(retention {retention_days}d, cutoff {cutoff})"
@@ -210,10 +266,12 @@ class Collector:
         db = {
             "updated_at": now_hk(),
             "total": len(kept),
+            "featured_count": len(featured),
             "categories": {},
             "regions": {},
             "sources": {},
             "articles": kept,
+            "featured": featured,
         }
         for a in kept:
             db["categories"][a["category"]] = db["categories"].get(a["category"], 0) + 1

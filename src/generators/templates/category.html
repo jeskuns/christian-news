@@ -4,7 +4,7 @@
 <section class="hero hero--compact">
   <div class="hero-main">
     <h1>{{ icon }} {{ label }}</h1>
-    <p class="hero-sub">共 {{ count }} 条资料，来自 {{ sources|length }} 个信息源。</p>
+    <p class="hero-sub">精选 {{ count }} 条 / 共 {{ total }} 条，来自 {{ sources|length }} 个信息源。</p>
   </div>
 </section>
 
@@ -17,6 +17,7 @@
     {% endfor %}
   </select>
   <label class="chk-inline"><input type="checkbox" id="hide-flagged"> 隐藏需留意的来源/争议</label>
+  <a class="link-pill" href="../all.html">查看全部 {{ total }} 条</a>
 </section>
 
 <section class="article-list {% if key == 'wiki' %}compact-grid{% endif %}" id="article-list">

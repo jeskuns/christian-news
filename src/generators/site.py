@@ -171,6 +171,7 @@ class SiteGenerator:
         self._copy_assets()
 
         articles = self.db.get("articles", [])
+        featured = self.db.get("featured", articles)
         categories_count = self.db.get("categories", {})
         sources_count = self.db.get("sources", {})
         regions_count = self.db.get("regions", {})
@@ -186,7 +187,7 @@ class SiteGenerator:
             }
 
         index_tpl = self.env.get_template("index.html")
-        date_groups = self._build_date_groups(articles)
+        date_groups = self._build_date_groups(featured)
         available_dates = sorted(date_groups.keys(), reverse=True)
         calendar_data = {
             "available_dates": available_dates,
@@ -205,6 +206,7 @@ class SiteGenerator:
             hot_topics=_count_groups(articles, TOPIC_KEYWORDS, 8),
             stance_labels=STANCE_LABELS,
             flagged_stances=FLAGGED_STANCES,
+            featured_count=self.db.get("featured_count", len(featured)),
             updated_at=updated_at,
         )
         with open(os.path.join(self.site_dir, "index.html"), "w", encoding="utf-8") as f:
@@ -212,17 +214,17 @@ class SiteGenerator:
 
         cat_tpl = self.env.get_template("category.html")
         for key, meta in CATEGORY_META.items():
-            cat_articles = [a for a in articles if a.get("category") == key]
-            cat_articles.sort(key=lambda x: self._article_date(x), reverse=True)
-            sources = sorted({a.get("source", "") for a in cat_articles})
+            feat = [a for a in featured if a.get("category") == key]
+            feat.sort(key=lambda x: self._article_date(x), reverse=True)
+            sources = sorted({a.get("source", "") for a in feat})
             html = cat_tpl.render(
                 root="../",
                 key=key,
                 label=meta["label"],
                 icon=meta["icon"],
-                count=len(cat_articles),
+                count=len(feat),
                 sources=sources,
-                articles=cat_articles,
+                articles=feat,
                 updated_at=updated_at,
                 total=len(articles),
                 stance_labels=STANCE_LABELS,
@@ -246,6 +248,22 @@ class SiteGenerator:
             total_articles=len(articles),
         )
         with open(os.path.join(self.site_dir, "sources.html"), "w", encoding="utf-8") as f:
+            f.write(html)
+
+        # 全部资料页（不受精选上限限制，供「查看全部」入口）
+        all_tpl = self.env.get_template("all.html")
+        date_groups_all = self._build_date_groups(articles)
+        html = all_tpl.render(
+            root="",
+            total=len(articles),
+            category_labels={k: v["label"] for k, v in CATEGORY_META.items()},
+            date_groups=date_groups_all,
+            date_weekday=self._date_weekday(list(date_groups_all.keys())),
+            stance_labels=STANCE_LABELS,
+            flagged_stances=FLAGGED_STANCES,
+            updated_at=updated_at,
+        )
+        with open(os.path.join(self.site_dir, "all.html"), "w", encoding="utf-8") as f:
             f.write(html)
 
         logger.info(f"Site generated at {self.site_dir}: {len(articles)} articles, {len(categories)} categories, {len(sources)} sources")

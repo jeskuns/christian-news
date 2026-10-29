@@ -4,7 +4,7 @@
 <section class="hero">
   <div class="hero-main">
     <h1>基督教世界新闻</h1>
-    <p class="hero-sub">每日自动采集全球基督教资讯 · 信仰自由、教会、宣教与公共议题一站聚合</p>
+    <p class="hero-sub">每日自动采集全球基督教资讯 · 精选 {{ featured_count }} 条 / 共 {{ total }} 条，信仰自由、教会、宣教与公共议题一站聚合</p>
   </div>
   <div class="hero-tools">
     <div class="updated-pill">更新于 {{ updated_at }}</div>
@@ -15,6 +15,7 @@
       <button type="button" class="btn-date btn-date--all" id="date-all">全部</button>
     </div>
     <label class="chk-inline"><input type="checkbox" id="hide-flagged"> 只看福音派来源</label>
+    <a class="link-pill" href="all.html">查看全部 {{ total }} 条</a>
   </div>
 </section>
 
