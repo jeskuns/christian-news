@@ -1,8 +1,8 @@
 {
   "category": "theology",
   "label": "神学与合一",
-  "count": 28,
-  "updated_at": "2026-10-29T10:20:55.868939+08:00",
+  "count": 32,
+  "updated_at": "2026-10-29T10:39:19.009882+08:00",
   "articles": [
     {
       "title": "WCC Faith and Order meeting opens with path toward deep dialogue",
@@ -20,7 +20,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.886072",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.839691",
       "extra": {
         "feed_type": "rss20"
       }
@@ -41,7 +43,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.889112",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.842369",
       "extra": {
         "feed_type": "rss20"
       }
@@ -62,7 +66,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.892487",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.844962",
       "extra": {
         "feed_type": "rss20"
       }
@@ -83,7 +89,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.894999",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.847116",
       "extra": {
         "feed_type": "rss20"
       }
@@ -104,7 +112,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.902510",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.854619",
       "extra": {
         "feed_type": "rss20"
       }
@@ -125,7 +135,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.904718",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.856582",
       "extra": {
         "feed_type": "rss20"
       }
@@ -146,7 +158,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.927403",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.861872",
       "extra": {
         "feed_type": "rss20"
       }
@@ -167,7 +181,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.943909",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.867250",
       "extra": {
         "feed_type": "rss20"
       }
@@ -188,7 +204,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.945409",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.869042",
       "extra": {
         "feed_type": "rss20"
       }
@@ -209,7 +227,9 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.952966",
+      "stance": "mainline",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.871177",
       "extra": {
         "feed_type": "rss20"
       }
@@ -230,7 +250,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.093351",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.150587",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -276,7 +298,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.420029",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.601873",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -299,11 +323,38 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.421069",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.602773",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
         "publisher": "First Things"
+      }
+    },
+    {
+      "title": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0MTE1eDhEVW1GeGRKb3JtR29JSzZCT3A4UTZlaVhLdmxqT0lnMTc4eUV4NHRJVGs4MW56enNyM09mbWJzRldkUUVwV1h3dEU2VEdiQnducXcwdkR6LUtOcm95OWh5cllrMjc4XzczQQ?oc=5",
+      "category": "theology",
+      "source": "中国神学研究院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-14",
+      "summary": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "HK",
+      "region": "亚洲",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.920298",
+      "extra": {
+        "provider": "google_news",
+        "query": "中国神学研究院 神学",
+        "publisher": "基督日報"
       }
     },
     {
@@ -345,7 +396,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.094166",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.151293",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -368,7 +421,9 @@
       "language": "zh",
       "country": "US",
       "region": "北美",
-      "fetched_at": "2026-10-29T02:13:14.239206",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.538773",
       "extra": {
         "provider": "google_news",
         "query": "生命季刊 基督教 神学",
@@ -391,7 +446,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.094049",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.151194",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -414,7 +471,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.093662",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.150867",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -437,7 +496,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.741430",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.642849",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -460,11 +521,38 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.094529",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.151726",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "Christianity Today"
+      }
+    },
+    {
+      "title": "環境生態與基督徒何干？張浩然博士談六十年生態神學反思",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvTzZTOWx2TUlTbFdmcW5sX2ItX3JBWG96d29DOU9qb2tCNHVIbkxwOERzNV9TN01jQUxHNDFSNlBCS09SZEVHelMzZEczM2dxdHYyZ24xMVczUTB4RGNObFVjcXBfaXkwZnh3bTZ3RQ?oc=5",
+      "category": "theology",
+      "source": "中国神学研究院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-04",
+      "summary": "環境生態與基督徒何干？張浩然博士談六十年生態神學反思 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "HK",
+      "region": "亚洲",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.921042",
+      "extra": {
+        "provider": "google_news",
+        "query": "中国神学研究院 神学",
+        "publisher": "基督日報"
       }
     },
     {
@@ -483,7 +571,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.980744",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.979686",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -506,7 +596,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.093506",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.150720",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -529,7 +621,9 @@
       "language": "zh",
       "country": "HK",
       "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:14.638933",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.921254",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -575,11 +669,38 @@
       "language": "zh",
       "country": "HK",
       "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:14.639188",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.921149",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
         "publisher": "《時代論壇》Christian Times"
+      }
+    },
+    {
+      "title": "Christian Theology Meets Pop Culture in New IVP Series",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORW15Z203Q0RGUVBLYUp3X3RsX1pXT19hSVlXWGItUk0xNjNmWkNEUE1hTndtd2hFZXBsMm1GTmlZQVI1dU1ndmVqNWdwc0tlR29lM0ttMmNGZldhaVFCVDVRUmo2Q0NEYWhOMWZxSng2alZ1S0k4aks0c1VaOTJnQTNYZGk3amVuWlVHdmlwbFc0Vjk5WWFLb3E3YjRtTU0zT20yTVZUdHhQT0xFM2JBMi1GY0JaWjR2QjV1MVdSTjBXS1QtdFlGc25XRWtoRERnMFNqU3NGdkZLdw?oc=5",
+      "category": "theology",
+      "source": "神学与文化",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-18",
+      "summary": "Christian Theology Meets Pop Culture in New IVP Series Publishers Weekly",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Publishers Weekly",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.474632",
+      "extra": {
+        "provider": "google_news",
+        "query": "theology and culture Christianity",
+        "publisher": "Publishers Weekly"
       }
     },
     {
@@ -598,11 +719,38 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:14.980897",
+      "stance": "academic",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:12.979830",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
         "publisher": "www.christiandaily.com"
+      }
+    },
+    {
+      "title": "Introducing International Relations: Religion and Culture",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDRktMR0o5V3hoOXczR2syVEhVZkJDbFdlTXdLYUdTT2xGZDBodXlzc0lmTXJzaDBpcnZtWXpIU0FVd3BxV3UyMW1QQVpHUlVoR0FWMV9R?oc=5",
+      "category": "theology",
+      "source": "神学与文化",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-16",
+      "summary": "Introducing International Relations: Religion and Culture E-International Relations",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "E-International Relations",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.474975",
+      "extra": {
+        "provider": "google_news",
+        "query": "theology and culture Christianity",
+        "publisher": "E-International Relations"
       }
     },
     {

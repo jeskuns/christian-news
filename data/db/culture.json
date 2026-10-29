@@ -1,8 +1,8 @@
 {
   "category": "culture",
   "label": "文化媒体",
-  "count": 21,
-  "updated_at": "2026-10-29T10:20:55.868038+08:00",
+  "count": 27,
+  "updated_at": "2026-10-29T10:39:19.009192+08:00",
   "articles": [
     {
       "title": "Best Practices from Evangelistically Effective Churches",
@@ -24,7 +24,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.784948",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.797656",
       "extra": {
         "feed_type": "rss20"
       }
@@ -54,7 +56,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.785106",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.797808",
       "extra": {
         "feed_type": "rss20"
       }
@@ -79,7 +83,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.785238",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.797927",
       "extra": {
         "feed_type": "rss20"
       }
@@ -105,7 +111,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.785380",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.798049",
       "extra": {
         "feed_type": "rss20"
       }
@@ -129,7 +137,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.785505",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.798158",
       "extra": {
         "feed_type": "rss20"
       }
@@ -154,7 +164,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.785625",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.798259",
       "extra": {
         "feed_type": "rss20"
       }
@@ -183,7 +195,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.785774",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.798374",
       "extra": {
         "feed_type": "rss20"
       }
@@ -209,7 +223,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.785895",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.798477",
       "extra": {
         "feed_type": "rss20"
       }
@@ -234,7 +250,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.786018",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.798591",
       "extra": {
         "feed_type": "rss20"
       }
@@ -260,7 +278,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.786135",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.798695",
       "extra": {
         "feed_type": "rss20"
       }
@@ -288,7 +308,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.786249",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.798804",
       "extra": {
         "feed_type": "rss20"
       }
@@ -315,7 +337,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.786364",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.798907",
       "extra": {
         "feed_type": "rss20"
       }
@@ -341,7 +365,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.786483",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.799013",
       "extra": {
         "feed_type": "rss20"
       }
@@ -368,7 +394,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.786594",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.799329",
       "extra": {
         "feed_type": "rss20"
       }
@@ -393,16 +421,43 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.786728",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.799462",
       "extra": {
         "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "Sacred Mysteries: Can Goya’s firing squad be counted as Christian art?",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3RCbG5STzJfT1Rfd19zNERUS2gycHRfWmhFZ3JRNnFsMHoxLS1TZ2hlSFVidHFCNnpXOWxqd2F6ZmNwMWFMNzh3N05HVEp6cEtra201TENESTZrWkRnYVloVl96cG1CS3JhLTBqakdwcktTS1RqVFRMSFRjRDJjU1JOc21vQUtrek5NTkVkV0s0OGxUV2NaSGNPS0lZb1pwMDNxRA?oc=5",
+      "category": "culture",
+      "source": "基督徒艺术",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-24",
+      "summary": "Sacred Mysteries: Can Goya’s firing squad be counted as Christian art? The Telegraph",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "The Telegraph",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.400942",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian art painting",
+        "publisher": "The Telegraph"
       }
     },
     {
       "title": "薛子樂談香港教會詩歌史 反映文化身分認同的變遷",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JZ3NSS3JSaEJ4ZnB5MXdqWnpNX0I4TktwUnl6NFJsR3hvX1dlTkxVM0ZsTkZ2NWphWXRLTldXMUg3c1Yzb0lMTExoNTgzRW5Ia0dSRk1PclpHMTRNRmpZQ3Q4VnhEWVctTk9ZMVdSTQ?oc=5",
       "category": "culture",
-      "source": "约书亚乐团",
+      "source": "基督教文化（中文）",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-23",
       "summary": "薛子樂談香港教會詩歌史 反映文化身分認同的變遷 基督日報",
@@ -412,13 +467,40 @@
       "author": "基督日報",
       "tags": [],
       "language": "zh",
-      "country": "TW",
-      "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:15.366986",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.325170",
       "extra": {
         "provider": "google_news",
-        "query": "约书亚乐团 敬拜 音乐",
+        "query": "基督教 音乐 影视 文化",
         "publisher": "基督日報"
+      }
+    },
+    {
+      "title": "Walking in Wisdom! PROVERBS 2 PAINTING part 1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56Ui1pZ1Y3SlRMMkpGd1d0eF9WSklqQTlmdk1DQU54dHl4RDRfZEVIS0pmQ25XRWZrSFR5Q1p0aWNzYzZqQklMOEJzYzNDNGNULVkxYkVNakxqX3Jx?oc=5",
+      "category": "culture",
+      "source": "基督徒艺术",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-23",
+      "summary": "Walking in Wisdom! PROVERBS 2 PAINTING part 1 YouTube",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "YouTube",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.401433",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian art painting",
+        "publisher": "YouTube"
       }
     },
     {
@@ -437,7 +519,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.228852",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.076053",
       "extra": {
         "provider": "google_news",
         "query": "faith and science Christianity",
@@ -460,11 +544,38 @@
       "language": "zh",
       "country": "TW",
       "region": "亚洲",
-      "fetched_at": "2026-10-29T02:13:15.439503",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.436419",
       "extra": {
         "provider": "google_news",
         "query": "赞美之泉 诗歌 敬拜",
         "publisher": "基督日報"
+      }
+    },
+    {
+      "title": "Art as Religion",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RLUdkOFpadXdWcG11ZG9pZFFlUi1kN1BPWmNPaVd4MDJWSlpxc2txMWg5d0xTVW9PQUtTRGE1dVF1RUhDeXlvdWVZcUJjZDBSQ0FRaE5OM1daM184V2NnR2xB?oc=5",
+      "category": "culture",
+      "source": "基督徒艺术",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-15",
+      "summary": "Art as Religion Eugene Weekly",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Eugene Weekly",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.401086",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian art painting",
+        "publisher": "Eugene Weekly"
       }
     },
     {
@@ -483,7 +594,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:15.931581",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:13.817812",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 婚姻 家庭 亲子",
@@ -506,7 +619,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.228716",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.076318",
       "extra": {
         "provider": "google_news",
         "query": "faith and science Christianity",
@@ -529,11 +644,88 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.228397",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.076195",
       "extra": {
         "provider": "google_news",
         "query": "faith and science Christianity",
         "publisher": "The Spokesman-Review"
+      }
+    },
+    {
+      "title": "Science and religion don’t mix? Let’s test the evidence",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUdaTkIwcHFCU1RNVTVudTFHbHR5alh3RThsUThZMVZWYmRJYlI4b1ZPV3I1ZUM5MjFBSUZ3WUpwZXE5WkJxSERwYWhjdE5KR011SDZqRmNvdHlmZDlIdnhrclhZYzNGMFNhZHhhTjV6WDFBRzg5dlhNdHEtSjYwMjYxR1JuOE1zdGNSdw?oc=5",
+      "category": "culture",
+      "source": "信仰与科学",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-07",
+      "summary": "Science and religion don’t mix? Let’s test the evidence Aleteia EN",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Aleteia EN",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.076445",
+      "extra": {
+        "provider": "google_news",
+        "query": "faith and science Christianity",
+        "publisher": "Aleteia EN"
+      }
+    },
+    {
+      "title": "Gospel in Art: For you are like whitewashed tombs",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NTU5Tc2tZclFaZWpRM1o2TFQ4TGNPSml4WTlqQlhnTnF4bDhsd3lINzR1bTVzNTd5X0k0dTlzbkNiS0dKSC1YamRUT2Q2cURXZkJNag?oc=5",
+      "category": "culture",
+      "source": "基督徒艺术",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-26",
+      "summary": "Gospel in Art: For you are like whitewashed tombs Independent Catholic News",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Independent Catholic News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.401646",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian art painting",
+        "publisher": "Independent Catholic News"
+      }
+    },
+    {
+      "title": "As Sicilians Flocked to a Religious Festival, Thieves Broke Into a Nearby Museum and Stole Four Renaissance Paintings",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGpoQ09rd0c0ck1qU3JYbUxDamNlbkhnRHNpQVFmallzaUxUS2hhOGJkUERpenVRLU1UVjcxVm1wcUxmekVGOWpYMEtMbUk3aEUyZXY5ZVJyTzhwdi1haDk3SnpiOHY2Zm92TkxkX1pCeC1ta3dveWo2THJLMXp6UEhIUWIyVnJ6bGxTR195VG9pb2xGd0JIdHk5aWJDNGhyVkR6M1RvMXgyd0VCcVNKOFVhcC1Kc19BUmRLYkxhdTNJanozSFFDdm1pRmc2SElsN1BpUlY5VWZUMFNURjVzZUFpM3gxMFJmejhaSmhBbENHWGM?oc=5",
+      "category": "culture",
+      "source": "基督徒艺术",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-17",
+      "summary": "As Sicilians Flocked to a Religious Festival, Thieves Broke Into a Nearby Museum and Stole Four Renaissance Paintings Smithsonian Magazine",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Smithsonian Magazine",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.401924",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian art painting",
+        "publisher": "Smithsonian Magazine"
       }
     }
   ]

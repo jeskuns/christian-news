@@ -2,7 +2,7 @@
   "category": "wiki",
   "label": "百科背景",
   "count": 44,
-  "updated_at": "2026-10-29T10:20:55.869915+08:00",
+  "updated_at": "2026-10-29T10:39:19.010667+08:00",
   "articles": [
     {
       "title": "基督教",
@@ -20,7 +20,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.590829",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.489724",
       "extra": {
         "wordcount": 7969
       }
@@ -41,7 +43,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.590849",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.489741",
       "extra": {
         "wordcount": 31085
       }
@@ -62,7 +66,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.590868",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.489757",
       "extra": {
         "wordcount": 24144
       }
@@ -83,7 +89,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.590892",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.489778",
       "extra": {
         "wordcount": 30107
       }
@@ -104,7 +112,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.821304",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.720968",
       "extra": {
         "wordcount": 11792
       }
@@ -125,7 +135,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.821326",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.720988",
       "extra": {
         "wordcount": 495
       }
@@ -146,7 +158,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.821347",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.721005",
       "extra": {
         "wordcount": 6250
       }
@@ -167,7 +181,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.821366",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.721022",
       "extra": {
         "wordcount": 18768
       }
@@ -188,7 +204,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.121983",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.985271",
       "extra": {
         "wordcount": 9802
       }
@@ -209,7 +227,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.122011",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.985293",
       "extra": {
         "wordcount": 2815
       }
@@ -230,7 +250,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.122040",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.985317",
       "extra": {
         "wordcount": 156
       }
@@ -251,7 +273,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.122055",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.985330",
       "extra": {
         "wordcount": 266
       }
@@ -272,7 +296,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.415387",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.257286",
       "extra": {
         "wordcount": 6733
       }
@@ -293,7 +319,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.415416",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.257312",
       "extra": {
         "wordcount": 229
       }
@@ -314,7 +342,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.415438",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.257333",
       "extra": {
         "wordcount": 3907
       }
@@ -335,7 +365,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.415453",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.257347",
       "extra": {
         "wordcount": 1263
       }
@@ -356,7 +388,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.646715",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.541311",
       "extra": {
         "wordcount": 3872
       }
@@ -377,7 +411,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.646733",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.541326",
       "extra": {
         "wordcount": 676
       }
@@ -398,7 +434,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.646751",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.541342",
       "extra": {
         "wordcount": 1171
       }
@@ -439,7 +477,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.373446",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.413132",
       "extra": {
         "wordcount": 33525
       }
@@ -460,7 +500,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.373466",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.413148",
       "extra": {
         "wordcount": 9235
       }
@@ -481,7 +523,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.373482",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.413161",
       "extra": {
         "wordcount": 13167
       }
@@ -502,7 +546,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.373499",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.413175",
       "extra": {
         "wordcount": 2469
       }
@@ -523,7 +569,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.795908",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.728193",
       "extra": {
         "wordcount": 29554
       }
@@ -544,7 +592,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.795925",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.728208",
       "extra": {
         "wordcount": 31255
       }
@@ -557,15 +607,17 @@
       "source_url": "https://en.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "Proto-Protestantism, also called pre-Protestantism, refers to individuals and movements that propagated various ideas later associated with Protestantism before",
-      "summary_zh": "原始新教，也称为前新教，是指后来传播与新教相关的各种思想的个人和运动。",
-      "title_zh": "原始-原始新教",
+      "summary_zh": "",
+      "title_zh": "",
       "content": "",
       "author": "",
       "tags": [],
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:00:12.280840",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.728235",
       "extra": {
         "wordcount": 5737
       }
@@ -586,7 +638,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:16.795942",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:14.728222",
       "extra": {
         "wordcount": 3118
       }
@@ -607,7 +661,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.478230",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.248428",
       "extra": {
         "wordcount": 24771
       }
@@ -628,7 +684,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.478252",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.248447",
       "extra": {
         "wordcount": 9244
       }
@@ -649,7 +707,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.478268",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.248462",
       "extra": {
         "wordcount": 8701
       }
@@ -670,7 +730,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.478285",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.248477",
       "extra": {
         "wordcount": 5010
       }
@@ -691,7 +753,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.931688",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.639849",
       "extra": {
         "wordcount": 26795
       }
@@ -712,7 +776,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.931712",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.639869",
       "extra": {
         "wordcount": 3170
       }
@@ -733,7 +799,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.931732",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.639886",
       "extra": {
         "wordcount": 7689
       }
@@ -754,7 +822,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.931748",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.639901",
       "extra": {
         "wordcount": 1499
       }
@@ -775,7 +845,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:18.390336",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.967113",
       "extra": {
         "wordcount": 23130
       }
@@ -796,7 +868,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:18.390360",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.967137",
       "extra": {
         "wordcount": 8302
       }
@@ -817,7 +891,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:18.390392",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.967171",
       "extra": {
         "wordcount": 348
       }
@@ -878,7 +954,9 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:18.390409",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.967186",
       "extra": {
         "wordcount": 252
       }
@@ -899,7 +977,9 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:17.646776",
+      "stance": "evangelical",
+      "flags": [],
+      "fetched_at": "2026-10-29T02:35:15.541365",
       "extra": {
         "wordcount": 35486
       }
