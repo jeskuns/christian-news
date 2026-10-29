@@ -1,8 +1,8 @@
 {
   "category": "wiki",
   "label": "百科背景",
-  "count": 44,
-  "updated_at": "2026-10-29T14:24:09.900882+08:00",
+  "count": 45,
+  "updated_at": "2026-10-29T14:34:53.711821+08:00",
   "articles": [
     {
       "title": "基督教",
@@ -23,7 +23,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.750538",
+      "fetched_at": "2026-10-29T06:30:23.761829",
       "extra": {
         "wordcount": 7969
       }
@@ -47,7 +47,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.750564",
+      "fetched_at": "2026-10-29T06:30:23.761847",
       "extra": {
         "wordcount": 31085
       }
@@ -71,7 +71,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.750588",
+      "fetched_at": "2026-10-29T06:30:23.761862",
       "extra": {
         "wordcount": 24144
       }
@@ -119,7 +119,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.001452",
+      "fetched_at": "2026-10-29T06:30:24.004865",
       "extra": {
         "wordcount": 11792
       }
@@ -143,7 +143,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.001476",
+      "fetched_at": "2026-10-29T06:30:24.004884",
       "extra": {
         "wordcount": 495
       }
@@ -167,7 +167,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.001499",
+      "fetched_at": "2026-10-29T06:30:24.004902",
       "extra": {
         "wordcount": 6250
       }
@@ -191,7 +191,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.001521",
+      "fetched_at": "2026-10-29T06:30:24.004919",
       "extra": {
         "wordcount": 18768
       }
@@ -215,7 +215,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.352083",
+      "fetched_at": "2026-10-29T06:30:24.262843",
       "extra": {
         "wordcount": 9802
       }
@@ -239,7 +239,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.352111",
+      "fetched_at": "2026-10-29T06:30:24.262867",
       "extra": {
         "wordcount": 2815
       }
@@ -263,7 +263,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.352142",
+      "fetched_at": "2026-10-29T06:30:24.262895",
       "extra": {
         "wordcount": 156
       }
@@ -287,7 +287,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.352160",
+      "fetched_at": "2026-10-29T06:30:24.262908",
       "extra": {
         "wordcount": 266
       }
@@ -311,7 +311,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.684465",
+      "fetched_at": "2026-10-29T06:30:24.545443",
       "extra": {
         "wordcount": 6733
       }
@@ -335,7 +335,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.684497",
+      "fetched_at": "2026-10-29T06:30:24.545468",
       "extra": {
         "wordcount": 229
       }
@@ -359,7 +359,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.684521",
+      "fetched_at": "2026-10-29T06:30:24.545486",
       "extra": {
         "wordcount": 3907
       }
@@ -383,7 +383,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.684539",
+      "fetched_at": "2026-10-29T06:30:24.545499",
       "extra": {
         "wordcount": 1263
       }
@@ -407,7 +407,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.917384",
+      "fetched_at": "2026-10-29T06:30:24.763158",
       "extra": {
         "wordcount": 3872
       }
@@ -431,7 +431,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.917404",
+      "fetched_at": "2026-10-29T06:30:24.763172",
       "extra": {
         "wordcount": 676
       }
@@ -455,7 +455,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.917424",
+      "fetched_at": "2026-10-29T06:30:24.763187",
       "extra": {
         "wordcount": 1171
       }
@@ -503,7 +503,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.940956",
+      "fetched_at": "2026-10-29T06:30:23.568989",
       "extra": {
         "wordcount": 33525
       }
@@ -527,7 +527,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.941023",
+      "fetched_at": "2026-10-29T06:30:23.569030",
       "extra": {
         "wordcount": 9229
       }
@@ -551,7 +551,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.940975",
+      "fetched_at": "2026-10-29T06:30:23.569011",
       "extra": {
         "wordcount": 13167
       }
@@ -575,7 +575,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.941046",
+      "fetched_at": "2026-10-29T06:30:23.569049",
       "extra": {
         "wordcount": 2469
       }
@@ -599,7 +599,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.415834",
+      "fetched_at": "2026-10-29T06:30:23.949512",
       "extra": {
         "wordcount": 29554
       }
@@ -623,7 +623,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.415870",
+      "fetched_at": "2026-10-29T06:30:23.949527",
       "extra": {
         "wordcount": 31255
       }
@@ -647,7 +647,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.415854",
+      "fetched_at": "2026-10-29T06:30:23.949539",
       "extra": {
         "wordcount": 5737
       }
@@ -671,7 +671,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.415886",
+      "fetched_at": "2026-10-29T06:30:23.949552",
       "extra": {
         "wordcount": 3118
       }
@@ -695,7 +695,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.847818",
+      "fetched_at": "2026-10-29T06:30:24.481924",
       "extra": {
         "wordcount": 24771
       }
@@ -719,7 +719,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.847841",
+      "fetched_at": "2026-10-29T06:30:24.481942",
       "extra": {
         "wordcount": 9244
       }
@@ -743,7 +743,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.847859",
+      "fetched_at": "2026-10-29T06:30:24.481956",
       "extra": {
         "wordcount": 8701
       }
@@ -767,7 +767,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:01.847877",
+      "fetched_at": "2026-10-29T06:30:24.481970",
       "extra": {
         "wordcount": 5010
       }
@@ -791,7 +791,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:02.431758",
+      "fetched_at": "2026-10-29T06:30:24.928062",
       "extra": {
         "wordcount": 26795
       }
@@ -815,7 +815,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:02.431781",
+      "fetched_at": "2026-10-29T06:30:24.928080",
       "extra": {
         "wordcount": 3170
       }
@@ -839,7 +839,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:02.431802",
+      "fetched_at": "2026-10-29T06:30:24.928096",
       "extra": {
         "wordcount": 7689
       }
@@ -863,7 +863,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:02.431820",
+      "fetched_at": "2026-10-29T06:30:24.928110",
       "extra": {
         "wordcount": 1499
       }
@@ -887,7 +887,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:02.778118",
+      "fetched_at": "2026-10-29T06:30:25.227571",
       "extra": {
         "wordcount": 23130
       }
@@ -911,7 +911,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:02.778146",
+      "fetched_at": "2026-10-29T06:30:25.227592",
       "extra": {
         "wordcount": 8302
       }
@@ -935,7 +935,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:02.778182",
+      "fetched_at": "2026-10-29T06:30:25.227621",
       "extra": {
         "wordcount": 348
       }
@@ -968,6 +968,7 @@
       "source_url": "https://zh.wikipedia.org/w/api.php",
       "published": "2026-10-29",
       "summary": "克思，母親亨丽埃特·普莱斯堡。馬克思一家是猶太人，原本不信教。但在馬克思出生前，全家便已正式皈依基督教（英语：Conversion to Christianity）。馬克思的外祖父是一位荷蘭拉比，而其父系家族自1723年起就世代擔任特里爾的拉比，直至其祖父迈耶·哈莱维·马克思（Meier Halevi",
+      "summary_zh": "",
       "title_zh": "",
       "content": "",
       "author": "",
@@ -975,7 +976,10 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:35:01.580049",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:30:23.761880",
       "extra": {
         "wordcount": 25793
       }
@@ -999,7 +1003,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:02.778200",
+      "fetched_at": "2026-10-29T06:30:25.227636",
       "extra": {
         "wordcount": 252
       }
@@ -1046,6 +1050,30 @@
       "fetched_at": "2026-10-29T02:13:16.795956",
       "extra": {
         "wordcount": 19652
+      }
+    },
+    {
+      "title": ".bible",
+      "url": "https://zh.wikipedia.org/wiki/.bible",
+      "category": "wiki",
+      "source": "Wikipedia (zh)",
+      "source_url": "https://zh.wikipedia.org/w/api.php",
+      "published": "2026-10-29",
+      "summary": ".bible是一個新的互聯網頂級域名，啓用於2016年。根據互聯網名稱與數字地址分配機構的描述，用於使注冊人推廣自己及其網站，并將其推向互聯網社區。其要旨是在建立與《聖經》的積極聯係。 Application Details for Application ID: 1-994-57975. ICANN",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:30:24.763198",
+      "extra": {
+        "wordcount": 91
       }
     }
   ]

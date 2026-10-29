@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 13,
-  "updated_at": "2026-10-29T14:24:09.907713+08:00",
+  "count": 14,
+  "updated_at": "2026-10-29T14:34:53.717961+08:00",
   "articles": [
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church - ABC News",
@@ -100,7 +100,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.568423",
+      "fetched_at": "2026-10-29T06:30:23.656716",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -126,7 +126,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.568803",
+      "fetched_at": "2026-10-29T06:30:23.657033",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -157,6 +157,32 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Killeen Daily Herald"
+      }
+    },
+    {
+      "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMlYyN0MwMFc2aUEzSC1VdHNsZW1PTFRERUVfVm9CaE9YdkNxWWI1ckJRWVN0S1lNSlZ3bmllVVVIX1pnV01BeTBZMHRhM0JpaW9ZRFpDU2s2SjlRbDI4c19KNTB0QUZHUzJkSkJHcVREOHNiVnprZEhUckVpd3ZTWlRIQUFoWjJ6aFpqSHZyX3hkbHlRM2ZtYU02d1BiZjdmQlZwMjlLdFhMb1M1VXNHRy1sSUtVRm5ac0phdmpXb1k0dXBwcmdzeXJoVTJxajJoLTZPVW9iOTBveFJXRTFfOW1EZ01kSmQ2THJIdTM0VnhVMlk?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church Richmond Register",
+      "summary_zh": "对球迷针对杨百翰大学摩门教里士满分校的行为处以12倍巨额罚款",
+      "title_zh": "Big 12因粉丝针对杨百翰大学和摩门教教堂的行为而对UCF罚款10万美元",
+      "content": "",
+      "author": "Richmond Register",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:30:23.657247",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Richmond Register"
       }
     },
     {
@@ -203,7 +229,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.569174",
+      "fetched_at": "2026-10-29T06:30:23.657143",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -229,7 +255,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.568626",
+      "fetched_at": "2026-10-29T06:30:23.656905",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -255,7 +281,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.569671",
+      "fetched_at": "2026-10-29T06:30:23.657348",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -281,7 +307,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.570015",
+      "fetched_at": "2026-10-29T06:30:23.657966",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -296,8 +322,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-22",
       "summary": "Tradition and Change Among Latter-day Saints in the U.S. Pew Research Center",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "美国皮尤研究中心后期圣徒的传统与变化",
+      "title_zh": "美国后期圣徒的传统和变化",
       "content": "",
       "author": "Pew Research Center",
       "tags": [],
@@ -306,7 +332,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.312805",
+      "priority": 2,
+      "fetched_at": "2026-10-29T06:30:23.658058",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",

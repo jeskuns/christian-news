@@ -2,7 +2,7 @@
   "category": "theology",
   "label": "神学与合一",
   "count": 37,
-  "updated_at": "2026-10-29T14:24:09.899663+08:00",
+  "updated_at": "2026-10-29T14:34:53.709857+08:00",
   "articles": [
     {
       "title": "WCC Faith and Order meeting opens with path toward deep dialogue",
@@ -23,7 +23,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:58.927936",
+      "fetched_at": "2026-10-29T06:30:21.280058",
       "extra": {
         "feed_type": "rss20"
       }
@@ -47,7 +47,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:58.932309",
+      "fetched_at": "2026-10-29T06:30:21.282632",
       "extra": {
         "feed_type": "rss20"
       }
@@ -71,7 +71,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:58.960219",
+      "fetched_at": "2026-10-29T06:30:21.286714",
       "extra": {
         "feed_type": "rss20"
       }
@@ -95,7 +95,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:58.963663",
+      "fetched_at": "2026-10-29T06:30:21.288673",
       "extra": {
         "feed_type": "rss20"
       }
@@ -119,7 +119,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.014188",
+      "fetched_at": "2026-10-29T06:30:21.294975",
       "extra": {
         "feed_type": "rss20"
       }
@@ -143,7 +143,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.022511",
+      "fetched_at": "2026-10-29T06:30:21.298577",
       "extra": {
         "feed_type": "rss20"
       }
@@ -167,7 +167,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.054419",
+      "fetched_at": "2026-10-29T06:30:21.308518",
       "extra": {
         "feed_type": "rss20"
       }
@@ -191,7 +191,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.070729",
+      "fetched_at": "2026-10-29T06:30:21.314557",
       "extra": {
         "feed_type": "rss20"
       }
@@ -215,7 +215,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.078158",
+      "fetched_at": "2026-10-29T06:30:21.315872",
       "extra": {
         "feed_type": "rss20"
       }
@@ -239,7 +239,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.081437",
+      "fetched_at": "2026-10-29T06:30:21.317775",
       "extra": {
         "feed_type": "rss20"
       }
@@ -263,7 +263,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.226588",
+      "fetched_at": "2026-10-29T06:30:21.908609",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -289,7 +289,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:58.790150",
+      "fetched_at": "2026-10-29T06:30:21.372465",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -315,7 +315,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.180067",
+      "fetched_at": "2026-10-29T06:30:21.731560",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -366,7 +366,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.009069",
+      "fetched_at": "2026-10-29T06:30:21.792341",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -392,7 +392,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:58.791807",
+      "fetched_at": "2026-10-29T06:30:21.373653",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -443,7 +443,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:58.594143",
+      "fetched_at": "2026-10-29T06:30:21.142280",
       "extra": {
         "provider": "google_news",
         "query": "生命季刊 基督教 神学",
@@ -519,7 +519,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:58.711637",
+      "fetched_at": "2026-10-29T06:30:21.521048",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -545,7 +545,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.226778",
+      "fetched_at": "2026-10-29T06:30:21.908754",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -622,7 +622,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.051467",
+      "fetched_at": "2026-10-29T06:30:21.793001",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -648,7 +648,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.217186",
+      "fetched_at": "2026-10-29T06:30:21.699456",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -674,7 +674,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.180432",
+      "fetched_at": "2026-10-29T06:30:21.731841",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -725,7 +725,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.051809",
+      "fetched_at": "2026-10-29T06:30:21.793187",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -751,7 +751,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.270968",
+      "fetched_at": "2026-10-29T06:30:22.021240",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",
@@ -777,7 +777,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.051640",
+      "fetched_at": "2026-10-29T06:30:21.793095",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -828,7 +828,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.217355",
+      "fetched_at": "2026-10-29T06:30:21.699563",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -905,7 +905,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.273069",
+      "fetched_at": "2026-10-29T06:30:22.022121",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",
@@ -931,7 +931,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.181287",
+      "fetched_at": "2026-10-29T06:30:21.732339",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
