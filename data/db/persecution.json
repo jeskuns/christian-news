@@ -1,8 +1,8 @@
 {
   "category": "persecution",
   "label": "信仰自由与逼迫",
-  "count": 20,
-  "updated_at": "2026-10-29T09:29:48.922643+08:00",
+  "count": 33,
+  "updated_at": "2026-10-29T09:36:07.333065+08:00",
   "articles": [
     {
       "title": "Petition against anti-Christian violence in Africa aims for a million signatures",
@@ -19,11 +19,55 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.083016",
+      "fetched_at": "2026-10-29T01:35:00.254374",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
         "publisher": "www.christiantoday.com"
+      }
+    },
+    {
+      "title": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFM2SDJBWHE5dUtwYVJ1Yl9PTE42Z2NoNEZMd0t4VTVSckhGN3h3SHFvZ3BTQldJNklweGFYTGR4b3JMV0FGdlZtZlNLZU9FX2tIVXJUbm9KYWNnVmc3eXNGM0I4YzA3bjhjUWJDVm1uM3lWZkN1SE9sUURERlNDdklJYjhMcnVWa01UeEpHUkxWRWh3Q241eHI3dWF4LXBzcWZlYzV3dmxWd01LUVZRa3lPN2Zrc1BmTGU0UUJkal9nSmdzZ19YWWlaSHRYUFJFM2cyZg?oc=5",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns Premier Christian News",
+      "title_zh": "全球报告警告说，极端主义和暴力“助长了最古老社区的基督徒外流”",
+      "content": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.031968",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecution of Christians religious freedom",
+        "publisher": "Premier Christian News"
+      }
+    },
+    {
+      "title": "Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NaWpWOU9jTnN3aDkxdXJNMGxSTHpXT0JxR2N1VlA5NjN2S1RHWE9aRWZvellDc2g4TjhFSkM2MXJ5RmJvZXJzZk5kSnFNOHp6amQ5bFNDbmEzOUJkRUZVMHl3blVBbUdDM0xvY2xFRVBBT0E?oc=5",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia Pakistan Christian Post",
+      "title_zh": "LEAD部委创始人兼国际宣传主任萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）呼吁采取紧急国际行动保护埃塞俄比亚的基督徒",
+      "content": "",
+      "author": "Pakistan Christian Post",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.032372",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecution of Christians religious freedom",
+        "publisher": "Pakistan Christian Post"
       }
     },
     {
@@ -41,7 +85,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.440558",
+      "fetched_at": "2026-10-29T01:35:00.031246",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -63,7 +107,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.441871",
+      "fetched_at": "2026-10-29T01:35:00.032132",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -85,7 +129,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.442028",
+      "fetched_at": "2026-10-29T01:35:00.032540",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -107,11 +151,55 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.442375",
+      "fetched_at": "2026-10-29T01:35:00.032699",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
         "publisher": "The Tablet"
+      }
+    },
+    {
+      "title": "ACN report: 220 million Christians face persecution worldwide",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY19uM0xyVDN1SDREOUFpZnZvYzVsRDltUC1GRHNhYXV2SlZOLUMxYzFCTk1TRkFQM1pXbE1VUkx4dVdtX2tGbzVrR0VIZk1TOGVOcko4NkdnQWgwUUVEUXhqX1pjdENNYlA5ZXhrdUV0VlNMcnZwU25BRmNhb0h0S0htVHZMX0dGYjBteHR1WlRjckNjOVh3cklocnFUc3JRYndXd0J6aEVDV251SjJlYl9hYw?oc=5",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "ACN report: 220 million Christians face persecution worldwide Vatican News",
+      "title_zh": "ACN报告：全球2.2亿基督徒面临迫害",
+      "content": "",
+      "author": "Vatican News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.031012",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecution of Christians religious freedom",
+        "publisher": "Vatican News"
+      }
+    },
+    {
+      "title": "Study: Christian persecution worsening in most of already bad cases",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazc5SkFiS09DcVhCZ2E2OE0xQzV0RmhmVW4yM0NDWDBsLThSeFR2QUdIejVBcGtZMFlmMFRRSXZqUjB5SnZnajl4dlBpa0FpUTVkOEdVZUdlNThrMDEwbFUwOGhtemNBMXRQVGtuNjFEaVFmWmJlRGNWZWFfY3pQNFFJMmtDcHdPbDEwN3lHdDVfcEQ2MmttaGhVN1ltcjRhRXc?oc=5",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "Study: Christian persecution worsening in most of already bad cases Aleteia EN",
+      "title_zh": "研究：在大多数已经很糟糕的案件中，基督徒的迫害加剧",
+      "content": "",
+      "author": "Aleteia EN",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.031439",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecution of Christians religious freedom",
+        "publisher": "Aleteia EN"
       }
     },
     {
@@ -129,7 +217,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.441168",
+      "fetched_at": "2026-10-29T01:35:00.031624",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -151,7 +239,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.441357",
+      "fetched_at": "2026-10-29T01:35:00.031803",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -173,7 +261,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.442895",
+      "fetched_at": "2026-10-29T01:35:00.032858",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -200,6 +288,28 @@
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
         "publisher": "Denison Forum"
+      }
+    },
+    {
+      "title": "Sardar Mushtaq Gill Condemns Extremist Attack on Christians at Funeral in Jordan, Calls for Global Action Against Christian Persecution",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40SmFMQnF2LU16ekJCYTNXWkJIbjJQYnRoVmRSQ1hxYVItNGZ2bzM5ZWhVXzd3V2lfdjNoYTU4NFE4QzlZaUQ0eG9MeWtOa1BpaG5fZ1hleFo3MjdCcGswbnUtdHczQzVJei1OTFpXYmhoeXM?oc=5",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-25",
+      "summary": "Sardar Mushtaq Gill Condemns Extremist Attack on Christians at Funeral in Jordan, Calls for Global Action Against Christian Persecution Pakistan Christian Post",
+      "title_zh": "萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）谴责极端主义分子在约旦葬礼上对基督徒的袭击，呼吁采取全球行动反对基督徒的迫害",
+      "content": "",
+      "author": "Pakistan Christian Post",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.033413",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecution of Christians religious freedom",
+        "publisher": "Pakistan Christian Post"
       }
     },
     {
@@ -269,6 +379,28 @@
       }
     },
     {
+      "title": "President Trump Bans Christians Fleeing Persecution: Matthew Soerens on the Collapse of Refugee Resettlement and Why Churches Should Care",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX05nS2p1bzk1UVFTQmpTeVFleWJta0o0MUpxaWRub09PM1VQaVkxRHVtb0tXMTM0Rk9xdzljdlBaRFRUWUJDTElTX1B4a25mZm5tcGVqNHRXRGVVN3M4NEZoSl9VYlpNM2FiM2VRWXFFS21tRmpYLTA4TTkyMWp0Yw?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-29",
+      "summary": "President Trump Bans Christians Fleeing Persecution: Matthew Soerens on the Collapse of Refugee Resettlement and Why Churches Should Care Austin Kocher | Substack",
+      "title_zh": "特朗普总统禁止逃离迫害的基督徒：马修·索伦斯关于难民安置的崩溃以及为什么教会应该关心",
+      "content": "",
+      "author": "Austin Kocher | Substack",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.259665",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Austin Kocher | Substack"
+      }
+    },
+    {
       "title": "China",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zeWx3ZUw5dkhmUGJ5bmpvejItalpDYUU4NU12aEN1LTFKblNkcTNMVVhFbTA5d1QxSjNGR0VPT3FfOTJGbGVtVmVjTQ?oc=5",
       "category": "persecution",
@@ -283,7 +415,95 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.083284",
+      "fetched_at": "2026-10-29T01:35:00.260031",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "India",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmeElDcGRxNjJ2YWpuVjdjRnAtdFl2cWlWaDdUbmEzZHVjMFZ2TlMtNEJFT2p0aDVpR0VuSVpoYmlPcnZJWjBTc0lKSQ?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "India Open Doors International",
+      "title_zh": "印度",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.259479",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "Laos",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tUU9pWjc2eUt6bERrMlB4QW5zY0p0LVJaRENzMXMyVXZvb1h4UXVYdlJsREVyMGhHVXpKbGEzU3JTS0pvMG1CREd3?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "Laos Open Doors International",
+      "title_zh": "老挝",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.260401",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "Yemen",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zUWVxb3I1d19YaTY4Z0wtNEVwbnZRa1dBd01pTDM4eHkxdkxaSHdzRTBkZGN2YUtiY2FkODV6RWswclF6OHltZVZzYw?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "Yemen Open Doors International",
+      "title_zh": "也门",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.260549",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HREhyTHl1MzVlaXVOTTFDbmRPTGxoNm1od0hjd2tnVFpsUF9FWDRPOEpOVEhsM1pzZU5EeWkzaGdWOTBMOXE0NGRMd21WV1k?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "Colombia Open Doors International",
+      "title_zh": "哥伦比亚",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.260859",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -305,7 +525,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.084734",
+      "fetched_at": "2026-10-29T01:35:00.260235",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -371,7 +591,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.578444",
+      "fetched_at": "2026-10-29T01:35:00.132844",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 宗教自由 逼迫",
@@ -415,7 +635,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.082749",
+      "fetched_at": "2026-10-29T01:35:00.259266",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -438,6 +658,72 @@
       "country": "NL",
       "region": "",
       "fetched_at": "2026-10-29T01:27:07.085049",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors US"
+      }
+    },
+    {
+      "title": "China",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2cWR1V2ZzSXl5Y3hRLVFiMllabXdfQjA4RGlVS0NHbWVubDhoMDNKMDdoOUlhdHgxTlNQTVJ1UWhhVXZxMlk2dlhZT1ZIZw?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-04",
+      "summary": "China Open Doors US",
+      "title_zh": "中国",
+      "content": "",
+      "author": "Open Doors US",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.259870",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors US"
+      }
+    },
+    {
+      "title": "Laos",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kR0I3YkppeVl4OEZjRWhrRVMwRWVjWFNfYmJDWURNMmg1WGhmZzFWLUUxOHVMSzRZVXJEb2VkNDV1aTBaZ2V0YmhsLUY?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-04",
+      "summary": "Laos Open Doors US",
+      "title_zh": "老挝",
+      "content": "",
+      "author": "Open Doors US",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.260694",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors US"
+      }
+    },
+    {
+      "title": "Yemen",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53U3J0b2s0X1Nvc2pwMkhKazQ1bUdfUzVRRVR5dGxUZDR4TkphOVpmd05QOWUxVUxyajlRU2tGbTVSdndZVmRnV2FMNUR3QQ?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-04",
+      "summary": "Yemen Open Doors US",
+      "title_zh": "也门",
+      "content": "",
+      "author": "Open Doors US",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.261004",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",

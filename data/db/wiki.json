@@ -1,8 +1,8 @@
 {
   "category": "wiki",
   "label": "百科背景",
-  "count": 40,
-  "updated_at": "2026-10-29T09:29:48.921764+08:00",
+  "count": 41,
+  "updated_at": "2026-10-29T09:36:07.332118+08:00",
   "articles": [
     {
       "title": "基督教",
@@ -19,7 +19,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.913902",
+      "fetched_at": "2026-10-29T01:35:01.579975",
       "extra": {
         "wordcount": 7969
       }
@@ -39,7 +39,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.913932",
+      "fetched_at": "2026-10-29T01:35:01.580002",
       "extra": {
         "wordcount": 31085
       }
@@ -59,7 +59,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.913955",
+      "fetched_at": "2026-10-29T01:35:01.580026",
       "extra": {
         "wordcount": 24144
       }
@@ -99,7 +99,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.133557",
+      "fetched_at": "2026-10-29T01:35:01.915000",
       "extra": {
         "wordcount": 11792
       }
@@ -119,7 +119,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.133580",
+      "fetched_at": "2026-10-29T01:35:01.915024",
       "extra": {
         "wordcount": 495
       }
@@ -139,7 +139,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.133603",
+      "fetched_at": "2026-10-29T01:35:01.915048",
       "extra": {
         "wordcount": 6250
       }
@@ -159,7 +159,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.133624",
+      "fetched_at": "2026-10-29T01:35:01.915071",
       "extra": {
         "wordcount": 18768
       }
@@ -179,7 +179,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.361988",
+      "fetched_at": "2026-10-29T01:35:02.231360",
       "extra": {
         "wordcount": 9802
       }
@@ -199,7 +199,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.362017",
+      "fetched_at": "2026-10-29T01:35:02.231390",
       "extra": {
         "wordcount": 2815
       }
@@ -219,7 +219,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.362045",
+      "fetched_at": "2026-10-29T01:35:02.231423",
       "extra": {
         "wordcount": 156
       }
@@ -239,7 +239,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.362062",
+      "fetched_at": "2026-10-29T01:35:02.231440",
       "extra": {
         "wordcount": 266
       }
@@ -259,7 +259,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.667771",
+      "fetched_at": "2026-10-29T01:35:02.564866",
       "extra": {
         "wordcount": 6733
       }
@@ -279,7 +279,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.667803",
+      "fetched_at": "2026-10-29T01:35:02.564898",
       "extra": {
         "wordcount": 229
       }
@@ -299,7 +299,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.667825",
+      "fetched_at": "2026-10-29T01:35:02.564923",
       "extra": {
         "wordcount": 3907
       }
@@ -319,7 +319,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.667842",
+      "fetched_at": "2026-10-29T01:35:02.564941",
       "extra": {
         "wordcount": 1263
       }
@@ -339,7 +339,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.923872",
+      "fetched_at": "2026-10-29T01:35:02.902952",
       "extra": {
         "wordcount": 3872
       }
@@ -359,7 +359,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.923891",
+      "fetched_at": "2026-10-29T01:35:02.902971",
       "extra": {
         "wordcount": 676
       }
@@ -379,7 +379,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.923912",
+      "fetched_at": "2026-10-29T01:35:02.902992",
       "extra": {
         "wordcount": 1171
       }
@@ -399,7 +399,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.923934",
+      "fetched_at": "2026-10-29T01:35:02.903015",
       "extra": {
         "wordcount": 8368
       }
@@ -419,7 +419,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.971963",
+      "fetched_at": "2026-10-29T01:35:01.650381",
       "extra": {
         "wordcount": 33525
       }
@@ -439,7 +439,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.971983",
+      "fetched_at": "2026-10-29T01:35:01.650416",
       "extra": {
         "wordcount": 9235
       }
@@ -459,7 +459,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.971998",
+      "fetched_at": "2026-10-29T01:35:01.650401",
       "extra": {
         "wordcount": 13167
       }
@@ -479,7 +479,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.972015",
+      "fetched_at": "2026-10-29T01:35:01.650433",
       "extra": {
         "wordcount": 2469
       }
@@ -499,7 +499,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.291163",
+      "fetched_at": "2026-10-29T01:35:02.206376",
       "extra": {
         "wordcount": 29554
       }
@@ -519,7 +519,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.291188",
+      "fetched_at": "2026-10-29T01:35:02.206410",
       "extra": {
         "wordcount": 31255
       }
@@ -539,7 +539,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.291204",
+      "fetched_at": "2026-10-29T01:35:02.206395",
       "extra": {
         "wordcount": 5737
       }
@@ -559,7 +559,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.291220",
+      "fetched_at": "2026-10-29T01:35:02.206426",
       "extra": {
         "wordcount": 3118
       }
@@ -579,7 +579,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.803616",
+      "fetched_at": "2026-10-29T01:35:03.028075",
       "extra": {
         "wordcount": 24771
       }
@@ -599,7 +599,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.803638",
+      "fetched_at": "2026-10-29T01:35:03.028099",
       "extra": {
         "wordcount": 9244
       }
@@ -619,7 +619,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.803656",
+      "fetched_at": "2026-10-29T01:35:03.028117",
       "extra": {
         "wordcount": 8701
       }
@@ -639,7 +639,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.803674",
+      "fetched_at": "2026-10-29T01:35:03.028137",
       "extra": {
         "wordcount": 5010
       }
@@ -659,7 +659,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.187092",
+      "fetched_at": "2026-10-29T01:35:03.561940",
       "extra": {
         "wordcount": 26795
       }
@@ -679,7 +679,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.187158",
+      "fetched_at": "2026-10-29T01:35:03.561963",
       "extra": {
         "wordcount": 3170
       }
@@ -699,7 +699,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.187185",
+      "fetched_at": "2026-10-29T01:35:03.561983",
       "extra": {
         "wordcount": 7689
       }
@@ -719,7 +719,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.187205",
+      "fetched_at": "2026-10-29T01:35:03.562001",
       "extra": {
         "wordcount": 1499
       }
@@ -739,7 +739,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.463018",
+      "fetched_at": "2026-10-29T01:35:03.988525",
       "extra": {
         "wordcount": 23130
       }
@@ -759,7 +759,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.463043",
+      "fetched_at": "2026-10-29T01:35:03.988549",
       "extra": {
         "wordcount": 8302
       }
@@ -779,7 +779,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.463078",
+      "fetched_at": "2026-10-29T01:35:03.988583",
       "extra": {
         "wordcount": 348
       }
@@ -799,9 +799,29 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.463097",
+      "fetched_at": "2026-10-29T01:35:03.988603",
       "extra": {
         "wordcount": 12292
+      }
+    },
+    {
+      "title": "卡尔·马克思",
+      "url": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D",
+      "category": "wiki",
+      "source": "Wikipedia (zh)",
+      "source_url": "https://zh.wikipedia.org/w/api.php",
+      "published": "2026-10-29",
+      "summary": "克思，母親亨丽埃特·普莱斯堡。馬克思一家是猶太人，原本不信教。但在馬克思出生前，全家便已正式皈依基督教（英语：Conversion to Christianity）。馬克思的外祖父是一位荷蘭拉比，而其父系家族自1723年起就世代擔任特里爾的拉比，直至其祖父迈耶·哈莱维·马克思（Meier Halevi",
+      "title_zh": "",
+      "content": "",
+      "author": "",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:01.580049",
+      "extra": {
+        "wordcount": 25793
       }
     }
   ]

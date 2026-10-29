@@ -1,8 +1,8 @@
 {
   "category": "church",
   "label": "教会与机构",
-  "count": 16,
-  "updated_at": "2026-10-29T09:29:48.923618+08:00",
+  "count": 18,
+  "updated_at": "2026-10-29T09:36:07.334611+08:00",
   "articles": [
     {
       "title": "Jordanians rally around Christian community after church attack",
@@ -19,11 +19,33 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566134",
+      "fetched_at": "2026-10-29T01:35:00.981632",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "Middle East Eye"
+      }
+    },
+    {
+      "title": "Who's who in 50th CGI Conference",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnYtSHB1cjczM2FYa3ZRMHFsdEY1a19LZks3SWZjVWRXMHZTUlFvVE12MWtzWmFQMHotS3ZiMEtkY19YbVdqekhQQ2Q3QjBCbmU0UjFDXzZkUllLUXBNUDlETHF3QUZNVUtxODRTdnB2WTdFSUVZNWdWWXY4QUJGd3V4anRxUllneGZTNVJ6S3ZoU2ljTG5QVDJlLUd5UdIBngFBVV95cUxNVnYtSHB1cjczM2FYa3ZRMHFsdEY1a19LZks3SWZjVWRXMHZTUlFvVE12MWtzWmFQMHotS3ZiMEtkY19YbVdqekhQQ2Q3QjBCbmU0UjFDXzZkUllLUXBNUDlETHF3QUZNVUtxODRTdnB2WTdFSUVZNWdWWXY4QUJGd3V4anRxUllneGZTNVJ6S3ZoU2ljTG5QVDJlLUd5UQ?oc=5",
+      "category": "church",
+      "source": "教会增长（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "Who's who in 50th CGI Conference The Korea Times",
+      "title_zh": "第50届CGI大会上谁是谁",
+      "content": "",
+      "author": "The Korea Times",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.820523",
+      "extra": {
+        "provider": "google_news",
+        "query": "church growth planting",
+        "publisher": "The Korea Times"
       }
     },
     {
@@ -41,7 +63,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566836",
+      "fetched_at": "2026-10-29T01:35:00.982508",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -63,7 +85,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567364",
+      "fetched_at": "2026-10-29T01:35:00.982822",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -85,7 +107,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566494",
+      "fetched_at": "2026-10-29T01:35:00.981975",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -107,7 +129,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566317",
+      "fetched_at": "2026-10-29T01:35:00.981802",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -129,7 +151,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567520",
+      "fetched_at": "2026-10-29T01:35:00.982976",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -151,7 +173,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566669",
+      "fetched_at": "2026-10-29T01:35:00.982135",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -173,11 +195,33 @@
       "language": "zh",
       "country": "CN",
       "region": "中国",
-      "fetched_at": "2026-10-29T01:27:07.863068",
+      "fetched_at": "2026-10-29T01:35:00.709238",
       "extra": {
         "provider": "google_news",
         "query": "中国 教会 基督徒 聚会",
         "publisher": "对华援助新闻网"
+      }
+    },
+    {
+      "title": "Georgia church sees attendance grow among young people",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzhaanFRLW9yZ280N280cDVLbUNNMUVKN2twa3RsRkNldHlibTZCWVZqQ3JObF9FQjU3UnYtT3M0c1Q0VF91MWp5Vk1CVy1jWkFWa0dxUkQ3Z1lpNjhfWFRMQ3FGMEQwUzhrTEdQWjNfOV9hb0psR3FvQngxMTZmZmJObTZiVnpzT2c?oc=5",
+      "category": "church",
+      "source": "教会增长（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-15",
+      "summary": "Georgia church sees attendance grow among young people Biblical Recorder",
+      "title_zh": "格鲁吉亚教会看到年轻人的出席率有所增加",
+      "content": "",
+      "author": "Biblical Recorder",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.821854",
+      "extra": {
+        "provider": "google_news",
+        "query": "church growth planting",
+        "publisher": "Biblical Recorder"
       }
     },
     {
@@ -195,7 +239,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567670",
+      "fetched_at": "2026-10-29T01:35:00.983126",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -217,7 +261,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567206",
+      "fetched_at": "2026-10-29T01:35:00.982669",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -239,7 +283,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567016",
+      "fetched_at": "2026-10-29T01:35:00.982340",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -283,7 +327,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567839",
+      "fetched_at": "2026-10-29T01:35:00.983322",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -349,7 +393,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.896982",
+      "fetched_at": "2026-10-29T01:35:00.821200",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",

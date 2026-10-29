@@ -2,7 +2,7 @@
   "category": "culture",
   "label": "文化媒体",
   "count": 16,
-  "updated_at": "2026-10-29T09:29:48.920889+08:00",
+  "updated_at": "2026-10-29T09:36:07.331069+08:00",
   "articles": [
     {
       "title": "Best Practices from Evangelistically Effective Churches",
@@ -23,7 +23,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.699663",
+      "fetched_at": "2026-10-29T01:35:01.838649",
       "extra": {
         "feed_type": "rss20"
       }
@@ -52,7 +52,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.699849",
+      "fetched_at": "2026-10-29T01:35:01.838832",
       "extra": {
         "feed_type": "rss20"
       }
@@ -76,7 +76,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700007",
+      "fetched_at": "2026-10-29T01:35:01.838993",
       "extra": {
         "feed_type": "rss20"
       }
@@ -101,7 +101,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700204",
+      "fetched_at": "2026-10-29T01:35:01.839162",
       "extra": {
         "feed_type": "rss20"
       }
@@ -124,7 +124,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700361",
+      "fetched_at": "2026-10-29T01:35:01.839347",
       "extra": {
         "feed_type": "rss20"
       }
@@ -148,7 +148,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700508",
+      "fetched_at": "2026-10-29T01:35:01.839497",
       "extra": {
         "feed_type": "rss20"
       }
@@ -176,7 +176,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700661",
+      "fetched_at": "2026-10-29T01:35:01.839654",
       "extra": {
         "feed_type": "rss20"
       }
@@ -201,7 +201,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700805",
+      "fetched_at": "2026-10-29T01:35:01.839802",
       "extra": {
         "feed_type": "rss20"
       }
@@ -225,7 +225,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700959",
+      "fetched_at": "2026-10-29T01:35:01.839956",
       "extra": {
         "feed_type": "rss20"
       }
@@ -250,7 +250,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.701128",
+      "fetched_at": "2026-10-29T01:35:01.840103",
       "extra": {
         "feed_type": "rss20"
       }
@@ -277,7 +277,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.701294",
+      "fetched_at": "2026-10-29T01:35:01.840274",
       "extra": {
         "feed_type": "rss20"
       }
@@ -303,7 +303,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.701731",
+      "fetched_at": "2026-10-29T01:35:01.840419",
       "extra": {
         "feed_type": "rss20"
       }
@@ -328,7 +328,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.701970",
+      "fetched_at": "2026-10-29T01:35:01.840585",
       "extra": {
         "feed_type": "rss20"
       }
@@ -354,7 +354,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.702174",
+      "fetched_at": "2026-10-29T01:35:01.840727",
       "extra": {
         "feed_type": "rss20"
       }
@@ -378,7 +378,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.702354",
+      "fetched_at": "2026-10-29T01:35:01.840880",
       "extra": {
         "feed_type": "rss20"
       }
@@ -398,7 +398,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.580848",
+      "fetched_at": "2026-10-29T01:35:01.016869",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",

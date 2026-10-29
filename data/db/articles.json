@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-29T09:29:48.917374+08:00",
-  "total": 134,
+  "updated_at": "2026-10-29T09:36:07.327083+08:00",
+  "total": 152,
   "categories": {
-    "mission": 15,
+    "mission": 17,
     "culture": 16,
     "theology": 11,
-    "wiki": 40,
-    "persecution": 20,
+    "wiki": 41,
+    "persecution": 33,
     "news": 16,
-    "church": 16
+    "church": 18
   },
   "regions": {
     "中东": 12,
@@ -19,18 +19,19 @@
     "Mission Network News": 10,
     "The Gospel Coalition": 15,
     "World Council of Churches": 10,
-    "Wikipedia (zh)": 20,
+    "Wikipedia (zh)": 21,
     "Wikipedia (en)": 20,
-    "Open Doors": 7,
-    "World News (Christian)": 15,
-    "基督徒逼迫（国际）": 11,
+    "Open Doors": 15,
+    "World News (Christian)": 14,
+    "基督徒逼迫（国际）": 16,
     "中东教会": 11,
+    "教会增长（国际）": 5,
     "基督教文化（中文）": 1,
     "中国教会动态": 1,
     "示例 · 世界福音联盟": 1,
-    "教会增长（国际）": 3,
+    "Wycliffe Bible Translators": 3,
+    "基督日报": 1,
     "示例 · 威克理夫圣经翻译会": 1,
-    "Wycliffe Bible Translators": 1,
     "宣教运动（中文）": 3,
     "宗教自由（中文）": 2,
     "合一运动（国际）": 1,
@@ -54,7 +55,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.373780",
+      "fetched_at": "2026-10-29T01:35:00.298232",
       "extra": {
         "feed_type": "rss20"
       }
@@ -76,7 +77,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.373886",
+      "fetched_at": "2026-10-29T01:35:00.298384",
       "extra": {
         "feed_type": "rss20"
       }
@@ -98,7 +99,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.374025",
+      "fetched_at": "2026-10-29T01:35:00.298573",
       "extra": {
         "feed_type": "rss20"
       }
@@ -120,7 +121,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.374134",
+      "fetched_at": "2026-10-29T01:35:00.298692",
       "extra": {
         "feed_type": "rss20"
       }
@@ -142,7 +143,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.374221",
+      "fetched_at": "2026-10-29T01:35:00.298823",
       "extra": {
         "feed_type": "rss20"
       }
@@ -165,7 +166,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.374300",
+      "fetched_at": "2026-10-29T01:35:00.298940",
       "extra": {
         "feed_type": "rss20"
       }
@@ -190,7 +191,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.374391",
+      "fetched_at": "2026-10-29T01:35:00.299073",
       "extra": {
         "feed_type": "rss20"
       }
@@ -217,7 +218,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.374498",
+      "fetched_at": "2026-10-29T01:35:00.299274",
       "extra": {
         "feed_type": "rss20"
       }
@@ -245,7 +246,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.374587",
+      "fetched_at": "2026-10-29T01:35:00.299399",
       "extra": {
         "feed_type": "rss20"
       }
@@ -273,7 +274,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.374670",
+      "fetched_at": "2026-10-29T01:35:00.299533",
       "extra": {
         "feed_type": "rss20"
       }
@@ -297,7 +298,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.699663",
+      "fetched_at": "2026-10-29T01:35:01.838649",
       "extra": {
         "feed_type": "rss20"
       }
@@ -326,7 +327,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.699849",
+      "fetched_at": "2026-10-29T01:35:01.838832",
       "extra": {
         "feed_type": "rss20"
       }
@@ -350,7 +351,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700007",
+      "fetched_at": "2026-10-29T01:35:01.838993",
       "extra": {
         "feed_type": "rss20"
       }
@@ -375,7 +376,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700204",
+      "fetched_at": "2026-10-29T01:35:01.839162",
       "extra": {
         "feed_type": "rss20"
       }
@@ -398,7 +399,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700361",
+      "fetched_at": "2026-10-29T01:35:01.839347",
       "extra": {
         "feed_type": "rss20"
       }
@@ -422,7 +423,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700508",
+      "fetched_at": "2026-10-29T01:35:01.839497",
       "extra": {
         "feed_type": "rss20"
       }
@@ -450,7 +451,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700661",
+      "fetched_at": "2026-10-29T01:35:01.839654",
       "extra": {
         "feed_type": "rss20"
       }
@@ -475,7 +476,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700805",
+      "fetched_at": "2026-10-29T01:35:01.839802",
       "extra": {
         "feed_type": "rss20"
       }
@@ -499,7 +500,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.700959",
+      "fetched_at": "2026-10-29T01:35:01.839956",
       "extra": {
         "feed_type": "rss20"
       }
@@ -524,7 +525,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.701128",
+      "fetched_at": "2026-10-29T01:35:01.840103",
       "extra": {
         "feed_type": "rss20"
       }
@@ -551,7 +552,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.701294",
+      "fetched_at": "2026-10-29T01:35:01.840274",
       "extra": {
         "feed_type": "rss20"
       }
@@ -577,7 +578,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.701731",
+      "fetched_at": "2026-10-29T01:35:01.840419",
       "extra": {
         "feed_type": "rss20"
       }
@@ -602,7 +603,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.701970",
+      "fetched_at": "2026-10-29T01:35:01.840585",
       "extra": {
         "feed_type": "rss20"
       }
@@ -628,7 +629,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.702174",
+      "fetched_at": "2026-10-29T01:35:01.840727",
       "extra": {
         "feed_type": "rss20"
       }
@@ -652,7 +653,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.702354",
+      "fetched_at": "2026-10-29T01:35:01.840880",
       "extra": {
         "feed_type": "rss20"
       }
@@ -672,7 +673,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.866481",
+      "fetched_at": "2026-10-29T01:35:01.474212",
       "extra": {
         "feed_type": "rss20"
       }
@@ -692,7 +693,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.870601",
+      "fetched_at": "2026-10-29T01:35:01.478255",
       "extra": {
         "feed_type": "rss20"
       }
@@ -712,7 +713,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.874758",
+      "fetched_at": "2026-10-29T01:35:01.482591",
       "extra": {
         "feed_type": "rss20"
       }
@@ -732,7 +733,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.877995",
+      "fetched_at": "2026-10-29T01:35:01.486800",
       "extra": {
         "feed_type": "rss20"
       }
@@ -752,7 +753,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.887719",
+      "fetched_at": "2026-10-29T01:35:01.509655",
       "extra": {
         "feed_type": "rss20"
       }
@@ -772,7 +773,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.890603",
+      "fetched_at": "2026-10-29T01:35:01.517782",
       "extra": {
         "feed_type": "rss20"
       }
@@ -792,7 +793,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.898409",
+      "fetched_at": "2026-10-29T01:35:01.530900",
       "extra": {
         "feed_type": "rss20"
       }
@@ -812,7 +813,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.909096",
+      "fetched_at": "2026-10-29T01:35:01.554902",
       "extra": {
         "feed_type": "rss20"
       }
@@ -832,7 +833,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.910970",
+      "fetched_at": "2026-10-29T01:35:01.556775",
       "extra": {
         "feed_type": "rss20"
       }
@@ -852,7 +853,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.915036",
+      "fetched_at": "2026-10-29T01:35:01.565354",
       "extra": {
         "feed_type": "rss20"
       }
@@ -872,7 +873,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.913902",
+      "fetched_at": "2026-10-29T01:35:01.579975",
       "extra": {
         "wordcount": 7969
       }
@@ -892,7 +893,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.913932",
+      "fetched_at": "2026-10-29T01:35:01.580002",
       "extra": {
         "wordcount": 31085
       }
@@ -912,7 +913,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.913955",
+      "fetched_at": "2026-10-29T01:35:01.580026",
       "extra": {
         "wordcount": 24144
       }
@@ -952,7 +953,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.133557",
+      "fetched_at": "2026-10-29T01:35:01.915000",
       "extra": {
         "wordcount": 11792
       }
@@ -972,7 +973,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.133580",
+      "fetched_at": "2026-10-29T01:35:01.915024",
       "extra": {
         "wordcount": 495
       }
@@ -992,7 +993,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.133603",
+      "fetched_at": "2026-10-29T01:35:01.915048",
       "extra": {
         "wordcount": 6250
       }
@@ -1012,7 +1013,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.133624",
+      "fetched_at": "2026-10-29T01:35:01.915071",
       "extra": {
         "wordcount": 18768
       }
@@ -1032,7 +1033,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.361988",
+      "fetched_at": "2026-10-29T01:35:02.231360",
       "extra": {
         "wordcount": 9802
       }
@@ -1052,7 +1053,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.362017",
+      "fetched_at": "2026-10-29T01:35:02.231390",
       "extra": {
         "wordcount": 2815
       }
@@ -1072,7 +1073,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.362045",
+      "fetched_at": "2026-10-29T01:35:02.231423",
       "extra": {
         "wordcount": 156
       }
@@ -1092,7 +1093,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.362062",
+      "fetched_at": "2026-10-29T01:35:02.231440",
       "extra": {
         "wordcount": 266
       }
@@ -1112,7 +1113,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.667771",
+      "fetched_at": "2026-10-29T01:35:02.564866",
       "extra": {
         "wordcount": 6733
       }
@@ -1132,7 +1133,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.667803",
+      "fetched_at": "2026-10-29T01:35:02.564898",
       "extra": {
         "wordcount": 229
       }
@@ -1152,7 +1153,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.667825",
+      "fetched_at": "2026-10-29T01:35:02.564923",
       "extra": {
         "wordcount": 3907
       }
@@ -1172,7 +1173,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.667842",
+      "fetched_at": "2026-10-29T01:35:02.564941",
       "extra": {
         "wordcount": 1263
       }
@@ -1192,7 +1193,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.923872",
+      "fetched_at": "2026-10-29T01:35:02.902952",
       "extra": {
         "wordcount": 3872
       }
@@ -1212,7 +1213,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.923891",
+      "fetched_at": "2026-10-29T01:35:02.902971",
       "extra": {
         "wordcount": 676
       }
@@ -1232,7 +1233,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.923912",
+      "fetched_at": "2026-10-29T01:35:02.902992",
       "extra": {
         "wordcount": 1171
       }
@@ -1252,7 +1253,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.923934",
+      "fetched_at": "2026-10-29T01:35:02.903015",
       "extra": {
         "wordcount": 8368
       }
@@ -1272,7 +1273,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.971963",
+      "fetched_at": "2026-10-29T01:35:01.650381",
       "extra": {
         "wordcount": 33525
       }
@@ -1292,7 +1293,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.971983",
+      "fetched_at": "2026-10-29T01:35:01.650416",
       "extra": {
         "wordcount": 9235
       }
@@ -1312,7 +1313,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.971998",
+      "fetched_at": "2026-10-29T01:35:01.650401",
       "extra": {
         "wordcount": 13167
       }
@@ -1332,7 +1333,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.972015",
+      "fetched_at": "2026-10-29T01:35:01.650433",
       "extra": {
         "wordcount": 2469
       }
@@ -1352,7 +1353,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.291163",
+      "fetched_at": "2026-10-29T01:35:02.206376",
       "extra": {
         "wordcount": 29554
       }
@@ -1372,7 +1373,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.291188",
+      "fetched_at": "2026-10-29T01:35:02.206410",
       "extra": {
         "wordcount": 31255
       }
@@ -1392,7 +1393,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.291204",
+      "fetched_at": "2026-10-29T01:35:02.206395",
       "extra": {
         "wordcount": 5737
       }
@@ -1412,7 +1413,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.291220",
+      "fetched_at": "2026-10-29T01:35:02.206426",
       "extra": {
         "wordcount": 3118
       }
@@ -1432,7 +1433,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.803616",
+      "fetched_at": "2026-10-29T01:35:03.028075",
       "extra": {
         "wordcount": 24771
       }
@@ -1452,7 +1453,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.803638",
+      "fetched_at": "2026-10-29T01:35:03.028099",
       "extra": {
         "wordcount": 9244
       }
@@ -1472,7 +1473,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.803656",
+      "fetched_at": "2026-10-29T01:35:03.028117",
       "extra": {
         "wordcount": 8701
       }
@@ -1492,7 +1493,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:09.803674",
+      "fetched_at": "2026-10-29T01:35:03.028137",
       "extra": {
         "wordcount": 5010
       }
@@ -1512,7 +1513,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.187092",
+      "fetched_at": "2026-10-29T01:35:03.561940",
       "extra": {
         "wordcount": 26795
       }
@@ -1532,7 +1533,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.187158",
+      "fetched_at": "2026-10-29T01:35:03.561963",
       "extra": {
         "wordcount": 3170
       }
@@ -1552,7 +1553,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.187185",
+      "fetched_at": "2026-10-29T01:35:03.561983",
       "extra": {
         "wordcount": 7689
       }
@@ -1572,7 +1573,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.187205",
+      "fetched_at": "2026-10-29T01:35:03.562001",
       "extra": {
         "wordcount": 1499
       }
@@ -1592,7 +1593,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.463018",
+      "fetched_at": "2026-10-29T01:35:03.988525",
       "extra": {
         "wordcount": 23130
       }
@@ -1612,7 +1613,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.463043",
+      "fetched_at": "2026-10-29T01:35:03.988549",
       "extra": {
         "wordcount": 8302
       }
@@ -1632,7 +1633,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.463078",
+      "fetched_at": "2026-10-29T01:35:03.988583",
       "extra": {
         "wordcount": 348
       }
@@ -1652,9 +1653,29 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:10.463097",
+      "fetched_at": "2026-10-29T01:35:03.988603",
       "extra": {
         "wordcount": 12292
+      }
+    },
+    {
+      "title": "卡尔·马克思",
+      "url": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D",
+      "category": "wiki",
+      "source": "Wikipedia (zh)",
+      "source_url": "https://zh.wikipedia.org/w/api.php",
+      "published": "2026-10-29",
+      "summary": "克思，母親亨丽埃特·普莱斯堡。馬克思一家是猶太人，原本不信教。但在馬克思出生前，全家便已正式皈依基督教（英语：Conversion to Christianity）。馬克思的外祖父是一位荷蘭拉比，而其父系家族自1723年起就世代擔任特里爾的拉比，直至其祖父迈耶·哈莱维·马克思（Meier Halevi",
+      "title_zh": "",
+      "content": "",
+      "author": "",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:01.580049",
+      "extra": {
+        "wordcount": 25793
       }
     },
     {
@@ -1672,7 +1693,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.083016",
+      "fetched_at": "2026-10-29T01:35:00.254374",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -1694,7 +1715,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.263729",
+      "fetched_at": "2026-10-29T01:35:00.256512",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1716,7 +1737,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.263907",
+      "fetched_at": "2026-10-29T01:35:00.258809",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1726,8 +1747,8 @@
     {
       "title": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFM2SDJBWHE5dUtwYVJ1Yl9PTE42Z2NoNEZMd0t4VTVSckhGN3h3SHFvZ3BTQldJNklweGFYTGR4b3JMV0FGdlZtZlNLZU9FX2tIVXJUbm9KYWNnVmc3eXNGM0I4YzA3bjhjUWJDVm1uM3lWZkN1SE9sUURERlNDdklJYjhMcnVWa01UeEpHUkxWRWh3Q241eHI3dWF4LXBzcWZlYzV3dmxWd01LUVZRa3lPN2Zrc1BmTGU0UUJkal9nSmdzZ19YWWlaSHRYUFJFM2cyZg?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Extremism and violence 'fuelling a Christian exodus' in oldest communities, global report warns Premier Christian News",
@@ -1738,10 +1759,10 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.264075",
+      "fetched_at": "2026-10-29T01:35:00.031968",
       "extra": {
         "provider": "google_news",
-        "query": "Christian news world",
+        "query": "persecution of Christians religious freedom",
         "publisher": "Premier Christian News"
       }
     },
@@ -1760,7 +1781,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.264269",
+      "fetched_at": "2026-10-29T01:35:00.257919",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1782,7 +1803,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.264429",
+      "fetched_at": "2026-10-29T01:35:00.256957",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1826,7 +1847,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.264740",
+      "fetched_at": "2026-10-29T01:35:00.257200",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1848,7 +1869,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.264896",
+      "fetched_at": "2026-10-29T01:35:00.258104",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1858,8 +1879,8 @@
     {
       "title": "Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NaWpWOU9jTnN3aDkxdXJNMGxSTHpXT0JxR2N1VlA5NjN2S1RHWE9aRWZvellDc2g4TjhFSkM2MXJ5RmJvZXJzZk5kSnFNOHp6amQ5bFNDbmEzOUJkRUZVMHl3blVBbUdDM0xvY2xFRVBBT0E?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-28",
       "summary": "Sardar Mushtaq Gill, Founder and International Advocacy Director of LEAD Ministries, Calls for Urgent International Action to Protect Christian in Ethiopia Pakistan Christian Post",
@@ -1870,10 +1891,10 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.265389",
+      "fetched_at": "2026-10-29T01:35:00.032372",
       "extra": {
         "provider": "google_news",
-        "query": "Christian news world",
+        "query": "persecution of Christians religious freedom",
         "publisher": "Pakistan Christian Post"
       }
     },
@@ -1892,7 +1913,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.265858",
+      "fetched_at": "2026-10-29T01:35:00.259129",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1914,7 +1935,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.266009",
+      "fetched_at": "2026-10-29T01:35:00.258644",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1936,7 +1957,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.440558",
+      "fetched_at": "2026-10-29T01:35:00.031246",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -1958,7 +1979,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.441871",
+      "fetched_at": "2026-10-29T01:35:00.032132",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -1980,7 +2001,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.442028",
+      "fetched_at": "2026-10-29T01:35:00.032540",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2002,7 +2023,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.442375",
+      "fetched_at": "2026-10-29T01:35:00.032699",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2012,8 +2033,8 @@
     {
       "title": "ACN report: 220 million Christians face persecution worldwide",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY19uM0xyVDN1SDREOUFpZnZvYzVsRDltUC1GRHNhYXV2SlZOLUMxYzFCTk1TRkFQM1pXbE1VUkx4dVdtX2tGbzVrR0VIZk1TOGVOcko4NkdnQWgwUUVEUXhqX1pjdENNYlA5ZXhrdUV0VlNMcnZwU25BRmNhb0h0S0htVHZMX0dGYjBteHR1WlRjckNjOVh3cklocnFUc3JRYndXd0J6aEVDV251SjJlYl9hYw?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "ACN report: 220 million Christians face persecution worldwide Vatican News",
@@ -2024,10 +2045,10 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.263544",
+      "fetched_at": "2026-10-29T01:35:00.031012",
       "extra": {
         "provider": "google_news",
-        "query": "Christian news world",
+        "query": "persecution of Christians religious freedom",
         "publisher": "Vatican News"
       }
     },
@@ -2046,7 +2067,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.265554",
+      "fetched_at": "2026-10-29T01:35:00.258316",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2056,8 +2077,8 @@
     {
       "title": "Study: Christian persecution worsening in most of already bad cases",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazc5SkFiS09DcVhCZ2E2OE0xQzV0RmhmVW4yM0NDWDBsLThSeFR2QUdIejVBcGtZMFlmMFRRSXZqUjB5SnZnajl4dlBpa0FpUTVkOEdVZUdlNThrMDEwbFUwOGhtemNBMXRQVGtuNjFEaVFmWmJlRGNWZWFfY3pQNFFJMmtDcHdPbDEwN3lHdDVfcEQ2MmttaGhVN1ltcjRhRXc?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Study: Christian persecution worsening in most of already bad cases Aleteia EN",
@@ -2068,10 +2089,10 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.265707",
+      "fetched_at": "2026-10-29T01:35:00.031439",
       "extra": {
         "provider": "google_news",
-        "query": "Christian news world",
+        "query": "persecution of Christians religious freedom",
         "publisher": "Aleteia EN"
       }
     },
@@ -2112,7 +2133,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.441168",
+      "fetched_at": "2026-10-29T01:35:00.031624",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2134,7 +2155,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.441357",
+      "fetched_at": "2026-10-29T01:35:00.031803",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2156,7 +2177,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.442895",
+      "fetched_at": "2026-10-29T01:35:00.032858",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2178,11 +2199,33 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566134",
+      "fetched_at": "2026-10-29T01:35:00.981632",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "Middle East Eye"
+      }
+    },
+    {
+      "title": "Who's who in 50th CGI Conference",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnYtSHB1cjczM2FYa3ZRMHFsdEY1a19LZks3SWZjVWRXMHZTUlFvVE12MWtzWmFQMHotS3ZiMEtkY19YbVdqekhQQ2Q3QjBCbmU0UjFDXzZkUllLUXBNUDlETHF3QUZNVUtxODRTdnB2WTdFSUVZNWdWWXY4QUJGd3V4anRxUllneGZTNVJ6S3ZoU2ljTG5QVDJlLUd5UdIBngFBVV95cUxNVnYtSHB1cjczM2FYa3ZRMHFsdEY1a19LZks3SWZjVWRXMHZTUlFvVE12MWtzWmFQMHotS3ZiMEtkY19YbVdqekhQQ2Q3QjBCbmU0UjFDXzZkUllLUXBNUDlETHF3QUZNVUtxODRTdnB2WTdFSUVZNWdWWXY4QUJGd3V4anRxUllneGZTNVJ6S3ZoU2ljTG5QVDJlLUd5UQ?oc=5",
+      "category": "church",
+      "source": "教会增长（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "Who's who in 50th CGI Conference The Korea Times",
+      "title_zh": "第50届CGI大会上谁是谁",
+      "content": "",
+      "author": "The Korea Times",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.820523",
+      "extra": {
+        "provider": "google_news",
+        "query": "church growth planting",
+        "publisher": "The Korea Times"
       }
     },
     {
@@ -2222,7 +2265,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566836",
+      "fetched_at": "2026-10-29T01:35:00.982508",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2244,11 +2287,33 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567364",
+      "fetched_at": "2026-10-29T01:35:00.982822",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "The Spectator"
+      }
+    },
+    {
+      "title": "Can church planting movements awaken the Western church?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTQ3ZGEzQ0p4ZVUtLVVYNVhMQW83U3VBb0NWdDNHVC0tVlZIanF1bF9vUG5ydE1ZWXlaZUNHWDV2TktsdDV1Yy1GZk9kMzZodk9WYU9GUkc2aWZXLWdtZjJ2blZCT21DMUVQNEMzYi1QR2pQcGdFMDh6MGxUQlBPb2o0eVR2QkhVSkV6MWZRSnBwc3k1dUE?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-26",
+      "summary": "Can church planting movements awaken the Western church? www.christiandaily.com",
+      "title_zh": "植堂运动能唤醒西方教会吗？",
+      "content": "",
+      "author": "www.christiandaily.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.256735",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "www.christiandaily.com"
       }
     },
     {
@@ -2266,11 +2331,33 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566494",
+      "fetched_at": "2026-10-29T01:35:00.981975",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "SyriacPress"
+      }
+    },
+    {
+      "title": "Sardar Mushtaq Gill Condemns Extremist Attack on Christians at Funeral in Jordan, Calls for Global Action Against Christian Persecution",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40SmFMQnF2LU16ekJCYTNXWkJIbjJQYnRoVmRSQ1hxYVItNGZ2bzM5ZWhVXzd3V2lfdjNoYTU4NFE4QzlZaUQ0eG9MeWtOa1BpaG5fZ1hleFo3MjdCcGswbnUtdHczQzVJei1OTFpXYmhoeXM?oc=5",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-25",
+      "summary": "Sardar Mushtaq Gill Condemns Extremist Attack on Christians at Funeral in Jordan, Calls for Global Action Against Christian Persecution Pakistan Christian Post",
+      "title_zh": "萨达尔·穆什塔克·吉尔（ Sardar Mushtaq Gill ）谴责极端主义分子在约旦葬礼上对基督徒的袭击，呼吁采取全球行动反对基督徒的迫害",
+      "content": "",
+      "author": "Pakistan Christian Post",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.033413",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecution of Christians religious freedom",
+        "publisher": "Pakistan Christian Post"
       }
     },
     {
@@ -2288,7 +2375,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566317",
+      "fetched_at": "2026-10-29T01:35:00.981802",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2310,11 +2397,55 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567520",
+      "fetched_at": "2026-10-29T01:35:00.982976",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "Orthodox Times"
+      }
+    },
+    {
+      "title": "Captain sets tone for Crew: Yelich's RBI triple has teammates 'pumped'",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YRVVBWnh4eFNldmUyQzZ5MzhnWnpuNGo1MnNxTHhIX1dMcjRJV1ppSVRXeTY3VnNUMG55ZnM0TFJPR2tYc3dZN2tZWnNRaU0yZnBuMW8tckZFUnJPZzVRSlB4NzdOM19FMWRDMDFmT3NiMTNPVm51SlZoYzhpbUk?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-24",
+      "summary": "Captain sets tone for Crew: Yelich's RBI triple has teammates 'pumped' MLB.com",
+      "title_zh": "船长为船员定下基调： Yelich的RBI三联赛让队友们“充满活力”",
+      "content": "",
+      "author": "MLB.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.257664",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "MLB.com"
+      }
+    },
+    {
+      "title": "Pope: ‘Hearts of young people are longing to discover Christ’s love’",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3hYTmhYRnJIM2JKdUszTExUeWxDbTdmNGxVWEExakFmMjJUR3VoWExFaDlYck1zaTF6UmJrbkVnMnUybHBXMlBzcmRfbWZ2VUp6d3hLWXR6eW9FSXJjWDU1LVNLb3JQRk00QU1nQzltU0xoczNzUUFPcVA2SG1xbjdGMVhmUDhpdjRhODdMQUVNamwwYTNaSkJnYw?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-24",
+      "summary": "Pope: ‘Hearts of young people are longing to discover Christ’s love’ Vatican News",
+      "title_zh": "教宗： “年轻人的心渴望发现基督的爱”",
+      "content": "",
+      "author": "Vatican News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.258969",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Vatican News"
       }
     },
     {
@@ -2332,7 +2463,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.566669",
+      "fetched_at": "2026-10-29T01:35:00.982135",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2354,7 +2485,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.580848",
+      "fetched_at": "2026-10-29T01:35:01.016869",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
@@ -2420,7 +2551,7 @@
       "language": "zh",
       "country": "CN",
       "region": "中国",
-      "fetched_at": "2026-10-29T01:27:07.863068",
+      "fetched_at": "2026-10-29T01:35:00.709238",
       "extra": {
         "provider": "google_news",
         "query": "中国 教会 基督徒 聚会",
@@ -2472,6 +2603,28 @@
       }
     },
     {
+      "title": "Georgia church sees attendance grow among young people",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzhaanFRLW9yZ280N280cDVLbUNNMUVKN2twa3RsRkNldHlibTZCWVZqQ3JObF9FQjU3UnYtT3M0c1Q0VF91MWp5Vk1CVy1jWkFWa0dxUkQ3Z1lpNjhfWFRMQ3FGMEQwUzhrTEdQWjNfOV9hb0psR3FvQngxMTZmZmJObTZiVnpzT2c?oc=5",
+      "category": "church",
+      "source": "教会增长（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-15",
+      "summary": "Georgia church sees attendance grow among young people Biblical Recorder",
+      "title_zh": "格鲁吉亚教会看到年轻人的出席率有所增加",
+      "content": "",
+      "author": "Biblical Recorder",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.821854",
+      "extra": {
+        "provider": "google_news",
+        "query": "church growth planting",
+        "publisher": "Biblical Recorder"
+      }
+    },
+    {
       "title": "Vatican scholarships to keep Christians in the Middle East",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONnJ2Z0QzZmVORXpuNzV5dE01TkkzRnhOUFVzOVlvdXFWczFLMkxLS2Q5WlVSd0I2WUpmOUt1N0VWXzczSnllOVZ4UEYwYjlWZTI4QjBwVnE1ejVnc2NQSzc0bnBYdjZOZjRQMlBIYVo2UGNvUzRmQmt1R2NSNEduU2U0LW9MWkhxcGhBbVdFOERlX19R?oc=5",
       "category": "church",
@@ -2486,7 +2639,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567670",
+      "fetched_at": "2026-10-29T01:35:00.983126",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2508,11 +2661,33 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567206",
+      "fetched_at": "2026-10-29T01:35:00.982669",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "Religion News Service"
+      }
+    },
+    {
+      "title": "Chasing zero",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GZHBrYXJBSnpkbnI5amxWZ1RncC16SGtHaDNCbVc1a2pHNlc4WWROckluRDlwdzhSOFc4c29QZWxtZGZiOUNRSnpsVVk0aFp5QTFFMnZmdmFrVDJKcy1JSDVoWnUwY29iWVYwVlFGQQ?oc=5",
+      "category": "mission",
+      "source": "Wycliffe Bible Translators",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-09",
+      "summary": "Chasing zero Premier Christianity Magazine",
+      "title_zh": "追逐零",
+      "content": "",
+      "author": "Premier Christianity Magazine",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.526378",
+      "extra": {
+        "provider": "google_news",
+        "query": "Wycliffe Bible translators",
+        "publisher": "Premier Christianity Magazine"
       }
     },
     {
@@ -2530,11 +2705,55 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567016",
+      "fetched_at": "2026-10-29T01:35:00.982340",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "International Christian Concern"
+      }
+    },
+    {
+      "title": "Lora Mae Toedter - View Obituary & Service Information",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aVHJrYjRjVExOR0FFN29MUlA5aVVvSkt4ZE1TYTF3VDdPTlN5dHpzSWl0VW9hbGZfVThiZ0tkcndpSDZYY1p4eTBFLXZkVmYyZFRvY0lFOEk0dmFBZVVxY2FnTVh5TEhoZXBB?oc=5",
+      "category": "mission",
+      "source": "Wycliffe Bible Translators",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-04",
+      "summary": "Lora Mae Toedter - View Obituary & Service Information www.washburn-mcreavy.com",
+      "title_zh": "Lora Mae Toedter -查看讣告和服务信息",
+      "content": "",
+      "author": "www.washburn-mcreavy.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.526906",
+      "extra": {
+        "provider": "google_news",
+        "query": "Wycliffe Bible translators",
+        "publisher": "www.washburn-mcreavy.com"
+      }
+    },
+    {
+      "title": "「歡迎神國降臨」國慶祈禱日 香港基督教團體海陸空敬拜",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95Z1ZUaVBvcnh0TzZ1MFlKOWVLQmZ6ZVgxbHVOcUx2Ny1UVElUUHRZTm1hTmpuYVkybW9mRHdkWEYtd1BGaHdueW45QkloaHB1eHJoRUszcy15NF94QW5jSkNhcDVscFM5dlE?oc=5",
+      "category": "news",
+      "source": "基督日报",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-02",
+      "summary": "「歡迎神國降臨」國慶祈禱日 香港基督教團體海陸空敬拜 基督日報",
+      "title_zh": "",
+      "content": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.103334",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督日报 基督教",
+        "publisher": "基督日報"
       }
     },
     {
@@ -2596,11 +2815,33 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.479069",
+      "fetched_at": "2026-10-29T01:35:00.525660",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
         "publisher": "www.christiantoday.com"
+      }
+    },
+    {
+      "title": "President Trump Bans Christians Fleeing Persecution: Matthew Soerens on the Collapse of Refugee Resettlement and Why Churches Should Care",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX05nS2p1bzk1UVFTQmpTeVFleWJta0o0MUpxaWRub09PM1VQaVkxRHVtb0tXMTM0Rk9xdzljdlBaRFRUWUJDTElTX1B4a25mZm5tcGVqNHRXRGVVN3M4NEZoSl9VYlpNM2FiM2VRWXFFS21tRmpYLTA4TTkyMWp0Yw?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-29",
+      "summary": "President Trump Bans Christians Fleeing Persecution: Matthew Soerens on the Collapse of Refugee Resettlement and Why Churches Should Care Austin Kocher | Substack",
+      "title_zh": "特朗普总统禁止逃离迫害的基督徒：马修·索伦斯关于难民安置的崩溃以及为什么教会应该关心",
+      "content": "",
+      "author": "Austin Kocher | Substack",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.259665",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Austin Kocher | Substack"
       }
     },
     {
@@ -2618,7 +2859,95 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.083284",
+      "fetched_at": "2026-10-29T01:35:00.260031",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "India",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmeElDcGRxNjJ2YWpuVjdjRnAtdFl2cWlWaDdUbmEzZHVjMFZ2TlMtNEJFT2p0aDVpR0VuSVpoYmlPcnZJWjBTc0lKSQ?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "India Open Doors International",
+      "title_zh": "印度",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.259479",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "Laos",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tUU9pWjc2eUt6bERrMlB4QW5zY0p0LVJaRENzMXMyVXZvb1h4UXVYdlJsREVyMGhHVXpKbGEzU3JTS0pvMG1CREd3?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "Laos Open Doors International",
+      "title_zh": "老挝",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.260401",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "Yemen",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zUWVxb3I1d19YaTY4Z0wtNEVwbnZRa1dBd01pTDM4eHkxdkxaSHdzRTBkZGN2YUtiY2FkODV6RWswclF6OHltZVZzYw?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "Yemen Open Doors International",
+      "title_zh": "也门",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.260549",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
+      }
+    },
+    {
+      "title": "Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HREhyTHl1MzVlaXVOTTFDbmRPTGxoNm1od0hjd2tnVFpsUF9FWDRPOEpOVEhsM1pzZU5EeWkzaGdWOTBMOXE0NGRMd21WV1k?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "Colombia Open Doors International",
+      "title_zh": "哥伦比亚",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.260859",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2640,7 +2969,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.084734",
+      "fetched_at": "2026-10-29T01:35:00.260235",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2662,7 +2991,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.504263",
+      "fetched_at": "2026-10-29T01:35:00.554095",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士",
@@ -2706,7 +3035,7 @@
       "language": "en",
       "country": "IL",
       "region": "中东",
-      "fetched_at": "2026-10-29T01:27:08.567839",
+      "fetched_at": "2026-10-29T01:35:00.983322",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2750,7 +3079,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.502968",
+      "fetched_at": "2026-10-29T01:35:00.552792",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士",
@@ -2816,7 +3145,7 @@
       "language": "zh",
       "country": "CN",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.578444",
+      "fetched_at": "2026-10-29T01:35:00.132844",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 宗教自由 逼迫",
@@ -2860,7 +3189,7 @@
       "language": "en",
       "country": "CH",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:08.018223",
+      "fetched_at": "2026-10-29T01:35:00.702726",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -2904,7 +3233,7 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.896982",
+      "fetched_at": "2026-10-29T01:35:00.821200",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -2926,7 +3255,7 @@
       "language": "en",
       "country": "NL",
       "region": "",
-      "fetched_at": "2026-10-29T01:27:07.082749",
+      "fetched_at": "2026-10-29T01:35:00.259266",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2949,6 +3278,72 @@
       "country": "NL",
       "region": "",
       "fetched_at": "2026-10-29T01:27:07.085049",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors US"
+      }
+    },
+    {
+      "title": "China",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2cWR1V2ZzSXl5Y3hRLVFiMllabXdfQjA4RGlVS0NHbWVubDhoMDNKMDdoOUlhdHgxTlNQTVJ1UWhhVXZxMlk2dlhZT1ZIZw?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-04",
+      "summary": "China Open Doors US",
+      "title_zh": "中国",
+      "content": "",
+      "author": "Open Doors US",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.259870",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors US"
+      }
+    },
+    {
+      "title": "Laos",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kR0I3YkppeVl4OEZjRWhrRVMwRWVjWFNfYmJDWURNMmg1WGhmZzFWLUUxOHVMSzRZVXJEb2VkNDV1aTBaZ2V0YmhsLUY?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-04",
+      "summary": "Laos Open Doors US",
+      "title_zh": "老挝",
+      "content": "",
+      "author": "Open Doors US",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.260694",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors US"
+      }
+    },
+    {
+      "title": "Yemen",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53U3J0b2s0X1Nvc2pwMkhKazQ1bUdfUzVRRVR5dGxUZDR4TkphOVpmd05QOWUxVUxyajlRU2tGbTVSdndZVmRnV2FMNUR3QQ?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-04",
+      "summary": "Yemen Open Doors US",
+      "title_zh": "也门",
+      "content": "",
+      "author": "Open Doors US",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "fetched_at": "2026-10-29T01:35:00.261004",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
