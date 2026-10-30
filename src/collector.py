@@ -12,7 +12,7 @@ import hashlib
 
 from .models import Article, SourceConfig, DailySnapshot
 from .parsers import parse_feed, parse_generic, parse_wikipedia, parse_news_search
-from .utils import ensure_dir, save_json, today_hk, now_hk
+from .utils import ensure_dir, save_json, today_hk, now_hk, make_summary
 from .translator import Translator
 
 logger = logging.getLogger(__name__)
@@ -254,6 +254,30 @@ class Collector:
                 kept.append(a)
         kept.sort(key=lambda a: ((a.get("published") or a.get("fetched_at") or "")[:10]), reverse=True)
         kept = kept[:max_articles]
+
+        # 简介修正：缺失/过短/与标题重复时，用正文前几句重新概括（3-5 句）
+        def _dup_text(x: str, y: str) -> bool:
+            x, y = (x or "").strip().lower(), (y or "").strip().lower()
+            if not x or not y:
+                return False
+            return x[:80] == y[:80] or x in y or y in x
+
+        _fixed = 0
+        for a in kept:
+            t = (a.get("title") or "").strip()
+            tz = (a.get("title_zh") or "").strip()
+            c = (a.get("content") or "").strip()
+            cz = (a.get("content_zh") or "").strip()
+            s = (a.get("summary") or "").strip()
+            sz = (a.get("summary_zh") or "").strip()
+            if (not s or len(s) < 40 or _dup_text(s, t)) and c:
+                a["summary"] = make_summary(c, 5)
+                _fixed += 1
+            if (not sz or _dup_text(sz, tz or t)) and cz:
+                a["summary_zh"] = make_summary(cz, 5)
+                _fixed += 1
+        if _fixed:
+            logger.info(f"简介修正: {_fixed} 条改为正文概括")
 
         # 精选：按「优先级 + 新鲜度 + 分类均衡」筛选 limit 条，供首页/分类页展示
         featured = self._select_featured(kept, limit=250)

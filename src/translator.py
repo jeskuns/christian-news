@@ -167,7 +167,11 @@ class Translator:
                             if p.from_code == from_code and p.to_code == to_code), None)
                 if pkg is None:
                     raise RuntimeError("argos 未提供 en->zh 模型")
-                argos_pkg.install_package(pkg)
+                # 兼容新版 argostranslate：模块级 install_package 已移除，改用 pkg.install()
+                if hasattr(argos_pkg, "install_package"):
+                    argos_pkg.install_package(pkg)
+                else:
+                    pkg.install()
                 installed = argos_tr.get_installed_languages()
                 src_lang = next(l for l in installed if l.code == from_code)
                 tgt_lang = next(l for l in installed if l.code == to_code)

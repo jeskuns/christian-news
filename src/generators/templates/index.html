@@ -54,8 +54,9 @@
             {% if article.title_zh %}
             <div class="title-original">{{ article.title }}</div>
             {% endif %}
-            {% if article.summary_zh %}<p>{{ article.summary_zh }}</p>
-            {% elif article.summary %}<p>{{ article.summary }}</p>{% endif %}
+            {% set _t = (article.title_zh or article.title)|trim %}
+            {% if article.summary_zh and article.summary_zh|trim != _t %}<p>{{ article.summary_zh }}</p>
+            {% elif article.summary and article.summary|trim != article.title|trim %}<p>{{ article.summary }}</p>{% endif %}
           </article>
           {% endfor %}
         </div>

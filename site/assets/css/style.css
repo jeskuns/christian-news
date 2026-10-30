@@ -92,7 +92,7 @@ main.container{padding-bottom:48px}
 /* ===================== 首页布局 ===================== */
 .home-layout{display:flex;gap:26px;align-items:flex-start}
 .main-col{flex:1 1 auto;min-width:0}
-.sidebar{width:300px;flex:0 0 300px;position:sticky;top:84px;display:flex;flex-direction:column;gap:16px}
+.sidebar{width:300px;flex:0 0 300px;position:sticky;top:84px;display:flex;flex-direction:column;gap:16px;max-height:calc(100vh - 100px);overflow-y:auto;padding-bottom:24px}
 
 /* ===================== 时间线 ===================== */
 .timeline{display:flex;flex-direction:column;gap:22px}
