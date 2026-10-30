@@ -14,7 +14,7 @@ from typing import Dict, List
 import requests
 
 from .models import Article
-from .utils import ensure_dir
+from .utils import ensure_dir, make_summary
 
 logger = logging.getLogger(__name__)
 
@@ -222,9 +222,28 @@ class Translator:
                 sdone += 1
             time.sleep(self.delay)
 
+        # 全文翻译（离线 argos 不限量），并用译文前 4 句生成 3-5 句中文摘要
+        content_pending = [
+            a for a in articles
+            if (a.language or "").lower().startswith("en")
+            and a.content and not (a.content_zh or "")
+        ]
+        clist = content_pending if max_items is None else content_pending[:max_items]
+        cdone = 0
+        for a in clist:
+            zh = self._argos_translate(a.content, "en")
+            if zh:
+                a.content_zh = zh
+                # 优先用全文译文生成 3-5 句摘要，覆盖 RSS 自带的单句短摘要
+                s = make_summary(zh, 4)
+                if s:
+                    a.summary_zh = s
+                cdone += 1
+            time.sleep(self.delay)
+
         self.save_cache()
         logger.info(
             f"翻译完成: 标题 {done}/{len(title_pending)} 条、摘要 {sdone}/{len(summary_pending)} 条"
-            f"已转为中文（缓存共 {len(self.cache)} 条）"
+            f"、正文 {cdone}/{len(content_pending)} 条已转为中文（缓存共 {len(self.cache)} 条）"
         )
         return done
