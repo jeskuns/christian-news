@@ -2,7 +2,7 @@
   "category": "theology",
   "label": "神学与合一",
   "count": 43,
-  "updated_at": "2026-10-30T13:24:56.589705+08:00",
+  "updated_at": "2026-10-30T13:39:40.969251+08:00",
   "articles": [
     {
       "title": "WCC Faith and Order meeting opens with path toward deep dialogue",
@@ -23,7 +23,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.340661",
+      "fetched_at": "2026-10-30T05:35:44.200937",
       "extra": {
         "feed_type": "rss20"
       }
@@ -47,7 +47,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.344664",
+      "fetched_at": "2026-10-30T05:35:44.203525",
       "extra": {
         "feed_type": "rss20"
       }
@@ -71,7 +71,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.350307",
+      "fetched_at": "2026-10-30T05:35:44.205932",
       "extra": {
         "feed_type": "rss20"
       }
@@ -95,7 +95,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.353496",
+      "fetched_at": "2026-10-30T05:35:44.209314",
       "extra": {
         "feed_type": "rss20"
       }
@@ -119,7 +119,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.363926",
+      "fetched_at": "2026-10-30T05:35:44.216888",
       "extra": {
         "feed_type": "rss20"
       }
@@ -143,7 +143,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.365699",
+      "fetched_at": "2026-10-30T05:35:44.218637",
       "extra": {
         "feed_type": "rss20"
       }
@@ -167,7 +167,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.368696",
+      "fetched_at": "2026-10-30T05:35:44.221668",
       "extra": {
         "feed_type": "rss20"
       }
@@ -191,7 +191,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.371688",
+      "fetched_at": "2026-10-30T05:35:44.224640",
       "extra": {
         "feed_type": "rss20"
       }
@@ -215,7 +215,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.380151",
+      "fetched_at": "2026-10-30T05:35:44.231331",
       "extra": {
         "feed_type": "rss20"
       }
@@ -239,7 +239,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.384109",
+      "fetched_at": "2026-10-30T05:35:44.233562",
       "extra": {
         "feed_type": "rss20"
       }
@@ -383,7 +383,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.988982",
+      "fetched_at": "2026-10-30T05:35:44.177357",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -461,7 +461,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.233368",
+      "fetched_at": "2026-10-30T05:35:43.426572",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -487,7 +487,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.409136",
+      "fetched_at": "2026-10-30T05:35:43.765587",
       "extra": {
         "provider": "google_news",
         "query": "建道神学院 神学 研究",
@@ -539,7 +539,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.990509",
+      "fetched_at": "2026-10-30T05:35:44.177994",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -565,7 +565,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.035746",
+      "fetched_at": "2026-10-30T05:35:43.089105",
       "extra": {
         "provider": "google_news",
         "query": "生命季刊 基督教 神学",
@@ -591,7 +591,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.990275",
+      "fetched_at": "2026-10-30T05:35:44.177904",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -617,7 +617,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.989499",
+      "fetched_at": "2026-10-30T05:35:44.177589",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -643,7 +643,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.457623",
+      "fetched_at": "2026-10-30T05:35:43.389160",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -721,7 +721,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.991263",
+      "fetched_at": "2026-10-30T05:35:44.178267",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -747,7 +747,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.534064",
+      "fetched_at": "2026-10-30T05:35:43.446023",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -773,7 +773,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.568828",
+      "fetched_at": "2026-10-30T05:35:43.654397",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -825,7 +825,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.989247",
+      "fetched_at": "2026-10-30T05:35:44.177480",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -851,7 +851,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.534364",
+      "fetched_at": "2026-10-30T05:35:43.446212",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -877,7 +877,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:27.330143",
+      "fetched_at": "2026-10-30T05:35:43.986612",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",
@@ -903,7 +903,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.534214",
+      "fetched_at": "2026-10-30T05:35:43.446316",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -918,7 +918,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-18",
       "summary": "Christian Theology Meets Pop Culture in New IVP Series Publishers Weekly",
-      "summary_zh": "",
+      "summary_zh": "基督教神学与流行文化在新的 IVP 系列《出版商周刊》中相遇",
       "title_zh": "",
       "content": "",
       "author": "Publishers Weekly",
@@ -928,7 +928,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.683060",
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:44.156258",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -954,7 +955,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.568628",
+      "fetched_at": "2026-10-30T05:35:43.654273",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -995,7 +996,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-16",
       "summary": "Introducing International Relations: Religion and Culture E-International Relations",
-      "summary_zh": "",
+      "summary_zh": "国际关系概论：宗教与文化电子国际关系",
       "title_zh": "",
       "content": "",
       "author": "E-International Relations",
@@ -1005,7 +1006,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.683349",
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:44.156533",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -1031,7 +1033,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.029667",
+      "fetched_at": "2026-10-30T05:35:43.121857",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -1057,7 +1059,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:27.329925",
+      "fetched_at": "2026-10-30T05:35:43.986473",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",

@@ -2,7 +2,7 @@
   "category": "news",
   "label": "基督教世界资讯",
   "count": 136,
-  "updated_at": "2026-10-30T13:24:56.592289+08:00",
+  "updated_at": "2026-10-30T13:39:40.971498+08:00",
   "articles": [
     {
       "title": "Republicans turn to transgender-focused attack ads against Democrats of faith",
@@ -41,7 +41,7 @@
         "跨性别"
       ],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347317",
+      "fetched_at": "2026-10-30T05:35:39.547095",
       "extra": {
         "feed_type": "rss20"
       }
@@ -81,7 +81,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347496",
+      "fetched_at": "2026-10-30T05:35:39.547214",
       "extra": {
         "feed_type": "rss20"
       }
@@ -122,7 +122,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347610",
+      "fetched_at": "2026-10-30T05:35:39.547307",
       "extra": {
         "feed_type": "rss20"
       }
@@ -176,7 +176,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347725",
+      "fetched_at": "2026-10-30T05:35:39.547385",
       "extra": {
         "feed_type": "rss20"
       }
@@ -211,7 +211,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347851",
+      "fetched_at": "2026-10-30T05:35:39.547454",
       "extra": {
         "feed_type": "rss20"
       }
@@ -251,7 +251,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347954",
+      "fetched_at": "2026-10-30T05:35:39.547516",
       "extra": {
         "feed_type": "rss20"
       }
@@ -289,7 +289,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348048",
+      "fetched_at": "2026-10-30T05:35:39.547574",
       "extra": {
         "feed_type": "rss20"
       }
@@ -327,7 +327,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348139",
+      "fetched_at": "2026-10-30T05:35:39.547631",
       "extra": {
         "feed_type": "rss20"
       }
@@ -364,7 +364,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348229",
+      "fetched_at": "2026-10-30T05:35:39.547686",
       "extra": {
         "feed_type": "rss20"
       }
@@ -402,7 +402,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348321",
+      "fetched_at": "2026-10-30T05:35:39.547743",
       "extra": {
         "feed_type": "rss20"
       }
@@ -426,7 +426,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796810",
+      "fetched_at": "2026-10-30T05:35:39.987731",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -452,7 +452,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.795948",
+      "fetched_at": "2026-10-30T05:35:39.987376",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -478,7 +478,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796978",
+      "fetched_at": "2026-10-30T05:35:39.987937",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -504,7 +504,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796311",
+      "fetched_at": "2026-10-30T05:35:39.987512",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -556,7 +556,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.871893",
+      "fetched_at": "2026-10-30T05:35:40.392639",
       "extra": {
         "provider": "google_news",
         "query": "基督教论坛报 新闻 教会",
@@ -979,7 +979,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.941648",
+      "fetched_at": "2026-10-30T05:35:39.988153",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1109,7 +1109,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796141",
+      "fetched_at": "2026-10-30T05:35:39.986910",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1135,7 +1135,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796632",
+      "fetched_at": "2026-10-30T05:35:39.987623",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1161,7 +1161,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797785",
+      "fetched_at": "2026-10-30T05:35:39.988461",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1187,7 +1187,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797971",
+      "fetched_at": "2026-10-30T05:35:39.988553",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1213,7 +1213,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797482",
+      "fetched_at": "2026-10-30T05:35:39.988249",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1265,7 +1265,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797632",
+      "fetched_at": "2026-10-30T05:35:39.988365",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1291,7 +1291,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797154",
+      "fetched_at": "2026-10-30T05:35:39.988055",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1317,7 +1317,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.798139",
+      "fetched_at": "2026-10-30T05:35:39.988656",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1343,7 +1343,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118151",
+      "fetched_at": "2026-10-30T05:35:40.438587",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1369,7 +1369,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118337",
+      "fetched_at": "2026-10-30T05:35:40.438714",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1395,7 +1395,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118503",
+      "fetched_at": "2026-10-30T05:35:40.438823",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1421,7 +1421,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118863",
+      "fetched_at": "2026-10-30T05:35:40.439046",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1447,7 +1447,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119355",
+      "fetched_at": "2026-10-30T05:35:40.439356",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1473,7 +1473,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119681",
+      "fetched_at": "2026-10-30T05:35:40.439585",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1499,7 +1499,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.548420",
+      "fetched_at": "2026-10-30T05:35:40.506747",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -1525,7 +1525,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797325",
+      "fetched_at": "2026-10-30T05:35:39.987838",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1832,7 +1832,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.516975",
+      "fetched_at": "2026-10-30T05:35:39.800660",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1858,7 +1858,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.857325",
+      "fetched_at": "2026-10-30T05:35:40.167152",
       "extra": {
         "provider": "google_news",
         "query": "海外校园 基督 信仰 华人",
@@ -1884,7 +1884,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118677",
+      "fetched_at": "2026-10-30T05:35:40.438940",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1910,7 +1910,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.517209",
+      "fetched_at": "2026-10-30T05:35:39.800834",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1936,7 +1936,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796473",
+      "fetched_at": "2026-10-30T05:35:39.987042",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2008,7 +2008,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119195",
+      "fetched_at": "2026-10-30T05:35:40.439236",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2034,7 +2034,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119873",
+      "fetched_at": "2026-10-30T05:35:40.439688",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2086,7 +2086,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.227451",
+      "fetched_at": "2026-10-30T05:35:40.582426",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -2112,7 +2112,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.227266",
+      "fetched_at": "2026-10-30T05:35:40.582285",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -2186,7 +2186,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.120032",
+      "fetched_at": "2026-10-30T05:35:40.439785",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2264,7 +2264,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119037",
+      "fetched_at": "2026-10-30T05:35:40.439145",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2290,7 +2290,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119513",
+      "fetched_at": "2026-10-30T05:35:40.439455",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2368,7 +2368,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.857504",
+      "fetched_at": "2026-10-30T05:35:40.167277",
       "extra": {
         "provider": "google_news",
         "query": "海外校园 基督 信仰 华人",
@@ -2416,7 +2416,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.517399",
+      "fetched_at": "2026-10-30T05:35:39.800962",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2442,7 +2442,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.548620",
+      "fetched_at": "2026-10-30T05:35:40.506879",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -2468,7 +2468,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519087",
+      "fetched_at": "2026-10-30T05:35:39.801311",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2646,7 +2646,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.187609",
+      "fetched_at": "2026-10-30T05:35:40.616475",
       "extra": {
         "provider": "google_news",
         "query": "Christianity daily news headline",
@@ -2672,7 +2672,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.550013",
+      "fetched_at": "2026-10-30T05:35:39.817250",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -2698,7 +2698,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.518900",
+      "fetched_at": "2026-10-30T05:35:39.801184",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2724,7 +2724,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.518643",
+      "fetched_at": "2026-10-30T05:35:39.801074",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2802,7 +2802,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.039094",
+      "fetched_at": "2026-10-30T05:35:40.461225",
       "extra": {
         "provider": "google_news",
         "query": "基督邮报 基督教 新闻",
@@ -2854,7 +2854,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519566",
+      "fetched_at": "2026-10-30T05:35:39.801625",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -3062,7 +3062,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519722",
+      "fetched_at": "2026-10-30T05:35:39.801721",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -3088,7 +3088,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519248",
+      "fetched_at": "2026-10-30T05:35:39.801426",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -3166,7 +3166,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.551083",
+      "fetched_at": "2026-10-30T05:35:39.817734",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3192,7 +3192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.187829",
+      "fetched_at": "2026-10-30T05:35:40.616613",
       "extra": {
         "provider": "google_news",
         "query": "Christianity daily news headline",
@@ -3218,7 +3218,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.520094",
+      "fetched_at": "2026-10-30T05:35:39.801896",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -3244,7 +3244,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.228140",
+      "fetched_at": "2026-10-30T05:35:40.582831",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -3270,7 +3270,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.570670",
+      "fetched_at": "2026-10-30T05:35:39.829691",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3348,7 +3348,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.550284",
+      "fetched_at": "2026-10-30T05:35:39.817396",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3374,7 +3374,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.551554",
+      "fetched_at": "2026-10-30T05:35:39.817937",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3452,7 +3452,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:16.663948",
+      "fetched_at": "2026-10-30T05:35:40.461680",
       "extra": {
         "provider": "google_news",
         "query": "基督邮报 基督教 新闻",
@@ -3504,7 +3504,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519402",
+      "fetched_at": "2026-10-30T05:35:39.801521",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -3556,7 +3556,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.549482",
+      "fetched_at": "2026-10-30T05:35:40.507410",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -3582,7 +3582,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.550541",
+      "fetched_at": "2026-10-30T05:35:39.817518",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3633,7 +3633,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.938971",
+      "fetched_at": "2026-10-30T05:35:40.269574",
       "extra": {
         "provider": "google_news",
         "query": "中国基督教 两会 三自 爱国",
@@ -3659,7 +3659,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.227985",
+      "fetched_at": "2026-10-30T05:35:40.582741",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -3737,7 +3737,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.552561",
+      "fetched_at": "2026-10-30T05:35:39.818329",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",

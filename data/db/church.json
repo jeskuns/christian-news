@@ -1,8 +1,8 @@
 {
   "category": "church",
   "label": "教会与机构",
-  "count": 141,
-  "updated_at": "2026-10-30T13:24:56.599309+08:00",
+  "count": 144,
+  "updated_at": "2026-10-30T13:39:40.977024+08:00",
   "articles": [
     {
       "title": "Realistic thoughts on hope",
@@ -23,7 +23,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451499",
+      "fetched_at": "2026-10-30T05:35:42.680101",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -152,7 +152,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.510049",
+      "fetched_at": "2026-10-30T05:35:42.590275",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -178,7 +178,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.825884",
+      "fetched_at": "2026-10-30T05:35:43.032004",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -204,7 +204,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826406",
+      "fetched_at": "2026-10-30T05:35:43.032365",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -230,7 +230,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826908",
+      "fetched_at": "2026-10-30T05:35:43.032668",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -308,7 +308,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.827063",
+      "fetched_at": "2026-10-30T05:35:43.032854",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -336,7 +336,7 @@
         "同性婚姻"
       ],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005086",
+      "fetched_at": "2026-10-30T05:35:43.153112",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -362,7 +362,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005785",
+      "fetched_at": "2026-10-30T05:35:43.153437",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -388,7 +388,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451307",
+      "fetched_at": "2026-10-30T05:35:42.679942",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -414,7 +414,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826247",
+      "fetched_at": "2026-10-30T05:35:43.032251",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -440,11 +440,37 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826562",
+      "fetched_at": "2026-10-30T05:35:43.032464",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
         "publisher": "Baptist News Global"
+      }
+    },
+    {
+      "title": "Highland Park UMC votes to leave denomination, bishop removes senior pastor",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWUtMX2VobTZMcGp2cjhXcmNLOFJQSm5wdXRHMkJaNUpVMjVZT01UemdFOWptalp6bWtUQ3I2YjVjOGl1OFdGODZLbU5SN0RfTmlHODd5WlROaVRjR19WMTNTU3dzMzZ4N1E1V0tNeUw5cU8za1MtR1RtY0dQaE4zRml4Y1ZHVHh2WW1yVlpxSS14aUhPRlhuXzA1WG0xTmdPdlNCUkdsTkg0cTV4M3ZuNVRRcGFjSWJGXzFENEhhNVA1T2hzNkZYT2ZpR2lzZXlLdmNfUTBjUDM4b3pYZHYtNHdxQnZaYnFhRGh1NmFkUQ?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Highland Park UMC votes to leave denomination, bishop removes senior pastor The Daily Campus",
+      "summary_zh": "Highland Park UMC 投票决定离开教派，主教罢免主任牧师 - 每日校园",
+      "title_zh": "",
+      "content": "",
+      "author": "The Daily Campus",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:43.032762",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "The Daily Campus"
       }
     },
     {
@@ -466,7 +492,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.510583",
+      "fetched_at": "2026-10-30T05:35:42.590659",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -492,7 +518,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451859",
+      "fetched_at": "2026-10-30T05:35:42.680357",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -518,7 +544,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.553680",
+      "fetched_at": "2026-10-30T05:35:42.775231",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -622,7 +648,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826078",
+      "fetched_at": "2026-10-30T05:35:43.032142",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -699,7 +725,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.006160",
+      "fetched_at": "2026-10-30T05:35:43.153623",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -751,7 +777,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451668",
+      "fetched_at": "2026-10-30T05:35:42.680214",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -777,7 +803,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.743384",
+      "fetched_at": "2026-10-30T05:35:42.820488",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -803,7 +829,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.004338",
+      "fetched_at": "2026-10-30T05:35:43.152656",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -829,7 +855,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.253413",
+      "fetched_at": "2026-10-30T05:35:42.400269",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -881,7 +907,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452025",
+      "fetched_at": "2026-10-30T05:35:42.680466",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -907,7 +933,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452183",
+      "fetched_at": "2026-10-30T05:35:42.680565",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -933,7 +959,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452339",
+      "fetched_at": "2026-10-30T05:35:42.680659",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -987,7 +1013,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826716",
+      "fetched_at": "2026-10-30T05:35:43.032561",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -1064,7 +1090,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.004717",
+      "fetched_at": "2026-10-30T05:35:43.152904",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1090,7 +1116,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005618",
+      "fetched_at": "2026-10-30T05:35:43.153328",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1116,7 +1142,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005997",
+      "fetched_at": "2026-10-30T05:35:43.153532",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1223,7 +1249,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.004542",
+      "fetched_at": "2026-10-30T05:35:43.152793",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1249,7 +1275,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.004916",
+      "fetched_at": "2026-10-30T05:35:43.153008",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1301,7 +1327,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005435",
+      "fetched_at": "2026-10-30T05:35:43.153210",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1327,7 +1353,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.827214",
+      "fetched_at": "2026-10-30T05:35:43.032944",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -1353,7 +1379,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.253977",
+      "fetched_at": "2026-10-30T05:35:42.400653",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -1379,7 +1405,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452492",
+      "fetched_at": "2026-10-30T05:35:42.680749",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1431,7 +1457,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.633650",
+      "fetched_at": "2026-10-30T05:35:42.694940",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -1583,7 +1609,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.510241",
+      "fetched_at": "2026-10-30T05:35:42.590442",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -1635,7 +1661,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.253780",
+      "fetched_at": "2026-10-30T05:35:42.400544",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -1661,7 +1687,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.255368",
+      "fetched_at": "2026-10-30T05:35:42.401651",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -1687,7 +1713,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.254984",
+      "fetched_at": "2026-10-30T05:35:42.401448",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -1713,7 +1739,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:20.380254",
+      "fetched_at": "2026-10-30T05:35:42.775613",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1739,7 +1765,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452645",
+      "fetched_at": "2026-10-30T05:35:42.680838",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1765,7 +1791,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452822",
+      "fetched_at": "2026-10-30T05:35:42.680928",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1791,7 +1817,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:20.380490",
+      "fetched_at": "2026-10-30T05:35:42.776086",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1869,7 +1895,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.154615",
+      "fetched_at": "2026-10-30T05:35:43.272873",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -1895,7 +1921,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.988738",
+      "fetched_at": "2026-10-30T05:35:42.111464",
       "extra": {
         "provider": "google_news",
         "query": "中国 教会 基督徒 聚会",
@@ -1921,7 +1947,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.743571",
+      "fetched_at": "2026-10-30T05:35:42.820613",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -2050,7 +2076,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.154430",
+      "fetched_at": "2026-10-30T05:35:43.272744",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -2102,7 +2128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.743743",
+      "fetched_at": "2026-10-30T05:35:42.820723",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -2128,7 +2154,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.254140",
+      "fetched_at": "2026-10-30T05:35:42.400754",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2206,7 +2232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:19.797102",
+      "fetched_at": "2026-10-30T05:35:42.199018",
       "extra": {
         "provider": "google_news",
         "query": "改革宗 神学 翻译 教会",
@@ -2232,7 +2258,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.554439",
+      "fetched_at": "2026-10-30T05:35:42.776406",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -2292,6 +2318,32 @@
       }
     },
     {
+      "title": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcjE3Vk9Mc2lZd3lUVGN1YVUtVVoyTC0zdmVZbXJLdm43RElXVXNiNmNTUmdVNlhGcnVKNVA3ekRGR2pDMVZTX3U1VlRBOGd0U0ZlWm9Eanptdm52LTZvQ2VzSlFnWEg5eWpUQjJTUlNZVV9jWlBaTnh0aEVKcVFWZUE1ZVp3WjNWZW5TcGZiUlpDdWQ0Z2YxOWZndGNZdTBHdm1yZlMyUHNWTEpMM1ZDd3huRURYaGdUUlBabGVCajJiUUNzakgyUTJuZGU3dFIyNDR6Z0hfNEdVRjY4dHBWTXBB?oc=5",
+      "category": "church",
+      "source": "中东教会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-06",
+      "summary": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity International Christian Concern",
+      "summary_zh": "消失的基督教中东，第五部分：圣地--当基督徒离开基督教的诞生地时",
+      "title_zh": "消失的基督教中东，第五部分：圣地—当基督徒离开基督教的诞生地",
+      "content": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:42.400871",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East church Christians",
+        "publisher": "International Christian Concern"
+      }
+    },
+    {
       "title": "European Regions’ Meeting opens in Augsburg",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91ajBZbV8yQkhBX1oxZDZ1S3RLS29IdEJwZnhfQ041dFJWcDdkSGwyT3A4V3ZuU2RLR3RfQ2FVWDRESTFuVDVPOFgtWWpCMjZaM01LQ3Y4a3pJdkZLM0owUWxxTi10ekdzc0RTbjRqNTVaUkRRVXhxMFd3?oc=5",
       "category": "church",
@@ -2336,7 +2388,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.512312",
+      "fetched_at": "2026-10-30T05:35:42.591075",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -2466,7 +2518,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.318944",
+      "fetched_at": "2026-10-30T05:35:42.131989",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -2492,7 +2544,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.553920",
+      "fetched_at": "2026-10-30T05:35:42.775442",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -2518,7 +2570,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.554112",
+      "fetched_at": "2026-10-30T05:35:42.775928",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -2700,7 +2752,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.743938",
+      "fetched_at": "2026-10-30T05:35:42.820827",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -2804,7 +2856,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.254647",
+      "fetched_at": "2026-10-30T05:35:42.401086",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2830,7 +2882,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.855593",
+      "fetched_at": "2026-10-30T05:35:42.776706",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -2908,11 +2960,37 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.255181",
+      "fetched_at": "2026-10-30T05:35:42.401555",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "World Council of Churches"
+      }
+    },
+    {
+      "title": "LWF Center Wittenberg continues to welcome people from all over the world",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWtEcHVtdXQtZ2JVLUxTTE0wUHNMd0h3NTloUWlFcC1CbG14VXk5Ni1Lb1ltLWViUWdXb0Vmb2JFWXA2clhnWjJmbUFLTkd6V01xVWxIQmpycEota3h4RDE3T1NvOFIwYnlBVUdjVzhTdDMxbW1QWmVKZzdFMnhYQ2pMYUI5ZElXMTdZaVU2T1lwbDJCMDNj?oc=5",
+      "category": "church",
+      "source": "Lutheran World Federation",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-11",
+      "summary": "LWF Center Wittenberg continues to welcome people from all over the world The Lutheran World Federation",
+      "summary_zh": "维滕贝格 LWF 中心继续欢迎来自世界各地的人们 路德教世界联合会",
+      "title_zh": "",
+      "content": "",
+      "author": "The Lutheran World Federation",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:42.776562",
+      "extra": {
+        "provider": "google_news",
+        "query": "Lutheran World Federation",
+        "publisher": "The Lutheran World Federation"
       }
     },
     {
@@ -2960,7 +3038,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.155490",
+      "fetched_at": "2026-10-30T05:35:43.273392",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -2986,7 +3064,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:26.233224",
+      "fetched_at": "2026-10-30T05:35:42.695269",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -3012,7 +3090,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.156025",
+      "fetched_at": "2026-10-30T05:35:43.273582",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -3038,7 +3116,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.554277",
+      "fetched_at": "2026-10-30T05:35:42.776236",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -3116,7 +3194,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.254489",
+      "fetched_at": "2026-10-30T05:35:42.400975",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -3142,7 +3220,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:57.925600",
+      "fetched_at": "2026-10-30T05:35:42.730657",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
@@ -3168,7 +3246,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.634107",
+      "fetched_at": "2026-10-30T05:35:42.695413",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -3220,7 +3298,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.154789",
+      "fetched_at": "2026-10-30T05:35:43.272981",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -3246,7 +3324,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.744440",
+      "fetched_at": "2026-10-30T05:35:42.821144",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -3298,7 +3376,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:26.196575",
+      "fetched_at": "2026-10-30T05:35:42.730216",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
@@ -3324,7 +3402,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.634783",
+      "fetched_at": "2026-10-30T05:35:42.695846",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -3376,7 +3454,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.319708",
+      "fetched_at": "2026-10-30T05:35:42.131634",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -3453,7 +3531,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:26.196732",
+      "fetched_at": "2026-10-30T05:35:42.730342",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
@@ -3505,7 +3583,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:26.197049",
+      "fetched_at": "2026-10-30T05:35:42.730563",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
@@ -3531,7 +3609,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.744601",
+      "fetched_at": "2026-10-30T05:35:42.821241",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -3605,7 +3683,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.673831",
+      "fetched_at": "2026-10-30T05:35:42.617106",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Journal church",
@@ -3631,7 +3709,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.334915",
+      "fetched_at": "2026-10-30T05:35:42.131775",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",

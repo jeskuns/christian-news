@@ -2,7 +2,7 @@
   "category": "culture",
   "label": "文化媒体",
   "count": 31,
-  "updated_at": "2026-10-30T13:24:56.588692+08:00",
+  "updated_at": "2026-10-30T13:39:40.968373+08:00",
   "articles": [
     {
       "title": "Best Practices from Evangelistically Effective Churches",
@@ -27,7 +27,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446731",
+      "fetched_at": "2026-10-30T05:35:44.050523",
       "extra": {
         "feed_type": "rss20"
       }
@@ -60,7 +60,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446920",
+      "fetched_at": "2026-10-30T05:35:44.050626",
       "extra": {
         "feed_type": "rss20"
       }
@@ -88,7 +88,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.447065",
+      "fetched_at": "2026-10-30T05:35:44.050729",
       "extra": {
         "feed_type": "rss20"
       }
@@ -117,7 +117,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.447652",
+      "fetched_at": "2026-10-30T05:35:44.050837",
       "extra": {
         "feed_type": "rss20"
       }
@@ -144,7 +144,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.447877",
+      "fetched_at": "2026-10-30T05:35:44.050932",
       "extra": {
         "feed_type": "rss20"
       }
@@ -172,7 +172,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.448639",
+      "fetched_at": "2026-10-30T05:35:44.051022",
       "extra": {
         "feed_type": "rss20"
       }
@@ -204,7 +204,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.448873",
+      "fetched_at": "2026-10-30T05:35:44.051118",
       "extra": {
         "feed_type": "rss20"
       }
@@ -233,7 +233,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449040",
+      "fetched_at": "2026-10-30T05:35:44.051209",
       "extra": {
         "feed_type": "rss20"
       }
@@ -261,7 +261,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449199",
+      "fetched_at": "2026-10-30T05:35:44.051333",
       "extra": {
         "feed_type": "rss20"
       }
@@ -290,7 +290,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449348",
+      "fetched_at": "2026-10-30T05:35:44.051437",
       "extra": {
         "feed_type": "rss20"
       }
@@ -321,7 +321,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449492",
+      "fetched_at": "2026-10-30T05:35:44.051530",
       "extra": {
         "feed_type": "rss20"
       }
@@ -351,7 +351,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449634",
+      "fetched_at": "2026-10-30T05:35:44.051622",
       "extra": {
         "feed_type": "rss20"
       }
@@ -381,7 +381,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446230",
+      "fetched_at": "2026-10-30T05:35:44.050149",
       "extra": {
         "feed_type": "rss20"
       }
@@ -412,7 +412,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446410",
+      "fetched_at": "2026-10-30T05:35:44.050283",
       "extra": {
         "feed_type": "rss20"
       }
@@ -443,7 +443,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446571",
+      "fetched_at": "2026-10-30T05:35:44.050414",
       "extra": {
         "feed_type": "rss20"
       }
@@ -554,7 +554,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.748780",
+      "fetched_at": "2026-10-30T05:35:44.861888",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -580,7 +580,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.915216",
+      "fetched_at": "2026-10-30T05:35:44.273329",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
@@ -657,7 +657,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.203733",
+      "fetched_at": "2026-10-30T05:35:44.438421",
       "extra": {
         "provider": "google_news",
         "query": "赞美之泉 诗歌 敬拜",
@@ -735,7 +735,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.636483",
+      "fetched_at": "2026-10-30T05:35:44.755020",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 婚姻 家庭 亲子",

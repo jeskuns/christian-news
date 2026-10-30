@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-30T13:24:56.566889+08:00",
-  "total": 569,
+  "updated_at": "2026-10-30T13:39:40.950718+08:00",
+  "total": 573,
   "featured_count": 234,
   "categories": {
-    "mission": 41,
+    "mission": 42,
     "culture": 31,
     "theology": 43,
     "wiki": 45,
     "news": 136,
     "persecution": 115,
-    "church": 141,
+    "church": 144,
     "heresy": 17
   },
   "regions": {
@@ -30,26 +30,26 @@
     "Religion News Service": 20,
     "World News (Christian)": 37,
     "基督教论坛报": 1,
-    "Open Doors": 22,
+    "Open Doors": 23,
     "Baptist News Global": 14,
-    "卫理公会": 25,
+    "卫理公会": 26,
     "摩门教 LDS": 16,
-    "基督徒逼迫（国际）": 18,
+    "基督徒逼迫（国际）": 19,
     "普世教会新闻": 24,
     "基督教今日": 7,
-    "Release International": 6,
+    "Release International": 5,
     "尼日利亚逼迫": 7,
-    "中东逼迫": 13,
+    "中东逼迫": 12,
     "美南浸信会 SBC": 11,
     "东正教": 15,
     "CSW 宗教自由": 13,
     "殉道者声音": 5,
     "朝鲜基督徒": 6,
-    "Lutheran World Federation": 15,
+    "Lutheran World Federation": 16,
     "Vatican News": 15,
     "海外校园": 2,
     "路德会 LCMS": 7,
-    "中东教会": 12,
+    "中东教会": 13,
     "教会增长（国际）": 8,
     "亚洲基督教新闻": 7,
     "USCIRF": 5,
@@ -76,6 +76,7 @@
     "Wycliffe Bible Translators": 3,
     "基督教电影": 1,
     "改革宗神学翻译社": 1,
+    "Frontiers 伊斯兰宣教": 3,
     "基督邮报中文": 2,
     "基督徒婚姻家庭": 1,
     "基督日报": 1,
@@ -94,7 +95,6 @@
     "中国基督教两会": 1,
     "未得之民": 1,
     "神学与文化": 2,
-    "Frontiers 伊斯兰宣教": 2,
     "Themelios": 1,
     "示例 · 中东基督教遗产保护": 1
   },
@@ -120,7 +120,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.139583",
+      "fetched_at": "2026-10-30T05:35:41.224854",
       "extra": {
         "feed_type": "rss20"
       }
@@ -146,7 +146,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.139680",
+      "fetched_at": "2026-10-30T05:35:41.224926",
       "extra": {
         "feed_type": "rss20"
       }
@@ -172,7 +172,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.139832",
+      "fetched_at": "2026-10-30T05:35:41.225019",
       "extra": {
         "feed_type": "rss20"
       }
@@ -198,7 +198,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.139923",
+      "fetched_at": "2026-10-30T05:35:41.225072",
       "extra": {
         "feed_type": "rss20"
       }
@@ -224,7 +224,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140003",
+      "fetched_at": "2026-10-30T05:35:41.225120",
       "extra": {
         "feed_type": "rss20"
       }
@@ -251,7 +251,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140081",
+      "fetched_at": "2026-10-30T05:35:41.225166",
       "extra": {
         "feed_type": "rss20"
       }
@@ -280,7 +280,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140172",
+      "fetched_at": "2026-10-30T05:35:41.225223",
       "extra": {
         "feed_type": "rss20"
       }
@@ -311,7 +311,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140644",
+      "fetched_at": "2026-10-30T05:35:41.225289",
       "extra": {
         "feed_type": "rss20"
       }
@@ -343,7 +343,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140732",
+      "fetched_at": "2026-10-30T05:35:41.225366",
       "extra": {
         "feed_type": "rss20"
       }
@@ -375,7 +375,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140837",
+      "fetched_at": "2026-10-30T05:35:41.225416",
       "extra": {
         "feed_type": "rss20"
       }
@@ -403,7 +403,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446731",
+      "fetched_at": "2026-10-30T05:35:44.050523",
       "extra": {
         "feed_type": "rss20"
       }
@@ -436,7 +436,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446920",
+      "fetched_at": "2026-10-30T05:35:44.050626",
       "extra": {
         "feed_type": "rss20"
       }
@@ -464,7 +464,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.447065",
+      "fetched_at": "2026-10-30T05:35:44.050729",
       "extra": {
         "feed_type": "rss20"
       }
@@ -493,7 +493,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.447652",
+      "fetched_at": "2026-10-30T05:35:44.050837",
       "extra": {
         "feed_type": "rss20"
       }
@@ -520,7 +520,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.447877",
+      "fetched_at": "2026-10-30T05:35:44.050932",
       "extra": {
         "feed_type": "rss20"
       }
@@ -548,7 +548,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.448639",
+      "fetched_at": "2026-10-30T05:35:44.051022",
       "extra": {
         "feed_type": "rss20"
       }
@@ -580,7 +580,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.448873",
+      "fetched_at": "2026-10-30T05:35:44.051118",
       "extra": {
         "feed_type": "rss20"
       }
@@ -609,7 +609,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449040",
+      "fetched_at": "2026-10-30T05:35:44.051209",
       "extra": {
         "feed_type": "rss20"
       }
@@ -637,7 +637,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449199",
+      "fetched_at": "2026-10-30T05:35:44.051333",
       "extra": {
         "feed_type": "rss20"
       }
@@ -666,7 +666,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449348",
+      "fetched_at": "2026-10-30T05:35:44.051437",
       "extra": {
         "feed_type": "rss20"
       }
@@ -697,7 +697,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449492",
+      "fetched_at": "2026-10-30T05:35:44.051530",
       "extra": {
         "feed_type": "rss20"
       }
@@ -727,7 +727,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449634",
+      "fetched_at": "2026-10-30T05:35:44.051622",
       "extra": {
         "feed_type": "rss20"
       }
@@ -751,7 +751,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.340661",
+      "fetched_at": "2026-10-30T05:35:44.200937",
       "extra": {
         "feed_type": "rss20"
       }
@@ -775,7 +775,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.344664",
+      "fetched_at": "2026-10-30T05:35:44.203525",
       "extra": {
         "feed_type": "rss20"
       }
@@ -799,7 +799,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.350307",
+      "fetched_at": "2026-10-30T05:35:44.205932",
       "extra": {
         "feed_type": "rss20"
       }
@@ -823,7 +823,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.353496",
+      "fetched_at": "2026-10-30T05:35:44.209314",
       "extra": {
         "feed_type": "rss20"
       }
@@ -847,7 +847,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.363926",
+      "fetched_at": "2026-10-30T05:35:44.216888",
       "extra": {
         "feed_type": "rss20"
       }
@@ -871,7 +871,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.169560",
+      "fetched_at": "2026-10-30T05:35:45.127884",
       "extra": {
         "wordcount": 7969
       }
@@ -895,7 +895,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.169584",
+      "fetched_at": "2026-10-30T05:35:45.127902",
       "extra": {
         "wordcount": 31085
       }
@@ -919,7 +919,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.169607",
+      "fetched_at": "2026-10-30T05:35:45.127918",
       "extra": {
         "wordcount": 24144
       }
@@ -943,7 +943,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.169636",
+      "fetched_at": "2026-10-30T05:35:45.127938",
       "extra": {
         "wordcount": 30107
       }
@@ -967,7 +967,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.411317",
+      "fetched_at": "2026-10-30T05:35:45.298577",
       "extra": {
         "wordcount": 11792
       }
@@ -991,7 +991,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.411341",
+      "fetched_at": "2026-10-30T05:35:45.298595",
       "extra": {
         "wordcount": 495
       }
@@ -1015,7 +1015,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.411364",
+      "fetched_at": "2026-10-30T05:35:45.298612",
       "extra": {
         "wordcount": 6250
       }
@@ -1039,7 +1039,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.411385",
+      "fetched_at": "2026-10-30T05:35:45.298627",
       "extra": {
         "wordcount": 18768
       }
@@ -1063,7 +1063,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.680387",
+      "fetched_at": "2026-10-30T05:35:45.477749",
       "extra": {
         "wordcount": 9802
       }
@@ -1087,7 +1087,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.680417",
+      "fetched_at": "2026-10-30T05:35:45.477770",
       "extra": {
         "wordcount": 2815
       }
@@ -1111,7 +1111,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.680449",
+      "fetched_at": "2026-10-30T05:35:45.477790",
       "extra": {
         "wordcount": 156
       }
@@ -1135,7 +1135,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.680467",
+      "fetched_at": "2026-10-30T05:35:45.477802",
       "extra": {
         "wordcount": 266
       }
@@ -1159,7 +1159,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.947911",
+      "fetched_at": "2026-10-30T05:35:45.778102",
       "extra": {
         "wordcount": 6733
       }
@@ -1183,7 +1183,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.947944",
+      "fetched_at": "2026-10-30T05:35:45.778129",
       "extra": {
         "wordcount": 229
       }
@@ -1207,7 +1207,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.947969",
+      "fetched_at": "2026-10-30T05:35:45.778147",
       "extra": {
         "wordcount": 3907
       }
@@ -1231,7 +1231,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.947987",
+      "fetched_at": "2026-10-30T05:35:45.778160",
       "extra": {
         "wordcount": 1263
       }
@@ -1255,7 +1255,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.217592",
+      "fetched_at": "2026-10-30T05:35:45.975007",
       "extra": {
         "wordcount": 3872
       }
@@ -1279,7 +1279,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.217611",
+      "fetched_at": "2026-10-30T05:35:45.975029",
       "extra": {
         "wordcount": 676
       }
@@ -1303,7 +1303,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.217633",
+      "fetched_at": "2026-10-30T05:35:45.975052",
       "extra": {
         "wordcount": 1171
       }
@@ -1327,7 +1327,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.144584",
+      "fetched_at": "2026-10-30T05:35:45.069889",
       "extra": {
         "wordcount": 33525
       }
@@ -1351,7 +1351,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.144629",
+      "fetched_at": "2026-10-30T05:35:45.069918",
       "extra": {
         "wordcount": 9229
       }
@@ -1375,7 +1375,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.144608",
+      "fetched_at": "2026-10-30T05:35:45.069905",
       "extra": {
         "wordcount": 13167
       }
@@ -1399,7 +1399,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.144651",
+      "fetched_at": "2026-10-30T05:35:45.069932",
       "extra": {
         "wordcount": 2469
       }
@@ -1423,7 +1423,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.501236",
+      "fetched_at": "2026-10-30T05:35:45.285614",
       "extra": {
         "wordcount": 29554
       }
@@ -1447,7 +1447,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.501287",
+      "fetched_at": "2026-10-30T05:35:45.285642",
       "extra": {
         "wordcount": 31255
       }
@@ -1471,7 +1471,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.501256",
+      "fetched_at": "2026-10-30T05:35:45.285654",
       "extra": {
         "wordcount": 5737
       }
@@ -1495,7 +1495,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.501273",
+      "fetched_at": "2026-10-30T05:35:45.285630",
       "extra": {
         "wordcount": 3118
       }
@@ -1519,7 +1519,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.994428",
+      "fetched_at": "2026-10-30T05:35:45.630814",
       "extra": {
         "wordcount": 24771
       }
@@ -1543,7 +1543,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.994453",
+      "fetched_at": "2026-10-30T05:35:45.630831",
       "extra": {
         "wordcount": 9244
       }
@@ -1567,7 +1567,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.994472",
+      "fetched_at": "2026-10-30T05:35:45.630844",
       "extra": {
         "wordcount": 8701
       }
@@ -1591,7 +1591,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.994492",
+      "fetched_at": "2026-10-30T05:35:45.630859",
       "extra": {
         "wordcount": 5010
       }
@@ -1615,7 +1615,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.390324",
+      "fetched_at": "2026-10-30T05:35:45.949914",
       "extra": {
         "wordcount": 26795
       }
@@ -1639,7 +1639,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.390347",
+      "fetched_at": "2026-10-30T05:35:45.949932",
       "extra": {
         "wordcount": 3170
       }
@@ -1663,7 +1663,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.390368",
+      "fetched_at": "2026-10-30T05:35:45.949961",
       "extra": {
         "wordcount": 7689
       }
@@ -1687,7 +1687,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.390386",
+      "fetched_at": "2026-10-30T05:35:45.949947",
       "extra": {
         "wordcount": 1499
       }
@@ -1711,7 +1711,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.729496",
+      "fetched_at": "2026-10-30T05:35:46.148255",
       "extra": {
         "wordcount": 23130
       }
@@ -1735,7 +1735,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.729578",
+      "fetched_at": "2026-10-30T05:35:46.148276",
       "extra": {
         "wordcount": 8302
       }
@@ -1759,7 +1759,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.729534",
+      "fetched_at": "2026-10-30T05:35:46.148322",
       "extra": {
         "wordcount": 348
       }
@@ -1783,7 +1783,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.729555",
+      "fetched_at": "2026-10-30T05:35:46.148336",
       "extra": {
         "wordcount": 252
       }
@@ -1807,7 +1807,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.217661",
+      "fetched_at": "2026-10-30T05:35:45.975082",
       "extra": {
         "wordcount": 35486
       }
@@ -1849,7 +1849,7 @@
         "跨性别"
       ],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347317",
+      "fetched_at": "2026-10-30T05:35:39.547095",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1889,7 +1889,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347496",
+      "fetched_at": "2026-10-30T05:35:39.547214",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1930,7 +1930,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347610",
+      "fetched_at": "2026-10-30T05:35:39.547307",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1984,7 +1984,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347725",
+      "fetched_at": "2026-10-30T05:35:39.547385",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2019,7 +2019,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347851",
+      "fetched_at": "2026-10-30T05:35:39.547454",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2059,7 +2059,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347954",
+      "fetched_at": "2026-10-30T05:35:39.547516",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2097,7 +2097,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348048",
+      "fetched_at": "2026-10-30T05:35:39.547574",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2135,7 +2135,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348139",
+      "fetched_at": "2026-10-30T05:35:39.547631",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2172,7 +2172,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348229",
+      "fetched_at": "2026-10-30T05:35:39.547686",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2210,7 +2210,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348321",
+      "fetched_at": "2026-10-30T05:35:39.547743",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2234,7 +2234,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796810",
+      "fetched_at": "2026-10-30T05:35:39.987731",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2260,7 +2260,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.795948",
+      "fetched_at": "2026-10-30T05:35:39.987376",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2286,7 +2286,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.365699",
+      "fetched_at": "2026-10-30T05:35:44.218637",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2310,7 +2310,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.368696",
+      "fetched_at": "2026-10-30T05:35:44.221668",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2334,7 +2334,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.371688",
+      "fetched_at": "2026-10-30T05:35:44.224640",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2358,7 +2358,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.380151",
+      "fetched_at": "2026-10-30T05:35:44.231331",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2382,7 +2382,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.384109",
+      "fetched_at": "2026-10-30T05:35:44.233562",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2412,7 +2412,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446230",
+      "fetched_at": "2026-10-30T05:35:44.050149",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2443,7 +2443,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446410",
+      "fetched_at": "2026-10-30T05:35:44.050283",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2474,7 +2474,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446571",
+      "fetched_at": "2026-10-30T05:35:44.050414",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2498,7 +2498,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796978",
+      "fetched_at": "2026-10-30T05:35:39.987937",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2524,7 +2524,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796311",
+      "fetched_at": "2026-10-30T05:35:39.987512",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2576,7 +2576,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.871893",
+      "fetched_at": "2026-10-30T05:35:40.392639",
       "extra": {
         "provider": "google_news",
         "query": "基督教论坛报 新闻 教会",
@@ -2602,7 +2602,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.415897",
+      "fetched_at": "2026-10-30T05:35:40.657712",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2628,7 +2628,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451499",
+      "fetched_at": "2026-10-30T05:35:42.680101",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -3475,7 +3475,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.941648",
+      "fetched_at": "2026-10-30T05:35:39.988153",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -3605,7 +3605,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.682194",
+      "fetched_at": "2026-10-30T05:35:40.773318",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -3657,7 +3657,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.853879",
+      "fetched_at": "2026-10-30T05:35:45.530567",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -3785,7 +3785,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796141",
+      "fetched_at": "2026-10-30T05:35:39.986910",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -3811,7 +3811,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796632",
+      "fetched_at": "2026-10-30T05:35:39.987623",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -3837,7 +3837,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797785",
+      "fetched_at": "2026-10-30T05:35:39.988461",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -3863,7 +3863,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797971",
+      "fetched_at": "2026-10-30T05:35:39.988553",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -3889,7 +3889,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797482",
+      "fetched_at": "2026-10-30T05:35:39.988249",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -3941,7 +3941,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797632",
+      "fetched_at": "2026-10-30T05:35:39.988365",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -3967,7 +3967,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797154",
+      "fetched_at": "2026-10-30T05:35:39.988055",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -3993,7 +3993,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.798139",
+      "fetched_at": "2026-10-30T05:35:39.988656",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -4019,7 +4019,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118151",
+      "fetched_at": "2026-10-30T05:35:40.438587",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -4045,7 +4045,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118337",
+      "fetched_at": "2026-10-30T05:35:40.438714",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -4071,7 +4071,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118503",
+      "fetched_at": "2026-10-30T05:35:40.438823",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -4097,7 +4097,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118863",
+      "fetched_at": "2026-10-30T05:35:40.439046",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -4123,7 +4123,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119355",
+      "fetched_at": "2026-10-30T05:35:40.439356",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -4149,7 +4149,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119681",
+      "fetched_at": "2026-10-30T05:35:40.439585",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -4175,7 +4175,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681703",
+      "fetched_at": "2026-10-30T05:35:40.773124",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -4201,7 +4201,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.548420",
+      "fetched_at": "2026-10-30T05:35:40.506747",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -4227,7 +4227,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.416087",
+      "fetched_at": "2026-10-30T05:35:40.657837",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -4253,7 +4253,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.615847",
+      "fetched_at": "2026-10-30T05:35:41.083708",
       "extra": {
         "provider": "google_news",
         "query": "Release International persecution Christians",
@@ -4279,7 +4279,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.932557",
+      "fetched_at": "2026-10-30T05:35:40.990532",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -4357,7 +4357,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.510049",
+      "fetched_at": "2026-10-30T05:35:42.590275",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -4383,7 +4383,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.825884",
+      "fetched_at": "2026-10-30T05:35:43.032004",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -4409,7 +4409,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826406",
+      "fetched_at": "2026-10-30T05:35:43.032365",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -4435,7 +4435,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826908",
+      "fetched_at": "2026-10-30T05:35:43.032668",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -4513,7 +4513,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.827063",
+      "fetched_at": "2026-10-30T05:35:43.032854",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -4541,7 +4541,7 @@
         "同性婚姻"
       ],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005086",
+      "fetched_at": "2026-10-30T05:35:43.153112",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -4567,7 +4567,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005785",
+      "fetched_at": "2026-10-30T05:35:43.153437",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -4593,7 +4593,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854078",
+      "fetched_at": "2026-10-30T05:35:45.530702",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -4619,7 +4619,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.797325",
+      "fetched_at": "2026-10-30T05:35:39.987838",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -4645,7 +4645,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451307",
+      "fetched_at": "2026-10-30T05:35:42.679942",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -4671,7 +4671,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826247",
+      "fetched_at": "2026-10-30T05:35:43.032251",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -4697,11 +4697,37 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826562",
+      "fetched_at": "2026-10-30T05:35:43.032464",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
         "publisher": "Baptist News Global"
+      }
+    },
+    {
+      "title": "Highland Park UMC votes to leave denomination, bishop removes senior pastor",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWUtMX2VobTZMcGp2cjhXcmNLOFJQSm5wdXRHMkJaNUpVMjVZT01UemdFOWptalp6bWtUQ3I2YjVjOGl1OFdGODZLbU5SN0RfTmlHODd5WlROaVRjR19WMTNTU3dzMzZ4N1E1V0tNeUw5cU8za1MtR1RtY0dQaE4zRml4Y1ZHVHh2WW1yVlpxSS14aUhPRlhuXzA1WG0xTmdPdlNCUkdsTkg0cTV4M3ZuNVRRcGFjSWJGXzFENEhhNVA1T2hzNkZYT2ZpR2lzZXlLdmNfUTBjUDM4b3pYZHYtNHdxQnZaYnFhRGh1NmFkUQ?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Highland Park UMC votes to leave denomination, bishop removes senior pastor The Daily Campus",
+      "summary_zh": "Highland Park UMC 投票决定离开教派，主教罢免主任牧师 - 每日校园",
+      "title_zh": "",
+      "content": "",
+      "author": "The Daily Campus",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:43.032762",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "The Daily Campus"
       }
     },
     {
@@ -4801,7 +4827,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681242",
+      "fetched_at": "2026-10-30T05:35:40.772849",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -4930,7 +4956,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681396",
+      "fetched_at": "2026-10-30T05:35:40.772942",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -4956,7 +4982,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.660787",
+      "fetched_at": "2026-10-30T05:35:40.773420",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -5032,7 +5058,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.680398",
+      "fetched_at": "2026-10-30T05:35:40.772341",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -5058,7 +5084,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.660947",
+      "fetched_at": "2026-10-30T05:35:40.773513",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -5084,7 +5110,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681551",
+      "fetched_at": "2026-10-30T05:35:40.773034",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -5110,7 +5136,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.682043",
+      "fetched_at": "2026-10-30T05:35:40.773214",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -5187,7 +5213,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.740623",
+      "fetched_at": "2026-10-30T05:35:41.020158",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -5213,7 +5239,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.232651",
+      "fetched_at": "2026-10-30T05:35:41.413502",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
@@ -5239,7 +5265,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.510583",
+      "fetched_at": "2026-10-30T05:35:42.590659",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -5265,7 +5291,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451859",
+      "fetched_at": "2026-10-30T05:35:42.680357",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -5291,7 +5317,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.553680",
+      "fetched_at": "2026-10-30T05:35:42.775231",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -5395,7 +5421,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826078",
+      "fetched_at": "2026-10-30T05:35:43.032142",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -5472,7 +5498,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.006160",
+      "fetched_at": "2026-10-30T05:35:43.153623",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -5549,7 +5575,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854425",
+      "fetched_at": "2026-10-30T05:35:45.530933",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -5600,7 +5626,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.417635",
+      "fetched_at": "2026-10-30T05:35:40.918412",
       "extra": {
         "provider": "google_news",
         "query": "Christian Solidarity Worldwide religious freedom",
@@ -5652,7 +5678,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451668",
+      "fetched_at": "2026-10-30T05:35:42.680214",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -5678,7 +5704,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.516975",
+      "fetched_at": "2026-10-30T05:35:39.800660",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -5704,7 +5730,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.857325",
+      "fetched_at": "2026-10-30T05:35:40.167152",
       "extra": {
         "provider": "google_news",
         "query": "海外校园 基督 信仰 华人",
@@ -5730,7 +5756,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.118677",
+      "fetched_at": "2026-10-30T05:35:40.438940",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -5756,7 +5782,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.743384",
+      "fetched_at": "2026-10-30T05:35:42.820488",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -5782,7 +5808,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.517209",
+      "fetched_at": "2026-10-30T05:35:39.800834",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -5808,7 +5834,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796473",
+      "fetched_at": "2026-10-30T05:35:39.987042",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -5857,7 +5883,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.680560",
+      "fetched_at": "2026-10-30T05:35:40.772538",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -5883,7 +5909,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.004338",
+      "fetched_at": "2026-10-30T05:35:43.152656",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -5909,7 +5935,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.680722",
+      "fetched_at": "2026-10-30T05:35:40.772443",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -5920,7 +5946,7 @@
       "title": "Pastor Jin’s Release Does Not End China’s Persecution of Christians",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVNmZVRFdWVGSXptTUtwN1NBcUlPTW9JOUx5UGFZWDVucXhEcDRSaXBNUkJvd0V1LWUycTc4QnVHd3FzMlpYZ2hJdXY2QUJCUEdJX3NISzVoVGtJMFVJeXpfazVVVWFBbXNDRHpsV0ZLWHMxYjcxRUlmVUZGTkVKalRvY1hsSXpzZ3p6bFVTMDFOUWVBZVVrbW9DdUtFc1ZSYWhZ?oc=5",
       "category": "persecution",
-      "source": "Release International",
+      "source": "基督徒逼迫（国际）",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Pastor Jin’s Release Does Not End China’s Persecution of Christians International Christian Concern",
@@ -5930,15 +5956,15 @@
       "author": "International Christian Concern",
       "tags": [],
       "language": "en",
-      "country": "GB",
+      "country": "US",
       "region": "",
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.616053",
+      "fetched_at": "2026-10-30T05:35:40.772650",
       "extra": {
         "provider": "google_news",
-        "query": "Release International persecution Christians",
+        "query": "persecution of Christians religious freedom",
         "publisher": "International Christian Concern"
       }
     },
@@ -5961,7 +5987,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681086",
+      "fetched_at": "2026-10-30T05:35:40.772753",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -5987,7 +6013,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.253413",
+      "fetched_at": "2026-10-30T05:35:42.400269",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -6062,7 +6088,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119195",
+      "fetched_at": "2026-10-30T05:35:40.439236",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -6088,7 +6114,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119873",
+      "fetched_at": "2026-10-30T05:35:40.439688",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -6140,7 +6166,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.227451",
+      "fetched_at": "2026-10-30T05:35:40.582426",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -6166,7 +6192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.227266",
+      "fetched_at": "2026-10-30T05:35:40.582285",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -6217,7 +6243,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.740457",
+      "fetched_at": "2026-10-30T05:35:41.020047",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -6243,7 +6269,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.820880",
+      "fetched_at": "2026-10-30T05:35:41.162552",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -6269,7 +6295,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452025",
+      "fetched_at": "2026-10-30T05:35:42.680466",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -6295,7 +6321,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452183",
+      "fetched_at": "2026-10-30T05:35:42.680565",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -6321,7 +6347,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452339",
+      "fetched_at": "2026-10-30T05:35:42.680659",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -6375,7 +6401,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826716",
+      "fetched_at": "2026-10-30T05:35:43.032561",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -6452,7 +6478,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.004717",
+      "fetched_at": "2026-10-30T05:35:43.152904",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -6478,7 +6504,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005618",
+      "fetched_at": "2026-10-30T05:35:43.153328",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -6504,7 +6530,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005997",
+      "fetched_at": "2026-10-30T05:35:43.153532",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -6555,7 +6581,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854259",
+      "fetched_at": "2026-10-30T05:35:45.530825",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -6581,7 +6607,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.417749",
+      "fetched_at": "2026-10-30T05:35:40.918257",
       "extra": {
         "provider": "google_news",
         "query": "Christian Solidarity Worldwide religious freedom",
@@ -6663,7 +6689,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.004542",
+      "fetched_at": "2026-10-30T05:35:43.152793",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -6689,7 +6715,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.004916",
+      "fetched_at": "2026-10-30T05:35:43.153008",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -6792,7 +6818,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005435",
+      "fetched_at": "2026-10-30T05:35:43.153210",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -6818,7 +6844,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.827214",
+      "fetched_at": "2026-10-30T05:35:43.032944",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -6870,7 +6896,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.253977",
+      "fetched_at": "2026-10-30T05:35:42.400653",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -6896,7 +6922,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.382733",
+      "fetched_at": "2026-10-30T05:35:41.631873",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -6944,7 +6970,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.120032",
+      "fetched_at": "2026-10-30T05:35:40.439785",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -6996,7 +7022,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452492",
+      "fetched_at": "2026-10-30T05:35:42.680749",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -7048,7 +7074,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.633650",
+      "fetched_at": "2026-10-30T05:35:42.694940",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -7149,7 +7175,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.988982",
+      "fetched_at": "2026-10-30T05:35:44.177357",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -7252,7 +7278,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119037",
+      "fetched_at": "2026-10-30T05:35:40.439145",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -7278,7 +7304,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.119513",
+      "fetched_at": "2026-10-30T05:35:40.439455",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -7304,7 +7330,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.416423",
+      "fetched_at": "2026-10-30T05:35:40.657950",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -7330,7 +7356,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.510241",
+      "fetched_at": "2026-10-30T05:35:42.590442",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -7433,7 +7459,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.890450",
+      "fetched_at": "2026-10-30T05:35:41.162781",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -7485,7 +7511,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.857504",
+      "fetched_at": "2026-10-30T05:35:40.167277",
       "extra": {
         "provider": "google_news",
         "query": "海外校园 基督 信仰 华人",
@@ -7511,7 +7537,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.253780",
+      "fetched_at": "2026-10-30T05:35:42.400544",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -7537,7 +7563,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.255368",
+      "fetched_at": "2026-10-30T05:35:42.401651",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -7585,7 +7611,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.517399",
+      "fetched_at": "2026-10-30T05:35:39.800962",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -7611,7 +7637,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.548620",
+      "fetched_at": "2026-10-30T05:35:40.506879",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -7663,7 +7689,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.401033",
+      "fetched_at": "2026-10-30T05:35:42.075460",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -7715,7 +7741,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.748780",
+      "fetched_at": "2026-10-30T05:35:44.861888",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -7767,7 +7793,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.254984",
+      "fetched_at": "2026-10-30T05:35:42.401448",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -7793,7 +7819,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.915216",
+      "fetched_at": "2026-10-30T05:35:44.273329",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
@@ -7845,7 +7871,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519087",
+      "fetched_at": "2026-10-30T05:35:39.801311",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -7871,7 +7897,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:20.380254",
+      "fetched_at": "2026-10-30T05:35:42.775613",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -7949,7 +7975,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.855111",
+      "fetched_at": "2026-10-30T05:35:45.531331",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -8001,7 +8027,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.868878",
+      "fetched_at": "2026-10-30T05:35:42.075594",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -8027,7 +8053,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452645",
+      "fetched_at": "2026-10-30T05:35:42.680838",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -8053,7 +8079,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.452822",
+      "fetched_at": "2026-10-30T05:35:42.680928",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -8079,7 +8105,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:20.380490",
+      "fetched_at": "2026-10-30T05:35:42.776086",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -8157,7 +8183,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.741016",
+      "fetched_at": "2026-10-30T05:35:41.020396",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -8183,7 +8209,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.934636",
+      "fetched_at": "2026-10-30T05:35:40.991526",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -8261,7 +8287,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.549573",
+      "fetched_at": "2026-10-30T05:35:41.610958",
       "extra": {
         "provider": "google_news",
         "query": "学园传道会 校园 福音",
@@ -8313,7 +8339,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.233368",
+      "fetched_at": "2026-10-30T05:35:43.426572",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -8339,7 +8365,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.154615",
+      "fetched_at": "2026-10-30T05:35:43.272873",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -8417,7 +8443,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.988738",
+      "fetched_at": "2026-10-30T05:35:42.111464",
       "extra": {
         "provider": "google_news",
         "query": "中国 教会 基督徒 聚会",
@@ -8443,7 +8469,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.616227",
+      "fetched_at": "2026-10-30T05:35:41.083961",
       "extra": {
         "provider": "google_news",
         "query": "Release International persecution Christians",
@@ -8469,7 +8495,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.743571",
+      "fetched_at": "2026-10-30T05:35:42.820613",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -8594,7 +8620,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.891011",
+      "fetched_at": "2026-10-30T05:35:41.163194",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -8646,7 +8672,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.203733",
+      "fetched_at": "2026-10-30T05:35:44.438421",
       "extra": {
         "provider": "google_news",
         "query": "赞美之泉 诗歌 敬拜",
@@ -8827,7 +8853,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.409136",
+      "fetched_at": "2026-10-30T05:35:43.765587",
       "extra": {
         "provider": "google_news",
         "query": "建道神学院 神学 研究",
@@ -8853,7 +8879,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.154430",
+      "fetched_at": "2026-10-30T05:35:43.272744",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -8905,7 +8931,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.443139",
+      "fetched_at": "2026-10-30T05:35:41.523697",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -9008,7 +9034,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.890565",
+      "fetched_at": "2026-10-30T05:35:41.162674",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -9034,7 +9060,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.187609",
+      "fetched_at": "2026-10-30T05:35:40.616475",
       "extra": {
         "provider": "google_news",
         "query": "Christianity daily news headline",
@@ -9086,7 +9112,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.550013",
+      "fetched_at": "2026-10-30T05:35:39.817250",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -9112,7 +9138,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.518900",
+      "fetched_at": "2026-10-30T05:35:39.801184",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -9138,7 +9164,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.518643",
+      "fetched_at": "2026-10-30T05:35:39.801074",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -9190,7 +9216,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.890779",
+      "fetched_at": "2026-10-30T05:35:41.162989",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -9216,7 +9242,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.743743",
+      "fetched_at": "2026-10-30T05:35:42.820723",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -9242,7 +9268,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.254140",
+      "fetched_at": "2026-10-30T05:35:42.400754",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -9320,7 +9346,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.890674",
+      "fetched_at": "2026-10-30T05:35:41.162887",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -9450,7 +9476,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:19.797102",
+      "fetched_at": "2026-10-30T05:35:42.199018",
       "extra": {
         "provider": "google_news",
         "query": "改革宗 神学 翻译 教会",
@@ -9476,7 +9502,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.382352",
+      "fetched_at": "2026-10-30T05:35:41.631774",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -9502,7 +9528,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.554439",
+      "fetched_at": "2026-10-30T05:35:42.776406",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -9588,10 +9614,36 @@
       }
     },
     {
+      "title": "Tehran",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3RlU0R3b1AxdGxFOFZJZnJJenlObURWWDhzY1RPTWJ6eFJzTHpVaV9SVWlfZlZtSEwybE9CQzVYWmYwMWtpbGcyUTFVX2dWd254VkM3QjcydlIzNENxZGZDZkh6U1pieUkxQXVNTGRBOEtSM0diQXQ0REpETzBJdA?oc=5",
+      "category": "mission",
+      "source": "Frontiers 伊斯兰宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-07",
+      "summary": "Tehran Ministry of Foreign Affairs Malaysia",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Ministry of Foreign Affairs Malaysia",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:41.686498",
+      "extra": {
+        "provider": "google_news",
+        "query": "Frontiers Islamic world mission",
+        "publisher": "Ministry of Foreign Affairs Malaysia"
+      }
+    },
+    {
       "title": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcjE3Vk9Mc2lZd3lUVGN1YVUtVVoyTC0zdmVZbXJLdm43RElXVXNiNmNTUmdVNlhGcnVKNVA3ekRGR2pDMVZTX3U1VlRBOGd0U0ZlWm9Eanptdm52LTZvQ2VzSlFnWEg5eWpUQjJTUlNZVV9jWlBaTnh0aEVKcVFWZUE1ZVp3WjNWZW5TcGZiUlpDdWQ0Z2YxOWZndGNZdTBHdm1yZlMyUHNWTEpMM1ZDd3huRURYaGdUUlBabGVCajJiUUNzakgyUTJuZGU3dFIyNDR6Z0hfNEdVRjY4dHBWTXBB?oc=5",
-      "category": "persecution",
-      "source": "中东逼迫",
+      "category": "church",
+      "source": "中东教会",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-06",
       "summary": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity International Christian Concern",
@@ -9606,10 +9658,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.383130",
+      "fetched_at": "2026-10-30T05:35:42.400871",
       "extra": {
         "provider": "google_news",
-        "query": "Middle East Christians persecution",
+        "query": "Middle East church Christians",
         "publisher": "International Christian Concern"
       }
     },
@@ -9632,7 +9684,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.039094",
+      "fetched_at": "2026-10-30T05:35:40.461225",
       "extra": {
         "provider": "google_news",
         "query": "基督邮报 基督教 新闻",
@@ -9710,7 +9762,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519566",
+      "fetched_at": "2026-10-30T05:35:39.801625",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -9814,7 +9866,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.512312",
+      "fetched_at": "2026-10-30T05:35:42.591075",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -9918,7 +9970,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.939999",
+      "fetched_at": "2026-10-30T05:35:41.631990",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -10048,7 +10100,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.636483",
+      "fetched_at": "2026-10-30T05:35:44.755020",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 婚姻 家庭 亲子",
@@ -10152,7 +10204,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.891175",
+      "fetched_at": "2026-10-30T05:35:41.163402",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -10256,7 +10308,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.318944",
+      "fetched_at": "2026-10-30T05:35:42.131989",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -10334,7 +10386,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.553920",
+      "fetched_at": "2026-10-30T05:35:42.775442",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -10360,7 +10412,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.554112",
+      "fetched_at": "2026-10-30T05:35:42.775928",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -10485,7 +10537,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.507995",
+      "fetched_at": "2026-10-30T05:35:41.388788",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -10769,7 +10821,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519722",
+      "fetched_at": "2026-10-30T05:35:39.801721",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -10821,7 +10873,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.616389",
+      "fetched_at": "2026-10-30T05:35:41.084064",
       "extra": {
         "provider": "google_news",
         "query": "Release International persecution Christians",
@@ -10873,7 +10925,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.743938",
+      "fetched_at": "2026-10-30T05:35:42.820827",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -10899,7 +10951,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519248",
+      "fetched_at": "2026-10-30T05:35:39.801426",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -10999,7 +11051,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.617219",
+      "fetched_at": "2026-10-30T05:35:41.084599",
       "extra": {
         "provider": "google_news",
         "query": "Release International persecution Christians",
@@ -11051,7 +11103,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.416931",
+      "fetched_at": "2026-10-30T05:35:40.658145",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -11207,7 +11259,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.891290",
+      "fetched_at": "2026-10-30T05:35:41.163290",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -11233,7 +11285,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.233182",
+      "fetched_at": "2026-10-30T05:35:41.413975",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
@@ -11259,11 +11311,37 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.990509",
+      "fetched_at": "2026-10-30T05:35:44.177994",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "The Living Church"
+      }
+    },
+    {
+      "title": "Tunisia",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15TTZ2MGswOWt5MkhUQUUzdGdyTjhCemk4OUZpeUxQV2ZNTHJFTkNwZnUyZ1B5MzFjbmluZWFWNXozN0NPamlySHo2VzBmUQ?oc=5",
+      "category": "persecution",
+      "source": "Open Doors",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "Tunisia Open Doors International",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Open Doors International",
+      "tags": [],
+      "language": "en",
+      "country": "NL",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:40.658348",
+      "extra": {
+        "provider": "google_news",
+        "query": "Open Doors persecution Christians",
+        "publisher": "Open Doors International"
       }
     },
     {
@@ -11308,7 +11386,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.035746",
+      "fetched_at": "2026-10-30T05:35:43.089105",
       "extra": {
         "provider": "google_news",
         "query": "生命季刊 基督教 神学",
@@ -11386,7 +11464,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.551083",
+      "fetched_at": "2026-10-30T05:35:39.817734",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -11412,7 +11490,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854744",
+      "fetched_at": "2026-10-30T05:35:45.531127",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -11490,7 +11568,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.818493",
+      "fetched_at": "2026-10-30T05:35:41.258346",
       "extra": {
         "provider": "google_news",
         "query": "USCIRF religious freedom persecuted",
@@ -11516,7 +11594,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.233498",
+      "fetched_at": "2026-10-30T05:35:41.414179",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
@@ -11542,7 +11620,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.616551",
+      "fetched_at": "2026-10-30T05:35:41.084165",
       "extra": {
         "provider": "google_news",
         "query": "Release International persecution Christians",
@@ -11620,7 +11698,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.818643",
+      "fetched_at": "2026-10-30T05:35:41.258438",
       "extra": {
         "provider": "google_news",
         "query": "USCIRF religious freedom persecuted",
@@ -11646,7 +11724,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.187829",
+      "fetched_at": "2026-10-30T05:35:40.616613",
       "extra": {
         "provider": "google_news",
         "query": "Christianity daily news headline",
@@ -11724,7 +11802,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.520094",
+      "fetched_at": "2026-10-30T05:35:39.801896",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -11750,7 +11828,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.254647",
+      "fetched_at": "2026-10-30T05:35:42.401086",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -11776,7 +11854,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.855593",
+      "fetched_at": "2026-10-30T05:35:42.776706",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -11802,7 +11880,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.990275",
+      "fetched_at": "2026-10-30T05:35:44.177904",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -11828,7 +11906,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.417541",
+      "fetched_at": "2026-10-30T05:35:40.658242",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -11854,7 +11932,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.228140",
+      "fetched_at": "2026-10-30T05:35:40.582831",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -11880,7 +11958,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.989499",
+      "fetched_at": "2026-10-30T05:35:44.177589",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -11958,7 +12036,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.457623",
+      "fetched_at": "2026-10-30T05:35:43.389160",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -12036,11 +12114,37 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.255181",
+      "fetched_at": "2026-10-30T05:35:42.401555",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "World Council of Churches"
+      }
+    },
+    {
+      "title": "LWF Center Wittenberg continues to welcome people from all over the world",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWtEcHVtdXQtZ2JVLUxTTE0wUHNMd0h3NTloUWlFcC1CbG14VXk5Ni1Lb1ltLWViUWdXb0Vmb2JFWXA2clhnWjJmbUFLTkd6V01xVWxIQmpycEota3h4RDE3T1NvOFIwYnlBVUdjVzhTdDMxbW1QWmVKZzdFMnhYQ2pMYUI5ZElXMTdZaVU2T1lwbDJCMDNj?oc=5",
+      "category": "church",
+      "source": "Lutheran World Federation",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-11",
+      "summary": "LWF Center Wittenberg continues to welcome people from all over the world The Lutheran World Federation",
+      "summary_zh": "维滕贝格 LWF 中心继续欢迎来自世界各地的人们 路德教世界联合会",
+      "title_zh": "",
+      "content": "",
+      "author": "The Lutheran World Federation",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:42.776562",
+      "extra": {
+        "provider": "google_news",
+        "query": "Lutheran World Federation",
+        "publisher": "The Lutheran World Federation"
       }
     },
     {
@@ -12085,7 +12189,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.933590",
+      "fetched_at": "2026-10-30T05:35:40.991047",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -12137,7 +12241,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.155490",
+      "fetched_at": "2026-10-30T05:35:43.273392",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -12163,7 +12267,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.471580",
+      "fetched_at": "2026-10-30T05:35:40.903510",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 宗教自由 逼迫",
@@ -12189,7 +12293,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:26.233224",
+      "fetched_at": "2026-10-30T05:35:42.695269",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -12293,7 +12397,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.991263",
+      "fetched_at": "2026-10-30T05:35:44.178267",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -12319,7 +12423,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.570670",
+      "fetched_at": "2026-10-30T05:35:39.829691",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -12345,7 +12449,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.385063",
+      "fetched_at": "2026-10-30T05:35:41.632090",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -12472,7 +12576,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.156025",
+      "fetched_at": "2026-10-30T05:35:43.273582",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -12498,7 +12602,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.554277",
+      "fetched_at": "2026-10-30T05:35:42.776236",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -12601,7 +12705,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.869083",
+      "fetched_at": "2026-10-30T05:35:42.075708",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -12627,7 +12731,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.401587",
+      "fetched_at": "2026-10-30T05:35:42.075813",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -12653,7 +12757,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.534064",
+      "fetched_at": "2026-10-30T05:35:43.446023",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -12679,7 +12783,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.254489",
+      "fetched_at": "2026-10-30T05:35:42.400975",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -12705,7 +12809,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.568828",
+      "fetched_at": "2026-10-30T05:35:43.654397",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -12731,7 +12835,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:57.925600",
+      "fetched_at": "2026-10-30T05:35:42.730657",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
@@ -12783,7 +12887,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.550284",
+      "fetched_at": "2026-10-30T05:35:39.817396",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -12835,7 +12939,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.634107",
+      "fetched_at": "2026-10-30T05:35:42.695413",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -12913,7 +13017,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:55.544586",
+      "fetched_at": "2026-10-30T05:35:40.658447",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -12939,7 +13043,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.154789",
+      "fetched_at": "2026-10-30T05:35:43.272981",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -12965,7 +13069,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.989247",
+      "fetched_at": "2026-10-30T05:35:44.177480",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -12991,7 +13095,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.551554",
+      "fetched_at": "2026-10-30T05:35:39.817937",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -13017,7 +13121,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.744440",
+      "fetched_at": "2026-10-30T05:35:42.821144",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -13069,7 +13173,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.534364",
+      "fetched_at": "2026-10-30T05:35:43.446212",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -13095,7 +13199,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:27.330143",
+      "fetched_at": "2026-10-30T05:35:43.986612",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",
@@ -13147,7 +13251,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:26.196575",
+      "fetched_at": "2026-10-30T05:35:42.730216",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
@@ -13173,7 +13277,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.855428",
+      "fetched_at": "2026-10-30T05:35:45.531513",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -13248,7 +13352,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:16.663948",
+      "fetched_at": "2026-10-30T05:35:40.461680",
       "extra": {
         "provider": "google_news",
         "query": "基督邮报 基督教 新闻",
@@ -13326,7 +13430,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.634783",
+      "fetched_at": "2026-10-30T05:35:42.695846",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -13352,7 +13456,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.519402",
+      "fetched_at": "2026-10-30T05:35:39.801521",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -13404,7 +13508,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.549482",
+      "fetched_at": "2026-10-30T05:35:40.507410",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -13507,7 +13611,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.319708",
+      "fetched_at": "2026-10-30T05:35:42.131634",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -13533,7 +13637,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.550541",
+      "fetched_at": "2026-10-30T05:35:39.817518",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -13584,7 +13688,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.940299",
+      "fetched_at": "2026-10-30T05:35:41.632277",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -13636,7 +13740,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.199634",
+      "fetched_at": "2026-10-30T05:35:41.353247",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士 差会",
@@ -13662,7 +13766,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.938971",
+      "fetched_at": "2026-10-30T05:35:40.269574",
       "extra": {
         "provider": "google_news",
         "query": "中国基督教 两会 三自 爱国",
@@ -13688,7 +13792,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.227985",
+      "fetched_at": "2026-10-30T05:35:40.582741",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -13714,7 +13818,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.534214",
+      "fetched_at": "2026-10-30T05:35:43.446316",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -13765,7 +13869,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.471776",
+      "fetched_at": "2026-10-30T05:35:40.903641",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 宗教自由 逼迫",
@@ -13817,7 +13921,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.817643",
+      "fetched_at": "2026-10-30T05:35:41.257837",
       "extra": {
         "provider": "google_news",
         "query": "USCIRF religious freedom persecuted",
@@ -13869,7 +13973,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:55.545320",
+      "fetched_at": "2026-10-30T05:35:40.658630",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -13895,7 +13999,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.937912",
+      "fetched_at": "2026-10-30T05:35:41.854886",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -13947,7 +14051,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:26.196732",
+      "fetched_at": "2026-10-30T05:35:42.730342",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
@@ -13962,7 +14066,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-18",
       "summary": "Christian Theology Meets Pop Culture in New IVP Series Publishers Weekly",
-      "summary_zh": "",
+      "summary_zh": "基督教神学与流行文化在新的 IVP 系列《出版商周刊》中相遇",
       "title_zh": "",
       "content": "",
       "author": "Publishers Weekly",
@@ -13972,7 +14076,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.683060",
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:44.156258",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -14024,7 +14129,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.393626",
+      "fetched_at": "2026-10-30T05:35:41.275156",
       "extra": {
         "provider": "google_news",
         "query": "India Christians religious freedom persecution",
@@ -14073,7 +14178,10 @@
       "language": "en",
       "country": "US",
       "region": "",
-      "fetched_at": "2026-10-29T02:13:12.656623",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:41.686702",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -14099,7 +14207,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.080842",
+      "fetched_at": "2026-10-30T05:35:41.889223",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -14125,7 +14233,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.081432",
+      "fetched_at": "2026-10-30T05:35:41.889559",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -14151,7 +14259,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.568628",
+      "fetched_at": "2026-10-30T05:35:43.654273",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -14203,7 +14311,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:26.197049",
+      "fetched_at": "2026-10-30T05:35:42.730563",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
@@ -14270,7 +14378,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-16",
       "summary": "Introducing International Relations: Religion and Culture E-International Relations",
-      "summary_zh": "",
+      "summary_zh": "国际关系概论：宗教与文化电子国际关系",
       "title_zh": "",
       "content": "",
       "author": "E-International Relations",
@@ -14280,7 +14388,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T06:06:07.683349",
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:44.156533",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -14306,7 +14415,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.080666",
+      "fetched_at": "2026-10-30T05:35:41.889109",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -14332,7 +14441,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.081060",
+      "fetched_at": "2026-10-30T05:35:41.889355",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -14358,7 +14467,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.081268",
+      "fetched_at": "2026-10-30T05:35:41.889463",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -14384,7 +14493,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.536017",
+      "fetched_at": "2026-10-30T05:35:41.889747",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -14410,7 +14519,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.081590",
+      "fetched_at": "2026-10-30T05:35:41.889654",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -14436,7 +14545,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.029667",
+      "fetched_at": "2026-10-30T05:35:43.121857",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -14462,7 +14571,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.744601",
+      "fetched_at": "2026-10-30T05:35:42.821241",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -14562,7 +14671,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.233836",
+      "fetched_at": "2026-10-30T05:35:41.414404",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
@@ -14588,7 +14697,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.673831",
+      "fetched_at": "2026-10-30T05:35:42.617106",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Journal church",
@@ -14614,7 +14723,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:27.329925",
+      "fetched_at": "2026-10-30T05:35:43.986473",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",
@@ -14666,7 +14775,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.334915",
+      "fetched_at": "2026-10-30T05:35:42.131775",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -14744,7 +14853,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.416730",
+      "fetched_at": "2026-10-30T05:35:40.658053",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -14770,7 +14879,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:55.545471",
+      "fetched_at": "2026-10-30T05:35:40.658536",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -14873,7 +14982,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.552561",
+      "fetched_at": "2026-10-30T05:35:39.818329",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -14899,7 +15008,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.233026",
+      "fetched_at": "2026-10-30T05:35:41.413860",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
@@ -14925,7 +15034,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.869251",
+      "fetched_at": "2026-10-30T05:35:42.075914",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -15059,7 +15168,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.139583",
+      "fetched_at": "2026-10-30T05:35:41.224854",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15085,7 +15194,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.139680",
+      "fetched_at": "2026-10-30T05:35:41.224926",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15111,7 +15220,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.139832",
+      "fetched_at": "2026-10-30T05:35:41.225019",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15137,7 +15246,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.139923",
+      "fetched_at": "2026-10-30T05:35:41.225072",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15163,7 +15272,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140003",
+      "fetched_at": "2026-10-30T05:35:41.225120",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15190,7 +15299,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140081",
+      "fetched_at": "2026-10-30T05:35:41.225166",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15219,7 +15328,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140172",
+      "fetched_at": "2026-10-30T05:35:41.225223",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15250,7 +15359,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140644",
+      "fetched_at": "2026-10-30T05:35:41.225289",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15282,7 +15391,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140732",
+      "fetched_at": "2026-10-30T05:35:41.225366",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15314,7 +15423,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.140837",
+      "fetched_at": "2026-10-30T05:35:41.225416",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15338,7 +15447,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.401033",
+      "fetched_at": "2026-10-30T05:35:42.075460",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -15364,7 +15473,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.868878",
+      "fetched_at": "2026-10-30T05:35:42.075594",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -15390,7 +15499,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.549573",
+      "fetched_at": "2026-10-30T05:35:41.610958",
       "extra": {
         "provider": "google_news",
         "query": "学园传道会 校园 福音",
@@ -15416,7 +15525,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.443139",
+      "fetched_at": "2026-10-30T05:35:41.523697",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -15501,6 +15610,32 @@
       }
     },
     {
+      "title": "Tehran",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3RlU0R3b1AxdGxFOFZJZnJJenlObURWWDhzY1RPTWJ6eFJzTHpVaV9SVWlfZlZtSEwybE9CQzVYWmYwMWtpbGcyUTFVX2dWd254VkM3QjcydlIzNENxZGZDZkh6U1pieUkxQXVNTGRBOEtSM0diQXQ0REpETzBJdA?oc=5",
+      "category": "mission",
+      "source": "Frontiers 伊斯兰宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-07",
+      "summary": "Tehran Ministry of Foreign Affairs Malaysia",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "Ministry of Foreign Affairs Malaysia",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:41.686498",
+      "extra": {
+        "provider": "google_news",
+        "query": "Frontiers Islamic world mission",
+        "publisher": "Ministry of Foreign Affairs Malaysia"
+      }
+    },
+    {
       "title": "Lora Mae Toedter - View Obituary & Service Information",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aVHJrYjRjVExOR0FFN29MUlA5aVVvSkt4ZE1TYTF3VDdPTlN5dHpzSWl0VW9hbGZfVThiZ0tkcndpSDZYY1p4eTBFLXZkVmYyZFRvY0lFOEk0dmFBZVVxY2FnTVh5TEhoZXBB?oc=5",
       "category": "mission",
@@ -15567,7 +15702,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.507995",
+      "fetched_at": "2026-10-30T05:35:41.388788",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -15667,7 +15802,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.869083",
+      "fetched_at": "2026-10-30T05:35:42.075708",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -15693,7 +15828,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:25.401587",
+      "fetched_at": "2026-10-30T05:35:42.075813",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -15768,7 +15903,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.199634",
+      "fetched_at": "2026-10-30T05:35:41.353247",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士 差会",
@@ -15794,7 +15929,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.937912",
+      "fetched_at": "2026-10-30T05:35:41.854886",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -15828,29 +15963,6 @@
       }
     },
     {
-      "title": "The architect of defiance: the Shaheed who guarded faith, frontiers, and future: Remembering President Gen Zia-ul-Haq Shaheed on his death anniversary",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPaWZxaWRzb3V5NGhZcEkzTGMzbUI2dWFQNzEzV3VNU3pLUlRhWXVrNXJsekJBVlVQTVE1aEdtTkF5dEhjQ3lab3RsTktZT3BfS0FsdkxXRmJadHZ2ODd0UGxEVVBVR1d6Y2swWmZ1VmZ6TlJYRXJJY0lidFNZM2JsUHNaVzFaU2Jpa3M3NTdvcXVRNnF0VzRtVE9rUlZjQzhNVzJvWkxCbjMwRWFwWE9JMlhUdnpfYWFmRUN6dWNnZTFoMVdqWnlyN3ppdUZhenJkM3g2TUtLekJzc1ZGOERXYklhMDNuS0o4TGZYR3A4V0JKZHNvblZ1RGNUNmtxWWQxcUNNVXNRcVlrZlZMa0l6Xw?oc=5",
-      "category": "mission",
-      "source": "Frontiers 伊斯兰宣教",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-17",
-      "summary": "The architect of defiance: the Shaheed who guarded faith, frontiers, and future: Remembering President Gen Zia-ul-Haq Shaheed on his death anniversary The News Pakistan",
-      "summary_zh": "反抗的缔造者：守护信仰、边境和未来的沙希德：纪念齐亚·哈克·沙希德总统逝世周年纪念日 巴基斯坦新闻",
-      "title_zh": "反抗的建筑师：守护信仰、边界和未来的沙希德：纪念齐亚·哈克·沙希德将军逝世纪念日",
-      "content": "",
-      "author": "The News Pakistan",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "fetched_at": "2026-10-29T02:13:12.656623",
-      "extra": {
-        "provider": "google_news",
-        "query": "Frontiers Islamic world mission",
-        "publisher": "The News Pakistan"
-      }
-    },
-    {
       "title": "Best Practices from Evangelistically Effective Churches",
       "url": "https://www.thegospelcoalition.org/article/best-practices-evangelism/",
       "category": "culture",
@@ -15873,7 +15985,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446731",
+      "fetched_at": "2026-10-30T05:35:44.050523",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15906,7 +16018,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446920",
+      "fetched_at": "2026-10-30T05:35:44.050626",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15934,7 +16046,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.447065",
+      "fetched_at": "2026-10-30T05:35:44.050729",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15963,7 +16075,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.447652",
+      "fetched_at": "2026-10-30T05:35:44.050837",
       "extra": {
         "feed_type": "rss20"
       }
@@ -15990,7 +16102,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.447877",
+      "fetched_at": "2026-10-30T05:35:44.050932",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16018,7 +16130,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.448639",
+      "fetched_at": "2026-10-30T05:35:44.051022",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16050,7 +16162,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.448873",
+      "fetched_at": "2026-10-30T05:35:44.051118",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16079,7 +16191,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449040",
+      "fetched_at": "2026-10-30T05:35:44.051209",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16107,7 +16219,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449199",
+      "fetched_at": "2026-10-30T05:35:44.051333",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16136,7 +16248,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449348",
+      "fetched_at": "2026-10-30T05:35:44.051437",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16167,7 +16279,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449492",
+      "fetched_at": "2026-10-30T05:35:44.051530",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16197,7 +16309,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.449634",
+      "fetched_at": "2026-10-30T05:35:44.051622",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16227,7 +16339,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446230",
+      "fetched_at": "2026-10-30T05:35:44.050149",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16258,7 +16370,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446410",
+      "fetched_at": "2026-10-30T05:35:44.050283",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16289,7 +16401,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.446571",
+      "fetched_at": "2026-10-30T05:35:44.050414",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16400,7 +16512,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.748780",
+      "fetched_at": "2026-10-30T05:35:44.861888",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -16426,7 +16538,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.915216",
+      "fetched_at": "2026-10-30T05:35:44.273329",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
@@ -16503,7 +16615,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.203733",
+      "fetched_at": "2026-10-30T05:35:44.438421",
       "extra": {
         "provider": "google_news",
         "query": "赞美之泉 诗歌 敬拜",
@@ -16581,7 +16693,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:25.636483",
+      "fetched_at": "2026-10-30T05:35:44.755020",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 婚姻 家庭 亲子",
@@ -16734,7 +16846,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.340661",
+      "fetched_at": "2026-10-30T05:35:44.200937",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16758,7 +16870,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.344664",
+      "fetched_at": "2026-10-30T05:35:44.203525",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16782,7 +16894,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.350307",
+      "fetched_at": "2026-10-30T05:35:44.205932",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16806,7 +16918,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.353496",
+      "fetched_at": "2026-10-30T05:35:44.209314",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16830,7 +16942,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.363926",
+      "fetched_at": "2026-10-30T05:35:44.216888",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16854,7 +16966,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.365699",
+      "fetched_at": "2026-10-30T05:35:44.218637",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16878,7 +16990,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.368696",
+      "fetched_at": "2026-10-30T05:35:44.221668",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16902,7 +17014,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.371688",
+      "fetched_at": "2026-10-30T05:35:44.224640",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16926,7 +17038,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.380151",
+      "fetched_at": "2026-10-30T05:35:44.231331",
       "extra": {
         "feed_type": "rss20"
       }
@@ -16950,7 +17062,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.384109",
+      "fetched_at": "2026-10-30T05:35:44.233562",
       "extra": {
         "feed_type": "rss20"
       }
@@ -17094,7 +17206,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.988982",
+      "fetched_at": "2026-10-30T05:35:44.177357",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -17172,7 +17284,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.233368",
+      "fetched_at": "2026-10-30T05:35:43.426572",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -17198,7 +17310,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.409136",
+      "fetched_at": "2026-10-30T05:35:43.765587",
       "extra": {
         "provider": "google_news",
         "query": "建道神学院 神学 研究",
@@ -17250,7 +17362,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.990509",
+      "fetched_at": "2026-10-30T05:35:44.177994",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -17276,7 +17388,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.035746",
+      "fetched_at": "2026-10-30T05:35:43.089105",
       "extra": {
         "provider": "google_news",
         "query": "生命季刊 基督教 神学",
@@ -17302,7 +17414,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.990275",
+      "fetched_at": "2026-10-30T05:35:44.177904",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -17328,7 +17440,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.989499",
+      "fetched_at": "2026-10-30T05:35:44.177589",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -17354,7 +17466,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.457623",
+      "fetched_at": "2026-10-30T05:35:43.389160",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -17432,7 +17544,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.991263",
+      "fetched_at": "2026-10-30T05:35:44.178267",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -17458,7 +17570,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.534064",
+      "fetched_at": "2026-10-30T05:35:43.446023",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -17484,7 +17596,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.568828",
+      "fetched_at": "2026-10-30T05:35:43.654397",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -17510,7 +17622,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.169560",
+      "fetched_at": "2026-10-30T05:35:45.127884",
       "extra": {
         "wordcount": 7969
       }
@@ -17534,7 +17646,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.169584",
+      "fetched_at": "2026-10-30T05:35:45.127902",
       "extra": {
         "wordcount": 31085
       }
@@ -17558,7 +17670,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.169607",
+      "fetched_at": "2026-10-30T05:35:45.127918",
       "extra": {
         "wordcount": 24144
       }
@@ -17582,7 +17694,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.169636",
+      "fetched_at": "2026-10-30T05:35:45.127938",
       "extra": {
         "wordcount": 30107
       }
@@ -17606,7 +17718,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.411317",
+      "fetched_at": "2026-10-30T05:35:45.298577",
       "extra": {
         "wordcount": 11792
       }
@@ -17630,7 +17742,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.411341",
+      "fetched_at": "2026-10-30T05:35:45.298595",
       "extra": {
         "wordcount": 495
       }
@@ -17654,7 +17766,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.411364",
+      "fetched_at": "2026-10-30T05:35:45.298612",
       "extra": {
         "wordcount": 6250
       }
@@ -17678,7 +17790,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.411385",
+      "fetched_at": "2026-10-30T05:35:45.298627",
       "extra": {
         "wordcount": 18768
       }
@@ -17702,7 +17814,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.680387",
+      "fetched_at": "2026-10-30T05:35:45.477749",
       "extra": {
         "wordcount": 9802
       }
@@ -17726,7 +17838,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.680417",
+      "fetched_at": "2026-10-30T05:35:45.477770",
       "extra": {
         "wordcount": 2815
       }
@@ -17750,7 +17862,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.680449",
+      "fetched_at": "2026-10-30T05:35:45.477790",
       "extra": {
         "wordcount": 156
       }
@@ -17774,7 +17886,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.680467",
+      "fetched_at": "2026-10-30T05:35:45.477802",
       "extra": {
         "wordcount": 266
       }
@@ -17798,7 +17910,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.947911",
+      "fetched_at": "2026-10-30T05:35:45.778102",
       "extra": {
         "wordcount": 6733
       }
@@ -17822,7 +17934,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.947944",
+      "fetched_at": "2026-10-30T05:35:45.778129",
       "extra": {
         "wordcount": 229
       }
@@ -17846,7 +17958,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.947969",
+      "fetched_at": "2026-10-30T05:35:45.778147",
       "extra": {
         "wordcount": 3907
       }
@@ -17870,7 +17982,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.947987",
+      "fetched_at": "2026-10-30T05:35:45.778160",
       "extra": {
         "wordcount": 1263
       }
@@ -17894,7 +18006,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.217592",
+      "fetched_at": "2026-10-30T05:35:45.975007",
       "extra": {
         "wordcount": 3872
       }
@@ -17918,7 +18030,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.217611",
+      "fetched_at": "2026-10-30T05:35:45.975029",
       "extra": {
         "wordcount": 676
       }
@@ -17942,7 +18054,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:27.217633",
+      "fetched_at": "2026-10-30T05:35:45.975052",
       "extra": {
         "wordcount": 1171
       }
@@ -17966,7 +18078,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.144584",
+      "fetched_at": "2026-10-30T05:35:45.069889",
       "extra": {
         "wordcount": 33525
       }
@@ -17990,7 +18102,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.144629",
+      "fetched_at": "2026-10-30T05:35:45.069918",
       "extra": {
         "wordcount": 9229
       }
@@ -18014,7 +18126,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.144608",
+      "fetched_at": "2026-10-30T05:35:45.069905",
       "extra": {
         "wordcount": 13167
       }
@@ -18038,7 +18150,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.144651",
+      "fetched_at": "2026-10-30T05:35:45.069932",
       "extra": {
         "wordcount": 2469
       }
@@ -18062,7 +18174,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.501236",
+      "fetched_at": "2026-10-30T05:35:45.285614",
       "extra": {
         "wordcount": 29554
       }
@@ -18086,7 +18198,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.501287",
+      "fetched_at": "2026-10-30T05:35:45.285642",
       "extra": {
         "wordcount": 31255
       }
@@ -18110,7 +18222,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.501256",
+      "fetched_at": "2026-10-30T05:35:45.285654",
       "extra": {
         "wordcount": 5737
       }
@@ -18134,7 +18246,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.501273",
+      "fetched_at": "2026-10-30T05:35:45.285630",
       "extra": {
         "wordcount": 3118
       }
@@ -18158,7 +18270,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.994428",
+      "fetched_at": "2026-10-30T05:35:45.630814",
       "extra": {
         "wordcount": 24771
       }
@@ -18182,7 +18294,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.994453",
+      "fetched_at": "2026-10-30T05:35:45.630831",
       "extra": {
         "wordcount": 9244
       }
@@ -18206,7 +18318,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.994472",
+      "fetched_at": "2026-10-30T05:35:45.630844",
       "extra": {
         "wordcount": 8701
       }
@@ -18230,7 +18342,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.994492",
+      "fetched_at": "2026-10-30T05:35:45.630859",
       "extra": {
         "wordcount": 5010
       }
@@ -18272,7 +18384,7 @@
         "跨性别"
       ],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347317",
+      "fetched_at": "2026-10-30T05:35:39.547095",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18312,7 +18424,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347496",
+      "fetched_at": "2026-10-30T05:35:39.547214",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18353,7 +18465,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347610",
+      "fetched_at": "2026-10-30T05:35:39.547307",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18407,7 +18519,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347725",
+      "fetched_at": "2026-10-30T05:35:39.547385",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18442,7 +18554,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347851",
+      "fetched_at": "2026-10-30T05:35:39.547454",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18482,7 +18594,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.347954",
+      "fetched_at": "2026-10-30T05:35:39.547516",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18520,7 +18632,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348048",
+      "fetched_at": "2026-10-30T05:35:39.547574",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18558,7 +18670,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348139",
+      "fetched_at": "2026-10-30T05:35:39.547631",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18595,7 +18707,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348229",
+      "fetched_at": "2026-10-30T05:35:39.547686",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18633,7 +18745,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.348321",
+      "fetched_at": "2026-10-30T05:35:39.547743",
       "extra": {
         "feed_type": "rss20"
       }
@@ -18657,7 +18769,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796810",
+      "fetched_at": "2026-10-30T05:35:39.987731",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -18683,7 +18795,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.795948",
+      "fetched_at": "2026-10-30T05:35:39.987376",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -18709,7 +18821,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796978",
+      "fetched_at": "2026-10-30T05:35:39.987937",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -18735,7 +18847,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.796311",
+      "fetched_at": "2026-10-30T05:35:39.987512",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -18787,7 +18899,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:20.871893",
+      "fetched_at": "2026-10-30T05:35:40.392639",
       "extra": {
         "provider": "google_news",
         "query": "基督教论坛报 新闻 教会",
@@ -19210,7 +19322,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.941648",
+      "fetched_at": "2026-10-30T05:35:39.988153",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -19314,7 +19426,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.415897",
+      "fetched_at": "2026-10-30T05:35:40.657712",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -19340,7 +19452,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.682194",
+      "fetched_at": "2026-10-30T05:35:40.773318",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19366,7 +19478,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681703",
+      "fetched_at": "2026-10-30T05:35:40.773124",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19392,7 +19504,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.416087",
+      "fetched_at": "2026-10-30T05:35:40.657837",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -19418,7 +19530,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.615847",
+      "fetched_at": "2026-10-30T05:35:41.083708",
       "extra": {
         "provider": "google_news",
         "query": "Release International persecution Christians",
@@ -19444,7 +19556,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.932557",
+      "fetched_at": "2026-10-30T05:35:40.990532",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -19522,7 +19634,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681242",
+      "fetched_at": "2026-10-30T05:35:40.772849",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19548,7 +19660,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681396",
+      "fetched_at": "2026-10-30T05:35:40.772942",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19574,7 +19686,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.660787",
+      "fetched_at": "2026-10-30T05:35:40.773420",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19600,7 +19712,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.680398",
+      "fetched_at": "2026-10-30T05:35:40.772341",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19626,7 +19738,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.660947",
+      "fetched_at": "2026-10-30T05:35:40.773513",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19652,7 +19764,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681551",
+      "fetched_at": "2026-10-30T05:35:40.773034",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19678,7 +19790,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.682043",
+      "fetched_at": "2026-10-30T05:35:40.773214",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19730,7 +19842,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.740623",
+      "fetched_at": "2026-10-30T05:35:41.020158",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -19756,7 +19868,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.232651",
+      "fetched_at": "2026-10-30T05:35:41.413502",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
@@ -19782,7 +19894,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.417635",
+      "fetched_at": "2026-10-30T05:35:40.918412",
       "extra": {
         "provider": "google_news",
         "query": "Christian Solidarity Worldwide religious freedom",
@@ -19808,7 +19920,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.680560",
+      "fetched_at": "2026-10-30T05:35:40.772538",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19834,7 +19946,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.680722",
+      "fetched_at": "2026-10-30T05:35:40.772443",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19845,7 +19957,7 @@
       "title": "Pastor Jin’s Release Does Not End China’s Persecution of Christians",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVNmZVRFdWVGSXptTUtwN1NBcUlPTW9JOUx5UGFZWDVucXhEcDRSaXBNUkJvd0V1LWUycTc4QnVHd3FzMlpYZ2hJdXY2QUJCUEdJX3NISzVoVGtJMFVJeXpfazVVVWFBbXNDRHpsV0ZLWHMxYjcxRUlmVUZGTkVKalRvY1hsSXpzZ3p6bFVTMDFOUWVBZVVrbW9DdUtFc1ZSYWhZ?oc=5",
       "category": "persecution",
-      "source": "Release International",
+      "source": "基督徒逼迫（国际）",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-27",
       "summary": "Pastor Jin’s Release Does Not End China’s Persecution of Christians International Christian Concern",
@@ -19855,15 +19967,15 @@
       "author": "International Christian Concern",
       "tags": [],
       "language": "en",
-      "country": "GB",
+      "country": "US",
       "region": "",
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.616053",
+      "fetched_at": "2026-10-30T05:35:40.772650",
       "extra": {
         "provider": "google_news",
-        "query": "Release International persecution Christians",
+        "query": "persecution of Christians religious freedom",
         "publisher": "International Christian Concern"
       }
     },
@@ -19886,7 +19998,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.681086",
+      "fetched_at": "2026-10-30T05:35:40.772753",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -19937,7 +20049,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.740457",
+      "fetched_at": "2026-10-30T05:35:41.020047",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -19963,7 +20075,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.820880",
+      "fetched_at": "2026-10-30T05:35:41.162552",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -19989,7 +20101,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.417749",
+      "fetched_at": "2026-10-30T05:35:40.918257",
       "extra": {
         "provider": "google_news",
         "query": "Christian Solidarity Worldwide religious freedom",
@@ -20066,7 +20178,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.382733",
+      "fetched_at": "2026-10-30T05:35:41.631873",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -20092,7 +20204,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:21.416423",
+      "fetched_at": "2026-10-30T05:35:40.657950",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -20118,7 +20230,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451499",
+      "fetched_at": "2026-10-30T05:35:42.680101",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -20247,7 +20359,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.510049",
+      "fetched_at": "2026-10-30T05:35:42.590275",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -20273,7 +20385,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.825884",
+      "fetched_at": "2026-10-30T05:35:43.032004",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -20299,7 +20411,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826406",
+      "fetched_at": "2026-10-30T05:35:43.032365",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -20325,7 +20437,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826908",
+      "fetched_at": "2026-10-30T05:35:43.032668",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -20403,7 +20515,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.827063",
+      "fetched_at": "2026-10-30T05:35:43.032854",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -20431,7 +20543,7 @@
         "同性婚姻"
       ],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005086",
+      "fetched_at": "2026-10-30T05:35:43.153112",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -20457,7 +20569,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.005785",
+      "fetched_at": "2026-10-30T05:35:43.153437",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -20483,7 +20595,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451307",
+      "fetched_at": "2026-10-30T05:35:42.679942",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -20509,7 +20621,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826247",
+      "fetched_at": "2026-10-30T05:35:43.032251",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -20535,11 +20647,37 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826562",
+      "fetched_at": "2026-10-30T05:35:43.032464",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
         "publisher": "Baptist News Global"
+      }
+    },
+    {
+      "title": "Highland Park UMC votes to leave denomination, bishop removes senior pastor",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWUtMX2VobTZMcGp2cjhXcmNLOFJQSm5wdXRHMkJaNUpVMjVZT01UemdFOWptalp6bWtUQ3I2YjVjOGl1OFdGODZLbU5SN0RfTmlHODd5WlROaVRjR19WMTNTU3dzMzZ4N1E1V0tNeUw5cU8za1MtR1RtY0dQaE4zRml4Y1ZHVHh2WW1yVlpxSS14aUhPRlhuXzA1WG0xTmdPdlNCUkdsTkg0cTV4M3ZuNVRRcGFjSWJGXzFENEhhNVA1T2hzNkZYT2ZpR2lzZXlLdmNfUTBjUDM4b3pYZHYtNHdxQnZaYnFhRGh1NmFkUQ?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Highland Park UMC votes to leave denomination, bishop removes senior pastor The Daily Campus",
+      "summary_zh": "Highland Park UMC 投票决定离开教派，主教罢免主任牧师 - 每日校园",
+      "title_zh": "",
+      "content": "",
+      "author": "The Daily Campus",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:43.032762",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "The Daily Campus"
       }
     },
     {
@@ -20561,7 +20699,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.510583",
+      "fetched_at": "2026-10-30T05:35:42.590659",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -20587,7 +20725,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451859",
+      "fetched_at": "2026-10-30T05:35:42.680357",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -20613,7 +20751,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.553680",
+      "fetched_at": "2026-10-30T05:35:42.775231",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -20717,7 +20855,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.826078",
+      "fetched_at": "2026-10-30T05:35:43.032142",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -20794,7 +20932,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.006160",
+      "fetched_at": "2026-10-30T05:35:43.153623",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -20846,7 +20984,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.451668",
+      "fetched_at": "2026-10-30T05:35:42.680214",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -20872,37 +21010,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:23.743384",
+      "fetched_at": "2026-10-30T05:35:42.820488",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
         "publisher": "Missouri Synod"
-      }
-    },
-    {
-      "title": "Sixty people killed in attack on Orthodox Christian village in Ethiopia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXVlejlRMWRGTW8wd0dtRW95VFlrQ0ZVRnBHRVNQR2c3Z012YTRFMUFzSzY3YkJkU0lEZnlqcG9peTQ0WXVUZ2NLanh3a1RCVHA4WjNxTGpiUHNiRWh0N3ZvMmZ3YkN3WjFSVWRkajIyMEs1bURhZWJySGxjQ0FwMTRzSXJYRzBuazRGMHRjcEdlejNHNEdhY0hjNXRmdWlWS0NweW9EeHZ2Y05HRGk3RUNvN3VlcGs?oc=5",
-      "category": "church",
-      "source": "东正教",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Sixty people killed in attack on Orthodox Christian village in Ethiopia Vatican News",
-      "summary_zh": "埃塞俄比亚东正教村庄遭袭60人死亡梵蒂冈新闻",
-      "title_zh": "埃塞俄比亚东正教村庄遭到袭击， 60人丧生",
-      "content": "",
-      "author": "Vatican News",
-      "tags": [],
-      "language": "en",
-      "country": "GR",
-      "region": "欧洲",
-      "stance": "orthodox",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:21:24.004338",
-      "extra": {
-        "provider": "google_news",
-        "query": "Orthodox Christianity church",
-        "publisher": "Vatican News"
       }
     },
     {
@@ -21001,7 +21113,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.853879",
+      "fetched_at": "2026-10-30T05:35:45.530567",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -21105,7 +21217,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854078",
+      "fetched_at": "2026-10-30T05:35:45.530702",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -21156,7 +21268,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854425",
+      "fetched_at": "2026-10-30T05:35:45.530933",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -21182,7 +21294,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854259",
+      "fetched_at": "2026-10-30T05:35:45.530825",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -21208,7 +21320,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.855111",
+      "fetched_at": "2026-10-30T05:35:45.531331",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -21260,7 +21372,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854744",
+      "fetched_at": "2026-10-30T05:35:45.531127",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -21338,7 +21450,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.855428",
+      "fetched_at": "2026-10-30T05:35:45.531513",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",

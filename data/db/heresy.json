@@ -2,7 +2,7 @@
   "category": "heresy",
   "label": "异端辨析",
   "count": 17,
-  "updated_at": "2026-10-30T13:24:56.603062+08:00",
+  "updated_at": "2026-10-30T13:39:40.980117+08:00",
   "articles": [
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church - ABC News",
@@ -100,7 +100,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.853879",
+      "fetched_at": "2026-10-30T05:35:45.530567",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -204,7 +204,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854078",
+      "fetched_at": "2026-10-30T05:35:45.530702",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -255,7 +255,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854425",
+      "fetched_at": "2026-10-30T05:35:45.530933",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -281,7 +281,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854259",
+      "fetched_at": "2026-10-30T05:35:45.530825",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -307,7 +307,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.855111",
+      "fetched_at": "2026-10-30T05:35:45.531331",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -359,7 +359,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.854744",
+      "fetched_at": "2026-10-30T05:35:45.531127",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -437,7 +437,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:21:26.855428",
+      "fetched_at": "2026-10-30T05:35:45.531513",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
