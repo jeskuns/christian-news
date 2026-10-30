@@ -62,6 +62,31 @@ body {
 }
 .main-nav a:hover { color: var(--accent); background: rgba(31, 58, 95, .06); }
 
+/* ---------- 移动端汉堡菜单 ---------- */
+.nav-toggle {
+  display: none; margin-left: auto; border: 1px solid var(--separator);
+  background: #fff; color: var(--accent); width: 40px; height: 38px;
+  border-radius: 10px; font-size: 19px; cursor: pointer; line-height: 1;
+}
+.hero-intro { margin-top: 10px; font-size: 13.5px; color: rgba(255, 255, 255, .82); max-width: 640px; line-height: 1.75; }
+@media (max-width: 860px) {
+  .header-inner { flex-wrap: nowrap; }
+  .nav-toggle { display: block; }
+  .main-nav {
+    display: none; position: absolute; top: 100%; left: 0; right: 0;
+    flex-direction: column; align-items: stretch; gap: 0;
+    background: #fff; border-bottom: 1px solid var(--separator);
+    box-shadow: var(--shadow); padding: 6px 10px 12px; z-index: 60;
+  }
+  .main-nav.open { display: flex; }
+  .main-nav a { padding: 11px 12px; border-radius: 10px; font-size: 15px; }
+}
+@media (max-width: 560px) {
+  .hero { padding: 20px 18px; margin: 14px 0 12px; }
+  .hero h1 { font-size: 23px; }
+  .hero-sub, .hero-intro { font-size: 12.5px; }
+}
+
 /* ---------- 容器 ---------- */
 .container { max-width: 1120px; margin: 0 auto; padding: 0 16px; }
 main.container { padding-bottom: 48px; }

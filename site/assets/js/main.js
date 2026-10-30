@@ -6,6 +6,23 @@
   "use strict";
   var FLAGGED_STANCES = ["catholic", "orthodox", "mainline"];
 
+  // 移动端汉堡菜单
+  (function () {
+    var navToggle = document.getElementById("navToggle");
+    var mainNav = document.getElementById("mainNav");
+    if (!navToggle || !mainNav) return;
+    navToggle.addEventListener("click", function () {
+      var open = mainNav.classList.toggle("open");
+      navToggle.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    mainNav.addEventListener("click", function (e) {
+      if (e.target && e.target.tagName === "A") {
+        mainNav.classList.remove("open");
+        navToggle.setAttribute("aria-expanded", "false");
+      }
+    });
+  })();
+
   function isFlagged(card) {
     var st = card.getAttribute("data-stance") || "";
     var fl = card.getAttribute("data-flags") || "";
