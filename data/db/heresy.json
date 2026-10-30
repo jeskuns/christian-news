@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 16,
-  "updated_at": "2026-10-30T09:28:52.180612+08:00",
+  "count": 17,
+  "updated_at": "2026-10-30T13:24:56.603062+08:00",
   "articles": [
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church - ABC News",
@@ -100,7 +100,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.753243",
+      "fetched_at": "2026-10-30T05:21:26.853879",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -193,7 +193,7 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-29",
       "summary": "Latest from Mormon Land: Historian Richard Bushman sought a blessing from a surprising apostle The Salt Lake Tribune",
-      "summary_zh": "",
+      "summary_zh": "来自摩门教土地的最新消息：历史学家理查德·布什曼（ Richard Bushman ）向一位出人意料的使徒《盐湖论坛报》（ Salt Lake Tribune ）寻求祝",
       "title_zh": "来自摩门教土地的最新消息：历史学家理查德·布什曼（ Richard Bushman ）向一位出人意料的使徒寻求祝福",
       "content": "",
       "author": "The Salt Lake Tribune",
@@ -204,7 +204,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.752952",
+      "fetched_at": "2026-10-30T05:21:26.854078",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -255,7 +255,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.753719",
+      "fetched_at": "2026-10-30T05:21:26.854425",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -281,7 +281,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.753493",
+      "fetched_at": "2026-10-30T05:21:26.854259",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -307,7 +307,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.754626",
+      "fetched_at": "2026-10-30T05:21:26.855111",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -359,7 +359,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.754449",
+      "fetched_at": "2026-10-30T05:21:26.854744",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -416,6 +416,32 @@
         "provider": "google_news",
         "query": "统一教 异端 韩国",
         "publisher": "腾讯新闻"
+      }
+    },
+    {
+      "title": "10th Circuit affirms dismissal of Mormon church tithing fraud class action as too late",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXJDbTNfSEFoTUFSOEM4VEs1MEt4QUtVb0NnUi1vMG1lanFTU2p1MF9yelduZHR1RHpyUGp0S3VTLUFPN1JxX293Wml6ZDlnQzJ3RXZlMTFPOHFfVjFpRVlzN2d3OEp0YkExYW5iQ0dsSnNvNXU2Nl9YT281eUVoTEpwOFBFeE1SMTVEbW1DVHhtRGFhMWNqWnhsM0U4RXN4U2NDd0x1bTltc1g1VzZLTDlqWE5iYThB?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-31",
+      "summary": "10th Circuit affirms dismissal of Mormon church tithing fraud class action as too late Courthouse News",
+      "summary_zh": "第10巡回法院确认驳回摩门教会什一奉献欺诈集体诉讼为时已晚",
+      "title_zh": "第10巡回法院确认解雇摩门教会什一税欺诈集体诉讼为时已晚",
+      "content": "",
+      "author": "Courthouse News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:21:26.855428",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Courthouse News"
       }
     }
   ]

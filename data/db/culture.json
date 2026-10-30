@@ -2,7 +2,7 @@
   "category": "culture",
   "label": "文化媒体",
   "count": 31,
-  "updated_at": "2026-10-30T09:28:52.169256+08:00",
+  "updated_at": "2026-10-30T13:24:56.588692+08:00",
   "articles": [
     {
       "title": "Best Practices from Evangelistically Effective Churches",
@@ -27,7 +27,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.135487",
+      "fetched_at": "2026-10-30T05:21:25.446731",
       "extra": {
         "feed_type": "rss20"
       }
@@ -60,7 +60,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.135644",
+      "fetched_at": "2026-10-30T05:21:25.446920",
       "extra": {
         "feed_type": "rss20"
       }
@@ -88,7 +88,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.135792",
+      "fetched_at": "2026-10-30T05:21:25.447065",
       "extra": {
         "feed_type": "rss20"
       }
@@ -117,7 +117,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.135956",
+      "fetched_at": "2026-10-30T05:21:25.447652",
       "extra": {
         "feed_type": "rss20"
       }
@@ -144,7 +144,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.136133",
+      "fetched_at": "2026-10-30T05:21:25.447877",
       "extra": {
         "feed_type": "rss20"
       }
@@ -172,7 +172,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.136286",
+      "fetched_at": "2026-10-30T05:21:25.448639",
       "extra": {
         "feed_type": "rss20"
       }
@@ -204,7 +204,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.136442",
+      "fetched_at": "2026-10-30T05:21:25.448873",
       "extra": {
         "feed_type": "rss20"
       }
@@ -233,7 +233,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.136590",
+      "fetched_at": "2026-10-30T05:21:25.449040",
       "extra": {
         "feed_type": "rss20"
       }
@@ -261,7 +261,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.136742",
+      "fetched_at": "2026-10-30T05:21:25.449199",
       "extra": {
         "feed_type": "rss20"
       }
@@ -290,7 +290,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.137214",
+      "fetched_at": "2026-10-30T05:21:25.449348",
       "extra": {
         "feed_type": "rss20"
       }
@@ -321,7 +321,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.137387",
+      "fetched_at": "2026-10-30T05:21:25.449492",
       "extra": {
         "feed_type": "rss20"
       }
@@ -351,7 +351,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.137542",
+      "fetched_at": "2026-10-30T05:21:25.449634",
       "extra": {
         "feed_type": "rss20"
       }
@@ -364,7 +364,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-30",
       "summary": "Melissa and Courtney discuss how to cultivate discernment when seeking advice online and recognize the danger of letting AI or influencers replace wise counsel from the body of Christ.",
-      "summary_zh": "",
+      "summary_zh": "Melissa和Courtney讨论了如何在网上寻求建议时培养洞察力，并认识到让人工智能或影响者取代基督身体的明智建议的危险。",
       "title_zh": "从互联网上获取建议的危险",
       "content": "",
       "author": "Courtney Doctor, Melissa Kruger",
@@ -381,7 +381,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.134946",
+      "fetched_at": "2026-10-30T05:21:25.446230",
       "extra": {
         "feed_type": "rss20"
       }
@@ -394,7 +394,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-30",
       "summary": "‘All in Your Head’ is a concrete and compelling remapping of mental health culture with impressive explanatory power.",
-      "summary_zh": "",
+      "summary_zh": "“All in Your Head”是对心理健康文化的具体而引人注目的重新映射，具有令人印象深刻的解释力。",
       "title_zh": "小心让精神疾病成为一种身份",
       "content": "",
       "author": "Brad Edwards",
@@ -412,7 +412,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.135154",
+      "fetched_at": "2026-10-30T05:21:25.446410",
       "extra": {
         "feed_type": "rss20"
       }
@@ -425,7 +425,7 @@
       "source_url": "https://www.thegospelcoalition.org/feed/",
       "published": "2026-10-30",
       "summary": "Pray not only for what God might do for Christian prisoners in Iran but for what God might do through them, for his glory.",
-      "summary_zh": "",
+      "summary_zh": "不仅祈求神可以为伊朗的基督徒囚犯做些什么，而且祈求神可以通过他们为祂的荣耀做些什么。",
       "title_zh": "伊朗前囚犯如何希望你为被锁的基督徒祈祷",
       "content": "",
       "author": "Farshid Fathi",
@@ -443,7 +443,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.135321",
+      "fetched_at": "2026-10-30T05:21:25.446571",
       "extra": {
         "feed_type": "rss20"
       }
@@ -554,7 +554,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.638671",
+      "fetched_at": "2026-10-30T05:21:25.748780",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -580,7 +580,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:27.490635",
+      "fetched_at": "2026-10-30T05:21:24.915216",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
@@ -657,7 +657,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:27.673807",
+      "fetched_at": "2026-10-30T05:21:25.203733",
       "extra": {
         "provider": "google_news",
         "query": "赞美之泉 诗歌 敬拜",
@@ -735,7 +735,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.146423",
+      "fetched_at": "2026-10-30T05:21:25.636483",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 婚姻 家庭 亲子",

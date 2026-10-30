@@ -1,8 +1,8 @@
 {
   "category": "news",
   "label": "基督教世界资讯",
-  "count": 133,
-  "updated_at": "2026-10-30T09:28:52.173200+08:00",
+  "count": 136,
+  "updated_at": "2026-10-30T13:24:56.592289+08:00",
   "articles": [
     {
       "title": "Republicans turn to transgender-focused attack ads against Democrats of faith",
@@ -41,7 +41,7 @@
         "跨性别"
       ],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.514828",
+      "fetched_at": "2026-10-30T05:21:20.347317",
       "extra": {
         "feed_type": "rss20"
       }
@@ -81,7 +81,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.514984",
+      "fetched_at": "2026-10-30T05:21:20.347496",
       "extra": {
         "feed_type": "rss20"
       }
@@ -122,7 +122,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.515124",
+      "fetched_at": "2026-10-30T05:21:20.347610",
       "extra": {
         "feed_type": "rss20"
       }
@@ -176,7 +176,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.515240",
+      "fetched_at": "2026-10-30T05:21:20.347725",
       "extra": {
         "feed_type": "rss20"
       }
@@ -211,7 +211,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.515344",
+      "fetched_at": "2026-10-30T05:21:20.347851",
       "extra": {
         "feed_type": "rss20"
       }
@@ -251,7 +251,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.515445",
+      "fetched_at": "2026-10-30T05:21:20.347954",
       "extra": {
         "feed_type": "rss20"
       }
@@ -289,7 +289,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.515539",
+      "fetched_at": "2026-10-30T05:21:20.348048",
       "extra": {
         "feed_type": "rss20"
       }
@@ -327,7 +327,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.515631",
+      "fetched_at": "2026-10-30T05:21:20.348139",
       "extra": {
         "feed_type": "rss20"
       }
@@ -364,7 +364,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.515721",
+      "fetched_at": "2026-10-30T05:21:20.348229",
       "extra": {
         "feed_type": "rss20"
       }
@@ -402,7 +402,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.515814",
+      "fetched_at": "2026-10-30T05:21:20.348321",
       "extra": {
         "feed_type": "rss20"
       }
@@ -426,7 +426,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.940836",
+      "fetched_at": "2026-10-30T05:21:20.796810",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -452,11 +452,115 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.940997",
+      "fetched_at": "2026-10-30T05:21:20.795948",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
         "publisher": "Fox News"
+      }
+    },
+    {
+      "title": "Pakistani Christian's death sentence for blasphemy upheld while his brother walks free",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1ZtMXhBQVY3NTJvR1RHT001VHlZc2FkV0NWSFl4b2Q3Mi1UdlBvYVJYRnItMWRNOWVFRmhNcjFyb25vY19UbzhmUktmb0dYSWFxZEhUTW1ZQnhTdTNCdms5aXZ1ZENyaUk3akozZWVFN25hQUZ5ajlPWENORkJmSklWTlVSOTZhb2dUMk5SWThVNG1VMEk2UUp6d2dRdw?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "Pakistani Christian's death sentence for blasphemy upheld while his brother walks free Premier Christian News",
+      "summary_zh": "巴基斯坦基督徒因亵渎罪被判死刑，而他的兄弟自由行走",
+      "title_zh": "巴基斯坦基督徒因亵渎罪被判处死刑，而他的兄弟自由行走",
+      "content": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:21:20.796978",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Premier Christian News"
+      }
+    },
+    {
+      "title": "Interview with Christian Yelich after winning the World Series",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVm1GUFNLOTlLOWRpT3ZSS3BFcGZwazF3VHZjRllzSU12UUVQVFBvVVBzYTA1YUI5TEZEaXBmSUU0NkZMTFdhNGFXd0dnTnN2RWo1TnB6UndwMExyckl4QWFZa2lubzV6M0prMnE2VV9UNkVxVzNZalFEc2hNUzg0QlpET3lsM1dwNDRSeHZvcEpUSVFZR2VLRUJjS2R1LUxxaThZMmpR?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "Interview with Christian Yelich after winning the World Series WMTV 15 NEWS",
+      "summary_zh": "在赢得世界系列WMTV 15新闻后接受Christian Yelich的采访",
+      "title_zh": "在赢得世界大赛后采访Christian Yelich",
+      "content": "",
+      "author": "WMTV 15 NEWS",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:21:20.796311",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "WMTV 15 NEWS"
+      }
+    },
+    {
+      "title": "Brewers star Christian Yelich pays touching tribute to late, beloved broadcaster after World Series win",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU001MGpSdVRPQVNVT3d6X0c1c1hUUW5JMHFQMEJhQ2hJR3padXgzNEsxTnZ4VURwVzBPYmNuRTBfeW4xeWN2REU1UlpvU2dWVkFRQllfVGVWMWIxd2xNMVRxVFlNczdwc1NTSnV4VlR1alFVaWZmMFU4NTRUQVp0ZlVIQWpxSW1xTzd3?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "Brewers star Christian Yelich pays touching tribute to late, beloved broadcaster after World Series win Yahoo Sports",
+      "summary_zh": "酿酒明星克里斯蒂安·耶利奇（ Christian Yelich ）在世界大赛赢得雅虎体育赛事后向深受喜爱的晚间广播公司致敬",
+      "title_zh": "酿酒明星克里斯蒂安·耶利奇（ Christian Yelich ）向世界大赛获胜后深受喜爱的晚间广播公司致敬",
+      "content": "",
+      "author": "Yahoo Sports",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:21:20.798302",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Yahoo Sports"
+      }
+    },
+    {
+      "title": "【2026 IAA國際峰會】探索科技时代的福音新路径 香港林以诺牧师：从福音脱口秀到超自然宣教",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5abTBBVEw5bGJmU3doNzZQTnRQRXVjazZDMGdMRmoyVEZxSy13WkJDaG1PcWVoTWlCWnNtQzhJVFllelNuYmhlUmpxbExQdEw2RE5wWE16alQ3YTh4V05FbDhMelVOSEsybXc?oc=5",
+      "category": "news",
+      "source": "基督教论坛报",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "【2026 IAA國際峰會】探索科技时代的福音新路径 香港林以诺牧师：从福音脱口秀到超自然宣教 基督教論壇報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "基督教論壇報",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:21:20.871893",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督教论坛报 新闻 教会",
+        "publisher": "基督教論壇報"
       }
     },
     {
@@ -1005,7 +1109,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.940326",
+      "fetched_at": "2026-10-30T05:21:20.796141",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1031,7 +1135,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.940674",
+      "fetched_at": "2026-10-30T05:21:20.796632",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1057,7 +1161,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.941180",
+      "fetched_at": "2026-10-30T05:21:20.797785",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1083,7 +1187,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.941338",
+      "fetched_at": "2026-10-30T05:21:20.797971",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1109,7 +1213,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.941496",
+      "fetched_at": "2026-10-30T05:21:20.797482",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1161,37 +1265,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.941973",
+      "fetched_at": "2026-10-30T05:21:20.797632",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
         "publisher": "www.christiandaily.com"
-      }
-    },
-    {
-      "title": "Pakistani Christian's death sentence for blasphemy upheld while his brother walks free",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1ZtMXhBQVY3NTJvR1RHT001VHlZc2FkV0NWSFl4b2Q3Mi1UdlBvYVJYRnItMWRNOWVFRmhNcjFyb25vY19UbzhmUktmb0dYSWFxZEhUTW1ZQnhTdTNCdms5aXZ1ZENyaUk3akozZWVFN25hQUZ5ajlPWENORkJmSklWTlVSOTZhb2dUMk5SWThVNG1VMEk2UUp6d2dRdw?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "Pakistani Christian's death sentence for blasphemy upheld while his brother walks free Premier Christian News",
-      "summary_zh": "巴基斯坦基督徒因亵渎罪被判死刑，而他的兄弟自由行走",
-      "title_zh": "巴基斯坦基督徒因亵渎罪被判处死刑，而他的兄弟自由行走",
-      "content": "",
-      "author": "Premier Christian News",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.942151",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "Premier Christian News"
       }
     },
     {
@@ -1213,7 +1291,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.942325",
+      "fetched_at": "2026-10-30T05:21:20.797154",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1239,7 +1317,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.942645",
+      "fetched_at": "2026-10-30T05:21:20.798139",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1265,7 +1343,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.549429",
+      "fetched_at": "2026-10-30T05:21:21.118151",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1291,7 +1369,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.549612",
+      "fetched_at": "2026-10-30T05:21:21.118337",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1317,7 +1395,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.549778",
+      "fetched_at": "2026-10-30T05:21:21.118503",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1343,7 +1421,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.549943",
+      "fetched_at": "2026-10-30T05:21:21.118863",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1369,7 +1447,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.550308",
+      "fetched_at": "2026-10-30T05:21:21.119355",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1395,7 +1473,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.550784",
+      "fetched_at": "2026-10-30T05:21:21.119681",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1421,11 +1499,37 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.812961",
+      "fetched_at": "2026-10-30T05:21:21.548420",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
         "publisher": "文学城"
+      }
+    },
+    {
+      "title": "Around the World: 14 church plants in Ethiopia, reaching the next generation in Guatemala and more quick takes",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWHd4OXZQU0EwYVpFSDVZeDdmZlZ5dmFBb2hQOUVTeWdpVWNwcFdNeHFxMUdncmMyeDl3QkdvSTM4YV9oMmZpVnVzTVg3SUY2UmRJR1lJVUUyR01ua0NmSXE5VQ?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Around the World: 14 church plants in Ethiopia, reaching the next generation in Guatemala and more quick takes The Christian Chronicle",
+      "summary_zh": "环游世界：埃塞俄比亚有14家教堂工厂，危地马拉有下一代，《基督教纪事》更快",
+      "title_zh": "环游世界：埃塞俄比亚有14家教堂工厂，危地马拉有下一代，而且收获更快",
+      "content": "",
+      "author": "The Christian Chronicle",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:21:20.797325",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "The Christian Chronicle"
       }
     },
     {
@@ -1728,7 +1832,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.729112",
+      "fetched_at": "2026-10-30T05:21:20.516975",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1754,7 +1858,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.223498",
+      "fetched_at": "2026-10-30T05:21:20.857325",
       "extra": {
         "provider": "google_news",
         "query": "海外校园 基督 信仰 华人",
@@ -1780,7 +1884,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.550143",
+      "fetched_at": "2026-10-30T05:21:21.118677",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1806,7 +1910,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.729331",
+      "fetched_at": "2026-10-30T05:21:20.517209",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1832,7 +1936,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.940508",
+      "fetched_at": "2026-10-30T05:21:20.796473",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1904,7 +2008,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.550618",
+      "fetched_at": "2026-10-30T05:21:21.119195",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1930,7 +2034,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.551135",
+      "fetched_at": "2026-10-30T05:21:21.119873",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -1982,7 +2086,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.628462",
+      "fetched_at": "2026-10-30T05:21:21.227451",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -2008,7 +2112,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.628245",
+      "fetched_at": "2026-10-30T05:21:21.227266",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -2082,7 +2186,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.551295",
+      "fetched_at": "2026-10-30T05:21:21.120032",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2160,7 +2264,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.550465",
+      "fetched_at": "2026-10-30T05:21:21.119037",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2186,7 +2290,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.550947",
+      "fetched_at": "2026-10-30T05:21:21.119513",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2264,7 +2368,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.223678",
+      "fetched_at": "2026-10-30T05:21:20.857504",
       "extra": {
         "provider": "google_news",
         "query": "海外校园 基督 信仰 华人",
@@ -2312,7 +2416,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.729513",
+      "fetched_at": "2026-10-30T05:21:20.517399",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2338,7 +2442,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.813192",
+      "fetched_at": "2026-10-30T05:21:21.548620",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -2364,7 +2468,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.730016",
+      "fetched_at": "2026-10-30T05:21:20.519087",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2416,7 +2520,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.813687",
+      "fetched_at": "2026-10-30T05:21:21.549305",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -2542,7 +2646,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.740719",
+      "fetched_at": "2026-10-30T05:21:21.187609",
       "extra": {
         "provider": "google_news",
         "query": "Christianity daily news headline",
@@ -2568,7 +2672,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.027459",
+      "fetched_at": "2026-10-30T05:21:20.550013",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -2594,7 +2698,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.729843",
+      "fetched_at": "2026-10-30T05:21:20.518900",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2620,7 +2724,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.729680",
+      "fetched_at": "2026-10-30T05:21:20.518643",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2698,7 +2802,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.326062",
+      "fetched_at": "2026-10-30T05:21:21.039094",
       "extra": {
         "provider": "google_news",
         "query": "基督邮报 基督教 新闻",
@@ -2750,7 +2854,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.730523",
+      "fetched_at": "2026-10-30T05:21:20.519566",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -2958,37 +3062,11 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.730675",
+      "fetched_at": "2026-10-30T05:21:20.519722",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
         "publisher": "Vatican News"
-      }
-    },
-    {
-      "title": "Churches Restrict Entry of Non-Christians in Persecution-Hit Region - International Christian Concern",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUI3R01zN1psVUhrQm5jTjBzVkxsYlRBVlBnUXoyZmJyYmVoelBqYjdJZ2FBMVZMY3kxYmlTVXBKVzViVXhnaWJyWDBxdlFJZ0NYVGF6OEZrbGZHT2g4LUlUNV8tRWl2Z1d1amtrQjhfODNsOXVBRVpDQlpRRmJNM1o3Rk5pZTZEOWpwcjk3VXZKbWlLMUdHTjZYY2syMm8zd2pQNGZn?oc=5",
-      "category": "news",
-      "source": "Christian Today India",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-09-28",
-      "summary": "Churches Restrict Entry of Non-Christians in Persecution-Hit Region - International Christian Concern International Christian Concern",
-      "summary_zh": "教会限制非基督徒进入受迫害地区-国际基督徒关怀国际基督徒关怀",
-      "title_zh": "教会限制非基督徒进入受迫害地区-国际基督徒关注",
-      "content": "",
-      "author": "International Christian Concern",
-      "tags": [],
-      "language": "en",
-      "country": "IN",
-      "region": "亚洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.028117",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news India church",
-        "publisher": "International Christian Concern"
       }
     },
     {
@@ -3010,7 +3088,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.730203",
+      "fetched_at": "2026-10-30T05:21:20.519248",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -3062,7 +3140,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.814671",
+      "fetched_at": "2026-10-30T05:21:21.550322",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -3088,7 +3166,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.028280",
+      "fetched_at": "2026-10-30T05:21:20.551083",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3114,7 +3192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.740917",
+      "fetched_at": "2026-10-30T05:21:21.187829",
       "extra": {
         "provider": "google_news",
         "query": "Christianity daily news headline",
@@ -3140,7 +3218,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.730987",
+      "fetched_at": "2026-10-30T05:21:20.520094",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -3166,7 +3244,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.629640",
+      "fetched_at": "2026-10-30T05:21:21.228140",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -3192,7 +3270,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:54.822019",
+      "fetched_at": "2026-10-30T05:21:20.570670",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3270,7 +3348,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.027620",
+      "fetched_at": "2026-10-30T05:21:20.550284",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3296,7 +3374,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:54.821210",
+      "fetched_at": "2026-10-30T05:21:20.551554",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3426,7 +3504,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:22.730359",
+      "fetched_at": "2026-10-30T05:21:20.519402",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -3478,7 +3556,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.813848",
+      "fetched_at": "2026-10-30T05:21:21.549482",
       "extra": {
         "provider": "google_news",
         "query": "基督教 今日 要闻 教会",
@@ -3504,7 +3582,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:54.820518",
+      "fetched_at": "2026-10-30T05:21:20.550541",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -3555,7 +3633,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:23.300194",
+      "fetched_at": "2026-10-30T05:21:20.938971",
       "extra": {
         "provider": "google_news",
         "query": "中国基督教 两会 三自 爱国",
@@ -3580,7 +3658,8 @@
       "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.681561",
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:21:21.227985",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -3658,7 +3737,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:54.821850",
+      "fetched_at": "2026-10-30T05:21:20.552561",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
