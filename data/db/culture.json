@@ -2,7 +2,7 @@
   "category": "culture",
   "label": "文化媒体",
   "count": 31,
-  "updated_at": "2026-10-30T13:39:40.968373+08:00",
+  "updated_at": "2026-10-30T13:49:38.004049+08:00",
   "articles": [
     {
       "title": "Best Practices from Evangelistically Effective Churches",
@@ -27,7 +27,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.050523",
+      "fetched_at": "2026-10-30T05:46:37.616773",
       "extra": {
         "feed_type": "rss20"
       }
@@ -60,7 +60,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.050626",
+      "fetched_at": "2026-10-30T05:46:37.616938",
       "extra": {
         "feed_type": "rss20"
       }
@@ -88,7 +88,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.050729",
+      "fetched_at": "2026-10-30T05:46:37.617082",
       "extra": {
         "feed_type": "rss20"
       }
@@ -117,7 +117,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.050837",
+      "fetched_at": "2026-10-30T05:46:37.617244",
       "extra": {
         "feed_type": "rss20"
       }
@@ -144,7 +144,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.050932",
+      "fetched_at": "2026-10-30T05:46:37.617392",
       "extra": {
         "feed_type": "rss20"
       }
@@ -172,7 +172,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.051022",
+      "fetched_at": "2026-10-30T05:46:37.617537",
       "extra": {
         "feed_type": "rss20"
       }
@@ -204,7 +204,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.051118",
+      "fetched_at": "2026-10-30T05:46:37.617758",
       "extra": {
         "feed_type": "rss20"
       }
@@ -233,7 +233,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.051209",
+      "fetched_at": "2026-10-30T05:46:37.617908",
       "extra": {
         "feed_type": "rss20"
       }
@@ -261,7 +261,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.051333",
+      "fetched_at": "2026-10-30T05:46:37.618130",
       "extra": {
         "feed_type": "rss20"
       }
@@ -290,7 +290,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.051437",
+      "fetched_at": "2026-10-30T05:46:37.618286",
       "extra": {
         "feed_type": "rss20"
       }
@@ -321,7 +321,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.051530",
+      "fetched_at": "2026-10-30T05:46:37.618432",
       "extra": {
         "feed_type": "rss20"
       }
@@ -351,7 +351,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.051622",
+      "fetched_at": "2026-10-30T05:46:37.618574",
       "extra": {
         "feed_type": "rss20"
       }
@@ -381,7 +381,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.050149",
+      "fetched_at": "2026-10-30T05:46:37.616158",
       "extra": {
         "feed_type": "rss20"
       }
@@ -412,7 +412,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.050283",
+      "fetched_at": "2026-10-30T05:46:37.616351",
       "extra": {
         "feed_type": "rss20"
       }
@@ -443,7 +443,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.050414",
+      "fetched_at": "2026-10-30T05:46:37.616556",
       "extra": {
         "feed_type": "rss20"
       }
@@ -554,7 +554,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.861888",
+      "fetched_at": "2026-10-30T05:46:37.825730",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -580,7 +580,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.273329",
+      "fetched_at": "2026-10-30T05:46:37.156606",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
@@ -657,7 +657,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.438421",
+      "fetched_at": "2026-10-30T05:46:37.094191",
       "extra": {
         "provider": "google_news",
         "query": "赞美之泉 诗歌 敬拜",
@@ -735,7 +735,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.755020",
+      "fetched_at": "2026-10-30T05:46:37.633916",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 婚姻 家庭 亲子",
@@ -750,8 +750,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-28",
       "summary": "Why do we suffer? Religion and science may now agree. America Magazine",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "我们为什么要受苦？宗教和科学现在可能达成一致。《美国》杂志",
+      "title_zh": "我们为什么要受苦？宗教和科学现在可能是一致的。",
       "content": "",
       "author": "America Magazine",
       "tags": [],
@@ -760,7 +760,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.076318",
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:46:37.981223",
       "extra": {
         "provider": "google_news",
         "query": "faith and science Christianity",
@@ -775,8 +776,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-07",
       "summary": "Faith and Values: Humanity needs science and faith to flourish The Spokesman-Review",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "信仰和价值观：人类需要科学和信仰才能蓬勃发展发言人评论",
+      "title_zh": "信仰和价值观：人类需要科学和信仰才能蓬勃发展",
       "content": "",
       "author": "The Spokesman-Review",
       "tags": [],
@@ -785,7 +786,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.076195",
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:46:37.981404",
       "extra": {
         "provider": "google_news",
         "query": "faith and science Christianity",
@@ -800,8 +802,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-07",
       "summary": "Science and religion don’t mix? Let’s test the evidence Aleteia EN",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "科学和宗教没有融合在一起？让我们测试证据Aleteia EN",
+      "title_zh": "科学和宗教没有融合在一起？让我们测试证据",
       "content": "",
       "author": "Aleteia EN",
       "tags": [],
@@ -810,7 +812,8 @@
       "region": "",
       "stance": "evangelical",
       "flags": [],
-      "fetched_at": "2026-10-29T02:35:14.076445",
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:46:37.981580",
       "extra": {
         "provider": "google_news",
         "query": "faith and science Christianity",

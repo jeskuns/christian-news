@@ -1,8 +1,8 @@
 {
   "category": "theology",
   "label": "神学与合一",
-  "count": 43,
-  "updated_at": "2026-10-30T13:39:40.969251+08:00",
+  "count": 44,
+  "updated_at": "2026-10-30T13:49:38.005092+08:00",
   "articles": [
     {
       "title": "WCC Faith and Order meeting opens with path toward deep dialogue",
@@ -23,7 +23,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.200937",
+      "fetched_at": "2026-10-30T05:46:36.711781",
       "extra": {
         "feed_type": "rss20"
       }
@@ -47,7 +47,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.203525",
+      "fetched_at": "2026-10-30T05:46:36.717068",
       "extra": {
         "feed_type": "rss20"
       }
@@ -71,7 +71,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.205932",
+      "fetched_at": "2026-10-30T05:46:36.721182",
       "extra": {
         "feed_type": "rss20"
       }
@@ -95,7 +95,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.209314",
+      "fetched_at": "2026-10-30T05:46:36.727755",
       "extra": {
         "feed_type": "rss20"
       }
@@ -119,7 +119,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.216888",
+      "fetched_at": "2026-10-30T05:46:36.744559",
       "extra": {
         "feed_type": "rss20"
       }
@@ -143,7 +143,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.218637",
+      "fetched_at": "2026-10-30T05:46:36.747567",
       "extra": {
         "feed_type": "rss20"
       }
@@ -167,7 +167,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.221668",
+      "fetched_at": "2026-10-30T05:46:36.752610",
       "extra": {
         "feed_type": "rss20"
       }
@@ -191,7 +191,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.224640",
+      "fetched_at": "2026-10-30T05:46:36.757757",
       "extra": {
         "feed_type": "rss20"
       }
@@ -215,7 +215,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.231331",
+      "fetched_at": "2026-10-30T05:46:36.769169",
       "extra": {
         "feed_type": "rss20"
       }
@@ -239,7 +239,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.233562",
+      "fetched_at": "2026-10-30T05:46:36.774903",
       "extra": {
         "feed_type": "rss20"
       }
@@ -383,7 +383,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.177357",
+      "fetched_at": "2026-10-30T05:46:36.850683",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -409,7 +409,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:21.372465",
+      "fetched_at": "2026-10-30T05:46:36.320421",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -461,7 +461,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.426572",
+      "fetched_at": "2026-10-30T05:46:36.347045",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -472,7 +472,7 @@
       "title": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0MTE1eDhEVW1GeGRKb3JtR29JSzZCT3A4UTZlaVhLdmxqT0lnMTc4eUV4NHRJVGs4MW56enNyM09mbWJzRldkUUVwV1h3dEU2VEdiQnducXcwdkR6LUtOcm95OWh5cllrMjc4XzczQQ?oc=5",
       "category": "theology",
-      "source": "建道神学院",
+      "source": "中国神学研究院",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-15",
       "summary": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話 基督日報",
@@ -487,10 +487,10 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.765587",
+      "fetched_at": "2026-10-30T05:46:36.549366",
       "extra": {
         "provider": "google_news",
-        "query": "建道神学院 神学 研究",
+        "query": "中国神学研究院 神学",
         "publisher": "基督日報"
       }
     },
@@ -539,7 +539,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.177994",
+      "fetched_at": "2026-10-30T05:46:36.851687",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -565,7 +565,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.089105",
+      "fetched_at": "2026-10-30T05:46:36.084094",
       "extra": {
         "provider": "google_news",
         "query": "生命季刊 基督教 神学",
@@ -591,11 +591,37 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.177904",
+      "fetched_at": "2026-10-30T05:46:36.851518",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "Sojourners"
+      }
+    },
+    {
+      "title": "The Rev. Dr. Thomas Ferguson named Episcopal Church Ecumenical and Interreligious Relations Officer",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOGFQTVFXbGJoNHcwaVVxd2p5M1RGOTJZUVJyTnF1T0RVcnVXdFVHSk9RUnVLTmZaYXRkanZTek5ObzRGQ090R2x1ZFNxRkV0amJqdTNoY2ZEUDVOVXI1VEJVdU4tdFFQUjB5UlNWVEt3dUlyNzNKbXk1REtUbG9aOUZUYlY0TzAzd3VmOXlnQ19BVGRGYV9pYWRSSXg4eGQzRVFEdVlNOGJGYjFzNktzd0FxRlNKZW1WR2g2UVJuQkJZQ1pwVXp3YjZqTGJnZmFMYl9wdHMwcmVJanJKZFZfa2pDTFJFeGM?oc=5",
+      "category": "theology",
+      "source": "合一运动（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-15",
+      "summary": "The Rev. Dr. Thomas Ferguson named Episcopal Church Ecumenical and Interreligious Relations Officer The Episcopal Church",
+      "summary_zh": "托马斯·弗格森牧师博士任命圣公会全基督教和宗教间关系官员为圣公会",
+      "title_zh": "托马斯·弗格森牧师博士任命圣公会全基督教和宗教间关系官员",
+      "content": "",
+      "author": "The Episcopal Church",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:46:36.321381",
+      "extra": {
+        "provider": "google_news",
+        "query": "ecumenical council theology",
+        "publisher": "The Episcopal Church"
       }
     },
     {
@@ -617,7 +643,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.177589",
+      "fetched_at": "2026-10-30T05:46:36.851048",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -643,7 +669,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.389160",
+      "fetched_at": "2026-10-30T05:46:36.224690",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -721,7 +747,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.178267",
+      "fetched_at": "2026-10-30T05:46:36.852143",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -747,7 +773,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.446023",
+      "fetched_at": "2026-10-30T05:46:36.550553",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -773,7 +799,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.654397",
+      "fetched_at": "2026-10-30T05:46:36.619401",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -825,7 +851,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.177480",
+      "fetched_at": "2026-10-30T05:46:36.850877",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -851,7 +877,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.446212",
+      "fetched_at": "2026-10-30T05:46:36.550901",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -903,7 +929,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.446316",
+      "fetched_at": "2026-10-30T05:46:36.550745",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -919,7 +945,7 @@
       "published": "2026-08-18",
       "summary": "Christian Theology Meets Pop Culture in New IVP Series Publishers Weekly",
       "summary_zh": "基督教神学与流行文化在新的 IVP 系列《出版商周刊》中相遇",
-      "title_zh": "",
+      "title_zh": "基督教神学在新的IVP系列中与流行文化相遇",
       "content": "",
       "author": "Publishers Weekly",
       "tags": [],
@@ -929,7 +955,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.156258",
+      "fetched_at": "2026-10-30T05:46:37.191039",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -955,7 +981,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.654273",
+      "fetched_at": "2026-10-30T05:46:36.619231",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -981,7 +1007,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:13:59.110695",
+      "fetched_at": "2026-10-30T05:46:36.473288",
       "extra": {
         "provider": "google_news",
         "query": "Themelios theology",
@@ -997,7 +1023,7 @@
       "published": "2026-08-16",
       "summary": "Introducing International Relations: Religion and Culture E-International Relations",
       "summary_zh": "国际关系概论：宗教与文化电子国际关系",
-      "title_zh": "",
+      "title_zh": "国际关系简介：宗教与文化",
       "content": "",
       "author": "E-International Relations",
       "tags": [],
@@ -1007,7 +1033,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:44.156533",
+      "fetched_at": "2026-10-30T05:46:37.191406",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -1033,7 +1059,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.121857",
+      "fetched_at": "2026-10-30T05:46:36.320705",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
