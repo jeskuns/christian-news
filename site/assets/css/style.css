@@ -33,6 +33,7 @@
   --c-wiki:#6a7488;
 }
 *{box-sizing:border-box;margin:0;padding:0}
+[hidden]{display:none!important}
 html{scroll-behavior:smooth}
 body{font-family:var(--font);color:var(--ink);background:var(--bg);line-height:1.7;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 a{text-decoration:none}
@@ -206,6 +207,8 @@ main.container{padding-bottom:48px}
 @media (max-width:860px){
   .container{padding:0 16px}
   .hero{padding:24px 18px;margin:16px 0 14px}
+  .hero-main{flex:1 1 100%}
+  .updated-pill{white-space:normal}
   .hero h1{font-size:25px}
   .hero-tools{align-items:flex-start;width:100%}
   .date-nav{width:100%;justify-content:space-between}
