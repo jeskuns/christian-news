@@ -1,8 +1,8 @@
 {
   "category": "culture",
   "label": "文化媒体",
-  "count": 28,
-  "updated_at": "2026-10-29T14:34:53.709002+08:00",
+  "count": 31,
+  "updated_at": "2026-10-30T09:28:52.169256+08:00",
   "articles": [
     {
       "title": "Best Practices from Evangelistically Effective Churches",
@@ -10,7 +10,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "While thousands of Americans are dechurching, some churches are baptizing many new members. Here’s how the country’s most evangelistically effective churches are sharing the gospel.",
       "summary_zh": "虽然成千上万的美国人正在脱离教会，但一些教会正在为许多新成员施洗。以下是该国传福音最有效的教会如何分享福音。",
       "title_zh": "传福音有效教会的最佳实践",
@@ -27,7 +27,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.565943",
+      "fetched_at": "2026-10-30T01:22:28.135487",
       "extra": {
         "feed_type": "rss20"
       }
@@ -38,7 +38,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "This volume is an invitation to rediscover that heritage and to find fresh encouragement in the faithfulness of God, who has sustained his church through the centuries.",
       "summary_zh": "这本书邀请我们重新发现这一遗产，并在上帝的信实中找到新的鼓励，上帝几个世纪以来一直支撑着他的教会。",
       "title_zh": "我们需要了解我们的改革根源",
@@ -60,7 +60,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.566080",
+      "fetched_at": "2026-10-30T01:22:28.135644",
       "extra": {
         "feed_type": "rss20"
       }
@@ -71,7 +71,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "Do pregnancy centers, food pantries, or campus ministries exist because the church is failing to do her work?",
       "summary_zh": "怀孕中心、食品储藏室或校园事工的存在是否是因为教会未能做好她的工作？",
       "title_zh": "如果教会做了它的工作，教堂会存在吗？",
@@ -88,7 +88,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.566187",
+      "fetched_at": "2026-10-30T01:22:28.135792",
       "extra": {
         "feed_type": "rss20"
       }
@@ -99,7 +99,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "Joel Beeke joins Matt Smethurst and Ligon Duncan to explore what the Puritans can teach today’s pastors about prayer, preaching, personal holiness, shepherding souls, handling criticism, and persevering in ministry.",
       "summary_zh": "乔尔·比克 (Joel Beeke) 与马特·斯梅瑟斯特 (Matt Smethurst) 和里贡·邓肯 (Ligon Duncan) 一起探索清教徒可以教导当今的牧师关于祈祷、讲道、个人圣洁、牧养灵魂、处理批评和坚持事工的知识。",
       "title_zh": "清教徒的教训（与Joel Beeke一起）",
@@ -117,7 +117,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.566302",
+      "fetched_at": "2026-10-30T01:22:28.135956",
       "extra": {
         "feed_type": "rss20"
       }
@@ -128,7 +128,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "L. Michael Morales talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
       "summary_zh": "L. 迈克尔·莫拉莱斯 (L. Michael Morales) 谈论他的床头柜上有什么、最喜欢的小说、最喜欢的重读等等。",
       "title_zh": "在我的架子上： L. Michael Morales的生活和书籍",
@@ -144,7 +144,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.566407",
+      "fetched_at": "2026-10-30T01:22:28.136133",
       "extra": {
         "feed_type": "rss20"
       }
@@ -155,7 +155,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "Let’s start by counting the cost.",
       "summary_zh": "我们先从计算成本开始。",
       "title_zh": "如何找到更好地利用工作时间的动力？",
@@ -172,7 +172,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.566502",
+      "fetched_at": "2026-10-30T01:22:28.136286",
       "extra": {
         "feed_type": "rss20"
       }
@@ -183,7 +183,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "Several features indicate that the eyewitness accounts of Simon stand behind Mark’s Gospel.",
       "summary_zh": "有几个特征表明，西门的目击者叙述是马可福音的依据。",
       "title_zh": "西蒙说：马可福音中不明显的目击者证据",
@@ -204,7 +204,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.566601",
+      "fetched_at": "2026-10-30T01:22:28.136442",
       "extra": {
         "feed_type": "rss20"
       }
@@ -215,7 +215,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "We must view our foreign-feeling bodies as vessels through which God demonstrates his redeeming strength.",
       "summary_zh": "我们必须将我们陌生的身体视为神借以彰显他救赎力量的器皿。",
       "title_zh": "破碎的身体造就美丽的寺庙",
@@ -233,7 +233,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.566692",
+      "fetched_at": "2026-10-30T01:22:28.136590",
       "extra": {
         "feed_type": "rss20"
       }
@@ -244,7 +244,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "You’re being prepared for the work the Lord has for you in ways you may not understand until you’re standing in a hospice living room.",
       "summary_zh": "你正在为主为你安排的工作做好准备，而你可能无法理解，直到你站在临终关怀的客厅里。",
       "title_zh": "关于牧灵事工，我的祖父母教会了我什么",
@@ -261,7 +261,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.566807",
+      "fetched_at": "2026-10-30T01:22:28.136742",
       "extra": {
         "feed_type": "rss20"
       }
@@ -272,7 +272,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "Many of us have seen the statistics that Gen Z is the least explicitly Christian or religious generation on record.",
       "summary_zh": "我们中的许多人都看到过统计数据，Z 世代是有记录以来最不明确的基督徒或宗教信仰的一代。",
       "title_zh": "Z世代事工的福音希望",
@@ -290,7 +290,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.566913",
+      "fetched_at": "2026-10-30T01:22:28.137214",
       "extra": {
         "feed_type": "rss20"
       }
@@ -301,7 +301,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "The Hebrew Roots Movement is a modern version of the New Testament Judaizers who were rebuked by Paul.",
       "summary_zh": "希伯来根源运动是被保罗斥责的新约犹太教徒的现代版本。",
       "title_zh": "关于希伯来根源运动，你应该知道什么",
@@ -321,7 +321,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.567007",
+      "fetched_at": "2026-10-30T01:22:28.137387",
       "extra": {
         "feed_type": "rss20"
       }
@@ -332,7 +332,7 @@
       "category": "culture",
       "source": "The Gospel Coalition",
       "source_url": "https://www.thegospelcoalition.org/feed/",
-      "published": "2026-10-29",
+      "published": "2026-10-30",
       "summary": "Learn long-term planning from Joseph, artful delegation from Jethro, lifelong consistency from Daniel, and aged wisdom from John.",
       "summary_zh": "向约瑟夫学习长期规划，向叶忒罗学习巧妙的授权，向丹尼尔学习终生的一致性，向约翰学习古老的智慧。",
       "title_zh": "在终身事工中茁壮成长的7个关键",
@@ -351,7 +351,99 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.567100",
+      "fetched_at": "2026-10-30T01:22:28.137542",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "The Dangers of Getting Advice from the Internet",
+      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/dangers-advice-internet/",
+      "category": "culture",
+      "source": "The Gospel Coalition",
+      "source_url": "https://www.thegospelcoalition.org/feed/",
+      "published": "2026-10-30",
+      "summary": "Melissa and Courtney discuss how to cultivate discernment when seeking advice online and recognize the danger of letting AI or influencers replace wise counsel from the body of Christ.",
+      "summary_zh": "",
+      "title_zh": "从互联网上获取建议的危险",
+      "content": "",
+      "author": "Courtney Doctor, Melissa Kruger",
+      "tags": [
+        "Podcast",
+        "Artificial Intelligence",
+        "Friendship",
+        "Social Media",
+        "Wisdom"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T01:22:28.134946",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "Beware Making Mental Illness an Identity",
+      "url": "https://www.thegospelcoalition.org/reviews/all-in-your-head/",
+      "category": "culture",
+      "source": "The Gospel Coalition",
+      "source_url": "https://www.thegospelcoalition.org/feed/",
+      "published": "2026-10-30",
+      "summary": "‘All in Your Head’ is a concrete and compelling remapping of mental health culture with impressive explanatory power.",
+      "summary_zh": "",
+      "title_zh": "小心让精神疾病成为一种身份",
+      "content": "",
+      "author": "Brad Edwards",
+      "tags": [
+        "Current Affairs",
+        "Reviews",
+        "Biblical Counseling",
+        "Emotions and Affections",
+        "Identity",
+        "Psychology and Disorders"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T01:22:28.135154",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "How a Former Prisoner in Iran Wants You to Pray for Christians in Chains",
+      "url": "https://www.thegospelcoalition.org/article/prayer-iran-prison-christians/",
+      "category": "culture",
+      "source": "The Gospel Coalition",
+      "source_url": "https://www.thegospelcoalition.org/feed/",
+      "published": "2026-10-30",
+      "summary": "Pray not only for what God might do for Christian prisoners in Iran but for what God might do through them, for his glory.",
+      "summary_zh": "",
+      "title_zh": "伊朗前囚犯如何希望你为被锁的基督徒祈祷",
+      "content": "",
+      "author": "Farshid Fathi",
+      "tags": [
+        "Christian Living",
+        "Global Christianity",
+        "Government",
+        "Persecution",
+        "Prayer",
+        "Suffering"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T01:22:28.135321",
       "extra": {
         "feed_type": "rss20"
       }
@@ -462,7 +554,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.566723",
+      "fetched_at": "2026-10-30T01:22:28.638671",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -488,7 +580,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.331700",
+      "fetched_at": "2026-10-30T01:22:27.490635",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
@@ -514,7 +606,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.567319",
+      "fetched_at": "2026-10-30T01:22:28.639952",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -565,7 +657,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:22.536332",
+      "fetched_at": "2026-10-30T01:22:27.673807",
       "extra": {
         "provider": "google_news",
         "query": "赞美之泉 诗歌 敬拜",
@@ -591,7 +683,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.566889",
+      "fetched_at": "2026-10-30T01:22:28.638924",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -617,7 +709,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.179340",
+      "fetched_at": "2026-10-30T01:22:28.061598",
       "extra": {
         "provider": "google_news",
         "query": "基督教 电影 信仰 见证",
@@ -643,7 +735,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.025466",
+      "fetched_at": "2026-10-30T01:22:28.146423",
       "extra": {
         "provider": "google_news",
         "query": "基督徒 婚姻 家庭 亲子",
@@ -744,7 +836,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.567413",
+      "fetched_at": "2026-10-30T01:22:28.639792",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -770,7 +862,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.567628",
+      "fetched_at": "2026-10-30T01:22:28.640321",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",

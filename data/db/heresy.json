@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 14,
-  "updated_at": "2026-10-29T14:34:53.717961+08:00",
+  "count": 16,
+  "updated_at": "2026-10-30T09:28:52.180612+08:00",
   "articles": [
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church - ABC News",
@@ -100,7 +100,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.656716",
+      "fetched_at": "2026-10-30T01:22:28.753243",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -186,6 +186,32 @@
       }
     },
     {
+      "title": "Latest from Mormon Land: Historian Richard Bushman sought a blessing from a surprising apostle",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92Yno5aUhEUEMxQ3pndi1LWFpvU0wzV2JaUmxJZThWcjVlU3ZUaE9CT3dDTkh1YXBkUTNQdlBFMG1obDJaWHFlZlN3VUF4Z0h4UUxtTTB1TFQ3emR6ZEwxVzltQ1R4cDlCNnhVQ0hsbVU5ZEh5S3p2Q2Zpc2c1UQ?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-29",
+      "summary": "Latest from Mormon Land: Historian Richard Bushman sought a blessing from a surprising apostle The Salt Lake Tribune",
+      "summary_zh": "",
+      "title_zh": "来自摩门教土地的最新消息：历史学家理查德·布什曼（ Richard Bushman ）向一位出人意料的使徒寻求祝福",
+      "content": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T01:22:28.752952",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      }
+    },
+    {
       "title": "‘Mormon Land’: As a presidential candidate, Joseph Smith was ‘anti-slavery,’ but he was no abolitionist",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVY2x1MGhSc29PQ2U5MU8wS1JwcUQtVlAyY0NjTjZraGhBSGY0SE5weEhkekhwMXlLdHFJOUI4RmZlRlRzRlJ6dC1MNEl0amV3WVkwZUt1OWp4WFJXS1lOZXFKNHpndlR6V3hUM3RpUmI?oc=5",
       "category": "heresy",
@@ -229,7 +255,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.657143",
+      "fetched_at": "2026-10-30T01:22:28.753719",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -255,7 +281,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.656905",
+      "fetched_at": "2026-10-30T01:22:28.753493",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -281,11 +307,37 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.657348",
+      "fetched_at": "2026-10-30T01:22:28.754626",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Business Journals"
+      }
+    },
+    {
+      "title": "Are Mormons Losing Their Distinctiveness?",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUNyM1E5RHBQV1ZpT3E5T0drOXhHTm5wS3hrVVk2R1dtS1NCYmpndTRsbGJWT2w3YUxuWjROTm1FUVd2TjR3NUxHNGlHM29RdTNKZXlCeTd0V3oya09ySXJyVTJLSmVKRk9TNDRRbEJSS1lwY2FFVTZYc0FZNUlQV2lHcVE?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-04",
+      "summary": "Are Mormons Losing Their Distinctiveness? The Atlantic",
+      "summary_zh": "",
+      "title_zh": "摩门教徒是否正在失去其独特性？",
+      "content": "",
+      "author": "The Atlantic",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T01:22:28.755523",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Atlantic"
       }
     },
     {
@@ -307,7 +359,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.657966",
+      "fetched_at": "2026-10-30T01:22:28.754449",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -333,7 +385,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.658058",
+      "fetched_at": "2026-10-30T01:22:28.754185",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
