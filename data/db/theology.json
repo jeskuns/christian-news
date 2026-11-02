@@ -2,7 +2,7 @@
   "category": "theology",
   "label": "神学与合一",
   "count": 50,
-  "updated_at": "2026-11-02T08:40:15.717081+08:00",
+  "updated_at": "2026-11-02T13:44:10.831545+08:00",
   "articles": [
     {
       "title": "WCC Faith and Order meeting opens with path toward deep dialogue",
@@ -24,7 +24,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.752587",
+      "fetched_at": "2026-11-02T05:33:03.631894",
       "extra": {
         "feed_type": "rss20"
       }
@@ -49,7 +49,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.758915",
+      "fetched_at": "2026-11-02T05:33:03.636314",
       "extra": {
         "feed_type": "rss20"
       }
@@ -74,7 +74,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.764066",
+      "fetched_at": "2026-11-02T05:33:03.640484",
       "extra": {
         "feed_type": "rss20"
       }
@@ -99,7 +99,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.767585",
+      "fetched_at": "2026-11-02T05:33:03.643987",
       "extra": {
         "feed_type": "rss20"
       }
@@ -124,7 +124,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.778588",
+      "fetched_at": "2026-11-02T05:33:03.655706",
       "extra": {
         "feed_type": "rss20"
       }
@@ -149,7 +149,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.836158",
+      "fetched_at": "2026-11-02T05:33:03.687066",
       "extra": {
         "feed_type": "rss20"
       }
@@ -174,7 +174,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.797135",
+      "fetched_at": "2026-11-02T05:33:03.667937",
       "extra": {
         "feed_type": "rss20"
       }
@@ -199,7 +199,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.805592",
+      "fetched_at": "2026-11-02T05:33:03.675296",
       "extra": {
         "feed_type": "rss20"
       }
@@ -224,7 +224,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.826374",
+      "fetched_at": "2026-11-02T05:33:03.680755",
       "extra": {
         "feed_type": "rss20"
       }
@@ -249,7 +249,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.833842",
+      "fetched_at": "2026-11-02T05:33:03.685295",
       "extra": {
         "feed_type": "rss20"
       }
@@ -370,7 +370,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.449242",
+      "fetched_at": "2026-11-02T05:33:03.369900",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -517,7 +517,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.360497",
+      "fetched_at": "2026-11-02T05:33:03.204707",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -632,7 +632,7 @@
       "title": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0MTE1eDhEVW1GeGRKb3JtR29JSzZCT3A4UTZlaVhLdmxqT0lnMTc4eUV4NHRJVGs4MW56enNyM09mbWJzRldkUUVwV1h3dEU2VEdiQnducXcwdkR6LUtOcm95OWh5cllrMjc4XzczQQ?oc=5",
       "category": "theology",
-      "source": "建道神学院",
+      "source": "中国神学研究院",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-15",
       "summary": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話 基督日報",
@@ -648,10 +648,10 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.464867",
+      "fetched_at": "2026-11-02T05:33:03.308235",
       "extra": {
         "provider": "google_news",
-        "query": "建道神学院 神学 研究",
+        "query": "中国神学研究院 神学",
         "publisher": "基督日報"
       }
     },
@@ -832,7 +832,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.358020",
+      "fetched_at": "2026-11-02T05:33:03.203316",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -886,7 +886,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.630661",
+      "fetched_at": "2026-11-02T05:33:03.483974",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -965,7 +965,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.582730",
+      "fetched_at": "2026-11-02T05:33:03.309295",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -983,6 +983,7 @@
       "summary_zh": "2026 年 9 月 3 日：路易斯安那州中部每日简报 Rapides Parish Journal",
       "title_zh": "2026年9月3日：路易斯安那州中部每日简报",
       "content": "",
+      "content_zh": "",
       "author": "Rapides Parish Journal",
       "tags": [],
       "language": "en",
@@ -991,7 +992,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:36.619401",
+      "fetched_at": "2026-11-02T05:33:03.404791",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -1018,7 +1019,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.449423",
+      "fetched_at": "2026-11-02T05:33:03.370313",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -1071,7 +1072,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.583059",
+      "fetched_at": "2026-11-02T05:33:03.309614",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
@@ -1089,6 +1090,7 @@
       "summary_zh": "帕尔默·罗伯逊 (O. Palmer Robertson) 对圣约神学的长期辩护 今日基督教",
       "title_zh": "O. Palmer Robertson对盟约神学的长期辩护",
       "content": "",
+      "content_zh": "",
       "author": "Christianity Today",
       "tags": [],
       "language": "en",
@@ -1097,7 +1099,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.986612",
+      "fetched_at": "2026-11-02T05:33:03.724432",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",
@@ -1108,7 +1110,7 @@
       "title": "从恩师身上继承神学思想 「传记即神学」 邓绍光荣休研讨",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT1lURlR6Y0JSZTZEUkh4cjNEUC13c1VTRkU5eXAwdmFuazZYNXJJQjFTREJJcW5DX1gzUlZNdWVQSkVNM2RTd016NUtUaWdsai1RZV9INnhvNGFmRmVwM0FlUEUxMXRvVkt5eEY5eV9lV0t6Q19oZmZPTnZrRHFOOVR2QWF0QXpBV1lEVEZRMmh3STFBdm51eXAzOFlwRzlhZUh0MmtNQkZuMFNYbXd3enJEU3JhQQ?oc=5",
       "category": "theology",
-      "source": "中国神学研究院",
+      "source": "神学会议（中文）",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-21",
       "summary": "从恩师身上继承神学思想 「传记即神学」 邓绍光荣休研讨 《時代論壇》Christian Times",
@@ -1119,15 +1121,15 @@
       "author": "《時代論壇》Christian Times",
       "tags": [],
       "language": "zh",
-      "country": "HK",
-      "region": "亚洲",
-      "stance": "academic",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.582537",
+      "fetched_at": "2026-11-02T05:33:02.861140",
       "extra": {
         "provider": "google_news",
-        "query": "中国神学研究院 神学",
+        "query": "基督教 神学 研讨会 神学院",
         "publisher": "《時代論壇》Christian Times"
       }
     },
@@ -1151,7 +1153,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.292816",
+      "fetched_at": "2026-11-02T05:33:04.129343",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -1169,6 +1171,7 @@
       "summary_zh": "达拉斯神学院与印度学校合作推出圣经辅导学位 www.christiandaily.com",
       "title_zh": "达拉斯神学院与印度学校合作推出圣经咨询学位",
       "content": "",
+      "content_zh": "",
       "author": "www.christiandaily.com",
       "tags": [],
       "language": "en",
@@ -1177,7 +1180,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:36.619231",
+      "fetched_at": "2026-11-02T05:33:03.404994",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
@@ -1231,7 +1234,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.293644",
+      "fetched_at": "2026-11-02T05:33:04.129753",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -1258,7 +1261,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.260975",
+      "fetched_at": "2026-11-02T05:33:02.872078",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -1276,6 +1279,7 @@
       "summary_zh": "改革宗基督徒关心圣灵吗？现代宗教改革",
       "title_zh": "改革宗基督徒关心圣灵吗？",
       "content": "",
+      "content_zh": "",
       "author": "Modern Reformation",
       "tags": [],
       "language": "en",
@@ -1284,7 +1288,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.986473",
+      "fetched_at": "2026-11-02T05:33:03.724206",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",

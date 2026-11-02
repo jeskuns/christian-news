@@ -1,8 +1,8 @@
 {
   "category": "church",
   "label": "教会与机构",
-  "count": 164,
-  "updated_at": "2026-11-02T08:40:15.729472+08:00",
+  "count": 174,
+  "updated_at": "2026-11-02T13:44:10.845081+08:00",
   "articles": [
     {
       "title": "Park Cities church hosts first service since voting to leave denominational conference",
@@ -59,6 +59,33 @@
       }
     },
     {
+      "title": "Highland Park Methodist Church worships under new name for first time",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlM5YWU0YXdrcDcxMnA4Z1pVcnkxYjhBajlKVm10RFBiTHA4bklNTUxQVzJodl9HSWxhc1BwOHhkWXR4NHJFVHY1UFVwdkNKaDF3bHNoVlNrcmg1eXd5SXFnRldJaEZPMU5DNjVOMlZSSkhjd01Nb3h1bG0zVFRBMG5IN2RGSlFPUElvZGxwMmRTcVlnRXdYcWNVVTlqUlJDUVNnYTRXUm1sUms?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-01",
+      "summary": "Highland Park Methodist Church worships under new name for first time Dallas News",
+      "summary_zh": "高地公园卫理公会教堂首次以新名称崇拜达拉斯新闻",
+      "title_zh": "高地公园卫理公会教堂首次以新名称崇拜",
+      "content": "",
+      "content_zh": "",
+      "author": "Dallas News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:02.668720",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "Dallas News"
+      }
+    },
+    {
       "title": "A global Christian declaration: An urgent call for equality, peace, and justice, and the future of Christianity in the Middle East",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNREdTbGk5Nm5WbE9iTDMxSEpBZXF4NGVvYnpqWUQweHJIU2JuSFZuSVBOa2tSdnRtd1AwelUwSUc4MnprY21XSzBuODMyRjYyenkyV1RBS0dRYVpyX0xSd24waUlERW1GSm8wb1ZKUDFPNzhVOHBsNWZtQ2JtMi1LSnYxT2ozQ3NTRkJqNmw5Zl9iSTR1UWlvWFh5UjM0b3NaakZuTUp6YTBibFVsRlptZjFOU0VZN3kwaVdhaE9yZzZaVXJuUkhteUE1UkpoYWI5MHhucm9XQTVOb290WmVYLWRTZEZ4c3VFNXlxNHkwUjdleHozVFJwN0NyNA?oc=5",
       "category": "church",
@@ -78,7 +105,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.214184",
+      "fetched_at": "2026-11-02T05:33:02.130933",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -105,7 +132,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.215084",
+      "fetched_at": "2026-11-02T05:33:02.132306",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -133,6 +160,33 @@
       "flags": [],
       "priority": 2,
       "fetched_at": "2026-11-02T00:28:03.893757",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "Dallas News"
+      }
+    },
+    {
+      "title": "First United Methodist Church, Dallas, releases statement amid Highland Park Methodist Church departure",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGtsYjBTR0N6b0tCZmpuM3VyaFJSR1dVNHNKcldEQ3AySWFYV1JnOTJPSjZxTWV3UnpKakxYUVNrN1YzS1hkSmNvXzh5S2VsdzF3OGpDdnRkRHpZY0x1RzE0dkFXVklkZVN2UDJGVkVHWTFoYVRoM2RSQkV0eFVUbGFrS2VIT25HOGl4S0ZRX3NrZ0lmU1B3UmtFRHpIdlFmWkptZE5HbmpyZw?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-31",
+      "summary": "First United Methodist Church, Dallas, releases statement amid Highland Park Methodist Church departure Dallas News",
+      "summary_zh": "达拉斯第一联合卫理公会教堂在高地公园卫理公会教堂离开达拉斯时发表声明",
+      "title_zh": "达拉斯第一个联合卫理公会教堂在高地公园卫理公会教堂离开时发表声明",
+      "content": "",
+      "content_zh": "",
+      "author": "Dallas News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:02.669278",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -211,7 +265,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.434908",
+      "fetched_at": "2026-11-02T05:33:02.196753",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -238,7 +292,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.214379",
+      "fetched_at": "2026-11-02T05:33:02.131194",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -265,7 +319,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.434723",
+      "fetched_at": "2026-11-02T05:33:02.196558",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -292,7 +346,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.895741",
+      "fetched_at": "2026-11-02T05:33:02.669104",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -324,6 +378,141 @@
         "provider": "google_news",
         "query": "Methodist church news",
         "publisher": "UM News"
+      }
+    },
+    {
+      "title": "Lutheran World Federation newsletter",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHbDFrWTdyZDVjTUxCUEVmcFRraWdXMDB4dkRhWE9TRjVWZmktWUxYZTVOcUk4MDhWU3BfQVlranhDa1JhdDZndm94U3ZuOU51Z0ZuZDlfUTZqdW5XN0tjSnMtNEthcGFJZFBUaDJHTm9iM29mNE5ybGM0NjY2Ulk?oc=5",
+      "category": "church",
+      "source": "Lutheran World Federation",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "Lutheran World Federation newsletter Grand Canyon Synod of the ELCA",
+      "summary_zh": "世界路德教会联合会时事通讯 大峡谷 ELCA 会议",
+      "title_zh": "世界路德会联合会",
+      "content": "",
+      "content_zh": "",
+      "author": "Grand Canyon Synod of the ELCA",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:02.446497",
+      "extra": {
+        "provider": "google_news",
+        "query": "Lutheran World Federation",
+        "publisher": "Grand Canyon Synod of the ELCA"
+      }
+    },
+    {
+      "title": "Highland Park United Methodist Church split brings legal battle, dueling services",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0I4cWI2VTJuc05vTjRCcEszRFhfVlJKb2ZIcmlBeDlVQ0xZNVlCZ2hfcHpjckNvUGQ4WVBRaWJnUGhvYUJfNXFoMVNHWkxOdWs0NVNCX2hUUEZYajhaV1BtVjd3dVNNRjRCY2hnR3BPUmtQTWxvb0U1NE9HbVdMa1d6d3lKNFdNTENEUUx5eWVTbkJBTjZiNnhMQ0NBb3dlTkpCSWxpRVZwMkhzLUE4?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "Highland Park United Methodist Church split brings legal battle, dueling services FOX 4 News Dallas-Fort Worth",
+      "summary_zh": "高地公园联合卫理公会教堂分裂带来法律斗争，决斗服务福克斯4新闻达拉斯-沃思堡",
+      "title_zh": "高地公园联合卫理公会教堂分裂带来法律斗争、决斗服务",
+      "content": "",
+      "content_zh": "",
+      "author": "FOX 4 News Dallas-Fort Worth",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:02.668346",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "FOX 4 News Dallas-Fort Worth"
+      }
+    },
+    {
+      "title": "Highland Park church rejects bishop's authority as dispute with United Methodist Church deepens",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUlIeUozczN1TU1lREp4M0Z2X01aX2pBa29KQk14Qmp6RTFTWjRRNUM0ZXNlSllrY3lsMWhiSEMtSkJaeGtmOU1sTzhaV2tFLUl1cG5zV1JVWUt6STJDRmdMZ0VTQV90aDY2aE9UT3BrMktTS2tnV1VqMTR2cU1FN19wTWotYUJOSkpmTkFzc0RYam5xdXZoWlBuZGs4YVhpUkZCRnpKVGp5Q2w2MEtYY0xSX25ObV94UlZPYmphLWU2NEpWUVJ6akR3?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "Highland Park church rejects bishop's authority as dispute with United Methodist Church deepens CBS News",
+      "summary_zh": "高地公园教堂拒绝主教的权威，因为与联合卫理公会的纠纷加深了CBS新闻",
+      "title_zh": "高地公园教堂拒绝主教的权威，因为与联合卫理公会的争议加深",
+      "content": "",
+      "content_zh": "",
+      "author": "CBS News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:02.668886",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "CBS News"
+      }
+    },
+    {
+      "title": "'Changes nothing for us': Texas mega church defies bishop after 90% vote to split",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEpyTEo4WEJGdGp4ZzFxWXBCX0l2VE9ydGcyWWJIQVFIWHZTOWFfRFV0eUctbkVNV0g3WnpYdmJNVDZiNzhheUxldEpjNmRSTGZzWTJVb1NvZ0ZPbDRvT3pUdTBlODBRMmhRWmIyWlc5dTRpMU1NTHIwQTFvVUhRYkFqS2g?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "'Changes nothing for us': Texas mega church defies bishop after 90% vote to split Chron",
+      "summary_zh": "“对我们没有任何改变” ：德克萨斯大教堂在90 ％投票分裂CHRON后无视主教",
+      "title_zh": "“对我们没有任何改变” ：德克萨斯州的大教堂在90 ％投票分裂后无视主教",
+      "content": "",
+      "content_zh": "",
+      "author": "Chron",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:02.669617",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "Chron"
+      }
+    },
+    {
+      "title": "UMC Bishop appoints new pastor to Texas megachurch that voted to disaffiliate",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGtQSFROYkNqZ1NJYUN0bU55NFNneGxmSzFLdTYwTUFXZHZuRFpVcmsxQWFpc0JIQWxiWFFTVWQ5NjFhTG5fRlFGblNWRzBUUTRTZHVfQ0QzR1R1QnoxNDRtZ3dGTUN2ZnJ5WnpqZGNpUDNqeXpJbHNQR0xOTXN2dXdmaHdNYkpmSTE5R1BieDB5MmZ4OFlBTkNiZXJTaGlOMm1YbEpB?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "UMC Bishop appoints new pastor to Texas megachurch that voted to disaffiliate Christian Post",
+      "summary_zh": "UMC Bishop任命新牧师到德克萨斯州大型教会，该教会投票决定与基督邮报脱离关系",
+      "title_zh": "UMC Bishop任命新牧师到德克萨斯州大型教会投票脱离",
+      "content": "",
+      "content_zh": "",
+      "author": "Christian Post",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:02.669934",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "Christian Post"
       }
     },
     {
@@ -501,7 +690,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.895460",
+      "fetched_at": "2026-11-02T05:33:02.669452",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -660,7 +849,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.435083",
+      "fetched_at": "2026-11-02T05:33:02.196938",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -674,11 +863,12 @@
       "source": "卫理公会",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-29",
-      "summary": "United Methodist Church replaces senior clergy at Highland Park church after vote to sever ties www.kera.org",
-      "summary_zh": "联合卫理公会在投票后取代高地公园教堂的高级神职人员，以切断关系www.kera.org",
+      "summary": "United Methodist Church replaces senior clergy at Highland Park church after vote to sever ties KERA News Breakthroughs",
+      "summary_zh": "联合卫理公会在投票后取代高地公园教堂的高级神职人员，切断与KERA News Breakthroughs的联系",
       "title_zh": "联合卫理公会在投票后取代高地公园教堂的高级神职人员",
       "content": "",
-      "author": "www.kera.org",
+      "content_zh": "",
+      "author": "KERA News Breakthroughs",
       "tags": [],
       "language": "en",
       "country": "US",
@@ -686,11 +876,11 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.831110",
+      "fetched_at": "2026-11-02T05:33:02.668548",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
-        "publisher": "www.kera.org"
+        "publisher": "KERA News Breakthroughs"
       }
     },
     {
@@ -739,7 +929,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.894030",
+      "fetched_at": "2026-11-02T05:33:02.669779",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -819,7 +1009,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.435560",
+      "fetched_at": "2026-11-02T05:33:02.197477",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -846,7 +1036,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.490327",
+      "fetched_at": "2026-11-02T05:33:02.446709",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1028,7 +1218,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.980299",
+      "fetched_at": "2026-11-02T05:33:02.730109",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1055,7 +1245,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.980082",
+      "fetched_at": "2026-11-02T05:33:02.729765",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1082,11 +1272,38 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.435247",
+      "fetched_at": "2026-11-02T05:33:02.197141",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
         "publisher": "Baptist News Global"
+      }
+    },
+    {
+      "title": "Ecumenism: When uncharted territory “is a good place to be”",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0RHeEc5YU91TFFvdFpZdjZtOERqVk9YNUwwWmtXR1BvWE1fOGgwX01CczZrZF81akxlX3IxeU9tWkxmbV9zUDN4RWR6TTg4c25BcGg5aEJIdDE5ejVqTV9UTjRfVlJpNDltVXl5Yk1Db2lsYXZHS1R0T1FuS0FZVFlqWHdMbzduZEhJb2pWX1E?oc=5",
+      "category": "church",
+      "source": "Lutheran World Federation",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "Ecumenism: When uncharted territory “is a good place to be” World Council of Churches",
+      "summary_zh": "合一主义：当未知的领土“是一个好地方”时，世界基督教协进会",
+      "title_zh": "合一主义：当未知的领域“是一个好地方”",
+      "content": "",
+      "content_zh": "",
+      "author": "World Council of Churches",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:02.447866",
+      "extra": {
+        "provider": "google_news",
+        "query": "Lutheran World Federation",
+        "publisher": "World Council of Churches"
       }
     },
     {
@@ -1135,7 +1352,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.435407",
+      "fetched_at": "2026-11-02T05:33:02.197312",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1162,7 +1379,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.978092",
+      "fetched_at": "2026-11-02T05:33:02.728329",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1189,7 +1406,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.214547",
+      "fetched_at": "2026-11-02T05:33:02.131423",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -1242,7 +1459,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.435737",
+      "fetched_at": "2026-11-02T05:33:02.197643",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1295,7 +1512,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.435900",
+      "fetched_at": "2026-11-02T05:33:02.197804",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1427,7 +1644,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.978553",
+      "fetched_at": "2026-11-02T05:33:02.728858",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1454,7 +1671,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.979221",
+      "fetched_at": "2026-11-02T05:33:02.729447",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1481,7 +1698,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.979434",
+      "fetched_at": "2026-11-02T05:33:02.729608",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1589,7 +1806,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.978334",
+      "fetched_at": "2026-11-02T05:33:02.728648",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1616,7 +1833,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.978796",
+      "fetched_at": "2026-11-02T05:33:02.729095",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1643,7 +1860,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.979000",
+      "fetched_at": "2026-11-02T05:33:02.729284",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -1801,7 +2018,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.436214",
+      "fetched_at": "2026-11-02T05:33:02.198149",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1854,7 +2071,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.793437",
+      "fetched_at": "2026-11-02T05:33:02.568430",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -2033,7 +2250,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.436059",
+      "fetched_at": "2026-11-02T05:33:02.197964",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -2077,6 +2294,7 @@
       "summary_zh": "约旦教堂袭击死亡人数上升至9人，基督教领袖呼吁团结EWTN新闻",
       "title_zh": "约旦教堂袭击死亡人数上升至9人，基督教领袖呼吁团结",
       "content": "",
+      "content_zh": "",
       "author": "EWTN News",
       "tags": [],
       "language": "en",
@@ -2085,7 +2303,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.445409",
+      "fetched_at": "2026-11-02T05:33:02.132133",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2233,6 +2451,7 @@
       "summary_zh": "原住民在真相与和解进程中的经历 路德宗世界联合会",
       "title_zh": "土著人民在真相与和解进程中的经历",
       "content": "",
+      "content_zh": "",
       "author": "The Lutheran World Federation",
       "tags": [],
       "language": "en",
@@ -2241,11 +2460,38 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:42.776086",
+      "fetched_at": "2026-11-02T05:33:02.447337",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
         "publisher": "The Lutheran World Federation"
+      }
+    },
+    {
+      "title": "Mission Yearbook",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsQnctd1JsRGZ4QUx4MWZzV2ZabGI1czM4VktyYlk0QXdlOUZXXzJJRkpUTDhLWHRlYm92bEFhYVNvSXhmV0xFN2I2NFJBcnN3MEJ0YzBEdVF5M0Zzd05lZ2hockoyWlhYVEE?oc=5",
+      "category": "church",
+      "source": "长老会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-21",
+      "summary": "Mission Yearbook Presbyterian Church (U.S.A.)",
+      "summary_zh": "长老会宣教年鉴（美国）",
+      "title_zh": "任务年鉴",
+      "content": "",
+      "content_zh": "",
+      "author": "Presbyterian Church (U.S.A.)",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:02.829558",
+      "extra": {
+        "provider": "google_news",
+        "query": "Presbyterian church mission",
+        "publisher": "Presbyterian Church (U.S.A.)"
       }
     },
     {
@@ -2294,7 +2540,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.876395",
+      "fetched_at": "2026-11-02T05:33:02.828869",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -2312,6 +2558,7 @@
       "summary_zh": "首届长老会烹饪筹款活动周五The Natchez Democrat",
       "title_zh": "周五首次长老会烹饪筹款活动",
       "content": "",
+      "content_zh": "",
       "author": "The Natchez Democrat",
       "tags": [],
       "language": "en",
@@ -2320,7 +2567,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.272873",
+      "fetched_at": "2026-11-02T05:33:02.829352",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -2347,7 +2594,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.868080",
+      "fetched_at": "2026-11-02T05:33:01.835138",
       "extra": {
         "provider": "google_news",
         "query": "中国 教会 基督徒 聚会",
@@ -2374,7 +2621,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.532085",
+      "fetched_at": "2026-11-02T05:33:02.328072",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -2479,7 +2726,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.979632",
+      "fetched_at": "2026-11-02T05:33:02.729923",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -2523,6 +2770,7 @@
       "summary_zh": "第一长老会教堂欢迎来自外展基金会的客人传教士10月18日星期日费耶特县记录",
       "title_zh": "10月18日星期日，第一长老会教堂欢迎来自外展基金会的客座传教士",
       "content": "",
+      "content_zh": "",
       "author": "The Fayette County Record",
       "tags": [],
       "language": "en",
@@ -2531,7 +2779,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.272744",
+      "fetched_at": "2026-11-02T05:33:02.829097",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -2585,7 +2833,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.215557",
+      "fetched_at": "2026-11-02T05:33:02.132937",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2629,6 +2877,7 @@
       "summary_zh": "基督教领袖宗教新闻社说，中东教会必须保护因战争而成为孤儿的儿童",
       "title_zh": "基督教领袖表示，中东教会必须保护因战争而成为孤儿的儿童",
       "content": "",
+      "content_zh": "",
       "author": "Religion News Service",
       "tags": [],
       "language": "en",
@@ -2637,7 +2886,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.445765",
+      "fetched_at": "2026-11-02T05:33:02.131763",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2743,7 +2992,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.491251",
+      "fetched_at": "2026-11-02T05:33:02.448053",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -2850,7 +3099,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.780290",
+      "fetched_at": "2026-11-02T05:33:02.237909",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -3002,6 +3251,7 @@
       "summary_zh": "每个牧师成长为一个健康的教会领袖所需的5项技能",
       "title_zh": "每个牧师成长为健康教会所需的5项技能",
       "content": "",
+      "content_zh": "",
       "author": "ChurchLeaders",
       "tags": [],
       "language": "en",
@@ -3010,7 +3260,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.841986",
+      "fetched_at": "2026-11-02T05:33:01.753324",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -3037,7 +3287,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.490516",
+      "fetched_at": "2026-11-02T05:33:02.447149",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -3055,6 +3305,7 @@
       "summary_zh": "讲述更新路德教与天主教共融的不同故事 路德教世界联合会",
       "title_zh": "讲述更新路德天主教圣餐的不同故事",
       "content": "",
+      "content_zh": "",
       "author": "The Lutheran World Federation",
       "tags": [],
       "language": "en",
@@ -3063,7 +3314,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.377222",
+      "fetched_at": "2026-11-02T05:33:02.447692",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -3276,11 +3527,38 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.490721",
+      "fetched_at": "2026-11-02T05:33:02.448218",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
         "publisher": "The Lutheran World Federation"
+      }
+    },
+    {
+      "title": "內地多地家庭教會近日接連遭查處 包括合法登記教會",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0WEl6T1RVR3BxVXNVUnZuNkpMTExnd2dHbFBaem9hN3d6UmZQbDJPZUoxdGdKUFRhUjFndXJRM0lrZTdXa2cxdUdaSWpTNldialpsaExrNzFnTXMwZkdpa182cWtJanZYQ1FuZW52aw?oc=5",
+      "category": "church",
+      "source": "中国教会动态",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-23",
+      "summary": "內地多地家庭教會近日接連遭查處 包括合法登記教會 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:01.835320",
+      "extra": {
+        "provider": "google_news",
+        "query": "中国 教会 基督徒 聚会",
+        "publisher": "基督日報"
       }
     },
     {
@@ -3384,7 +3662,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.215406",
+      "fetched_at": "2026-11-02T05:33:02.132635",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -3562,6 +3840,7 @@
       "summary_zh": "盟约长老会奖励$ 200K帮助奥斯汀组织KVUE",
       "title_zh": "盟约长老会奖励$ 200K帮助奥斯汀组织",
       "content": "",
+      "content_zh": "",
       "author": "KVUE",
       "tags": [],
       "language": "en",
@@ -3570,7 +3849,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.273392",
+      "fetched_at": "2026-11-02T05:33:02.830510",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -3597,7 +3876,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.793621",
+      "fetched_at": "2026-11-02T05:33:02.568798",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -3642,6 +3921,7 @@
       "summary_zh": "第一长老会教堂将举办Shaw Local辣椒晚餐",
       "title_zh": "第一长老会教堂将举办辣椒晚餐",
       "content": "",
+      "content_zh": "",
       "author": "Shaw Local",
       "tags": [],
       "language": "en",
@@ -3650,7 +3930,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.273582",
+      "fetched_at": "2026-11-02T05:33:02.830673",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -3756,7 +4036,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.215249",
+      "fetched_at": "2026-11-02T05:33:02.132476",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -3801,6 +4081,7 @@
       "summary_zh": "关于介绍Chip Edgar的声明北美圣公会",
       "title_zh": "关于介绍Chip Edgar的声明",
       "content": "",
+      "content_zh": "",
       "author": "The Anglican Church in North America",
       "tags": [],
       "language": "en",
@@ -3809,7 +4090,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:42.695413",
+      "fetched_at": "2026-11-02T05:33:02.568961",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -3888,7 +4169,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.533323",
+      "fetched_at": "2026-11-02T05:33:02.330221",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -4014,6 +4295,7 @@
       "summary_zh": "阻碍教会成长的5个障碍（以及如何打破它们）教会领袖",
       "title_zh": "阻碍教会成长的5个障碍（以及如何打破它们）",
       "content": "",
+      "content_zh": "",
       "author": "ChurchLeaders",
       "tags": [],
       "language": "en",
@@ -4022,7 +4304,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.840901",
+      "fetched_at": "2026-11-02T05:33:01.752721",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -4182,7 +4464,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.532995",
+      "fetched_at": "2026-11-02T05:33:02.329442",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -4285,7 +4567,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.663269",
+      "fetched_at": "2026-11-02T05:33:02.485464",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Journal church",
@@ -4312,7 +4594,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:03.097663",
+      "fetched_at": "2026-11-02T05:33:01.752941",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",

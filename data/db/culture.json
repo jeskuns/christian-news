@@ -1,8 +1,8 @@
 {
   "category": "culture",
   "label": "文化媒体",
-  "count": 39,
-  "updated_at": "2026-11-02T08:40:15.714892+08:00",
+  "count": 40,
+  "updated_at": "2026-11-02T13:44:10.828974+08:00",
   "articles": [
     {
       "title": "Best Practices from Evangelistically Effective Churches",
@@ -28,7 +28,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.705192",
+      "fetched_at": "2026-11-02T05:33:04.579932",
       "extra": {
         "feed_type": "rss20"
       }
@@ -62,7 +62,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.707584",
+      "fetched_at": "2026-11-02T05:33:04.588283",
       "extra": {
         "feed_type": "rss20"
       }
@@ -91,7 +91,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.716592",
+      "fetched_at": "2026-11-02T05:33:04.594648",
       "extra": {
         "feed_type": "rss20"
       }
@@ -121,7 +121,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.718342",
+      "fetched_at": "2026-11-02T05:33:04.598499",
       "extra": {
         "feed_type": "rss20"
       }
@@ -149,7 +149,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.722778",
+      "fetched_at": "2026-11-02T05:33:04.606275",
       "extra": {
         "feed_type": "rss20"
       }
@@ -178,7 +178,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.726382",
+      "fetched_at": "2026-11-02T05:33:04.608876",
       "extra": {
         "feed_type": "rss20"
       }
@@ -209,7 +209,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.681402",
+      "fetched_at": "2026-11-02T05:33:04.547430",
       "extra": {
         "feed_type": "rss20"
       }
@@ -241,7 +241,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.684650",
+      "fetched_at": "2026-11-02T05:33:04.561825",
       "extra": {
         "feed_type": "rss20"
       }
@@ -273,7 +273,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.692758",
+      "fetched_at": "2026-11-02T05:33:04.564753",
       "extra": {
         "feed_type": "rss20"
       }
@@ -303,7 +303,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.659088",
+      "fetched_at": "2026-11-02T05:33:04.515231",
       "extra": {
         "feed_type": "rss20"
       }
@@ -334,7 +334,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.661486",
+      "fetched_at": "2026-11-02T05:33:04.522903",
       "extra": {
         "feed_type": "rss20"
       }
@@ -365,7 +365,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.671775",
+      "fetched_at": "2026-11-02T05:33:04.526730",
       "extra": {
         "feed_type": "rss20"
       }
@@ -395,7 +395,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.673230",
+      "fetched_at": "2026-11-02T05:33:04.533735",
       "extra": {
         "feed_type": "rss20"
       }
@@ -426,7 +426,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.677507",
+      "fetched_at": "2026-11-02T05:33:04.537959",
       "extra": {
         "feed_type": "rss20"
       }
@@ -457,7 +457,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.679756",
+      "fetched_at": "2026-11-02T05:33:04.545913",
       "extra": {
         "feed_type": "rss20"
       }
@@ -482,7 +482,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.926263",
+      "fetched_at": "2026-11-02T05:33:05.206057",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -775,7 +775,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.927161",
+      "fetched_at": "2026-11-02T05:33:05.207316",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",
@@ -802,7 +802,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.993220",
+      "fetched_at": "2026-11-02T05:33:03.839485",
       "extra": {
         "provider": "google_news",
         "query": "基督教 音乐 影视 文化",
@@ -833,6 +833,33 @@
         "provider": "google_news",
         "query": "Christian art painting",
         "publisher": "YouTube"
+      }
+    },
+    {
+      "title": "Gospel in Art: When you see a cloud rising in the west, you say \"A shower is coming.\"",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aMlRpNmlWcmhuZTRZR1h0SG5MYXN1R1NwQTNfMTloMzhwRVNqVmlPVUhMZnYzLXJ1STR6MEFXVXdXakRGM2hhRXVYT1Utd2s3NXBaYg?oc=5",
+      "category": "culture",
+      "source": "基督徒艺术",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-22",
+      "summary": "Gospel in Art: When you see a cloud rising in the west, you say \"A shower is coming.\" Independent Catholic News",
+      "summary_zh": "艺术中的福音：当你看到一朵云在西方升起时，你会说： “一场淋浴即将来临。“独立天主教新闻",
+      "title_zh": "艺术中的福音：当你看到一朵云在西方升起时，你会说“淋浴即将来临”。",
+      "content": "",
+      "content_zh": "",
+      "author": "Independent Catholic News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:05.206614",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian art painting",
+        "publisher": "Independent Catholic News"
       }
     },
     {
@@ -880,7 +907,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.478100",
+      "fetched_at": "2026-11-02T05:33:04.162847",
       "extra": {
         "provider": "google_news",
         "query": "赞美之泉 诗歌 敬拜",
@@ -1063,7 +1090,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:05.121990",
+      "fetched_at": "2026-11-02T05:33:04.229911",
       "extra": {
         "provider": "google_news",
         "query": "约书亚乐团 敬拜 音乐",
@@ -1107,6 +1134,7 @@
       "summary_zh": "当西西里人涌向宗教节日时，盗贼闯入附近的博物馆，偷走了四幅文艺复兴时期的绘画史密森尼杂志",
       "title_zh": "当西西里人涌向宗教节日时，盗贼闯入附近的博物馆，偷走了四幅文艺复兴时期的画作",
       "content": "",
+      "content_zh": "",
       "author": "Smithsonian Magazine",
       "tags": [],
       "language": "en",
@@ -1115,7 +1143,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.640321",
+      "fetched_at": "2026-11-02T05:33:05.207483",
       "extra": {
         "provider": "google_news",
         "query": "Christian art painting",

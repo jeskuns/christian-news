@@ -1,8 +1,8 @@
 {
   "category": "mission",
   "label": "宣教运动",
-  "count": 43,
-  "updated_at": "2026-11-02T08:40:15.712760+08:00",
+  "count": 44,
+  "updated_at": "2026-11-02T13:44:10.826754+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -26,7 +26,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.227732",
+      "fetched_at": "2026-11-02T05:33:00.828341",
       "extra": {
         "feed_type": "rss20"
       }
@@ -53,7 +53,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.234447",
+      "fetched_at": "2026-11-02T05:33:00.829963",
       "extra": {
         "feed_type": "rss20"
       }
@@ -80,7 +80,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.235658",
+      "fetched_at": "2026-11-02T05:33:00.831638",
       "extra": {
         "feed_type": "rss20"
       }
@@ -107,7 +107,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.236524",
+      "fetched_at": "2026-11-02T05:33:00.832542",
       "extra": {
         "feed_type": "rss20"
       }
@@ -134,7 +134,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.238213",
+      "fetched_at": "2026-11-02T05:33:00.834442",
       "extra": {
         "feed_type": "rss20"
       }
@@ -162,7 +162,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.240052",
+      "fetched_at": "2026-11-02T05:33:00.835962",
       "extra": {
         "feed_type": "rss20"
       }
@@ -192,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.240832",
+      "fetched_at": "2026-11-02T05:33:00.836746",
       "extra": {
         "feed_type": "rss20"
       }
@@ -224,7 +224,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.241927",
+      "fetched_at": "2026-11-02T05:33:00.837878",
       "extra": {
         "feed_type": "rss20"
       }
@@ -257,7 +257,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.243384",
+      "fetched_at": "2026-11-02T05:33:00.839745",
       "extra": {
         "feed_type": "rss20"
       }
@@ -290,7 +290,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.254901",
+      "fetched_at": "2026-11-02T05:33:00.840902",
       "extra": {
         "feed_type": "rss20"
       }
@@ -306,6 +306,7 @@
       "summary_zh": "德克萨斯州基督徒在非洲传教之旅中遇难基督教纪事报",
       "title_zh": "德克萨斯州基督徒在非洲传教之旅中遇难",
       "content": "",
+      "content_zh": "",
       "author": "The Christian Chronicle",
       "tags": [],
       "language": "en",
@@ -314,7 +315,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.810783",
+      "fetched_at": "2026-11-02T05:33:01.647931",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -341,7 +342,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.848885",
+      "fetched_at": "2026-11-02T05:33:01.647697",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -394,7 +395,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.372857",
+      "fetched_at": "2026-11-02T05:33:01.064543",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -600,7 +601,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.257605",
+      "fetched_at": "2026-11-02T05:33:01.037311",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -627,7 +628,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.721655",
+      "fetched_at": "2026-11-02T05:33:01.426732",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -702,7 +703,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.849073",
+      "fetched_at": "2026-11-02T05:33:01.648165",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -720,6 +721,7 @@
       "summary_zh": "随着基督教向南方Mezha.net转移，非洲教会正在向西方派遣传教士",
       "title_zh": "随着基督教向南转移，非洲教会正在向西方派遣传教士",
       "content": "",
+      "content_zh": "",
       "author": "Mezha.net",
       "tags": [],
       "language": "en",
@@ -728,7 +730,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.811347",
+      "fetched_at": "2026-11-02T05:33:01.648341",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -805,7 +807,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.106480",
+      "fetched_at": "2026-11-02T05:33:00.920279",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士 差会",
@@ -832,11 +834,38 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.731957",
+      "fetched_at": "2026-11-02T05:33:01.530040",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
         "publisher": "The Gospel Coalition"
+      }
+    },
+    {
+      "title": "This Animation Will Bring Gospel of Luke to an Almost Entirely Unreached People Group",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2l4akxkbFh0NlE1RkM0blBleGUyM0xlOFF4QzVWaTRiYXRFallHYU9zcHRuVnNyM3pPWWxzMld2QUFTMVp1RkY4cXQ1ZGpmWXo3T3VtekRuNnFoZ3ZHVVRFWWJDdThLXzh5Q05VTDZ3c3d4eWttMDNKVEI2Ynhrb0RrVU0wLUNJZXRoX2RFSC1uMUhtWWE1ZDV4RQ?oc=5",
+      "category": "mission",
+      "source": "未得之民",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-18",
+      "summary": "This Animation Will Bring Gospel of Luke to an Almost Entirely Unreached People Group Movieguide",
+      "summary_zh": "这部动画将把路加福音带给一个几乎完全没有接触到的人群电影指南",
+      "title_zh": "这部动画将把路加福音带给一个几乎完全未得救的人群",
+      "content": "",
+      "content_zh": "",
+      "author": "Movieguide",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T05:33:01.531630",
+      "extra": {
+        "provider": "google_news",
+        "query": "unreached people groups mission",
+        "publisher": "Movieguide"
       }
     },
     {
@@ -859,7 +888,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.391139",
+      "fetched_at": "2026-11-02T05:33:01.241249",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -912,7 +941,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.722034",
+      "fetched_at": "2026-11-02T05:33:01.427144",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -939,7 +968,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.722668",
+      "fetched_at": "2026-11-02T05:33:01.427805",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -966,7 +995,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.721862",
+      "fetched_at": "2026-11-02T05:33:01.426932",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -993,7 +1022,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.722354",
+      "fetched_at": "2026-11-02T05:33:01.427484",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1020,7 +1049,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.722515",
+      "fetched_at": "2026-11-02T05:33:01.427647",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1047,7 +1076,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.722881",
+      "fetched_at": "2026-11-02T05:33:01.427964",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1152,7 +1181,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:02.849238",
+      "fetched_at": "2026-11-02T05:33:01.648504",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",

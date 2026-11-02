@@ -2,7 +2,7 @@
   "category": "heresy",
   "label": "异端辨析",
   "count": 19,
-  "updated_at": "2026-11-02T08:40:15.733800+08:00",
+  "updated_at": "2026-11-02T13:44:10.850283+08:00",
   "articles": [
     {
       "title": "World Series champ Cooper Pratt on the connection between tithing and baseball",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:06.692086",
+      "fetched_at": "2026-11-02T05:33:05.284175",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -128,7 +128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:06.692268",
+      "fetched_at": "2026-11-02T05:33:05.283946",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -233,7 +233,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:06.692436",
+      "fetched_at": "2026-11-02T05:33:05.284357",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -311,7 +311,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:06.692608",
+      "fetched_at": "2026-11-02T05:33:05.284538",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -352,9 +352,10 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-04",
       "summary": "Are Mormons Losing Their Distinctiveness? The Atlantic",
-      "summary_zh": "",
+      "summary_zh": "摩门教徒是否正在失去其独特性？大西洋",
       "title_zh": "摩门教徒是否正在失去其独特性？",
       "content": "",
+      "content_zh": "",
       "author": "The Atlantic",
       "tags": [],
       "language": "en",
@@ -363,7 +364,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.755523",
+      "fetched_at": "2026-11-02T05:33:05.285518",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -390,7 +391,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:06.692960",
+      "fetched_at": "2026-11-02T05:33:05.285040",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -408,6 +409,7 @@
       "summary_zh": "美国皮尤研究中心后期圣徒的传统与变化",
       "title_zh": "美国后期圣徒的传统和变化",
       "content": "",
+      "content_zh": "",
       "author": "Pew Research Center",
       "tags": [],
       "language": "en",
@@ -416,7 +418,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.754185",
+      "fetched_at": "2026-11-02T05:33:05.284857",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
