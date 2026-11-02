@@ -9,6 +9,7 @@ from datetime import datetime, timedelta
 from typing import List, Dict, Any
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
+import re
 
 from .models import Article, SourceConfig, DailySnapshot
 from .parsers import parse_feed, parse_generic, parse_wikipedia, parse_news_search
@@ -16,6 +17,22 @@ from .utils import ensure_dir, save_json, today_hk, now_hk, make_summary
 from .translator import Translator
 
 logger = logging.getLogger(__name__)
+
+# 来源 RSS 自带的推广套话（如 RNS 订阅宣传语），在生成/展示简介前剥离
+_BOILER_RE = [
+    re.compile(r"让RNS每天早上都进行深思熟虑的重要宗教报道。\s*免费报名!\s*(?:\(RNS\))?\s*[—–\-]*\s*"),
+    re.compile(r"(?:have|get)\s+rns.{0,140}?sign up for free!?\s*(?:\(rns\))?\s*[—–\-]*\s*", re.IGNORECASE),
+]
+
+
+def _strip_boiler(text: str) -> str:
+    """剥离来源 RSS 自带的推广套话，避免简介开头出现订阅宣传语"""
+    if not text:
+        return text
+    for r in _BOILER_RE:
+        text = r.sub("", text)
+    return text.strip()
+
 
 PARSER_MAP = {
     "rss": parse_feed,
@@ -266,18 +283,22 @@ class Collector:
         for a in kept:
             t = (a.get("title") or "").strip()
             tz = (a.get("title_zh") or "").strip()
-            c = (a.get("content") or "").strip()
-            cz = (a.get("content_zh") or "").strip()
-            s = (a.get("summary") or "").strip()
-            sz = (a.get("summary_zh") or "").strip()
+            c = _strip_boiler(a.get("content") or "")
+            cz = _strip_boiler(a.get("content_zh") or "")
+            s = _strip_boiler(a.get("summary") or "")
+            sz = _strip_boiler(a.get("summary_zh") or "")
             if (not s or len(s) < 40 or _dup_text(s, t)) and c:
-                a["summary"] = make_summary(c, 5)
+                s = make_summary(c, 5)
                 _fixed += 1
             if (not sz or _dup_text(sz, tz or t)) and cz:
-                a["summary_zh"] = make_summary(cz, 5)
+                sz = make_summary(cz, 5)
                 _fixed += 1
+            a["content"] = c
+            a["content_zh"] = cz
+            a["summary"] = s
+            a["summary_zh"] = sz
         if _fixed:
-            logger.info(f"简介修正: {_fixed} 条改为正文概括")
+            logger.info(f"简介修正: {_fixed} 条改为正文概括（已剥离来源推广套话）")
 
         # 精选：按「优先级 + 新鲜度 + 分类均衡」筛选 limit 条，供首页/分类页展示
         featured = self._select_featured(kept, limit=250)
