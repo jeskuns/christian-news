@@ -136,3 +136,12 @@
     if (document.getElementById("article-list")) initCategory();
   });
 })();
+
+(function(){
+  var KEY='news-palette';
+  var P=["monet","matisse","morandi","macaron","rococo","vangogh","hokusai"];
+  function apply(n){if(P.indexOf(n)===-1)return false;document.documentElement.setAttribute('data-palette',n);try{localStorage.setItem(KEY,n);}catch(e){}sync();return true;}
+  function sync(){var c=document.documentElement.getAttribute('data-palette');var d=document.querySelectorAll('.palette-dot');for(var i=0;i<d.length;i++){d[i].setAttribute('aria-pressed',d[i].getAttribute('data-palette')===c?'true':'false');}}
+  function init(){var cur=document.documentElement.getAttribute('data-palette');var d=document.querySelectorAll('.palette-dot');for(var i=0;i<d.length;i++){(function(b){b.addEventListener('click',function(){apply(b.getAttribute('data-palette'));});})(d[i]);if(d[i].getAttribute('data-palette')===cur)d[i].setAttribute('aria-pressed','true');}try{var s=localStorage.getItem(KEY);if(s&&s!==cur)apply(s);}catch(e){}}
+  if(document.readyState!=='loading')init();else document.addEventListener('DOMContentLoaded',init);
+})();
