@@ -21,6 +21,7 @@ class Article:
     summary_zh: str = ""  # 英文摘要的中文翻译（失败时为空，页面回退显示原摘要）
     title_zh: str = ""   # 英文标题的中文译名（翻译失败时为空，页面回退显示原标题）
     content: str = ""
+    content_zh: str = ""   # 英文正文的中文翻译（失败时为空，页面回退显示原正文）
     author: str = ""
     tags: List[str] = field(default_factory=list)
     language: str = "zh"  # zh, en, de, ja, etc.
