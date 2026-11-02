@@ -6,6 +6,7 @@ import re
 from typing import List
 from datetime import datetime
 import feedparser
+import requests
 from bs4 import BeautifulSoup
 
 from ..models import Article, SourceConfig
@@ -17,13 +18,26 @@ except Exception:
     extract_article = None
 
 logger = logging.getLogger(__name__)
+FEED_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 
 
 def parse_feed(config: SourceConfig) -> List[Article]:
     """解析 RSS/Atom 订阅源"""
     articles = []
+    # 先带超时地取回字节再交给 feedparser：feedparser 直接传 URL 时内部不设超时，
+    # 单个源挂起会把整次采集（以及 CI 的 60 分钟额度）一起拖死。
     try:
-        feed = feedparser.parse(config.url)
+        resp = requests.get(
+            config.url,
+            headers={
+                "User-Agent": config.headers.get("User-Agent", FEED_UA),
+                "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*;q=0.8",
+                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            },
+            timeout=25,
+        )
+        resp.raise_for_status()
+        feed = feedparser.parse(resp.content)
     except Exception as e:
         logger.error(f"RSS parse error [{config.name}]: {e}")
         return articles

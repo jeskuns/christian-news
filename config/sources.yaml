@@ -8,7 +8,9 @@
 #   - 真实 RSS 源优先用 rss 解析器；被反爬时改 news_search 同样可工作。
 #   - 已覆盖：国际/中文新闻机构、逼迫监测、宣教机构、各宗派（改革宗/浸信会/路德会/
 #     卫理公会/圣公会/天主教/东正教/长老会/灵恩）、神学期刊（含生命季刊等学术性期刊）、
-#     文化媒体、异端辨析、百科背景。
+#     文化媒体、异端辨析、百科背景；并按地区覆盖华人信仰聚集地——台湾、香港、新加坡、
+#     马来西亚、印尼，以及日本、韩国的教会与华人堂会。
+#   - country 会真的传给 Google News 的 gl/ceid（地区版位），所以写 TW 就拿台湾版结果。
 # 可按需启用/禁用、添加新源或调整查询词。
 
 sources:
@@ -212,6 +214,155 @@ sources:
     extra:
       provider: google
       query: "基督教 今日 要闻 教会"
+
+  # ==================== 东亚与东南亚（华人信仰聚集地 + 当地教会） ====================
+  # 语言只用 zh / en：翻译管线目前只有英→中，日韩文条目会整条不译、影响阅读。
+  # 要收日韩当地教会消息，先用中文报道（下列 JP/KR 源），或先扩翻译模型再加 ja/ko 源。
+  - name: 台灣教會新聞
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    priority: 3
+    max_items: 15
+    extra:
+      provider: google
+      query: "台灣 教會 基督徒 新聞"
+
+  - name: 香港教會新聞
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: HK
+    region: 亚洲
+    priority: 3
+    max_items: 15
+    extra:
+      provider: google
+      query: "香港 教會 基督徒 新聞"
+
+  - name: 星馬華人教會
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: zh
+    country: SG
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "新加坡 馬來西亞 華人 教會 基督教"
+
+  - name: 東南亞教會（英文）
+    url: https://news.google.com/rss/search
+    category: news
+    parser: news_search
+    language: en
+    country: SG
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "Indonesia Malaysia Vietnam church Christians Southeast Asia"
+
+  - name: 日本教會（中文報導）
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: zh
+    country: JP
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "日本 基督徒 教会 传教"
+
+  - name: 韓國教會（中文報導）
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: zh
+    country: KR
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "韓國 教会 基督徒 神學院"
+
+  - name: 在日在韓華人教會
+    url: https://news.google.com/rss/search
+    category: church
+    parser: news_search
+    language: zh
+    country: JP
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "華人 教会 东京 OR 首尔 基督 团契"
+
+  - name: 印尼基督徒與逼迫
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: en
+    country: ID
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "Indonesia Christians church persecution Papua"
+
+  - name: 香港宗教自由
+    url: https://news.google.com/rss/search
+    category: persecution
+    parser: news_search
+    language: zh
+    country: HK
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "香港 宗教自由 教會 信仰"
+
+  - name: 亞州華人宣教禾場
+    url: https://news.google.com/rss/search
+    category: mission
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "華人 宣教士 日本 OR 韓國 OR 蒙古 差派"
+
+  - name: 台港澳神學與神學院
+    url: https://news.google.com/rss/search
+    category: theology
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "神學院 神學 台灣 OR 香港 OR 華神 OR 建道"
+
+  - name: 星馬華人敬拜與出版
+    url: https://news.google.com/rss/search
+    category: culture
+    parser: news_search
+    language: zh
+    country: MY
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "馬來西亞 新加坡 華人 诗歌 OR 出版 OR 敬拜"
 
   # ==================== 信仰自由与逼迫 ====================
   - name: Open Doors

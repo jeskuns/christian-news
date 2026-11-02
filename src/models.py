@@ -40,7 +40,10 @@ class Article:
         return hashlib.sha256(key).hexdigest()[:16]
 
     def to_dict(self) -> Dict[str, Any]:
-        return asdict(self)
+        # asdict 不含 id（它是 property），缺了它精选去重会拿到全 None 而失效
+        d = asdict(self)
+        d["id"] = self.id
+        return d
 
     def to_json(self, ensure_ascii: bool = False) -> str:
         return json.dumps(self.to_dict(), ensure_ascii=ensure_ascii, default=str)

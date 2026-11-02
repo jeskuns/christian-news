@@ -1,0 +1,16 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+
+# 部署目录是 CI 生成的 site/，本文件由 generators/site.py 复制进去，Pages 才读得到。
+# Cloudflare 会把多个匹配规则的**同名**头用逗号拼接，因此下面的路径规则互斥，且 /* 不设 Cache-Control。
+# 每日 CI 重写同名的 html/css/js：必须每次校验，否则手机上看到的还是旧一天内容。
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/*.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/*.css
+  Cache-Control: public, max-age=0, must-revalidate

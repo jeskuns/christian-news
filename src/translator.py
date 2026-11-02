@@ -80,8 +80,7 @@ class Translator:
         self.delay = delay
         self.use_offline = use_offline
         self.cache: Dict[str, str] = {}
-        self._argos = None
-        self._argos_ready = False
+        self._argos_cache: Dict[str, tuple] = {}  # src_lang -> (src_lang_obj, tgt_lang_obj, translation)
         self._load_cache()
 
     def _load_cache(self):
@@ -173,29 +172,29 @@ class Translator:
             logger.warning(f"pip 安装 argostranslate 失败: {e}")
             return False
 
-    def _get_argos(self):
-        if not self.use_offline or self._argos_ready:
-            return self._argos
-        self._argos_ready = True
+    def _get_argos(self, src: str = "en"):
+        """获取指定源语言的 Argos 翻译对象（按需下载模型）"""
+        if not self.use_offline:
+            return None
+        if src in self._argos_cache:
+            return self._argos_cache[src]
         try:
             import argostranslate.package as argos_pkg
             import argostranslate.translate as argos_tr
         except ImportError:
-            # 运行时按需安装（仅在云端配额用尽时触发，避免每次运行都装重型依赖）
             if self._pip_install_argos():
                 try:
                     import argostranslate.package as argos_pkg
                     import argostranslate.translate as argos_tr
                 except Exception as e:
                     logger.warning(f"argos 安装后仍无法导入，放弃离线翻译: {e}")
-                    self._argos = None
                     return None
             else:
-                self._argos = None
                 return None
 
         try:
-            from_code, to_code = "en", "zh"
+            from_code = src
+            to_code = "zh"
             installed = argos_tr.get_installed_languages()
             translation = None
             try:
@@ -205,14 +204,13 @@ class Translator:
             except Exception:
                 translation = None
             if translation is None:
-                logger.info("未找到本地 en->zh 翻译模型，尝试下载（约数十 MB）…")
+                logger.info(f"未找到本地 {from_code}->{to_code} 翻译模型，尝试下载（约数十 MB）…")
                 argos_pkg.update_package_index()
                 available = argos_pkg.get_available_packages()
                 pkg = next((p for p in available
                             if p.from_code == from_code and p.to_code == to_code), None)
                 if pkg is None:
-                    raise RuntimeError("argos 未提供 en->zh 模型")
-                # 兼容新版 argostranslate：模块级 install_package 已移除，改用 pkg.install()
+                    raise RuntimeError(f"argos 未提供 {from_code}->{to_code} 模型")
                 if hasattr(argos_pkg, "install_package"):
                     argos_pkg.install_package(pkg)
                 else:
@@ -221,18 +219,15 @@ class Translator:
                 src_lang = next(l for l in installed if l.code == from_code)
                 tgt_lang = next(l for l in installed if l.code == to_code)
                 translation = src_lang.get_translation(tgt_lang)
-            self._argos = (src_lang, tgt_lang, translation)
-            logger.info("argos 离线翻译就绪（en->zh）")
-            return self._argos
+            self._argos_cache[src] = (src_lang, tgt_lang, translation)
+            logger.info(f"argos 离线翻译就绪（{from_code}->{to_code}）")
+            return self._argos_cache[src]
         except Exception as e:
-            logger.warning(f"argos 离线翻译不可用，将仅使用云端翻译: {e}")
-            self._argos = None
+            logger.warning(f"argos 离线翻译不可用（{src}->zh），将仅使用云端翻译: {e}")
             return None
 
     def _argos_translate(self, text: str, src: str) -> str:
-        if src != "en":
-            return ""  # 仅内置 en->zh 模型
-        m = self._get_argos()
+        m = self._get_argos(src)
         if not m:
             return ""
         _, _, translation = m
@@ -248,22 +243,31 @@ class Translator:
             logger.debug(f"argos 翻译失败: {e}")
             return ""
 
+    # 支持翻译的源语言列表（除中文外，中文文章跳过翻译）
+    TRANSLATABLE_LANGS = ("en", "ja", "ko", "id")
+
+    @staticmethod
+    def _article_lang(a: "Article") -> str:
+        """归一化文章语言代码：取 language 字段的前两位小写"""
+        return (a.language or "").lower()[:2]
+
     def translate_articles(self, articles: List[Article], max_items: int = None) -> int:
         title_pending = [
             a for a in articles
-            if (a.language or "").lower().startswith("en")
+            if self._article_lang(a) in self.TRANSLATABLE_LANGS
             and a.title and not (a.title_zh or "")
         ]
         summary_pending = [
             a for a in articles
-            if (a.language or "").lower().startswith("en")
+            if self._article_lang(a) in self.TRANSLATABLE_LANGS
             and a.summary and _bad_zh(a.summary_zh)
         ]
         tlist = title_pending if max_items is None else title_pending[:max_items]
         slist = summary_pending if max_items is None else summary_pending[:max_items]
         done = 0
         for a in tlist:
-            zh = self.translate(a.title, "en")
+            lang = self._article_lang(a)
+            zh = self.translate(a.title, lang)
             if zh:
                 a.title_zh = zh
                 done += 1
@@ -271,7 +275,8 @@ class Translator:
 
         sdone = 0
         for a in slist:
-            zh = self.translate(a.summary, "en")
+            lang = self._article_lang(a)
+            zh = self.translate(a.summary, lang)
             if zh:
                 a.summary_zh = zh
                 sdone += 1
@@ -280,13 +285,14 @@ class Translator:
         # 全文翻译（离线 argos 不限量），并用译文前 4 句生成 3-5 句中文摘要
         content_pending = [
             a for a in articles
-            if (a.language or "").lower().startswith("en")
+            if self._article_lang(a) in self.TRANSLATABLE_LANGS
             and a.content and _bad_zh(a.content_zh)
         ]
         clist = content_pending if max_items is None else content_pending[:max_items]
         cdone = 0
         for a in clist:
-            zh = self._argos_translate(a.content, "en")
+            lang = self._article_lang(a)
+            zh = self._argos_translate(a.content, lang)
             if zh:
                 a.content_zh = zh
                 # 优先用全文译文生成 3-5 句摘要，覆盖 RSS 自带的单句短摘要

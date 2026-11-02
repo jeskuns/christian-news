@@ -15,6 +15,8 @@
 """
 import json
 import logging
+import threading
+import time
 from datetime import datetime, timezone
 from typing import List
 from urllib.parse import urlencode
@@ -30,6 +32,21 @@ logger = logging.getLogger(__name__)
 
 GOOGLE_NEWS_ENDPOINT = "https://news.google.com/rss/search"
 GDELT_ENDPOINT = "https://api.gdeltproject.org/api/v2/doc/doc"
+
+# GDELT DOC API 对每个 IP 限速「5 秒 1 次」，超出的请求返回一行纯文本提示而不是 JSON。
+# 采集器用 8 线程并发，所以在持锁状态下强制间隔：否则 provider: gdelt 的源基本全抓空。
+_GDELT_MIN_INTERVAL = 5.0
+_GDELT_LOCK = threading.Lock()
+_GDELT_LAST = [0.0]
+
+
+def _gdelt_slot() -> None:
+    with _GDELT_LOCK:
+        wait = _GDELT_MIN_INTERVAL - (time.monotonic() - _GDELT_LAST[0])
+        if wait > 0:
+            time.sleep(wait)
+        _GDELT_LAST[0] = time.monotonic()
+
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
@@ -69,25 +86,56 @@ def parse_news_search(config: SourceConfig) -> List[Article]:
 
 # ---------- Google News RSS ----------
 
-def _fetch_google(query: str, config: SourceConfig) -> List[Article]:
-    is_zh = (config.language or "zh").lower().startswith("zh")
-    params = {
-        "q": query,
-        "hl": "zh-CN" if is_zh else "en-US",
-        "gl": "CN" if is_zh else "US",
-        "ceid": "CN:zh-Hans" if is_zh else "US:en",
-    }
-    url = f"{GOOGLE_NEWS_ENDPOINT}?{urlencode(params)}"
+def _google_locale_variants(config: SourceConfig) -> List[dict]:
+    """按配置的 country/language 给出 Google News 版位参数候选。
 
-    resp = requests.get(url, headers={"User-Agent": UA, "Accept": "application/rss+xml,application/xml;q=0.9,*/*;q=0.8"}, timeout=25)
-    if resp.status_code != 200:
-        return []
-    feed = feedparser.parse(resp.content)
-    if not feed.entries:
+    gl 决定返回哪个地区版、hl 决定检索语言、ceid 是「地区:文字」。原实现只按语言
+    回落到 CN/US 两个版位，配置里写 TW/HK/SG/JP/KR 也照样抓回大陆版或美版结果，
+    东亚与东南亚的源因此出不来。若某个「地区:文字」组合 Google 不认（空 feed），
+    再退回按语言的通用版位，保证老源不会因参数变化而丢结果。
+    """
+    country = (config.country or "").strip().upper() or "US"
+    lang = (config.language or "en").strip().lower().split("-")[0]
+    traditional = ("TW", "HK", "MO", "MY")
+    if lang == "zh":
+        hl = {"TW": "zh-TW", "HK": "zh-HK", "MO": "zh-MO", "MY": "zh-TW"}.get(country, "zh-CN")
+        script = "zh-Hant" if country in traditional else "zh-Hans"
+    else:
+        hl = {"ja": "ja", "ko": "ko", "id": "id"}.get(lang, "en-US")
+        script = {"ja": "ja", "ko": "ko", "id": "id"}.get(lang, "en")
+
+    exact = {"hl": hl, "gl": country, "ceid": f"{country}:{script}"}
+    generic = {
+        "hl": "zh-CN" if lang == "zh" else "en-US",
+        "gl": "CN" if lang == "zh" else "US",
+        "ceid": "CN:zh-Hans" if lang == "zh" else "US:en",
+    }
+    return [exact] if exact == generic else [exact, generic]
+
+
+def _fetch_google(query: str, config: SourceConfig) -> List[Article]:
+    entries = []
+    for locale in _google_locale_variants(config):
+        params = {"q": query}
+        params.update(locale)
+        url = f"{GOOGLE_NEWS_ENDPOINT}?{urlencode(params)}"
+        try:
+            resp = requests.get(url, headers={"User-Agent": UA, "Accept": "application/rss+xml,application/xml;q=0.9,*/*;q=0.8"}, timeout=25)
+        except Exception as exc:
+            logger.debug(f"[{config.name}] google_news {locale['ceid']} 请求失败: {exc}")
+            continue
+        if resp.status_code != 200:
+            continue
+        parsed = feedparser.parse(resp.content)
+        if parsed.entries:
+            entries = parsed.entries[:config.max_items]
+            break
+
+    if not entries:
         return []
 
     articles: List[Article] = []
-    for entry in feed.entries[:config.max_items]:
+    for entry in entries:
         title = clean_text(entry.get("title", ""))
         link = entry.get("link", "")
         if not title or not link:
@@ -147,6 +195,7 @@ def _fetch_gdelt(query: str, config: SourceConfig) -> List[Article]:
         "sort": "datedesc",
     }
     headers = {"User-Agent": UA, "Accept": "application/json"}
+    _gdelt_slot()
     resp = requests.get(GDELT_ENDPOINT, params=params, headers=headers, timeout=30)
     if resp.status_code != 200 or not resp.text.strip().startswith("{"):
         return []

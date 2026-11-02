@@ -29,7 +29,7 @@ if errorlevel 1 (
 
 REM ---- publish: push triggers Cloudflare Pages deploy ----
 echo [%date% %time%] publishing to GitHub... >> "%LOGFILE%"
-git add site config >> "%LOGFILE%" 2>&1
+git add site config data >> "%LOGFILE%" 2>&1
 git diff --cached --quiet
 if errorlevel 1 (
   git -c user.name="ChristianNews Bot" -c user.email="bot@christian-news.local" commit -m "chore: daily auto update [%date%]" >> "%LOGFILE%" 2>&1

@@ -101,7 +101,7 @@ class SiteGenerator:
                 "config", "sources.yaml",
             )
         self.sources_config = sources_config
-        self.env = Environment(loader=FileSystemLoader(template_dir))
+        self.env = Environment(loader=FileSystemLoader(template_dir), autoescape=True)
         self.db: Dict[str, Any] = {}
         self._load_db()
 
@@ -121,6 +121,13 @@ class SiteGenerator:
             self.db = {"articles": [], "categories": {}, "regions": {}, "sources": {}, "updated_at": now_hk()}
 
     def _copy_assets(self):
+        # 仓库根的 _headers 必须一起复制进 site/：Pages 的部署根是 site/，
+        # 放在仓库根等于没放，线上会一个安全响应头都没有。
+        # 按模块位置定位仓库根，site_dir 指向别处（本地试跑）也能拿到。
+        repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        headers = os.path.join(repo_root, "_headers")
+        if os.path.exists(headers):
+            shutil.copyfile(headers, os.path.join(self.site_dir, "_headers"))
         static_dir = os.path.join(os.path.dirname(self.site_dir), "static")
         if os.path.exists(static_dir):
             shutil.copytree(static_dir, self.site_dir, dirs_exist_ok=True)

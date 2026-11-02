@@ -9,6 +9,7 @@ import logging
 from datetime import datetime, timezone, timedelta
 from typing import Dict, Any, Optional
 from urllib.parse import urljoin, urlparse
+from html import unescape
 
 
 # 香港时区
@@ -58,6 +59,9 @@ def clean_text(text: str) -> str:
     """清理文本空白与特殊字符"""
     if not text:
         return ""
+    # 先解码再折叠空白（&#10; 解码后才是真空白）。模板开了 autoescape，
+    # 若把 &#039; 这类实体原样入库，线上会显示成字面实体而不是引号。
+    text = unescape(text)
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 

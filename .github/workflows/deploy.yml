@@ -3,7 +3,7 @@ name: Daily Collect & Deploy
 # 每天 UTC 00:00 = 北京时间 08:00 自动采集、生成并发布到 Cloudflare Pages
 "on":
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 permissions:
@@ -31,6 +31,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Collect sources and build site
+        id: collect
         run: python run.py full --workers 8
 
       - name: Setup Node
@@ -52,8 +53,9 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
       # 提交刷新后的站点与翻译缓存：保留历史，同时让计划任务不因仓库长期无提交而被自动停用
+      # 采集/生成失败时不提交，避免把半生成的 site 推上线（Pages 部署步骤同样会被跳过）
       - name: Commit refreshed content
-        if: always()
+        if: steps.collect.outcome == 'success'
         run: |
           git config user.name "ChristianNews Bot"
           git config user.email "bot@users.noreply.github.com"
