@@ -158,20 +158,6 @@ class Translator:
         return result
 
     # ---------- 离线翻译（argos-translate，本地运行、无配额） ----------
-    def _pip_install_argos(self) -> bool:
-        """按需安装离线翻译库（仅当云端配额用尽时触发，平时不装，保持运行轻量）"""
-        import subprocess
-        import sys
-        logger.info("云端翻译配额用尽，按需安装离线翻译库 argostranslate（仅此一次，较重）…")
-        try:
-            subprocess.check_call(
-                [sys.executable, "-m", "pip", "install", "--no-cache-dir", "argostranslate"]
-            )
-            return True
-        except Exception as e:
-            logger.warning(f"pip 安装 argostranslate 失败: {e}")
-            return False
-
     def _get_argos(self, src: str = "en"):
         """获取指定源语言的 Argos 翻译对象（按需下载模型）"""
         if not self.use_offline:
@@ -181,14 +167,9 @@ class Translator:
         try:
             import argostranslate.package as argos_pkg
             import argostranslate.translate as argos_tr
-        except ImportError:
-            if self._pip_install_argos():
-                try:
-                    import argostranslate.package as argos_pkg
-                    import argostranslate.translate as argos_tr
-                except Exception as e:
-                    logger.warning(f"argos 安装后仍无法导入，放弃离线翻译: {e}")
-                    return None
+        except ImportError as e:
+            logger.warning(f"argostranslate 未安装，离线翻译不可用: {e}")
+            return None
             else:
                 return None
 
