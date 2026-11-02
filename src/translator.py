@@ -12,6 +12,7 @@ import logging
 from typing import Dict, List
 
 import requests
+from collections import Counter
 
 from .models import Article
 from .utils import ensure_dir, make_summary
@@ -20,6 +21,48 @@ logger = logging.getLogger(__name__)
 
 # 判断文本是否已含中文
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
+
+
+def _chunk_text(text: str, max_len: int = 400) -> List[str]:
+    """按句子边界把长文本切成 <=max_len 的块，避免神经翻译长输入退化"""
+    text = (text or "").strip()
+    if len(text) <= max_len:
+        return [text] if text else []
+    sents = re.split(r"(?<=[.!?。！？；;])\s+", text)
+    chunks: List[str] = []
+    cur = ""
+    for s in sents:
+        if not s:
+            continue
+        if cur and len(cur) + len(s) + 1 <= max_len:
+            cur = f"{cur} {s}"
+            continue
+        if cur:
+            chunks.append(cur)
+        while len(s) > max_len:
+            chunks.append(s[:max_len])
+            s = s[max_len:]
+        cur = s
+    if cur:
+        chunks.append(cur)
+    return chunks or [text]
+
+
+def _is_degenerate(text: str) -> bool:
+    """检测神经翻译的「复读退化」输出（同一小片段高频重复）"""
+    if not text or len(text) < 60:
+        return False
+    t = re.sub(r"\s+", "", text)
+    if len(t) < 60:
+        return False
+    grams = Counter(t[i:i + 3] for i in range(len(t) - 2))
+    _, top = grams.most_common(1)[0]
+    return top / (len(t) - 2) > 0.2
+
+
+def _bad_zh(x: str) -> bool:
+    """空或退化输出，视为未翻译"""
+    return not (x or "").strip() or _is_degenerate(x)
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
@@ -91,8 +134,10 @@ class Translator:
             return ""
 
         key = f"{src}:{text}"
-        if key in self.cache:
-            return self.cache[key]
+        cached = self.cache.get(key)
+        if cached is not None and not _is_degenerate(cached):
+            return cached
+        # 缓存命中但为退化输出（历史长文复读乱码），丢弃缓存重新翻译
 
         result = ""
         for provider in ("mymemory", "google"):
@@ -109,7 +154,7 @@ class Translator:
         if not result and self.use_offline:
             result = self._argos_translate(text, src)
 
-        if result:
+        if result and not _is_degenerate(result):
             self.cache[key] = result
         return result
 
@@ -192,7 +237,13 @@ class Translator:
             return ""
         _, _, translation = m
         try:
-            return (translation.translate(text) or "").strip()
+            # 长文本按句切块逐段翻译：argos 对长输入易「复读退化」，切块+退化过滤保证质量
+            parts = []
+            for ch in _chunk_text(text):
+                out = (translation.translate(ch) or "").strip()
+                if out and not _is_degenerate(out):
+                    parts.append(out)
+            return "\n".join(parts).strip()
         except Exception as e:
             logger.debug(f"argos 翻译失败: {e}")
             return ""
@@ -206,7 +257,7 @@ class Translator:
         summary_pending = [
             a for a in articles
             if (a.language or "").lower().startswith("en")
-            and a.summary and not (a.summary_zh or "")
+            and a.summary and _bad_zh(a.summary_zh)
         ]
         tlist = title_pending if max_items is None else title_pending[:max_items]
         slist = summary_pending if max_items is None else summary_pending[:max_items]
@@ -230,7 +281,7 @@ class Translator:
         content_pending = [
             a for a in articles
             if (a.language or "").lower().startswith("en")
-            and a.content and not (a.content_zh or "")
+            and a.content and _bad_zh(a.content_zh)
         ]
         clist = content_pending if max_items is None else content_pending[:max_items]
         cdone = 0
