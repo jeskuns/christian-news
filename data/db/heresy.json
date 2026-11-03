@@ -2,7 +2,7 @@
   "category": "heresy",
   "label": "异端辨析",
   "count": 19,
-  "updated_at": "2026-11-02T13:44:10.850283+08:00",
+  "updated_at": "2026-11-03T12:07:57.343944+08:00",
   "articles": [
     {
       "title": "World Series champ Cooper Pratt on the connection between tithing and baseball",
@@ -24,12 +24,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:05.284175",
+      "fetched_at": "2026-11-03T03:58:44.674286",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Deseret News"
-      }
+      },
+      "id": "729a5e0539430321"
     },
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church - ABC News",
@@ -54,7 +55,8 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Breaking News, Latest News and Videos"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
@@ -80,7 +82,8 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Marietta Daily Journal"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
@@ -106,7 +109,8 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Star Beacon"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "UCF fined for fans' chants at BYU; Big 12 sets policy with in-game penalties",
@@ -128,12 +132,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:05.283946",
+      "fetched_at": "2026-11-03T03:58:44.674657",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "ESPN"
-      }
+      },
+      "id": "6110cfd1f6b13432"
     },
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
@@ -159,7 +164,8 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "chronicleonline.com"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
@@ -185,7 +191,8 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Killeen Daily Herald"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
@@ -211,7 +218,8 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Richmond Register"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Latest from Mormon Land: Historian Richard Bushman sought a blessing from a surprising apostle",
@@ -233,12 +241,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:05.284357",
+      "fetched_at": "2026-11-03T03:58:44.674483",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Salt Lake Tribune"
-      }
+      },
+      "id": "c2d5ade3cc38edbf"
     },
     {
       "title": "‘Mormon Land’: As a presidential candidate, Joseph Smith was ‘anti-slavery,’ but he was no abolitionist",
@@ -263,7 +272,8 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Salt Lake Tribune"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Early Mormons in Fort Worth baptized faithful in Trinity River",
@@ -289,7 +299,8 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Fort Worth Report"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "What Elder Rasband appreciates about the faithful example of Milwaukee’s Cooper Pratt",
@@ -311,12 +322,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:05.284538",
+      "fetched_at": "2026-11-03T03:58:44.675183",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Church News"
-      }
+      },
+      "id": "ec5053e423cf1891"
     },
     {
       "title": "Church of Jesus Christ of Latter-day Saints buys prime commercial land for new Metro East church",
@@ -342,7 +354,36 @@
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Business Journals"
-      }
+      },
+      "content_zh": ""
+    },
+    {
+      "title": "Hawaiʻi Mormon Population Growing, Diversifying In U.S.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmcyMTZaUi1wdlBiNTJyb2FkdkFvckVtekg1b1paN1BCN1FUVlpic2liT2xMV2E0aGlhNGJPanZ0LTJzT21ESU84Q0JDazM1UzNZMHo5NFJFV2IyQ2FBeFNZMk16S2toa1Y4ci12UEM3c3k5aTdqdVFsbEJHSTlJUFBCTjlfQ09pOVpTSTRJWXA?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-05",
+      "summary": "Hawaiʻi Mormon Population Growing, Diversifying In U.S. Honolulu Civil Beat",
+      "summary_zh": "夏威夷摩门教人口在美国檀香山民变中不断增长且多样化",
+      "title_zh": "夏威夷摩门教人口增长，美国多元化",
+      "content": "",
+      "content_zh": "",
+      "author": "Honolulu Civil Beat",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T03:58:44.675672",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Honolulu Civil Beat"
+      },
+      "id": "71d5425c689af4bf"
     },
     {
       "title": "Are Mormons Losing Their Distinctiveness?",
@@ -352,10 +393,9 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-04",
       "summary": "Are Mormons Losing Their Distinctiveness? The Atlantic",
-      "summary_zh": "摩门教徒是否正在失去其独特性？大西洋",
+      "summary_zh": "",
       "title_zh": "摩门教徒是否正在失去其独特性？",
       "content": "",
-      "content_zh": "",
       "author": "The Atlantic",
       "tags": [],
       "language": "en",
@@ -364,12 +404,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:05.285518",
+      "fetched_at": "2026-10-30T01:22:28.755523",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Atlantic"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Fewer Americans raised Mormon are staying in the faith, study finds",
@@ -391,12 +432,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:05.285040",
+      "fetched_at": "2026-11-03T03:58:44.675348",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Washington Post"
-      }
+      },
+      "id": "2e0dfd068c84d731"
     },
     {
       "title": "Tradition and Change Among Latter-day Saints in the U.S.",
@@ -409,7 +451,6 @@
       "summary_zh": "美国皮尤研究中心后期圣徒的传统与变化",
       "title_zh": "美国后期圣徒的传统和变化",
       "content": "",
-      "content_zh": "",
       "author": "Pew Research Center",
       "tags": [],
       "language": "en",
@@ -418,12 +459,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:05.284857",
+      "fetched_at": "2026-10-30T01:22:28.754185",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Pew Research Center"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "韩国朴振英回应邪教质疑：教会里有新天地出身，不代表教会就是新天地",
@@ -449,34 +491,8 @@
         "provider": "google_news",
         "query": "统一教 异端 韩国",
         "publisher": "腾讯新闻"
-      }
-    },
-    {
-      "title": "Mormon Church Expands Its Real Estate Empire With 1,000-Acre Development Near Denver",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdldzVTFDcnZ3MUJnVWZyWVhqa091emtfSk5qdHpCT00tTncwNURwUHVVOFd4TUpyVk5WSDdFM0hhWkhlT1VRNDZrUzM0VG42VDNIcmY0R1FNN0VrQzNIdUZEVjNVcTJ0YTVKOUxObmJZUVNWSFNYNGdubHVlcVNoMnZqN2JwazFsaXVjSkJHM2VmSEVla2thUk8tNVlEd2ZXNi04NjRfODhiVDBqa3dMc2RNRQ?oc=5",
-      "category": "heresy",
-      "source": "摩门教 LDS",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-09-16",
-      "summary": "Mormon Church Expands Its Real Estate Empire With 1,000-Acre Development Near Denver Realtor.com",
-      "summary_zh": "摩门教会在丹佛附近开发 1,000 英亩土地，扩大其房地产帝国 Realtor.com",
-      "title_zh": "摩门教堂扩张其房地产帝国，在丹佛附近开发1000英亩土地",
-      "content": "",
-      "content_zh": "",
-      "author": "Realtor.com",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T00:28:06.693572",
-      "extra": {
-        "provider": "google_news",
-        "query": "Mormon LDS church",
-        "publisher": "Realtor.com"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "10th Circuit affirms dismissal of Mormon church tithing fraud class action as too late",
@@ -498,12 +514,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:06.693424",
+      "fetched_at": "2026-11-03T03:58:44.675505",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Courthouse News"
-      }
+      },
+      "id": "7fcae62a133a0577"
     }
   ]
 }

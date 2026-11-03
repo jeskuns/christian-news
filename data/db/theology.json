@@ -1,41 +1,16 @@
 {
   "category": "theology",
   "label": "神学与合一",
-  "count": 50,
-  "updated_at": "2026-11-02T13:44:10.831545+08:00",
+  "count": 58,
+  "updated_at": "2026-11-03T12:07:57.325540+08:00",
   "articles": [
-    {
-      "title": "WCC Faith and Order meeting opens with path toward deep dialogue",
-      "url": "https://www.oikoumene.org/news/wcc-faith-and-order-meeting-opens-with-path-toward-deep-dialogue",
-      "category": "theology",
-      "source": "World Council of Churches",
-      "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
-      "summary": "WCC Faith and Order meeting opens with path toward deep dialogue   iku   Mon, 10/26/2026 - 15:19     The meeting of the World Council of Churches (WCC) Commission on Faith and Order opened in Lund, Sweden, on 26 October, marking the second time in history that the commission has met in Sweden.            Image             26 October 2026, Höör, Sweden: Opening prayer observed at the World Council of Churches (WCC) Commission on Faith and Order meeting taking place 25-31 October 2026.    Photo:  ",
-      "summary_zh": "世界基督教协进会信仰与秩序会议以深入对话的道路开幕， iku Mon, 10/26/2026 - 15:19世界基督教协进会（ WCC ）信仰与秩序委员会会议于10月26日在瑞典隆德开幕，这是该委员会历史上第二次在瑞典举行会议。图片2026年10月26日，瑞典赫尔：在2026年10月25日至31日举行的世界教会理事会（ WCC ）信仰与秩序委员会会议上进行的开幕祈祷。照片：",
-      "title_zh": "WCC信仰与秩序会议开启了深入对话的道路",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.631894",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
     {
       "title": "Global Prayer for Peace in Ukraine",
       "url": "https://www.oikoumene.org/events/global-prayer-for-peace-in-ukraine",
       "category": "theology",
       "source": "World Council of Churches",
       "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Global Prayer for Peace in Ukraine   iku   Wed, 05/20/2026 - 17:21     In a series of global prayers for peace, the World Council of Churches (WCC) invites people and churches around the world to join in the Global Prayer for Peace in Ukraine on 11 June at 13.00 CET.           Image             Thousands of Ukrainian flags have been placed at the Maidan Nezalezhnosti/Independence Square - the central square of Kyiv, capital city of Ukraine, in front of the Independence Monument, in memory of tho",
       "summary_zh": "全球祈求乌克兰和平祈祷iku Wed, 05/20/2026 - 17:21在一系列全球祈求和平祈祷中，世界基督教协进会（ WCC ）邀请世界各地的人们和教会于6月11日欧洲中部时间13:00加入全球祈求乌克兰和平祈祷。图片成千上万的乌克兰国旗被放置在独立纪念碑前面的乌克兰首都基辅中央广场Maidan Nezalezhnosti/独立广场，以纪念",
       "title_zh": "祈求乌克兰和平的全球祈祷",
@@ -49,10 +24,11 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.636314",
+      "fetched_at": "2026-11-03T03:58:42.371390",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "b287a63c25d239b7"
     },
     {
       "title": "GETI 2025: \"Where now for visible unity?\"",
@@ -60,9 +36,9 @@
       "category": "theology",
       "source": "World Council of Churches",
       "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
-      "summary": "GETI 2025: \"Where now for visible unity?\"   msc   Tue, 10/15/2024 - 16:29     The Global Ecumenical Theological Institute 2025 (GETI), at the WCC Commission on Faith and Order’s World Conference in Egypt, is the fourth in a series of such global study programmes.           Image                        GETI is an international study programme of the WCC’s Ecumenical Theological Education (WCC-ETE) programme.  The first GETI took place at the 10th WCC Assembly in 2013 in Busan, South Korea. Subseq",
-      "summary_zh": "GETI 2025 ： “现在在哪里实现可见的统一？” msc Tue, 10/15/2024 - 16:29在埃及举行的WCC信仰与秩序委员会世界会议上，全球基督教神学研究所2025 （ GETI ）是一系列此类全球研究计划中的第四个。Image GETI是WCC全基督教神学教育（ WCC-ETE ）计划的国际研究项目。第一届GETI于2013年在韩国釜山举行的第十届WCC大会上举行。Subseq",
+      "published": "2026-11-03",
+      "summary": "GETI 2025: \"Where now for visible unity?\"   msc   Tue, 10/15/2024 - 16:29     The Global Ecumenical Theological Institute 2025 (GETI), at the WCC Commission on Faith and Order’s World Conference in Egypt, is the fourth in a series of such global study programmes.           Image                        GETI is an international study programme of the WCC’s Ecumenical Theological Education (WCC-ETE) programme.  The first GETI took place at the 10th WCC Assembly in 2013 in Busan, South Korea. Subseq",
+      "summary_zh": "GETI 2025：“现在哪里可以看到明显的团结？”   理学硕士 周二，2024 年 10 月 15 日 - 16:29 全球普世神学研究所 2025 (GETI) 在埃及 WCC 信仰与秩序委员会世界会议上举行，是一系列此类全球研究计划中的第四个。           Image GETI 是 WCC 普世神学教育 (WCC-ETE) 计划的一项国际研究计划。  首届 GETI 于 2013 年在韩国釜山举行的第十届 WCC 大会上举行。子序列",
       "title_zh": "GETI 2025 ： “现在可见的统一在哪里？”",
       "content": "",
       "content_zh": "",
@@ -74,10 +50,11 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.640484",
+      "fetched_at": "2026-11-03T03:58:42.376205",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "14da883d592e7ac1"
     },
     {
       "title": "Religious Leaders Unite for Climate Peace in Solidarity with Refugees",
@@ -85,7 +62,7 @@
       "category": "theology",
       "source": "World Council of Churches",
       "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Religious Leaders Unite for Climate Peace in Solidarity with Refugees   GDF   Tue, 12/05/2023 - 17:39     Religious leaders will gather on12 December for an event inked to the Global Refugee Forum. The programme is hosted by the UNHCR, the World Council of Churches (WCC), and Religions for Peace (RfP) at the Ecumenical Centre, Geneva.           Image            Photo:  Albin Hillert                 The Global Refugee Forum, the world ’ s largest international gathering on refugees, will take pla",
       "summary_zh": "宗教领袖团结一致促进气候和平，声援难民GDF周二， 2023年12月5日- 17:39宗教领袖将于12月12日聚集在一起，参加全球难民论坛的活动。该方案由难民署、世界基督教协进会（ WCC ）和宗教争取和平会议（ RfP ）在日内瓦全基督教中心主办。图片来源： Albin Hillert全球难民论坛，世界上最大的难民问题国际会议，将举办",
       "title_zh": "宗教领袖团结一致维护气候和平，声援难民",
@@ -99,10 +76,11 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.643987",
+      "fetched_at": "2026-11-03T03:58:42.380752",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "80bed3098de7410b"
     },
     {
       "title": "A Week of Prayer in the Time of the COVID-19 Pandemic",
@@ -110,9 +88,9 @@
       "category": "theology",
       "source": "World Council of Churches",
       "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
-      "summary": "A Week of Prayer in the Time of the COVID-19 Pandemic   albin   Thu, 03/04/2021 - 16:25     The World Council of Churches will observe a week of prayer from 22-27 March, one year into the COVID-19 pandemic.            Image            Photo:  Marcelo Schneider/WCC; Mike DuBose/UM News                 The week will invite a time of prayer and reflection on both the lament and the hope expressed and experienced across the world during what has been a year of unprecedented suffering, but also one w",
-      "summary_zh": "新冠肺炎疫情期间的祈祷周albin Thu, 03/04/2021 - 16:25世界基督教协进会将在新冠肺炎疫情爆发一年后的3月22日至27日进行为期一周的祈祷。图片来源： Marcelo Schneider/WCC; Mike DuBose/UM新闻本周将邀请人们一起祈祷，反思在这前所未有的痛苦的一年中，世界各地所表达和体验到的哀悼和希望，同时也",
+      "published": "2026-11-03",
+      "summary": "A Week of Prayer in the Time of the COVID-19 Pandemic   albin   Thu, 03/04/2021 - 16:25     The World Council of Churches will observe a week of prayer from 22-27 March, one year into the COVID-19 pandemic.            Image            Photo:  Marcelo Schneider/WCC; Mike DuBose/UM News                 The week will invite a time of prayer and reflection on both the lament and the hope expressed and experienced across the world during what has been a year of unprecedented suffering, but also one w",
+      "summary_zh": "COVID-19 大流行期间的祈祷周 阿尔宾 星期四，2021 年 3 月 4 日 - 16:25 世界基督教协进会将于 3 月 22 日至 27 日（即 COVID-19 大流行一周年）举行祈祷周。            图片来源：Marcelo Schneider/WCC；迈克·杜博斯/密歇根大学新闻 本周将邀请人们祈祷和反思，在经历了前所未有的苦难的一年中，世界各地所表达和经历的哀叹和希望，但也是一个令人震惊的一年。",
       "title_zh": "新冠肺炎疫情期间的一周祈祷",
       "content": "",
       "content_zh": "",
@@ -124,60 +102,11 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.655706",
+      "fetched_at": "2026-11-03T03:58:42.392833",
       "extra": {
         "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "WCC condemns repeated killings in Oromia, Ethiopia",
-      "url": "https://www.oikoumene.org/news/wcc-condemns-repeated-killings-in-oromia-ethiopia",
-      "category": "theology",
-      "source": "World Council of Churches",
-      "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
-      "summary": "WCC condemns repeated killings in Oromia, Ethiopia   msc   Thu, 10/29/2026 - 18:30     World Council of Churches (WCC) general secretary Rev. Prof. Dr Jerry Pillay condemned repeated killings of members of the Ethiopian Orthodox Tewahedo Church and the continuing insecurity affecting Orthodox Christian communities others in the Arsi area of Ethiopia ’ s Oromia Regional State.           Image             Micha town in Oromia, Ethiopia. Dust and smoke fills the air, as night fires are dying out, l",
-      "summary_zh": "世界基督教协进会谴责在埃塞俄比亚奥罗米亚一再发生的杀戮， msc Thu, 10/29/2026 - 18:30世界基督教协进会（ WCC ）秘书长牧师杰里·皮莱（ Jerry Pillay ）博士谴责对埃塞俄比亚东正教Tewahedo教会成员的一再杀戮，以及影响埃塞俄比亚奥罗米亚州Arsi地区其他东正教基督徒社区的持续不安全状况。图片埃塞俄比亚奥罗米亚Micha镇。随着夜间火势逐渐熄灭，空气中充满了灰尘和烟雾，",
-      "title_zh": "世界基督教协进会谴责埃塞俄比亚奥罗米亚一再发生的杀戮事件",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.687066",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "Vespers in Lund Cathedral: moments of commemoration—and contemplation",
-      "url": "https://www.oikoumene.org/news/vespers-in-lund-cathedral-moments-of-commemoration-and-contemplation",
-      "category": "theology",
-      "source": "World Council of Churches",
-      "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
-      "summary": "Vespers in Lund Cathedral: moments of commemoration—and contemplation   albin   Sun, 11/01/2026 - 11:01     An ecumenical vespers service in Lund Cathedral on 31 October, Reformation Day, commemorated significant moments in the history of ecumenism—and drew a procession of people who are wrestling with the future of ecumenism as well.            Image             31 October 2026, Lund, Sweden: Choir members sing as part of an ecumenical vespers held on Reformation Day in Lund Cathedral – marking",
-      "summary_zh": "隆德大教堂的晚祷：纪念时刻和沉思 albin Sun, 11/01/2026 - 11:01 10 月 31 日宗教改革日，在隆德大教堂举行的普世晚祷仪式纪念了普世主义历史上的重要时刻，并吸引了一群正在与普世主义未来搏斗的人们游行。            图片 2026 年 10 月 31 日，瑞典隆德：合唱团成员在隆德大教堂宗教改革日举行的普世晚祷中唱歌 – 标记",
-      "title_zh": "隆德大教堂的晚祷：纪念和沉思的时刻",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.667937",
-      "extra": {
-        "feed_type": "rss20"
-      }
+      },
+      "id": "60da2baf3fe30289"
     },
     {
       "title": "WCC, LWF launch ’The Lund Thread’ – on 100 years of ecumenism in Sweden",
@@ -185,9 +114,9 @@
       "category": "theology",
       "source": "World Council of Churches",
       "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
-      "summary": "WCC, LWF launch ’The Lund Thread’ – on 100 years of ecumenism in Sweden   albin   Sun, 11/01/2026 - 10:32     The World Council of Churches (WCC) and the Lutheran World Federation (LWF) launch joint exhibition entitled ‘The Lund Thread’, highlighting 100 years of ecumenical encounter and exploration in Sweden.            Image             The Lund Thread is a digital exhibition produced jointly by the World Council of Churches and the Lutheran World Federation, with support from Church of Sweden",
-      "summary_zh": "WCC、LWF 推出“隆德脉络”——瑞典普世主义 100 周年 albin Sun，11/01/2026 - 10:32 世界基督教协进会 (WCC) 和世界路德宗联合会 (LWF) 推出题为“隆德脉络”的联合展览，重点介绍瑞典 100 年来普世主义的遭遇和探索。            图片 The Lund Thread 是由世界基督教协进会和世界路德教会联合会在瑞典教会的支持下联合举办的数字展览",
+      "published": "2026-11-03",
+      "summary": "WCC, LWF launch ’The Lund Thread’ – on 100 years of ecumenism in Sweden   albin   Sun, 11/01/2026 - 10:32     The World Council of Churches (WCC) and the Lutheran World Federation (LWF) launch joint exhibition entitled ‘The Lund Thread’, highlighting 100 years of ecumenical encounter and exploration in Sweden.            Image             The Lund Thread is a digital exhibition produced jointly by the World Council of Churches and the Lutheran World Federation, with support from Church of Sweden",
+      "summary_zh": "WCC、LWF 推出“隆德脉络”——瑞典普世主义 100 周年 albin Sun，11/01/2026 - 10:32 世界基督教协进会 (WCC) 和世界路德宗联合会 (LWF) 推出题为“隆德脉络”的联合展览，重点介绍瑞典 100 年来普世主义的遭遇和探索。            图片 The Lund Thread 是由世界基督教协进会和世界路德教会联合会在瑞典教会的支持下联合举办的数字展览",
       "title_zh": "WCC ， LWF推出“隆德线程” –关于瑞典100年的普世主义",
       "content": "",
       "content_zh": "",
@@ -199,21 +128,22 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.675296",
+      "fetched_at": "2026-11-03T03:58:42.360992",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "f333961c28f32e32"
     },
     {
-      "title": "Webinar explores “Visible Unity in a Changing North”",
-      "url": "https://www.oikoumene.org/news/webinar-explores-visible-unity-in-a-changing-north",
+      "title": "Conference of Secretaries of Christian World Communions convenes",
+      "url": "https://www.oikoumene.org/news/conference-of-secretaries-of-christian-world-communions-convenes",
       "category": "theology",
       "source": "World Council of Churches",
       "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
-      "summary": "Webinar explores “Visible Unity in a Changing North”   msc   Fri, 10/30/2026 - 20:38     A webinar,  “ Visible Unity in a Changing North: Ecclesiology, Leadership, and the Future of the Churches,” held 30 October, offered a glimpse into the World Council of Churches (WCC) Commission on Faith and Order meeting, underway from 26–31 October.            Image             30 October 2026, Höör, Sweden: Rev. Karin Wiborn, Uniting Church in Sweden speaks at a panel discussion on 'Visible Unity in a Cha",
-      "summary_zh": "网络研讨会探讨“不断变化的北方中的可见团结” MSC 周五，2026 年 10 月 30 日 - 20:38 10 月 30 日举行的网络研讨会“不断变化的北方中的可见团结：教会论、领导力和教会的未来”，让人们得以一睹 10 月 26 日至 31 日举行的世界基督教协进会 (WCC) 信仰与秩序委员会会议的情况。            图片 2026 年 10 月 30 日，瑞典赫尔：瑞典联合教会的 Karin Wiborn 牧师在“Cha 中可见的统一”小组讨论中发言",
-      "title_zh": "网络研讨会探讨“不断变化的北方可见的团结”",
+      "published": "2026-11-03",
+      "summary": "Conference of Secretaries of Christian World Communions convenes   msc   Mon, 11/02/2026 - 19:20     The Conference of Secretaries of Christian World Communions is convening in Lebanon 3-5 November, hosted by the Armenian Apostolic Church, Catholicosate of Cilicia.            Image            Photo:  Ivars Kupcis/WCC                 Each communion and multilateral organization will present a verbal report that builds upon a previously submitted written report.    In its report, the World Council",
+      "summary_zh": "基督教世界共融秘书会议将于 2026 年 2 月 11 日星期一 - 19:20 召开 基督教世界共融秘书会议将于 11 月 3 日至 5 日在黎巴嫩召开，由西里西亚天主教亚美尼亚使徒教会主办。            图片来源：Ivars Kupcis/WCC 每个共融和多边组织都将在之前提交的书面报告的基础上提交一份口头报告。    世界理事会在其报告中",
+      "title_zh": "基督教世界共融组织秘书长会议召开",
       "content": "",
       "content_zh": "",
       "author": "",
@@ -224,21 +154,22 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.680755",
+      "fetched_at": "2026-11-03T03:58:42.396086",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "0e6dcd265eaf27e5"
     },
     {
-      "title": "Women's Day Declaration - African and African Diaspora (AAD) Conference “Return to Africa”",
-      "url": "https://www.oikoumene.org/resources/documents/womens-day-declaration-african-and-african-diaspora-aad-conference-return-to-africa",
+      "title": "Olive harvesters in Taybeh—only remaining Christian community in West Bank—suffer violence and harassment",
+      "url": "https://www.oikoumene.org/news/olive-harvesters-in-taybeh-only-remaining-christian-community-in-west-bank-suffer-violence-and-harassment",
       "category": "theology",
       "source": "World Council of Churches",
       "source_url": "https://www.oikoumene.org/rss.xml",
-      "published": "2026-11-02",
-      "summary": "Women's Day Declaration - African and African Diaspora (AAD) Conference “Return to Africa”   msc   Fri, 10/30/2026 - 14:38     In Partnership with Pan African Women’s Ecumenical Empowerment Network (PAWEEN).             Johannesburg, South Africa, October 26, 2026   “You are the God who sees me.”  (Genesis 16:13)   We, African women and women and girls of the African diaspora, gathered in South Africa on the occasion of the Pan-African Conference “Return to Africa,” recognize this gathering as p",
-      "summary_zh": "妇女节宣言 - 非洲和非洲侨民 (AAD) 会议“重返非洲”MSC 周五，2026 年 10 月 30 日 - 14:38 与泛非妇女普世赋权网络 (PAWEEN) 合作。             南非约翰内斯堡，2026 年 10 月 26 日 “你是看见我的上帝。”  （创世记 16:13）我们非洲妇女、散居海外的非洲妇女和女孩，在泛非会议“重返非洲”之际聚集在南非，我们认为这次聚会是",
-      "title_zh": "妇女节宣言-非洲和非洲移民社群（ AAD ）会议“重返非洲”",
+      "published": "2026-11-03",
+      "summary": "Olive harvesters in Taybeh—only remaining Christian community in West Bank—suffer violence and harassment   albin   Mon, 11/02/2026 - 15:10     During olive harvest, the village of Taybeh—the only remaining Christian community in the West Bank—has been suffering violence and harassment by settlers.            Image             Olive harvest in Taybeh, 2026.    Photo:  WCC-EAPPI                 During olive harvest, the village of Taybeh—the only remaining Christian community in the West Bank—has",
+      "summary_zh": "西岸仅存的基督教社区 Taybeh 的橄榄收割者遭受暴力和骚扰 albin Mon, 11/02/2026 - 15:10 在橄榄收获期间，西岸仅存的基督教社区 Taybeh 村一直遭受定居者的暴力和骚扰。            图片 2026 年 Taybeh 的橄榄收获。照片：WCC-EAPPI 在橄榄收获期间，Taybeh 村——西岸仅存的基督教社区——",
+      "title_zh": "西岸仅剩Taybeh的基督教社区的橄榄收割机遭受暴力和骚扰",
       "content": "",
       "content_zh": "",
       "author": "",
@@ -249,10 +180,167 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.685295",
+      "fetched_at": "2026-11-03T03:58:42.399493",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "464c8043401479e7"
+    },
+    {
+      "title": "WCC Faith and Order leaders reflect on deep encounters",
+      "url": "https://www.oikoumene.org/news/wcc-faith-and-order-leaders-reflect-on-deep-encounters",
+      "category": "theology",
+      "source": "World Council of Churches",
+      "source_url": "https://www.oikoumene.org/rss.xml",
+      "published": "2026-11-03",
+      "summary": "WCC Faith and Order leaders reflect on deep encounters   albin   Mon, 11/02/2026 - 13:48     Leaders of the World Council of Churches Commission on Faith and Order reflected on their most recent meeting, which concluded in Lund, Sweden on 31 October.            Image             26 October 2026, Höör, Sweden: World Council of Churches (WCC) moderator of Faith and Order Rev. Dr Stephanie Dietrich speaks during the Commission on Faith and Order meeting taking place 25-31 October 2026, holding a wo",
+      "summary_zh": "WCC 信仰与秩序领导人反思深刻的遭遇 albin Mon, 11/02/2026 - 13:48 世界基督教协进会信仰与秩序委员会领导人反思他们最近的一次会议，该会议于 10 月 31 日在瑞典隆德结束。            图片 2026 年 10 月 26 日，瑞典赫尔：世界基督教联合会 (WCC) 信仰与秩序主持人 Stephanie Dietrich 博士在 2026 年 10 月 25 日至 31 日举行的信仰与秩序委员会会议上发表讲话，该会议举行了一场研讨会",
+      "title_zh": "WCC信仰和秩序领袖反思深度遭遇",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T03:58:42.407825",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "35b74245baa95dd7"
+    },
+    {
+      "title": "Women’s Human Rights Training in Senegal augments voices, builds insight",
+      "url": "https://www.oikoumene.org/news/womens-human-rights-training-in-senegal-augments-voices-builds-insight",
+      "category": "theology",
+      "source": "World Council of Churches",
+      "source_url": "https://www.oikoumene.org/rss.xml",
+      "published": "2026-11-03",
+      "summary": "Women’s Human Rights Training in Senegal augments voices, builds insight   iku   Mon, 11/02/2026 - 11:26     The 11th annual Women ’ s Human Rights Training took place in Dakar, Senegal from 19-23 October. Participants acquired new skills to conduct effective advocacy related to women ’ s human rights.            Image             Participants of the Women Human Rights Advocacy Training in Senegal.    Photo:  Philippa Hitchen/LWF                 “ I have gained experience and learned new approac",
+      "summary_zh": "塞内加尔妇女人权培训增强声音，增强洞察力 iku Mon, 11/02/2026 - 11:26 第 11 届年度妇女人权培训于 10 月 19 日至 23 日在塞内加尔达喀尔举行。参与者获得了开展与妇女人权相关的有效宣传的新技能。            图片 塞内加尔妇女人权倡导培训的参加者。    照片：Philippa Hitchen/LWF “我获得了经验并学到了新方法",
+      "title_zh": "塞内加尔妇女人权培训增强声音，建立洞察力",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T03:58:42.411356",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "63556e8b6b904f61"
+    },
+    {
+      "title": "New guide covers role of faith communities in Ebola response",
+      "url": "https://www.oikoumene.org/news/new-guide-covers-role-of-faith-communities-in-ebola-response",
+      "category": "theology",
+      "source": "World Council of Churches",
+      "source_url": "https://www.oikoumene.org/rss.xml",
+      "published": "2026-11-03",
+      "summary": "New guide covers role of faith communities in Ebola response    iku   Mon, 11/02/2026 - 10:38     A  “ Q&A Guide to Ebola Bundibugyo Virus Disease and the Role of Faith Communities,” prepared by the World Council of Churches Commission of the Churches on Health and Healing, is newly available.            Image             A worker uses an infrared thermometer to check for fever on everyone entering a clinic in Beni, a city in eastern Democratic Republic of the Congo that has been hard hit by the",
+      "summary_zh": "新指南涵盖了信仰团体在埃博拉应对中的作用 iku 周一，2026 年 2 月 11 日 - 10:38 由世界基督教协会健康与治疗委员会编写的《埃博拉本迪布焦病毒病问答指南和信仰团体的作用》现已发布。            在刚果民主共和国东部城市贝尼，一名工作人员使用红外测温仪检查进入诊所的每个人是否发烧。",
+      "title_zh": "新指南涵盖信仰团体在埃博拉应对中的作用",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T03:58:42.413710",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "12ce252973f8b791"
+    },
+    {
+      "title": "Today’s Global Witness of Christian Martyrs",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwTVV4ZkhoRExqSFZKTDFjaEU4ZVNZTjIycEN1UHNCZkNtSXFjQ25CTWstT3pRWE1LZU5OY0RTeWdCa2ZVcUJwU19DczBGai1jVDM2Wmhoakp1eHVaSlQwQmViZkI1RTVOOGJIRjFpc251ZnFMTnc?oc=5",
+      "category": "theology",
+      "source": "First Things",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-02",
+      "summary": "Today’s Global Witness of Christian Martyrs First Things",
+      "summary_zh": "当今基督徒殉道者的全球见证",
+      "title_zh": "今天的全球基督教殉道者见证",
+      "content": "",
+      "content_zh": "",
+      "author": "First Things",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "academic",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T03:58:42.470031",
+      "extra": {
+        "provider": "google_news",
+        "query": "First Things Christianity",
+        "publisher": "First Things"
+      },
+      "id": "2bb96d762330d127"
+    },
+    {
+      "title": "WCC Faith and Order meeting opens with path toward deep dialogue",
+      "url": "https://www.oikoumene.org/news/wcc-faith-and-order-meeting-opens-with-path-toward-deep-dialogue",
+      "category": "theology",
+      "source": "World Council of Churches",
+      "source_url": "https://www.oikoumene.org/rss.xml",
+      "published": "2026-10-30",
+      "summary": "WCC Faith and Order meeting opens with path toward deep dialogue   iku   Mon, 10/26/2026 - 15:19     The meeting of the World Council of Churches (WCC) Commission on Faith and Order opened in Lund, Sweden, on 26 October, marking the second time in history that the commission has met in Sweden.            Image             26 October 2026, Höör, Sweden: Opening prayer observed at the World Council of Churches (WCC) Commission on Faith and Order meeting taking place 25-31 October 2026.    Photo:",
+      "summary_zh": "世界基督教协进会信仰与秩序会议以深入对话的道路开幕， iku Mon, 10/26/2026 - 15:19世界基督教协进会（ WCC ）信仰与秩序委员会会议于10月26日在瑞典隆德开幕，这是该委员会历史上第二次在瑞典举行会议。图片2026年10月26日，瑞典赫尔：在2026年10月25日至31日举行的世界教会理事会（ WCC ）信仰与秩序委员会会议上进行的开幕祈祷。照片：",
+      "title_zh": "WCC信仰与秩序会议开启了深入对话的道路",
+      "content": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:46:36.711781",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "content_zh": ""
+    },
+    {
+      "title": "WCC condemns repeated killings in Oromia, Ethiopia",
+      "url": "https://www.oikoumene.org/news/wcc-condemns-repeated-killings-in-oromia-ethiopia",
+      "category": "theology",
+      "source": "World Council of Churches",
+      "source_url": "https://www.oikoumene.org/rss.xml",
+      "published": "2026-10-30",
+      "summary": "WCC condemns repeated killings in Oromia, Ethiopia   msc   Thu, 10/29/2026 - 18:30     World Council of Churches (WCC) general secretary Rev. Prof. Dr Jerry Pillay condemned repeated killings of members of the Ethiopian Orthodox Tewahedo Church and the continuing insecurity affecting Orthodox Christian communities others in the Arsi area of Ethiopia ’ s Oromia Regional State.           Image             Micha town in Oromia, Ethiopia. Dust and smoke fills the air, as night fires are dying out, l",
+      "summary_zh": "世界基督教协进会谴责在埃塞俄比亚奥罗米亚一再发生的杀戮， msc Thu, 10/29/2026 - 18:30世界基督教协进会（ WCC ）秘书长牧师杰里·皮莱（ Jerry Pillay ）博士谴责对埃塞俄比亚东正教Tewahedo教会成员的一再杀戮，以及影响埃塞俄比亚奥罗米亚州Arsi地区其他东正教基督徒社区的持续不安全状况。图片埃塞俄比亚奥罗米亚Micha镇。随着夜间火势逐渐熄灭，空气中充满了灰尘和烟雾，",
+      "title_zh": "世界基督教协进会谴责埃塞俄比亚奥罗米亚一再发生的杀戮事件",
+      "content": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:46:36.747567",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "content_zh": ""
     },
     {
       "title": "WACC Europe leaders hone plans for future",
@@ -276,7 +364,8 @@
       "fetched_at": "2026-10-30T05:46:36.752610",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "South Sudan church leaders appeal for peace amid rising inter-communal violence",
@@ -300,7 +389,8 @@
       "fetched_at": "2026-10-30T05:46:36.757757",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Ecumenism: When uncharted territory “is a good place to be”",
@@ -324,7 +414,8 @@
       "fetched_at": "2026-10-30T05:46:36.769169",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Ethiopian Orthodox church opens its forests to faith leaders",
@@ -333,7 +424,7 @@
       "source": "World Council of Churches",
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-30",
-      "summary": "Ethiopian Orthodox church opens its forests to faith leaders   valter   Thu, 10/29/2026 - 14:26     In Ethiopia, much of what is left of the native highland forest stands around churches. Organizers of the new Church Forest Academy count about 35,000 church forests, from one hectare to 19,000 hectares in size. From 27 October to 3 November, faith leaders and practitioners from Kenya, Ethiopia, Uganda, Tanzania, and Nigeria are learning how these forests survived. They are also exploring how the ",
+      "summary": "Ethiopian Orthodox church opens its forests to faith leaders   valter   Thu, 10/29/2026 - 14:26     In Ethiopia, much of what is left of the native highland forest stands around churches. Organizers of the new Church Forest Academy count about 35,000 church forests, from one hectare to 19,000 hectares in size. From 27 October to 3 November, faith leaders and practitioners from Kenya, Ethiopia, Uganda, Tanzania, and Nigeria are learning how these forests survived. They are also exploring how the",
       "summary_zh": "埃塞俄比亚东正教教堂向信仰领袖Valter Thu开放其森林， 2026年10月29日- 14:26在埃塞俄比亚，原生高原森林的大部分残留物都矗立在教堂周围。新教会森林学院的组织者统计了大约35,000个教会森林，面积从一公顷到19,000公顷不等。从10月27日到11月3日，来自肯尼亚、埃塞俄比亚、乌干达、坦桑尼亚和尼日利亚的宗教领袖和从业者正在了解这些森林是如何生存下来的。他们还在探索如何",
       "title_zh": "埃塞俄比亚东正教会向信仰领袖开放森林",
       "content": "",
@@ -348,7 +439,8 @@
       "fetched_at": "2026-10-30T05:46:36.774903",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Inside the Roman Mind",
@@ -370,12 +462,13 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.369900",
+      "fetched_at": "2026-11-03T03:58:42.470247",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
         "publisher": "First Things"
-      }
+      },
+      "id": "577edf2cc6d11e10"
     },
     {
       "title": "Biodiversity COP17: Catholicos receives WCC, ecumenical prayer follows",
@@ -399,7 +492,8 @@
       "fetched_at": "2026-10-29T06:30:21.298577",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Young Nordic theologians voice what visible unity means to them today",
@@ -423,7 +517,8 @@
       "fetched_at": "2026-10-29T06:30:21.308518",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Swedish “Singstunde” invites spiritual encounter with and through music",
@@ -447,7 +542,8 @@
       "fetched_at": "2026-10-29T06:30:21.314557",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Church of Sweden's interreligious engagement reflects decades of dialogue, trust, shared action",
@@ -456,7 +552,7 @@
       "source": "World Council of Churches",
       "source_url": "https://www.oikoumene.org/rss.xml",
       "published": "2026-10-29",
-      "summary": "Church of Sweden's interreligious engagement reflects decades of dialogue, trust, shared action   valter   Tue, 10/27/2026 - 14:57     From 12-14 October, the Church of Sweden's officers responsible for interreligious dialogue, Rev. Peter Lööv Roos, Rev. Maria Kjellsdotter Rydinger, and Dr Anita Suneson, hosted Prof. Angeliki Ziaka, programme executive for Interreligious Dialogue and Cooperation at the World Council of Churches (WCC), at the Church of Sweden's National Office in Uppsala.        ",
+      "summary": "Church of Sweden's interreligious engagement reflects decades of dialogue, trust, shared action   valter   Tue, 10/27/2026 - 14:57     From 12-14 October, the Church of Sweden's officers responsible for interreligious dialogue, Rev. Peter Lööv Roos, Rev. Maria Kjellsdotter Rydinger, and Dr Anita Suneson, hosted Prof. Angeliki Ziaka, programme executive for Interreligious Dialogue and Cooperation at the World Council of Churches (WCC), at the Church of Sweden's National Office in Uppsala.",
       "summary_zh": "瑞典教会的宗教间参与反映了数十年的对话、信任和共同行动 valter，2026 年 10 月 27 日，星期二 - 14:57 10 月 12 日至 14 日，瑞典教会负责宗教间对话的官员 Peter Lööv Roos 牧师、Maria Kjellsdotter Rydinger 牧师和 Anita Suneson 博士接待了宗教间对话项目主管 Angeliki Ziaka 教授以及在世界基督教协进会（WCC）、瑞典教会乌普萨拉国家办事处的合作。",
       "title_zh": "瑞典教会的宗教间参与反映了数十年的对话、信任和共同行动",
       "content": "",
@@ -471,7 +567,8 @@
       "fetched_at": "2026-10-29T06:30:21.315872",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "WCC shares tribute to Rev. Dr Walter Altmann",
@@ -495,34 +592,8 @@
       "fetched_at": "2026-10-29T06:30:21.317775",
       "extra": {
         "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "God’s Left Hand",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qV3BRNjlkaXk4TE4zb19FRzVUbjNSQWVyZUE4TWtvWGI0RXZERW12S2FwVGgwSy1rcDd2WFczTUw5UzZmMHl0ZXdIX0NXZUc2RE1TSkEyN0NqenFKMU9oS3F2Y2J4TGY0cVpIb0Z5MnlyU3Ix?oc=5",
-      "category": "theology",
-      "source": "Modern Reformation",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "God’s Left Hand Modern Reformation",
-      "summary_zh": "上帝的左手现代宗教改革",
-      "title_zh": "神的左手",
-      "content": "",
-      "content_zh": "",
-      "author": "Modern Reformation",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "academic",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.204707",
-      "extra": {
-        "provider": "google_news",
-        "query": "Modern Reformation magazine",
-        "publisher": "Modern Reformation"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "South Korean theologians say AI and brain technology push churches to revisit human dignity",
@@ -548,7 +619,8 @@
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "www.christiandaily.com"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "VIDEO | Address by His All-Holiness Ecumenical Patriarch Bartholomew On the Bestowal of an Honorary Doctorate From the Pontifical University of St. Thomas Aquinas (Rome, 23 October 2026)",
@@ -574,7 +646,8 @@
         "provider": "google_news",
         "query": "ecumenical council theology",
         "publisher": "Οικουμενικό Πατριαρχείο"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "The Trouble with Elliotgate",
@@ -600,7 +673,36 @@
         "provider": "google_news",
         "query": "First Things Christianity",
         "publisher": "First Things"
-      }
+      },
+      "content_zh": ""
+    },
+    {
+      "title": "COMMENTARY: Four theological areas where evangelicals are failing",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZVN5bHhocmtsLWlMS0kxQ0pNc2ZCOU1NS3JxclhKZmJheUI0ekhyR0xMNUhuNVY1S2dtMElmWURqOWxjLTVkTnBpcXI5TEV3eWRseDhycDl5RXhMU3BIcVRqSVZvOGFab2FxRUpGZWZIcWEwUm9xd0VtcndOUHppTFJQenBjM2xqZ19kM0VHaTFnMXFVMHhxVzhTeUdtTzZJM3ljcnllazcxTVM2MDRCUlM2Skc5VUNIaS1EQXRhSG9MY1N4WkVlWWxRbGhkZUlUbW01LVJHODFWdkE1UTJiRGlFU2R0LXhIT1VfU0hR?oc=5",
+      "category": "theology",
+      "source": "福音派神学",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-22",
+      "summary": "COMMENTARY: Four theological areas where evangelicals are failing Kentucky Today",
+      "summary_zh": "评论：福音派在《今日肯塔基州》中失败的四个神学领域",
+      "title_zh": "评论：福音派失败的四个神学领域",
+      "content": "",
+      "content_zh": "",
+      "author": "Kentucky Today",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T03:58:42.653727",
+      "extra": {
+        "provider": "google_news",
+        "query": "evangelical theology",
+        "publisher": "Kentucky Today"
+      },
+      "id": "e3caf94b3f12bd05"
     },
     {
       "title": "Virginia’s Ballot Puts Caesar Over God",
@@ -626,13 +728,42 @@
         "provider": "google_news",
         "query": "First Things Christianity",
         "publisher": "First Things"
-      }
+      },
+      "content_zh": ""
+    },
+    {
+      "title": "韓信神學院訪PCT 交流神學教育與宣教合作",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zT1dBV3lfcVQxeE9xY2czWTBaMkF6WG80bkh4WVVsSl9kMmdGRHdkMFgxREwwczJFZm8xcWh1dEVyMkVHb0hBd21mYw?oc=5",
+      "category": "theology",
+      "source": "台港澳神學與神學院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-15",
+      "summary": "韓信神學院訪PCT 交流神學教育與宣教合作 台灣教會公報新聞網",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "台灣教會公報新聞網",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T03:58:38.679882",
+      "extra": {
+        "provider": "google_news",
+        "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
+        "publisher": "台灣教會公報新聞網"
+      },
+      "id": "7441cb5d71a8822b"
     },
     {
       "title": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0MTE1eDhEVW1GeGRKb3JtR29JSzZCT3A4UTZlaVhLdmxqT0lnMTc4eUV4NHRJVGs4MW56enNyM09mbWJzRldkUUVwV1h3dEU2VEdiQnducXcwdkR6LUtOcm95OWh5cllrMjc4XzczQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOMDhySDJzMUtVN2lvUlFHM3RyVjJOVEoxZWNvZ1ZFWWY1WFNXTExvTmdxSm1xQ3dJVm9KbEJpdFlWbTJiNkJYSU41ejltV2wwcnlHbXB3b1JqUQ?oc=5",
       "category": "theology",
-      "source": "中国神学研究院",
+      "source": "建道神学院",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-15",
       "summary": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話 基督日報",
@@ -648,12 +779,13 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.308235",
+      "fetched_at": "2026-11-03T03:58:42.507712",
       "extra": {
         "provider": "google_news",
-        "query": "中国神学研究院 神学",
+        "query": "建道神学院 神学 研究",
         "publisher": "基督日報"
-      }
+      },
+      "id": "a867b55876fa3dca"
     },
     {
       "title": "WCC Global Ecumenical Indigenous Women’s Theological Network launched",
@@ -679,7 +811,8 @@
         "provider": "google_news",
         "query": "ecumenical council theology",
         "publisher": "World Council of Churches"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Addiction for Evangelicals",
@@ -705,7 +838,8 @@
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "The Living Church"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "警惕“新纪元运动的福音”!(含音频)",
@@ -731,7 +865,8 @@
         "provider": "google_news",
         "query": "生命季刊 基督教 神学",
         "publisher": "万维读者网"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "No, James Talarico Is Not a Christian Nationalist",
@@ -744,6 +879,7 @@
       "summary_zh": "不，詹姆斯·塔拉里科不是基督教民族主义者",
       "title_zh": "不，詹姆斯·塔拉里科不是基督教民族主义者",
       "content": "",
+      "content_zh": "",
       "author": "Sojourners",
       "tags": [],
       "language": "en",
@@ -752,12 +888,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:36.851518",
+      "fetched_at": "2026-11-03T03:58:42.655423",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "Sojourners"
-      }
+      },
+      "id": "9dd5d295db4e093c"
     },
     {
       "title": "The Rev. Dr. Thomas Ferguson named Episcopal Church Ecumenical and Interreligious Relations Officer",
@@ -770,7 +907,6 @@
       "summary_zh": "托马斯·弗格森牧师博士任命圣公会全基督教和宗教间关系官员为圣公会",
       "title_zh": "托马斯·弗格森牧师博士任命圣公会全基督教和宗教间关系官员",
       "content": "",
-      "content_zh": "",
       "author": "The Episcopal Church",
       "tags": [],
       "language": "en",
@@ -779,12 +915,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.261655",
+      "fetched_at": "2026-10-30T05:46:36.321381",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
         "publisher": "The Episcopal Church"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Evangelicals are now 2 in 3 practising Christians across the UK",
@@ -797,6 +934,7 @@
       "summary_zh": "福音派现在是英国福音派焦点地区三分之二的基督徒",
       "title_zh": "在英国，三分之二的基督徒信奉福音派",
       "content": "",
+      "content_zh": "",
       "author": "Evangelical Focus",
       "tags": [],
       "language": "en",
@@ -805,12 +943,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:36.851048",
+      "fetched_at": "2026-11-03T03:58:42.654558",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "Evangelical Focus"
-      }
+      },
+      "id": "c660478438fb13fa"
     },
     {
       "title": "The Irreverency of Speculation: What Paul Teaches Us About Conspiracies",
@@ -832,12 +971,41 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.203316",
+      "fetched_at": "2026-11-03T03:58:42.028728",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
         "publisher": "Modern Reformation"
-      }
+      },
+      "id": "68b3af07c539d401"
+    },
+    {
+      "title": "神學院老師為何顯得太學術？蔣亨利談華人神學教育的現實落差",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SQlRLcXNsdHNyWlgzMEx6SktGeV9qRnU5d3dUamw2LWVqT0dzR0Y0Y0doamZ3S2hrTVIxazM3dE1iNEtEZ0R5ZUp0ZGhQYVJxSUI3RG5XV0ljQQ?oc=5",
+      "category": "theology",
+      "source": "台港澳神學與神學院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-10",
+      "summary": "神學院老師為何顯得太學術？蔣亨利談華人神學教育的現實落差 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T03:58:38.680438",
+      "extra": {
+        "provider": "google_news",
+        "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
+        "publisher": "基督日報"
+      },
+      "id": "c539179872d55ffc"
     },
     {
       "title": "Charlie Kirk’s Evangelical Populism",
@@ -859,12 +1027,13 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.450297",
+      "fetched_at": "2026-11-03T03:58:42.472166",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
         "publisher": "First Things"
-      }
+      },
+      "id": "2baff789d35143f2"
     },
     {
       "title": "Let’s Reclaim ‘Evangelical’ for the Sake of the Global Church",
@@ -877,7 +1046,6 @@
       "summary_zh": "为了全球教会的缘故，让我们重拾“福音派”的称号 The Gospel Coalition",
       "title_zh": "让我们为全球教会重拾“福音派”",
       "content": "",
-      "content_zh": "",
       "author": "The Gospel Coalition",
       "tags": [],
       "language": "en",
@@ -886,12 +1054,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.483974",
+      "fetched_at": "2026-10-29T06:30:21.908754",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "The Gospel Coalition"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Webinar reflects on 80 years of Bossey through theological biographies",
@@ -917,7 +1086,8 @@
         "provider": "google_news",
         "query": "ecumenical council theology",
         "publisher": "World Council of Churches"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Rejecting Evangelicalism Is Not How We Restore Democracy",
@@ -943,7 +1113,8 @@
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "Christianity Today"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "環境生態與基督徒何干？張浩然博士談六十年生態神學反思",
@@ -956,7 +1127,6 @@
       "summary_zh": "",
       "title_zh": "",
       "content": "",
-      "content_zh": "",
       "author": "基督日報",
       "tags": [],
       "language": "zh",
@@ -965,12 +1135,41 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.309295",
+      "fetched_at": "2026-10-30T05:46:36.550553",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
         "publisher": "基督日報"
-      }
+      },
+      "content_zh": ""
+    },
+    {
+      "title": "南神支持三神合一 神學教育整合估五至十年",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04SUtDVFdoUU10ZHNDLXgxTmtYVWNORUtKMXVYUkJMOUhhcTU0emlBblhVRDVHRE4tTy1oVk5CTGg0bjVyNmEwbkExSQ?oc=5",
+      "category": "theology",
+      "source": "台港澳神學與神學院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-04",
+      "summary": "南神支持三神合一 神學教育整合估五至十年 台灣教會公報新聞網",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "台灣教會公報新聞網",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T03:58:38.680596",
+      "extra": {
+        "provider": "google_news",
+        "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
+        "publisher": "台灣教會公報新聞網"
+      },
+      "id": "7d68356783b17a00"
     },
     {
       "title": "September 3, 2026: Central Louisiana Daily Briefing",
@@ -983,7 +1182,6 @@
       "summary_zh": "2026 年 9 月 3 日：路易斯安那州中部每日简报 Rapides Parish Journal",
       "title_zh": "2026年9月3日：路易斯安那州中部每日简报",
       "content": "",
-      "content_zh": "",
       "author": "Rapides Parish Journal",
       "tags": [],
       "language": "en",
@@ -992,12 +1190,13 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.404791",
+      "fetched_at": "2026-10-30T05:46:36.619401",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
         "publisher": "Rapides Parish Journal"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "The Monstering of Evangelicalism",
@@ -1019,12 +1218,13 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.370313",
+      "fetched_at": "2026-11-03T03:58:42.470588",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
         "publisher": "First Things"
-      }
+      },
+      "id": "8eb6edd08c114c62"
     },
     {
       "title": "Intrigue, Insinuate, Ignore",
@@ -1037,6 +1237,7 @@
       "summary_zh": "阴谋、暗示、忽视今天的基督教",
       "title_zh": "阴谋、暗示、忽略",
       "content": "",
+      "content_zh": "",
       "author": "Christianity Today",
       "tags": [],
       "language": "en",
@@ -1045,16 +1246,71 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:36.850877",
+      "fetched_at": "2026-11-03T03:58:42.654764",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
         "publisher": "Christianity Today"
-      }
+      },
+      "id": "5a004d005110a39e"
     },
     {
       "title": "中神追思李思敬牧師 緬懷一代舊約學者、神學工作者及牧者",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEdjc0MGdaVW1vczVaMU4ya242S01aZWFQdnhINWVIZjRtcXI5X1JxYkRtdEpDMG1aYzJXVDJQS0xvNHNxT04zS0VsYkVyMHNtTkxyRUE1TUhpVlBmcEMtakF1aDRUV1dXNTlaN1dTTQ?oc=5",
+      "category": "theology",
+      "source": "中国神学研究院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-31",
+      "summary": "中神追思李思敬牧師 緬懷一代舊約學者、神學工作者及牧者 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "HK",
+      "region": "亚洲",
+      "stance": "academic",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:46:36.550901",
+      "extra": {
+        "provider": "google_news",
+        "query": "中国神学研究院 神学",
+        "publisher": "基督日報"
+      },
+      "content_zh": ""
+    },
+    {
+      "title": "O. Palmer Robertson’s Long Defense of Covenantal Theology",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmdIT1h5STY4UVpjY0hJOU9UUEhQTW5lbGZsRFBsS01Cdk5EbnBrUE14Tzh2NkpyYkU1czNNRWxLckdEVVdsbTFpMWxESDlXMXc3MjB0NnJTLWNPeWFyYXdPZjJKUE5NWVpkUTBVSTlWc05McjhoQ2lnZmpUbVJwV0hKeThnaHl4TjU2VEFqZDFVeHl4R2psakp5eE1YS0U?oc=5",
+      "category": "theology",
+      "source": "改革宗神学",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-31",
+      "summary": "O. Palmer Robertson’s Long Defense of Covenantal Theology Christianity Today",
+      "summary_zh": "帕尔默·罗伯逊 (O. Palmer Robertson) 对圣约神学的长期辩护 今日基督教",
+      "title_zh": "O. Palmer Robertson对盟约神学的长期辩护",
+      "content": "",
+      "author": "Christianity Today",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:35:43.986612",
+      "extra": {
+        "provider": "google_news",
+        "query": "Reformed theology covenant",
+        "publisher": "Christianity Today"
+      },
+      "content_zh": ""
+    },
+    {
+      "title": "中神追思李思敬牧師 緬懷一代舊約學者、神學工作者及牧者",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yRGpGSC1uVThCblJ1alBMZFdEbXhncU5KeU1icF95OFdFR1Bzd3l4ZE5tSUNGX3ZyV3ljSG5TdGJlSHZZOG51M2daTlRoWEhHOEkzdXlZbFRBZw?oc=5",
       "category": "theology",
       "source": "中国神学研究院",
       "source_url": "https://news.google.com/rss/search",
@@ -1072,43 +1328,44 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.309614",
+      "fetched_at": "2026-11-03T03:58:42.233728",
       "extra": {
         "provider": "google_news",
         "query": "中国神学研究院 神学",
         "publisher": "基督日報"
-      }
-    },
-    {
-      "title": "O. Palmer Robertson’s Long Defense of Covenantal Theology",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmdIT1h5STY4UVpjY0hJOU9UUEhQTW5lbGZsRFBsS01Cdk5EbnBrUE14Tzh2NkpyYkU1czNNRWxLckdEVVdsbTFpMWxESDlXMXc3MjB0NnJTLWNPeWFyYXdPZjJKUE5NWVpkUTBVSTlWc05McjhoQ2lnZmpUbVJwV0hKeThnaHl4TjU2VEFqZDFVeHl4R2psakp5eE1YS0U?oc=5",
-      "category": "theology",
-      "source": "改革宗神学",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-31",
-      "summary": "O. Palmer Robertson’s Long Defense of Covenantal Theology Christianity Today",
-      "summary_zh": "帕尔默·罗伯逊 (O. Palmer Robertson) 对圣约神学的长期辩护 今日基督教",
-      "title_zh": "O. Palmer Robertson对盟约神学的长期辩护",
-      "content": "",
-      "content_zh": "",
-      "author": "Christianity Today",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.724432",
-      "extra": {
-        "provider": "google_news",
-        "query": "Reformed theology covenant",
-        "publisher": "Christianity Today"
-      }
+      },
+      "id": "cec767a4ba27696a"
     },
     {
       "title": "从恩师身上继承神学思想 「传记即神学」 邓绍光荣休研讨",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT1lURlR6Y0JSZTZEUkh4cjNEUC13c1VTRkU5eXAwdmFuazZYNXJJQjFTREJJcW5DX1gzUlZNdWVQSkVNM2RTd016NUtUaWdsai1RZV9INnhvNGFmRmVwM0FlUEUxMXRvVkt5eEY5eV9lV0t6Q19oZmZPTnZrRHFOOVR2QWF0QXpBV1lEVEZRMmh3STFBdm51eXAzOFlwRzlhZUh0MmtNQkZuMFNYbXd3enJEU3JhQQ?oc=5",
+      "category": "theology",
+      "source": "中国神学研究院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-21",
+      "summary": "从恩师身上继承神学思想 「传记即神学」 邓绍光荣休研讨 《時代論壇》Christian Times",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "author": "《時代論壇》Christian Times",
+      "tags": [],
+      "language": "zh",
+      "country": "HK",
+      "region": "亚洲",
+      "stance": "academic",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:46:36.550745",
+      "extra": {
+        "provider": "google_news",
+        "query": "中国神学研究院 神学",
+        "publisher": "《時代論壇》Christian Times"
+      },
+      "content_zh": ""
+    },
+    {
+      "title": "从恩师身上继承神学思想 「传记即神学」 邓绍光荣休研讨",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDlfWldONmx0STRYY3NrUGJiNWExS0lPLVM5Q2tCQ2lHNTBYVjFkTVh6RXROYlUwVEpKZmxnSVJiRUYyLUdWMHdoNzVWbzJhYzZkLXd6SXp3R1gxMmpGMWcxWkNPcU5GMUk3V2tWUEl5UWxoc1BSQkRNbGNxdUVvVFpLblVPWXc3eEpBbUhNN0hnSkY2WjR0d0FJa01hR0lVdG80WS0tSVFsX2d1V2xtdGJFVG8?oc=5",
       "category": "theology",
       "source": "神学会议（中文）",
       "source_url": "https://news.google.com/rss/search",
@@ -1126,12 +1383,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:02.861140",
+      "fetched_at": "2026-11-03T03:58:41.917986",
       "extra": {
         "provider": "google_news",
         "query": "基督教 神学 研讨会 神学院",
         "publisher": "《時代論壇》Christian Times"
-      }
+      },
+      "id": "0d17869169f202de"
     },
     {
       "title": "Christian Theology Meets Pop Culture in New IVP Series",
@@ -1144,7 +1402,6 @@
       "summary_zh": "基督教神学与流行文化在新的 IVP 系列《出版商周刊》中相遇",
       "title_zh": "基督教神学在新的IVP系列中与流行文化相遇",
       "content": "",
-      "content_zh": "",
       "author": "Publishers Weekly",
       "tags": [],
       "language": "en",
@@ -1153,12 +1410,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:04.129343",
+      "fetched_at": "2026-10-30T05:46:37.191039",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
         "publisher": "Publishers Weekly"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Dallas seminary partners with India school to launch biblical counseling degree",
@@ -1171,7 +1429,6 @@
       "summary_zh": "达拉斯神学院与印度学校合作推出圣经辅导学位 www.christiandaily.com",
       "title_zh": "达拉斯神学院与印度学校合作推出圣经咨询学位",
       "content": "",
-      "content_zh": "",
       "author": "www.christiandaily.com",
       "tags": [],
       "language": "en",
@@ -1180,12 +1437,13 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.404994",
+      "fetched_at": "2026-10-30T05:46:36.619231",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",
         "publisher": "www.christiandaily.com"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "God Draws Near: Rethinking the Biblical Theology of Mission",
@@ -1198,7 +1456,6 @@
       "summary_zh": "上帝临近：重新思考圣经宣教神学 福音联盟",
       "title_zh": "神临近：重新思考圣经使命神学",
       "content": "",
-      "content_zh": "",
       "author": "The Gospel Coalition",
       "tags": [],
       "language": "en",
@@ -1207,12 +1464,13 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T00:28:04.576926",
+      "fetched_at": "2026-10-30T05:46:36.473288",
       "extra": {
         "provider": "google_news",
         "query": "Themelios theology",
         "publisher": "The Gospel Coalition"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Introducing International Relations: Religion and Culture",
@@ -1225,7 +1483,6 @@
       "summary_zh": "国际关系概论：宗教与文化电子国际关系",
       "title_zh": "国际关系简介：宗教与文化",
       "content": "",
-      "content_zh": "",
       "author": "E-International Relations",
       "tags": [],
       "language": "en",
@@ -1234,12 +1491,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:04.129753",
+      "fetched_at": "2026-10-30T05:46:37.191406",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
         "publisher": "E-International Relations"
-      }
+      },
+      "content_zh": ""
     },
     {
       "title": "Ecumenical Institute brings emerging theologians together across North America–Turtle Island",
@@ -1261,12 +1519,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:02.872078",
+      "fetched_at": "2026-11-03T03:58:41.886716",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
         "publisher": "World Council of Churches"
-      }
+      },
+      "id": "16722368a685db2b"
     },
     {
       "title": "Do Reformed Christians Care About the Holy Spirit?",
@@ -1279,7 +1538,6 @@
       "summary_zh": "改革宗基督徒关心圣灵吗？现代宗教改革",
       "title_zh": "改革宗基督徒关心圣灵吗？",
       "content": "",
-      "content_zh": "",
       "author": "Modern Reformation",
       "tags": [],
       "language": "en",
@@ -1288,12 +1546,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T05:33:03.724206",
+      "fetched_at": "2026-10-30T05:35:43.986473",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",
         "publisher": "Modern Reformation"
-      }
+      },
+      "content_zh": ""
     }
   ]
 }
