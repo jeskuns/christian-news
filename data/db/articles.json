@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-11-03T12:30:35.524456+08:00",
-  "total": 828,
+  "total": 787,
   "featured_count": 250,
   "categories": {
     "mission": 48,
@@ -989,32 +989,6 @@
       "id": "cd763d4ed43f7f4b"
     },
     {
-      "title": "Christianity",
-      "url": "https://en.wikipedia.org/wiki/Christianity",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-03",
-      "summary": "Christianity is an Abrahamic monotheistic religion based on the Bible and the teachings of Jesus. The Gospels state that Jesus is the Son of God and rose",
-      "summary_zh": "基督教是基于圣经和耶稣教义的亚伯拉罕一神论宗教。福音书说耶稣是神的儿子并且复活了",
-      "title_zh": "基督教",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:29.934256",
-      "extra": {
-        "wordcount": 33517
-      },
-      "id": "4b20f93c0ec0a0bc"
-    },
-    {
       "title": "Christian denomination",
       "url": "https://en.wikipedia.org/wiki/Christian_denomination",
       "category": "wiki",
@@ -1091,32 +1065,6 @@
         "wordcount": 2469
       },
       "id": "e87e3dae043041b4"
-    },
-    {
-      "title": "Protestantism",
-      "url": "https://en.wikipedia.org/wiki/Protestantism",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-03",
-      "summary": "usually refers to evangelical Protestant churches, and therefore to a certain part of Protestantism rather than to Protestantism as a whole. The English word",
-      "summary_zh": "通常指福音派新教教会，因此指新教的某一部分，而不是整个新教。英语单词",
-      "title_zh": "新教",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:30.226184",
-      "extra": {
-        "wordcount": 29554
-      },
-      "id": "0c574737ac2fd6d6"
     },
     {
       "title": "Reformation",
@@ -1247,32 +1195,6 @@
         "wordcount": 9244
       },
       "id": "44aa18b4d70ed907"
-    },
-    {
-      "title": "Old Catholic Church",
-      "url": "https://en.wikipedia.org/wiki/Old_Catholic_Church",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-03",
-      "summary": "The Old Catholic Church, Old Catholics, Old-Catholic churches, or Old Catholic movement are \"any of the groups of Western Christians who believe themselves",
-      "summary_zh": "旧天主教会、旧天主教徒、旧天主教堂或旧天主教运动是“任何相信自己的西方基督徒团体”",
-      "title_zh": "天主教教会",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:30.621693",
-      "extra": {
-        "wordcount": 5010
-      },
-      "id": "59546cf3f02aa15f"
     },
     {
       "title": "Eastern Orthodox Church",
@@ -2152,32 +2074,6 @@
         "wordcount": 30239
       },
       "id": "1d9971007fc01282"
-    },
-    {
-      "title": "Bible (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Bible_%28disambiguation%29",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-03",
-      "summary": "Look up Bible or bible in Wiktionary, the free dictionary. The Bible is a canonical collection of texts treated as religious scripture in Judaism, Christianity",
-      "summary_zh": "在免费词典维基词典中查找《圣经》或《圣经》。圣经是犹太教、基督教中被视为宗教经典的经典文本集",
-      "title_zh": "圣经",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:31.319793",
-      "extra": {
-        "wordcount": 348
-      },
-      "id": "8cf66a7b105faa24"
     },
     {
       "title": "Evangelicalism",
@@ -3472,34 +3368,6 @@
       "id": "2f94bb4763b1f15c"
     },
     {
-      "title": "Conference of Secretaries of Christian World Communions convenes",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMzh1X0d1ZHpUUS01OEZsSUpUOUx2SlFBVTc0YXA5UUFzUml6NGdkN2U0VHNQY3MxTmE3SGJtWnVSRUIyUERpVC1mZEhDV2dlb1YxY3QtU3k2eFh6TzkzUU5xM2FSc2hjU3VoWHRYdEtGUzFEQlZfWUNBQ3Y5MGV3RWdaVVhpQnpOTUhic0MycEhzbTdJeWNKOTJ4cw?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-02",
-      "summary": "Conference of Secretaries of Christian World Communions convenes World Council of Churches",
-      "summary_zh": "基督教世界团契秘书会议召集世界基督教协进会",
-      "title_zh": "基督教世界共融组织秘书长会议召开",
-      "content": "",
-      "content_zh": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:22.996483",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "World Council of Churches"
-      },
-      "id": "379df6425264c4f6"
-    },
-    {
       "title": "Head of global evangelical body visits Jordanian village where gunmen killed 9 at church funeral",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSXNnX0h4bnl6UW83eGZBWnMwZ1RhNm1aZjVGTVZPb1o1bTg4RzRsNVk1V3pxbjNEUmVDMHNYeWVFTnU5ZzNDVFQyN2Y5eDhvcTlmNjJ0Mzd1V0hOeWJFdWk0OGIzUnV6QU50RVJscDFrQXlFckVyM2wxY09FQ0hLaFlxODI0cW5sRWZjMUV6d1pLOXRfRlJmNVZZUW5JeFVsYzZkU250NTZnVDNWZHQ3b1ROcFRUdkVfNmZtaS1XR0N6NkRkU1IzRDRGWWw?oc=5",
       "category": "news",
@@ -3722,62 +3590,6 @@
         "publisher": "Boxing News Online"
       },
       "id": "9956fcccd378f3ce"
-    },
-    {
-      "title": "WCC Faith and Order leaders reflect on deep encounters",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmpDb0lDT0lYTkF2VlFxakNRczFGM2trOV84R3BmaktMMzJ3OV9nOWUxLVdTbDNSNjlKN2Y3dDdmSHgtODVnRHRJbFQ1VU5pRngzbm9PNXp4UkpJd3pfMlVQNkh1dkVpenBzMnltZm5uOElXTVZWdThWcVg0T3B2V1FrSXNtR2xDdWJxbTFn?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-02",
-      "summary": "WCC Faith and Order leaders reflect on deep encounters World Council of Churches",
-      "summary_zh": "世界基督教协进会信仰与秩序领袖反思与世界基督教协进会的深度接触",
-      "title_zh": "WCC信仰和秩序领袖反思深度遭遇",
-      "content": "",
-      "content_zh": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:23.822860",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "id": "adb23d22abfa5db4"
-    },
-    {
-      "title": "Olive harvesters in Taybeh—only remaining Christian community in West Bank—suffer violence and harassment",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1VMWGs4cTMyRWR3dE0yMjZqNGJYa09mOWN1WnJDdlNwWHZIRlBxMktSTVVGcy1lZkxBcm5zZlZ3UUtTb2NpdTlFTXg2VmhHaGZUZkJMbnJfbmRzczd6MUpJRE9pSGhjTkNzN2J3YkNjY2FVS25KREd5U0FXTDhGRXpHZGUyYm90UVdzYXljdFF2WWxJSDFxQnBMV284b21hMTdfWjV2Qk9zQVh5UGxKSWxuUGRfalQtM0dkajB2YzZxR3dYUnBhYXlKUWxIZ3NacVE?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-02",
-      "summary": "Olive harvesters in Taybeh—only remaining Christian community in West Bank—suffer violence and harassment World Council of Churches",
-      "summary_zh": "西岸仅剩Taybeh基督徒社区的橄榄收割机遭受暴力和骚扰世界基督教协进会",
-      "title_zh": "西岸仅剩Taybeh的基督教社区的橄榄收割机遭受暴力和骚扰",
-      "content": "",
-      "content_zh": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:23.822984",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "id": "66f3504333d9ae30"
     },
     {
       "title": "新西兰已故牧师被指性侵儿童40年 教会呼吁受害者指证",
@@ -4058,34 +3870,6 @@
         "publisher": "Baptist News Global"
       },
       "id": "2af308ee0d79c1d7"
-    },
-    {
-      "title": "NC county says fight over JD Greear’s church expansion isn’t about religious discrimination",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVFOaFlGSGFxaWVBV2tqX1dpbzF4T1NMOXp2MGcxV2tCd2MxTHdfWnpkYXNSWm5Ua09QZzBxRXRSQzFlaXlBRHpaMHVFVXR1MmZLM2l4MGI2cDkycnBhR3ktQXRGbTk0WWkxQzhFRnlzLXhGZjgwclNZLVp3dE40VVFIMG9wWTI1REoybTBWN2Y2MlVoS21ETE9LbEQtcUlfVlM4Vjd3?oc=5",
-      "category": "church",
-      "source": "美南浸信会 SBC",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-02",
-      "summary": "NC county says fight over JD Greear’s church expansion isn’t about religious discrimination Christian Post",
-      "summary_zh": "北卡罗来纳州称JD Greear教堂扩建之争并非宗教歧视 基督邮报",
-      "title_zh": "北卡罗来纳州县政府表示，争夺JD Greear教会扩张的斗争与宗教歧视无关",
-      "content": "",
-      "content_zh": "",
-      "author": "Christian Post",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.970090",
-      "extra": {
-        "provider": "google_news",
-        "query": "Southern Baptist Convention SBC",
-        "publisher": "Christian Post"
-      },
-      "id": "46510ff559896aee"
     },
     {
       "title": "‘Together in hope’ to serve others and share peace",
@@ -4730,34 +4514,6 @@
         "publisher": "草根影響力新視野"
       },
       "id": "17692754d3d3faad"
-    },
-    {
-      "title": "WCC, LWF launch ’The Lund Thread’ – on 100 years of ecumenism in Sweden",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXFrZ1BDemtqbzNsZ1VFM2lhRWpDTzc0UldqbFVUWlhLRXkwYmZabldkZlpCSFpjaUlyRjFtbE83SW9nTTRmVUNzekpXVEttZDVET0NwOUt1Vmx6amVUY1I4ZTFuZVNiV1NzaXR4b0xXdWF6LUQ3RFFzTXNKRGJ0VlRVYlZRN1UtWTRsOUF1SFVpa3BVcEZtQTFiZ3B5UQ?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-01",
-      "summary": "WCC, LWF launch ’The Lund Thread’ – on 100 years of ecumenism in Sweden World Council of Churches",
-      "summary_zh": "世界基督教协进会、路德会联合会推出“隆德线程” --关于瑞典世界基督教协进会100年的普世合一",
-      "title_zh": "WCC ， LWF推出“隆德线程” –关于瑞典100年的普世主义",
-      "content": "",
-      "content_zh": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:23.823303",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "id": "38cb0aff19e53180"
     },
     {
       "title": "Vespers in Lund Cathedral: moments of commemoration—and contemplation",
@@ -6356,33 +6112,6 @@
       "content_zh": ""
     },
     {
-      "title": "Brewers star Christian Yelich pays touching tribute to late, beloved broadcaster after World Series win",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU001MGpSdVRPQVNVT3d6X0c1c1hUUW5JMHFQMEJhQ2hJR3padXgzNEsxTnZ4VURwVzBPYmNuRTBfeW4xeWN2REU1UlpvU2dWVkFRQllfVGVWMWIxd2xNMVRxVFlNczdwc1NTSnV4VlR1alFVaWZmMFU4NTRUQVp0ZlVIQWpxSW1xTzd3?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-30",
-      "summary": "Brewers star Christian Yelich pays touching tribute to late, beloved broadcaster after World Series win Yahoo Sports",
-      "summary_zh": "酿酒明星克里斯蒂安·耶利奇（ Christian Yelich ）在世界大赛赢得雅虎体育赛事后向深受喜爱的晚间广播公司致敬",
-      "title_zh": "酿酒明星克里斯蒂安·耶利奇（ Christian Yelich ）向世界大赛获胜后深受喜爱的晚间广播公司致敬",
-      "content": "",
-      "author": "Yahoo Sports",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:46:32.424936",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "Yahoo Sports"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "【2026 IAA國際峰會】探索科技时代的福音新路径 香港林以诺牧师：从福音脱口秀到超自然宣教",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5abTBBVEw5bGJmU3doNzZQTnRQRXVjazZDMGdMRmoyVEZxSy13WkJDaG1PcWVoTWlCWnNtQzhJVFllelNuYmhlUmpxbExQdEw2RE5wWE16alQ3YTh4V05FbDhMelVOSEsybXc?oc=5",
       "category": "news",
@@ -7752,33 +7481,6 @@
       "content_zh": ""
     },
     {
-      "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVVVGOTFHcUpxSUVIVzlPU09qbU1fT3NFMUEwRkgzV04yYUtTbV9mZjRiNHVISl96S3FidFlTbHJoY2JjYllMQmducUg0dEEzZVNYQTVuY2VvQ3A0eEY3SHVQRFZUSEZ2RERSV0RHM05xek5UMldZOEJSX1I3ZUE4WVg1Wk93OFpYemxaS3Iwcm1sZnBNeTBHUnJPQnBvSlAyWXB4R0UwVHBtNkVyYV9OZ2NJaV9LNXY4U0sxbm1pWlpXZWRxbHVqbm55TllSWS02VXlrSWRWS1EzUWdyZ1pvWEh3WFlJLTA?oc=5",
-      "category": "heresy",
-      "source": "摩门教 LDS",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church Star Beacon",
-      "summary_zh": "Big 12因粉丝针对杨百翰大学、摩门教教堂 Star Beacon 的行为而被 UCF 罚款 10 万美元",
-      "title_zh": "Big 12因粉丝针对杨百翰大学和摩门教教堂的行为而对UCF罚款10万美元",
-      "content": "",
-      "author": "Star Beacon",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.569346",
-      "extra": {
-        "provider": "google_news",
-        "query": "Mormon LDS church",
-        "publisher": "Star Beacon"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "Christian Yelich Dedicates Brewers’ First World Series Title To Bob Uecker",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9neXRTcXV4NTQ2N0NCT2dWcTJpT1EwZ003V1hndHJ3Y2dNeXVRV2VwQ21IMFB3MVJoZTlRdURKN212bF9ZT21TRGFyRWVHTGQ4X0RRbk9uNEI4S3hObUd6QXdvdmRCYVo2WUcxMUNnUTV5Y0XSAXNBVV95cUxORFVHZWhUcVNGM3czcXRpaGZLQkFDbHo2RmIwVFgxVWF0WlFzbnNJYUpleFp4TjJrRHRUeGczZDB0VVVUaGI0NDAyMlMwdnY2TjNzczhFNkFvNVhDU3BaSkFaTXZUSXo1c0h0TUFsZ0pBNm9Z?oc=5",
       "category": "news",
@@ -8022,87 +7724,6 @@
         "publisher": "ESPN"
       },
       "id": "6110cfd1f6b13432"
-    },
-    {
-      "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPN1VSMTRoQnQ4Sm13SUU0RzRpMU9SRXkxMnBVN3BBM2ZVcEJ1eE5mS3pJTVVkSGF6dXdMUnB1ZF9nUzNTZTEtQnNVSC1KVjlvVE9GQWNrd1MzVGo4cGhORXI5TWdRd1M3X3B3TlN1R0pmZVBTMDhQR1M4SDk2RXlOc3R5emdoSTVjbDJDYTc4YmtwY0FlVGdsZnl6SDZGeFhmNUNwS0plalR4MlNlY0hqeU9maWpKR2dxYndNNTd6LWRqWHNtRGJxQXpScmVBOURyWDFfQ3l6N2JIdlZuejZNSDl2S095N0FRVnhmaGN2WGUtdTVlZS1j?oc=5",
-      "category": "heresy",
-      "source": "摩门教 LDS",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church chronicleonline.com",
-      "summary_zh": "Big 12 因粉丝针对 BYU、摩门教教堂的行为而被 UCF 罚款 10 万美元 Chronicleonline.com",
-      "title_zh": "Big 12因粉丝针对杨百翰大学和摩门教教堂的行为而对UCF罚款10万美元",
-      "content": "",
-      "author": "chronicleonline.com",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.657033",
-      "extra": {
-        "provider": "google_news",
-        "query": "Mormon LDS church",
-        "publisher": "chronicleonline.com"
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3lIWlpVVzNWdlluX0xUVXJ4M3FJNWl4QWItUGNaR3M5ekdNeUxRQkIyZi12R3AtaHE1X002QTVEZ2RrRDRkSW1sNXpMLVhyWHktWUlTZlpkV2tZMUo4aHhFRHZxalV0ejRXY0Y3WWNoQm9jMVpjbi1oSkdKLWdmTUpsQ0NWaVhKbG5iTy1XR3RuazNNNElRMFpqMTlMQnZSbll4NFExamxtU0gwaGhMNDhIdldHSHgzRW90YUc0cHRxN2w2Zm5rSnN4Uk81ZUpNc0NaSkFIbktGdjhuWTdzLVo1LTQ0NUd5?oc=5",
-      "category": "heresy",
-      "source": "摩门教 LDS",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church The Killeen Daily Herald",
-      "summary_zh": "Big 12 因球迷针对 BYU、摩门教教堂的行为而被 UCF 罚款 10 万美元",
-      "title_zh": "Big 12因粉丝针对杨百翰大学和摩门教教堂的行为而对UCF罚款10万美元",
-      "content": "",
-      "author": "The Killeen Daily Herald",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-29T06:14:00.568974",
-      "extra": {
-        "provider": "google_news",
-        "query": "Mormon LDS church",
-        "publisher": "The Killeen Daily Herald"
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMlYyN0MwMFc2aUEzSC1VdHNsZW1PTFRERUVfVm9CaE9YdkNxWWI1ckJRWVN0S1lNSlZ3bmllVVVIX1pnV01BeTBZMHRhM0JpaW9ZRFpDU2s2SjlRbDI4c19KNTB0QUZHUzJkSkJHcVREOHNiVnprZEhUckVpd3ZTWlRIQUFoWjJ6aFpqSHZyX3hkbHlRM2ZtYU02d1BiZjdmQlZwMjlLdFhMb1M1VXNHRy1sSUtVRm5ac0phdmpXb1k0dXBwcmdzeXJoVTJxajJoLTZPVW9iOTBveFJXRTFfOW1EZ01kSmQ2THJIdTM0VnhVMlk?oc=5",
-      "category": "heresy",
-      "source": "摩门教 LDS",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church Richmond Register",
-      "summary_zh": "对球迷针对杨百翰大学摩门教里士满分校的行为处以12倍巨额罚款",
-      "title_zh": "Big 12因粉丝针对杨百翰大学和摩门教教堂的行为而对UCF罚款10万美元",
-      "content": "",
-      "author": "Richmond Register",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-29T06:30:23.657247",
-      "extra": {
-        "provider": "google_news",
-        "query": "Mormon LDS church",
-        "publisher": "Richmond Register"
-      },
-      "content_zh": ""
     },
     {
       "title": "Pray for the persecuted today, and every day",
@@ -8375,61 +7996,6 @@
         "publisher": "World Council of Churches"
       },
       "id": "818f4f105fe5373c"
-    },
-    {
-      "title": "WACC Europe leaders hone plans for future",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0ySjI1VW1venlDZkZSenNFZmpVcXFDbHJGNWlwU1g2b2R4elhjMnltalpidFJjSjdIMlF0dVItTkhvYmZJTkVnbmJmRkdBMXpDYW9yQ2JvMjRZN1lPc1BiMDI1TmU5S29TQk1DODFINjN0cFo4Wi01WU5CYzM?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "WACC Europe leaders hone plans for future World Council of Churches",
-      "summary_zh": "WACC欧洲领导人为未来的世界教会理事会制定计划",
-      "title_zh": "WACC欧洲领导者完善未来计划",
-      "content": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:46:33.194173",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "Ethiopian Orthodox church opens its forests to faith leaders",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHBnd1l3OTNkY3ExaXI3QlJjOW9SOHlVeUtDVVZ1VnlQSUQ2TmR1R25fSEdpV3M0SksybEpuQlNvbndwY3VCMzJFd1Q4clpJN19MM1kxcklkNXNOMUZ1eWU1dmVwdVVNMXdlaVZKOWkyODA3S0ZrWWVPX0dKSjBKSVVjd01PTTRpb2M2RHRHNmRmYjJ2R3c?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "Ethiopian Orthodox church opens its forests to faith leaders World Council of Churches",
-      "summary_zh": "埃塞俄比亚东正教会向信仰领袖世界教会理事会开放森林",
-      "title_zh": "埃塞俄比亚东正教会向信仰领袖开放森林",
-      "content": "",
-      "content_zh": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:23.823592",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "id": "d0034c1883b27495"
     },
     {
       "title": "WCC sends pastoral letter to churches and people of Indonesia affected by forest fires",
@@ -8786,33 +8352,6 @@
       "content_zh": ""
     },
     {
-      "title": "UMC bishop removes ministers from Dallas’ Highland Park; church says they will stay",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMW0ySmI5SkZEOWFERExLdklYMzVmMzVyeVgwYUNVRDl6YzNFc0lzUllvM1VOR3Z6cWszZExldFRxd0k2eXpidHpFM2JsNGFmZHdLWGgwcEF6LVVBb3F4LXdDYXIzbmF1ZkRPNlktei1wbEpaVW9oSTFVczZXOC1IWkloa2xTUXlkS2k5Sm5QM19CSGJ1SmVmTzFPWWpaY080SU5qWVVmNGNJa1hsSXJ1Qg?oc=5",
-      "category": "church",
-      "source": "卫理公会",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "UMC bishop removes ministers from Dallas’ Highland Park; church says they will stay Religion News Service",
-      "summary_zh": "UMC主教将达拉斯高地公园的牧师撤职；教会表示他们将留在宗教新闻社",
-      "title_zh": "UMC主教从达拉斯高地公园撤走牧师；教堂说他们会留下来",
-      "content": "",
-      "author": "Religion News Service",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.032668",
-      "extra": {
-        "provider": "google_news",
-        "query": "Methodist church news",
-        "publisher": "Religion News Service"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "Highland Park UMC votes to leave denomination, removes senior pastor",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWUtMX2VobTZMcGp2cjhXcmNLOFJQSm5wdXRHMkJaNUpVMjVZT01UemdFOWptalp6bWtUQ3I2YjVjOGl1OFdGODZLbU5SN0RfTmlHODd5WlROaVRjR19WMTNTU3dzMzZ4N1E1V0tNeUw5cU8za1MtR1RtY0dQaE4zRml4Y1ZHVHh2WW1yVlpxSS14aUhPRlhuXzA1WG0xTmdPdlNCUkdsTkg0cTV4M3ZuNVRRcGFjSWJGXzFENEhhNVA1T2hzNkZYT2ZpR2lzZXlLdmNfUTBjUDM4b3pYZHYtNHdxQnZaYnFhRGh1NmFkUQ?oc=5",
       "category": "church",
@@ -9140,34 +8679,6 @@
         "publisher": "ACI Africa"
       },
       "id": "2793d077e1aa476b"
-    },
-    {
-      "title": "Pray for Christians globally on Nov. 1 Day of Prayer for Persecuted Church",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelFuanMtdFYxWnVqWWEyZ29vcWRoSWNfMHZBbjRpUEVrWks0eU1WLXk3U3YwMGNORzJnVWZQUVRteUwzck1VVmxocGhtYk1ITWN5S1RVRTNVM1FKQzdzbzZwMGNtTFVtLXJOZ2lYVGhDNkFZVlZKQmxVcFh1TU4xS2FDbjJ2aE5sMzkyUTZQdllpUks5eHp1a3FRQTlLY2hfZ3kzZ2g4SWo0WXBlMFNZWWdxdXRvNVM3M0N6a3dMQ003SWs?oc=5",
-      "category": "persecution",
-      "source": "Open Doors",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "Pray for Christians globally on Nov. 1 Day of Prayer for Persecuted Church Baptist Press",
-      "summary_zh": "11月1日为受迫害教会浸信会出版社祈祷日为全球基督徒祈祷",
-      "title_zh": "11月1日为受迫害教会祈祷日为全球基督徒祈祷",
-      "content": "",
-      "content_zh": "",
-      "author": "Baptist Press",
-      "tags": [],
-      "language": "en",
-      "country": "NL",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:24.931184",
-      "extra": {
-        "provider": "google_news",
-        "query": "Open Doors persecution Christians",
-        "publisher": "Baptist Press"
-      },
-      "id": "3b7610d56d1082a7"
     },
     {
       "title": "追念美国来华首位女宣教士叔何显理",
@@ -9772,32 +9283,6 @@
       "id": "15f68ab355dd418a"
     },
     {
-      "title": "'I'm going to destroy him' - M'billi teases gameplan to beat Canelo in Riyadh",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX1A3U0hEQlNVY3hEYy1CbDNQM3RORHZMdENzaEF2aWRDUEswRlQ3Y3RiTzBzVXhJWmZRZUhSeG5KM0JiS3lCV0dPTFZZdU1HUDBka2FJZkNhWHhiLVA0QkhyT1ByTXI1UVg0aGNhM1NqT1hodHUzdEtGeEpPWEcwTThuc3ZYT3ZCY2Y1bG0zYzg5SVN5XzZIaUNCVFhmNVRJTkpZeE1YT09sMGxxZkNpSF9PMXozX192aFBJTllsc1BNVVpLZ1JMSWwwNA?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-28",
-      "summary": "'I'm going to destroy him' - M'billi teases gameplan to beat Canelo in Riyadh DAZN",
-      "summary_zh": "“我要毁了他” - M 'billi戏弄在利雅得DAZN击败Canelo的比赛计划",
-      "title_zh": "“我要毁了他” - M 'billi戏弄在利雅得击败Canelo的游戏计划",
-      "content": "",
-      "author": "DAZN",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "fetched_at": "2026-10-29T02:35:09.114178",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "DAZN"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "CubaBrief: International Religious Freedom Day in Cuba",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjNpakotYTdPVElaQjF1dHA1aEdLNWdCMVpJZllZS1dEaS1mWklLM0VwTUQzN3dCOGNCT0ZLYXZ6NkdfN2Z0TnZCVlhpZWxCUnFsSC0wbm5wVlI0MU5jYjdlV3J6VjhObDRwUENxRzdNRFhfSjZySS0yYXItR3RMYnBaX3RmSXp5c0J5MHhWREIwcnNyUjlTMER2dTZMdlhP?oc=5",
       "category": "persecution",
@@ -10394,33 +9879,6 @@
       "content_zh": ""
     },
     {
-      "title": "Ecumenism: When uncharted territory “is a good place to be”",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0RHeEc5YU91TFFvdFpZdjZtOERqVk9YNUwwWmtXR1BvWE1fOGgwX01CczZrZF81akxlX3IxeU9tWkxmbV9zUDN4RWR6TTg4c25BcGg5aEJIdDE5ejVqTV9UTjRfVlJpNDltVXl5Yk1Db2lsYXZHS1R0T1FuS0FZVFlqWHdMbzduZEhJb2pWX1E?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-28",
-      "summary": "Ecumenism: When uncharted territory “is a good place to be” World Council of Churches",
-      "summary_zh": "合一主义：当未知的领土“是一个好地方”时，世界基督教协进会",
-      "title_zh": "合一主义：当未知的领域“是一个好地方”",
-      "content": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:46:33.194530",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "Preparation strengthens response to Isaias - Lutheran Church",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41VmpUVl9YMWJsQ2w1T0Q3SW1EVV91NUg0WVNBYU1xYU1fRjZBdGM4WDI0VDBVaXZIeUdnQ25DZmpZTEJzNm9IMUFpYU1DcWQ1WTN3WThCeF9KY0hkcmdzVjhtYmNXbU0xLVREY00wTTlETDJ0cnY5eTlfdlVJSHfSAYQBQVVfeXFMT3E1bTkwTVp2a2NhU0l6cWlOcWxsMDNJekRWRHRXUlV3aW9sYU5LdjBDdGdoRjdyWE5pay1pVGxYUVFNT3JRd3Ytd012cjRjUnhOWElJVE5EM2dRYnR6cHdOcm4xSDJrcWZqNGVCSDRPNF9OdTItdzVLY0FpcGRPVGFLdlo2?oc=5",
       "category": "church",
@@ -10446,34 +9904,6 @@
         "publisher": "Missouri Synod"
       },
       "content_zh": ""
-    },
-    {
-      "title": "IDOP Video from The Voice of the Martyrs Highlights Former Muslim who Turned to Christ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTjdIZXI3bndmbXE2U001YlR4b1cxSnhUTEw5bnpZMnJOdWpILVBsM1FRdnJxTDM3T2RnUWZ2UUNDbGZQWUZ1cnh0c29ZR3NMNWpkbU1yVWt6S2w5NlVWbXFwZVYzd2Q1R0tkb3BZZlJLUFU4ZWlLaDFrV0ZWbnZ0d01idXNVLVQ3SHZ0M1hKN2V2a245SFpuRGZYR2RHc3pNV0sxQWpB?oc=5",
-      "category": "persecution",
-      "source": "殉道者声音",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-28",
-      "summary": "IDOP Video from The Voice of the Martyrs Highlights Former Muslim who Turned to Christ Yahoo Finance",
-      "summary_zh": "来自殉道者之声的IDOP视频突出了转向基督雅虎财经的前穆斯林",
-      "title_zh": "来自殉道者之声的IDOP视频突出了转向基督的前穆斯林",
-      "content": "",
-      "content_zh": "",
-      "author": "Yahoo Finance",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:25.072381",
-      "extra": {
-        "provider": "google_news",
-        "query": "Voice of the Martyrs persecution",
-        "publisher": "Yahoo Finance"
-      },
-      "id": "9fd852c664ad7793"
     },
     {
       "title": "Zach Lambert is a better model to follow than Jack Graham or Josh Howerton",
@@ -10912,60 +10342,6 @@
       "content_zh": ""
     },
     {
-      "title": "Swedish “Singstunde” invites spiritual encounter with and through music",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGVaN0tGRUFUcHhFNG80M24zSWtJUmZZRUNTVjcxTjZiS3lYWGVBMzF3Y0U2UDliSnBMUmJYdDlkXzVhLWhoaUhfTlZtaF9qZkJySktmdjJ2b0tjbDVsUkRPNERhNnZJRGdkZnB4c2hsU244NTBLMHN6QTE4V1dWR2VGTGpZb2RzamdYYmVaZzljZnFKdnJuekVZZ3AyZklyV3c?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Swedish “Singstunde” invites spiritual encounter with and through music World Council of Churches",
-      "summary_zh": "瑞典“Singstunde”邀请通过音乐进行精神邂逅 世界教会联合会",
-      "title_zh": "瑞典“Singstunde”邀请与音乐并通过音乐进行精神接触",
-      "content": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:46:33.195524",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "WCC shares tribute to Rev. Dr Walter Altmann",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVFRqbUdBVkRVUmpPVTJmMWpEcUVqOWVBTHhEUmdZdjZTVXM5cUxEVFdpc1dxZVZxS1NFVUZGeThKdmVnVEl6X0FQZ0hCaVpEaGMyNVN2aUpHZm5kTzZtZkQzNjh0U0pRdDdCa2NaR2pzd3IxeW56Y1JwLWZvMkE?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "WCC shares tribute to Rev. Dr Walter Altmann World Council of Churches",
-      "summary_zh": "WCC 向沃尔特·阿尔特曼牧师博士致敬 World Council of Churches",
-      "title_zh": "WCC向Walter Altmann博士致敬",
-      "content": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-29T06:30:16.821636",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "‘Constant threat from extremism’: Brother of Shahbaz Bhatti tells Crux Now of plight of Pakistan Christians",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEpPUWgxX0Q3VDgxUUR2VlNoM082Nlhkb3dXeGREQVhaY01pRzN2bHFoenRFRllJbS1HUW1NSkp1bzNtNzcyTzNwSlN5UE1RQTRpekZaN2dMbTlKT1lWSks0WGtMQ2RUVnJDM0F1R3NUcjBSdVlHVDEyemZSMjlaSVhQSC1EQk1JTGFCd2VZT0FCT1RzUDlhM09QYmozdjZGZ09BS1h2QWtOd1ZKbDRXZ1ZpZXlhaE8tTkN4MTFzYTlabmVWbkZpT3UzdUgwTDYxdHNNN2VJSGJVTExEd1prNHV3?oc=5",
       "category": "news",
@@ -11267,34 +10643,6 @@
       "content_zh": ""
     },
     {
-      "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSl9nclg0UmI5d2QxeXhUXzhFSzZWMlNJeThXckxzQUNSUVNuX2pQSHhlX1Bta3lzVnBqM1B0MHJna3F3Umg1Qnhia0FoeGkxYlpOQjRueEwySFZMQjlvYi1GY1hpTHVsYVRwUHB2eTItbDN6WFdtQUxpVEFZMzhTcUhlUHBjaEpuZzNqQnRhZks4anFVVllqeHVIYlFFbWt6RVF3TW13?oc=5",
-      "category": "church",
-      "source": "东正教",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says AP News",
-      "summary_zh": "教堂称，埃塞俄比亚至少 60 名东正教徒遇袭身亡",
-      "title_zh": "教堂说，埃塞俄比亚至少有60名东正教基督徒遇袭身亡",
-      "content": "",
-      "content_zh": "",
-      "author": "AP News",
-      "tags": [],
-      "language": "en",
-      "country": "GR",
-      "region": "欧洲",
-      "stance": "orthodox",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.751647",
-      "extra": {
-        "provider": "google_news",
-        "query": "Orthodox Christianity church",
-        "publisher": "AP News"
-      },
-      "id": "f1e9cf2ef509e9bf"
-    },
-    {
       "title": "Ethiopian Orthodox leaders call for justice, protection after 60 Christians killed in attacks",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGplRXZHNTVXVWVzZmM4VnJwSTJTVEt1UXJ2NG04V0NoMERoeGFDZG9WcUhvWkJmQ1V2TXhmZ0pmOVE4U3VmTXQwRDBkam9qUExLNTZQMTF5RU1vejR5dEdwaWJYd0EtbExXTWFrSVhGd0pUWkRLVG12QnNza0dHWEluR1VBejQ3OXJuMXpOMjBWM3BSa2Q5QzllNnFqUEdaWjlpaGpvcUZDMjFVWUdwM0VjWDVsS1Vz?oc=5",
       "category": "church",
@@ -11543,34 +10891,6 @@
         "publisher": "Breaking News, Latest News and Videos"
       },
       "id": "4eefc9b014428639"
-    },
-    {
-      "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3c2eW1nekV5TkZuTU93UzI1dHBabEdiUEhnQThXdm5pemhzQnl3TjJjN3o3VXh1OVJUUE5LbXBERHpsaDNhSUp3LXdIcGgxVllhZXA4bEN3aUQ4aDZBekJoQnVlNUs3WklZNmo2NElJbVFDYWpBdGpxQmF5M2dyanpMODd5bThlaHUwTHl3dlRmclBlRnl4RU9HOXFteWtvY1E?oc=5",
-      "category": "church",
-      "source": "东正教",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says Crux: Covering all things Catholic",
-      "summary_zh": "教会称，袭击造成埃塞俄比亚至少 60 名东正教徒死亡 关键：涵盖天主教的一切",
-      "title_zh": "教堂说，埃塞俄比亚至少有60名东正教基督徒遇袭身亡",
-      "content": "",
-      "content_zh": "",
-      "author": "Crux: Covering all things Catholic",
-      "tags": [],
-      "language": "en",
-      "country": "GR",
-      "region": "欧洲",
-      "stance": "orthodox",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.752195",
-      "extra": {
-        "provider": "google_news",
-        "query": "Orthodox Christianity church",
-        "publisher": "Crux: Covering all things Catholic"
-      },
-      "id": "c6757d31d4416471"
     },
     {
       "title": "60 or more Christians killed in diverse region of Ethiopia marked by violence",
@@ -12066,33 +11386,6 @@
       "summary_zh": ""
     },
     {
-      "title": "Young Nordic theologians voice what visible unity means to them today",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWlud1JzY1IxYUR2MUpLYTNaWXVqbktYbEtTMTZ6TlRSTHBmbWN1NTNLVDh3OHN1MUktNXRfTklCQ0cxelRuT29aWk9kdkRmQ0tXbTduZTlKMnl0Q3k5U3hOYkhLdDBvU1lXaEdwa19vTXZzWlAxZ1NnSUR0MWZVQkEwQXpXVExYUTg3RDdkdjVubFYzc1Rfbl8wVjJHX0pNd0E?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-26",
-      "summary": "Young Nordic theologians voice what visible unity means to them today World Council of Churches",
-      "summary_zh": "北欧年轻神学家表达了可见的团结对他们今天的意义 世界教会联合会",
-      "title_zh": "年轻的北欧神学家说出今天可见的团结对他们意味着什么",
-      "content": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:46:33.195873",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "WCC central committee moderator’s reflections open Sant’ Egidio International Meeting for Peace",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZXRGSXA3ZjdsQzNUYTZJbElNdTVoWFpIbVdYR0hvcU1lZFhJaWlHaVhhcUV2cGk1amJkcUFtZGNWY0hlZ183TWo5ckwxWUlTZUs2VFIyMlp0OXhSTUItaDRIWnlCN1J6RHBGczkzdVZXRUlLYkUwUGFkR1NSOTBQMUJjVXBxeXNVWkpEdHNwQjlkbmVKbElOSFJkUnpTWW1hOWdMTjJEQktKRWhBOW44Q0hiOXdrUFhWTkxZbGhlQWdyZw?oc=5",
       "category": "news",
@@ -12387,33 +11680,6 @@
       "content_zh": ""
     },
     {
-      "title": "WCC Faith and Order meeting opens with path toward deep dialogue",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEZnRlp1ZXpnVk5TZ1ZGeDZJTEczZFByNnZmRHRlSlducENtQWRDeXVyc3VNQ0ViSDRxcEpRb1hockowYjhqQmZSNDJ5LW9xdkdxRUtRUzRDTmtfMWJhVWdocUhZMWVpcGJGYXctYTlSRkItVU1oX1BYNHo0NVBjeDM1MjkxWmFnSzBOWnFiNk9teXUzQzh4UFVGaw?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-26",
-      "summary": "WCC Faith and Order meeting opens with path toward deep dialogue World Council of Churches",
-      "summary_zh": "世界基督教协进会的信仰与秩序会议开启了世界基督教协进会深入对话的道路",
-      "title_zh": "WCC信仰与秩序会议开启了深入对话的道路",
-      "content": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:46:33.194897",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "Newly launched report reflects rich tapestry of Sixth World Conference on Faith and Order",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2NBVm51S1hueEkzbzRka21WX1JSMkJVTld1ajJFeS04THNZbUNVR3dKajdGOWM4anhMdnl3dHVpYk5OMElQWV9JZE5kMExSanR6cUNMeGpkXzhpOUVGYWtPckQ0bFNDcVF2WFRXYW5QcWx6MFA1emZfOGhXNXB6b0dIdHNyVHg0LU1WODhBQlZiT1k1UlJHcEZURFh0bk1WU0J4ei1Pb2FBY1d0WFYtQVdLQVBtQS1xSEJ3bw?oc=5",
       "category": "news",
@@ -12660,34 +11926,6 @@
       "content_zh": ""
     },
     {
-      "title": "Biodiversity COP17: Catholicos receives WCC, ecumenical prayer follows",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmRXekJPV1VMNjRqM0cwb0FkNllzb3M4SGkyMXRnV2lHT0JKbjJDaWJZZ0xkeDVQT3lUYzNqWDMxcFRwWXpNSEY2OVREa3RJTm9BU0dDTGk3cmxJelhXRUg2Yzl2Ym1QRkNrZDRZSnpHMjhTbHM0blN1eUd0endTODd1UnZkcEsxOHpMcDlUYmdJdDV1NjBNWVJwdXpHS29Y?oc=5",
-      "category": "news",
-      "source": "普世教会新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-25",
-      "summary": "Biodiversity COP17: Catholicos receives WCC, ecumenical prayer follows World Council of Churches",
-      "summary_zh": "生物多样性 COP17：Catholicos 收到 WCC，普世祈祷遵循世界基督教协进会",
-      "title_zh": "生物多样性COP17 ：天主教徒接受WCC ，普世祈祷随之而来",
-      "content": "",
-      "content_zh": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:23.824356",
-      "extra": {
-        "provider": "google_news",
-        "query": "World Council of Churches ecumenical news",
-        "publisher": "World Council of Churches"
-      },
-      "id": "bd3acf75737ff79e"
-    },
-    {
       "title": "Christian medic’s clinic and home torched in Pakistan over blasphemy allegations",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc2haLWtEa3pvT2JTb3ZRdGZ2cEhTZUQxTXRaMldpc3FpLTRURXFEekNCb1V4S3ZjUnpRUFNhTHJkdWRxOXdJTlRKb2lWMjl3NmFKQ1BwMHBKcXpGaENTY0c1TnAtZFRyek5UY2dKeU4zOGRqLXdKdG1IQ0RxVTlPWmUtNE5qXzd6YzcwcHFLSUhLdG9xTU1RWkNCOUt6aTBmQXNydVU4S29fNEdxYVcyZFdIdTBOMDB2TUFJd0F1dUhRWnpp?oc=5",
       "category": "persecution",
@@ -12797,34 +12035,6 @@
         "publisher": "EWTN News"
       },
       "content_zh": ""
-    },
-    {
-      "title": "《海外校園》主編毛樂祈做客「阿祥養書場」談歷史與基督信仰",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03aWdYQzZ5SW1xX1RndkhaNHdYWHh0c3NLSDY3aTIxSDlxNEw4X1psUTFGTHV6WHktcW1lVEVQUHN4WHN4NmRTcFB3c3pRUkljZkZHX2gyZUZBZw?oc=5",
-      "category": "culture",
-      "source": "校园书房",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-25",
-      "summary": "《海外校園》主編毛樂祈做客「阿祥養書場」談歷史與基督信仰 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "content_zh": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "TW",
-      "region": "亚洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:29.105540",
-      "extra": {
-        "provider": "google_news",
-        "query": "校园书房 出版 信仰",
-        "publisher": "基督日報"
-      },
-      "id": "5ba3bd4cf0a76853"
     },
     {
       "title": "Holy Synod of Antioch raises concerns over Christian presence in the Middle East",
@@ -12988,33 +12198,6 @@
       "id": "9b4410a781c81e4f"
     },
     {
-      "title": "American politicians talk about persecuted Christians abroad – but here’s what happens when those Christians migrate to the US",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3ZFVWYwY0NPcGRLT0FNaGhvUHY1dFR2M0ZobUR0dTZoUDZDa1p6U1I0QVo3bkVKSUlTZWlkT0lrLTVPZzY4RjdZQTRkSnc5bnN2TXFMdS1YUl9ZVFZuQk5HZk5hYlppbW5NY2k5ck9KNHhtdEYtVms0MXZJZDdPOHJMNm5IbHRGTjF6dXplRkRWMTRpMUJ1dEJjMVJtMF9aWlFZ?oc=5",
-      "category": "persecution",
-      "source": "中东逼迫",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-24",
-      "summary": "American politicians talk about persecuted Christians abroad – but here’s what happens when those Christians migrate to the US Yahoo",
-      "summary_zh": "美国政界人士谈论海外受迫害的基督徒–但当这些基督徒迁移到美国时会发生什么雅虎",
-      "title_zh": "美国政界人士谈论海外受迫害的基督徒–但当这些基督徒移民到美国时会发生什么",
-      "content": "",
-      "author": "Yahoo",
-      "tags": [],
-      "language": "en",
-      "country": "IL",
-      "region": "中东",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-29T06:30:17.939757",
-      "extra": {
-        "provider": "google_news",
-        "query": "Middle East Christians persecution",
-        "publisher": "Yahoo"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "Sacred Mysteries: Can Goya’s firing squad be counted as Christian art?",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3RCbG5STzJfT1Rfd19zNERUS2gycHRfWmhFZ3JRNnFsMHoxLS1TZ2hlSFVidHFCNnpXOWxqd2F6ZmNwMWFMNzh3N05HVEp6cEtra201TENESTZrWkRnYVloVl96cG1CS3JhLTBqakdwcktTS1RqVFRMSFRjRDJjU1JOc21vQUtrek5NTkVkV0s0OGxUV2NaSGNPS0lZb1pwMDNxRA?oc=5",
       "category": "culture",
@@ -13041,33 +12224,6 @@
         "publisher": "The Telegraph"
       },
       "id": "7c9714e8f52808b9"
-    },
-    {
-      "title": "American politicians talk about persecuted Christians abroad – but here’s what happens when those Christians migrate to the US",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUjltLTJDUGw5TXlCN3ExZ0oyR1hzQnItOTdoWFJGU2dWaE1GSjBfbkQtQ2JtakdOZW5sY3VyZ0FXWjNPcVB2VGl6b2dzaVZNT0I2SVZLTzdDMHZoREJ2M1FvYl9VN2U3eUdaUVNjUlVKWVcwMzFjaTFNNE41Qi1DMW01QjFnMGhfMEI3UkRESV9vT1ZPTzVtTy00ZlIwTzd6anhmbWpSTXRJbHVtQkRQRWl0R180bHhGWEp4ZUNJcjhVTlJhdWtSWHRSS0hUR19OR2hqV2Zrb0tndjVvODZ6dDlSQklQTjZsR1hOTUp2U1M3dFNFMmVqY0h1Ymd0WFo1eUhNUFZmd2Z5Y1lsNXpCZTk2cjZZd1NhLWVMSg?oc=5",
-      "category": "persecution",
-      "source": "中东逼迫",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-24",
-      "summary": "American politicians talk about persecuted Christians abroad – but here’s what happens when those Christians migrate to the US NonStop Local KHQ",
-      "summary_zh": "美国政界人士谈论海外受迫害的基督徒–但当这些基督徒迁移到美国不间断本地KHQ时会发生什么",
-      "title_zh": "美国政界人士谈论海外受迫害的基督徒–但当这些基督徒移民到美国时会发生什么",
-      "content": "",
-      "author": "NonStop Local KHQ",
-      "tags": [],
-      "language": "en",
-      "country": "IL",
-      "region": "中东",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:21:22.382563",
-      "extra": {
-        "provider": "google_news",
-        "query": "Middle East Christians persecution",
-        "publisher": "NonStop Local KHQ"
-      },
-      "content_zh": ""
     },
     {
       "title": "薛子樂談香港教會詩歌史 反映文化身分認同的變遷",
@@ -13126,34 +12282,6 @@
       "id": "9578fdb26664c1c0"
     },
     {
-      "title": "薛子樂談香港教會詩歌史 反映文化身分認同的變遷",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JZ3NSS3JSaEJ4ZnB5MXdqWnpNX0I4TktwUnl6NFJsR3hvX1dlTkxVM0ZsTkZ2NWphWXRLTldXMUg3c1Yzb0lMTExoNTgzRW5Ia0dSRk1PclpHMTRNRmpZQ3Q4VnhEWVctTk9ZMVdSTQ?oc=5",
-      "category": "culture",
-      "source": "基督教文化（中文）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-23",
-      "summary": "薛子樂談香港教會詩歌史 反映文化身分認同的變遷 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "content_zh": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "CN",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:28.682382",
-      "extra": {
-        "provider": "google_news",
-        "query": "基督教 音乐 影视 文化",
-        "publisher": "基督日報"
-      },
-      "id": "8cbfe677a485d160"
-    },
-    {
       "title": "VIDEO | Address by His All-Holiness Ecumenical Patriarch Bartholomew On the Bestowal of an Honorary Doctorate From the Pontifical University of St. Thomas Aquinas (Rome, 23 October 2026)",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeFlCeEVmS0YyeE5PN1VGMGFMMVNqeEhPYnUyYTRKcGlOY1daZm9oYlBmTUF1dFhBUTVlOW1fajRrbVc5TlZsLWRJSHRMQWNNZ3RTN0FjSkwyMzNoNm9QLWktYnhCZWt4SUFUZ0FZOEhBX3FQcklBTV9YS1RwN1RZZGpQX0s1Vm9ScmhmYVhiaU1jdmR5Zll0TmlVLWtCMGtXU3dKcExvQlJWWlQxNWtSaEZrZ3JBNDZyZHp2Y3FrNVlLTDYxMVVMUkNtZElOZzlzaGZaOXNLUnBVcFNSVDJpWWNKUHUtQV9SZmZsbm1mRFg5VjFyVGFwU0VDbmJyZWdyYTFaWHZoTU9WR1ZsajUydkt2eVRIQk5mUTQzWjFPZVNRMHFBWkV2ZjViTEk5cVloVF9EdDlYQ3ZabUdUMkEtaHN4UjdzcW8wbWY4Xw?oc=5",
       "category": "theology",
@@ -13204,33 +12332,6 @@
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
         "publisher": "Vatican News"
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "Lutheran World Federation newsletter",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPdjBjVUpkLTVTRFgzNkdET3hMMUJMU3VpZjdDbGZKYVNkXzltTHlYWlgwT0lGZTJhSkRmRDZ2MS1iMi1FaW02a2dSbkRHWlpablhwcWZ6a250bjlMY291VWsxSkU2NmFITXFKbUhaajM2X3VPbnJDWUxzMjF5dG8?oc=5",
-      "category": "church",
-      "source": "Lutheran World Federation",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-23",
-      "summary": "Lutheran World Federation newsletter Grand Canyon Synod of the ELCA",
-      "summary_zh": "世界路德教会联合会时事通讯 大峡谷 ELCA 会议",
-      "title_zh": "世界路德会联合会",
-      "content": "",
-      "author": "Grand Canyon Synod of the ELCA",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:35:42.775613",
-      "extra": {
-        "provider": "google_news",
-        "query": "Lutheran World Federation",
-        "publisher": "Grand Canyon Synod of the ELCA"
       },
       "content_zh": ""
     },
@@ -14586,34 +13687,6 @@
       "id": "f239bb46b5faa6ff"
     },
     {
-      "title": "【專訪】讚美之泉敬拜與事奉學校——為華人世代量身打造敬拜學習平台",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GRzBPeWZQdmxfZ3YwaUhzZW9vTHMzX0pqcXBHVk5RTDZodFBTRERDdjZhdWVoRzhLaXJESWNwbVd5Z3JpRzl5Wjhza0xFYmRiRnhpa09mRW56QQ?oc=5",
-      "category": "culture",
-      "source": "赞美之泉音乐",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-16",
-      "summary": "【專訪】讚美之泉敬拜與事奉學校——為華人世代量身打造敬拜學習平台 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "content_zh": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "TW",
-      "region": "亚洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:28.803533",
-      "extra": {
-        "provider": "google_news",
-        "query": "赞美之泉 诗歌 敬拜",
-        "publisher": "基督日報"
-      },
-      "id": "db23b60a36956144"
-    },
-    {
       "title": "\"希望不要出现异端\"赵惠莲，没想到她会如此虔诚……撰写了三本基督教书籍",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTbUM1Sk44TURxQ1NCa21IOS10QUs5QWJuWjg3R2FYNi1JVWlqWk1UMjcybHN0QV8ycTBPUGFieXoteHIyRXg2Z3JNbE1BSElMOUd0RzQ5NmFoRF9KdzFWakRvWEZQYXo4SHNpU2dYWkxpb29HOUhN?oc=5",
       "category": "heresy",
@@ -14862,34 +13935,6 @@
         "publisher": "台灣教會公報新聞網"
       },
       "id": "7441cb5d71a8822b"
-    },
-    {
-      "title": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOMDhySDJzMUtVN2lvUlFHM3RyVjJOVEoxZWNvZ1ZFWWY1WFNXTExvTmdxSm1xQ3dJVm9KbEJpdFlWbTJiNkJYSU41ejltV2wwcnlHbXB3b1JqUQ?oc=5",
-      "category": "theology",
-      "source": "台港澳神學與神學院",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-15",
-      "summary": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "content_zh": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "TW",
-      "region": "亚洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:24.658341",
-      "extra": {
-        "provider": "google_news",
-        "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
-        "publisher": "基督日報"
-      },
-      "id": "a867b55876fa3dca"
     },
     {
       "title": "New York Guard Mobilizes for Southern Border Mission",
@@ -17286,34 +16331,6 @@
         "publisher": "Biblical Recorder"
       },
       "content_zh": ""
-    },
-    {
-      "title": "Mission Yearbook",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OWU1qTmcyT0dIQThLdC01N01rSTlmd1BnZUZuTE5PMW1NZHVIbmZabGVKcTVwdU1TNDhxeFFLZlNrdkpJUWtpTE1KVzM2SUp4NUJPVExCdkNiQy16OHVzR3ZoX3U3U3JiMmVlag?oc=5",
-      "category": "church",
-      "source": "长老会",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-09-28",
-      "summary": "Mission Yearbook Presbyterian Church (U.S.A.)",
-      "summary_zh": "长老会宣教年鉴（美国）",
-      "title_zh": "任务年鉴",
-      "content": "",
-      "content_zh": "",
-      "author": "Presbyterian Church (U.S.A.)",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T03:58:41.714808",
-      "extra": {
-        "provider": "google_news",
-        "query": "Presbyterian church mission",
-        "publisher": "Presbyterian Church (U.S.A.)"
-      },
-      "id": "b12501491198f2fe"
     },
     {
       "title": "Communique from the fall meeting of the ACNA College of Bishops",
@@ -20236,34 +19253,6 @@
       "id": "1916c3f179fdaa9f"
     },
     {
-      "title": "環境生態與基督徒何干？張浩然博士談六十年生態神學反思",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUWEzOE1GXzNyVGxZQ0dGcXZadUViZnZDVEg2TWp6WjBjNlNnM0NmQ2tmVnRtMFBnenF3Nkd5cmtKZGhJLW16bTU1cW4tMkdNX0lHb2lmMy1iUQ?oc=5",
-      "category": "theology",
-      "source": "中国神学研究院",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-09-04",
-      "summary": "環境生態與基督徒何干？張浩然博士談六十年生態神學反思 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "content_zh": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "HK",
-      "region": "亚洲",
-      "stance": "academic",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:28.012631",
-      "extra": {
-        "provider": "google_news",
-        "query": "中国神学研究院 神学",
-        "publisher": "基督日報"
-      },
-      "id": "a497c3c1bcc72855"
-    },
-    {
       "title": "Pope Leo XIV says Christians in the Middle East offer a ‘precious testimony for the entire Church’",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3pPb0V5emdqbzJORHZDYnNUX2J6U01reGU2dC1JNVpKNlFQTVg3VlVOcTRiN1ppb1hEazUxY0R1WnU3ejZreEJ3a0VRazZUZy1QTHVNakd5ZWdsbFl6LUZYQlZmR3RYMFlEWUhQVFlEQlFCOHo2VmFuclhDc1UzVE9Db2xJc2hnMzNtUURwbFk2QklTclRRb1YzeF9HUTBXLVRXa1NRMk9EQUM3TmQyRDNIY0JScTZtMWFMRXp3?oc=5",
       "category": "church",
@@ -20622,34 +19611,6 @@
       "content_zh": ""
     },
     {
-      "title": "Mission Yearbook",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yTFZIaVFRci1ERmxMQndaYXFsVlhOaExZMEhFZzllQTE1ejJZaWhwVkZjOW55eG1IMVlkMExfaUQ3T3hUa0VHN0FxWnNhOUY0NjdRV1VfVWVJNWNtUzlSWG1pWVJWdE54Y3FF?oc=5",
-      "category": "church",
-      "source": "长老会",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-09-01",
-      "summary": "Mission Yearbook Presbyterian Church (U.S.A.)",
-      "summary_zh": "长老会宣教年鉴（美国）",
-      "title_zh": "任务年鉴",
-      "content": "",
-      "content_zh": "",
-      "author": "Presbyterian Church (U.S.A.)",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.602701",
-      "extra": {
-        "provider": "google_news",
-        "query": "Presbyterian church mission",
-        "publisher": "Presbyterian Church (U.S.A.)"
-      },
-      "id": "4ead87897899cad6"
-    },
-    {
       "title": "Intrigue, Insinuate, Ignore",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlVrV3VWdDdGSFNDVEZfNDJxamdPRWVkZUlPNU1IcElWeVBmbzFVT2g5ZFBSSFVNNnE5LXRPLTZmVjNMM1dHWUdPTWEwcG4tQUd6M1pIdFBVUi14U1VtWnNTcmVOem93X1JzQnQteW1acmU1VU9LNFJVTkNtUjhsUktpQ0Y3SEhPa2RfeE05ZF9nLXpfdDIzU1FTUGtLOGgzZjVlU2lmWU81RjFPeERHeWtR?oc=5",
       "category": "theology",
@@ -20954,34 +19915,6 @@
       "id": "ca90f97bd4119c9b"
     },
     {
-      "title": "中神追思李思敬牧師 緬懷一代舊約學者、神學工作者及牧者",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yRGpGSC1uVThCblJ1alBMZFdEbXhncU5KeU1icF95OFdFR1Bzd3l4ZE5tSUNGX3ZyV3ljSG5TdGJlSHZZOG51M2daTlRoWEhHOEkzdXlZbFRBZw?oc=5",
-      "category": "theology",
-      "source": "中国神学研究院",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-31",
-      "summary": "中神追思李思敬牧師 緬懷一代舊約學者、神學工作者及牧者 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "content_zh": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "HK",
-      "region": "亚洲",
-      "stance": "academic",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T03:58:42.233728",
-      "extra": {
-        "provider": "google_news",
-        "query": "中国神学研究院 神学",
-        "publisher": "基督日報"
-      },
-      "id": "cec767a4ba27696a"
-    },
-    {
       "title": "在華宣教士司徒雷登誕辰150週年 中國多地展開紀念活動",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43M0J5ZXB0bWZ0SUlWN1c3VHoxOEtOZF81ckYwVFJkNERUNXRJeTZCcjAyMm9oS0ZlSFZEUVBqcVRqNG5lU09FZXkyR09XLTFTV09TSnJuSGlkYjVLMGZ0ZFFtZ1pQOGFZT3Utek1Faw?oc=5",
       "category": "mission",
@@ -21168,34 +20101,6 @@
         "publisher": "The Living Church"
       },
       "id": "e81e500193f4c688"
-    },
-    {
-      "title": "Christians in India fear that tighter laws target them",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDc5UlNfV0E5ZzIwV1BFZF8xekk4X2NPelN6S0RWRi1ublZsXzg4NC1NYURGTDdhM2VwY1pJMEtveEdxQVBudEY3TnNVdWc1VVQzeEZqRXFuMzJRQkUzMVRtVElSY1hwU3Y0azhibExMUnQ4MW5ycUxRNzY1WkVVV3ZlZXVRaFRnRTNzb1JueDJjeUhDdHAyMWQtX2JYSTZm?oc=5",
-      "category": "news",
-      "source": "亚洲基督教新闻",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-27",
-      "summary": "Christians in India fear that tighter laws target them The Straits Times",
-      "summary_zh": "印度的基督徒担心更严格的法律会针对他们海峡时报",
-      "title_zh": "印度的基督徒担心更严格的法律会针对他们",
-      "content": "",
-      "content_zh": "",
-      "author": "The Straits Times",
-      "tags": [],
-      "language": "en",
-      "country": "SG",
-      "region": "亚洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:23.929188",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news Asia church",
-        "publisher": "The Straits Times"
-      },
-      "id": "702c3e57af054960"
     },
     {
       "title": "Pope: Christians should seek communion and foster peace together",
@@ -21719,34 +20624,6 @@
         "publisher": "EWTN News"
       },
       "content_zh": ""
-    },
-    {
-      "title": "从恩师身上继承神学思想 「传记即神学」 邓绍光荣休研讨",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDlfWldONmx0STRYY3NrUGJiNWExS0lPLVM5Q2tCQ2lHNTBYVjFkTVh6RXROYlUwVEpKZmxnSVJiRUYyLUdWMHdoNzVWbzJhYzZkLXd6SXp3R1gxMmpGMWcxWkNPcU5GMUk3V2tWUEl5UWxoc1BSQkRNbGNxdUVvVFpLblVPWXc3eEpBbUhNN0hnSkY2WjR0d0FJa01hR0lVdG80WS0tSVFsX2d1V2xtdGJFVG8?oc=5",
-      "category": "theology",
-      "source": "神学会议（中文）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-21",
-      "summary": "从恩师身上继承神学思想 「传记即神学」 邓绍光荣休研讨 《時代論壇》Christian Times",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "content_zh": "",
-      "author": "《時代論壇》Christian Times",
-      "tags": [],
-      "language": "zh",
-      "country": "CN",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T03:58:41.917986",
-      "extra": {
-        "provider": "google_news",
-        "query": "基督教 神学 研讨会 神学院",
-        "publisher": "《時代論壇》Christian Times"
-      },
-      "id": "0d17869169f202de"
     },
     {
       "title": "極權下的福音奇蹟：伊朗女孩藉AI讓信仰逼迫地區認識耶穌",
