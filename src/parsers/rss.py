@@ -18,7 +18,7 @@ except Exception:
     extract_article = None
 
 logger = logging.getLogger(__name__)
-FEED_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+FEED_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 
 def parse_feed(config: SourceConfig) -> List[Article]:

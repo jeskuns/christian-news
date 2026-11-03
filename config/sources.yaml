@@ -16,7 +16,7 @@
 sources:
   # ==================== 基督教世界资讯（国际 / 中文） ====================
   - name: Christianity Today
-    url: https://www.christianitytoday.com/news/rss/
+    url: https://www.christianitytoday.com/feed/
     category: news
     parser: rss
     language: en
@@ -24,7 +24,7 @@ sources:
     max_items: 20
 
   - name: The Christian Post
-    url: https://www.christianpost.com/rss/full/
+    url: https://www.christianpost.com/rss/
     category: news
     parser: rss
     language: en
@@ -39,21 +39,29 @@ sources:
     country: US
     max_items: 18
 
+  # 以下三家无可用 RSS（Premier 全站不提供、Baptist Press feed 为空、
+  # Evangelical Focus 对数据中心 IP 返回 403），统一走 Google News 检索该媒体名
   - name: Premier Christian News
-    url: https://premierchristian.news/rss
+    url: https://news.google.com/rss/search
     category: news
-    parser: rss
+    parser: news_search
     language: en
     country: GB
     max_items: 15
+    extra:
+      provider: google
+      query: "Premier Christian News"
 
   - name: Evangelical Focus
-    url: https://evangelicalfocus.com/rss
+    url: https://news.google.com/rss/search
     category: news
-    parser: rss
+    parser: news_search
     language: en
     country: ES
     max_items: 15
+    extra:
+      provider: google
+      query: "Evangelical Focus"
 
   - name: World News (Christian)
     url: https://news.google.com/rss/search
@@ -637,12 +645,15 @@ sources:
 
   # ==================== 教会与机构 / 各宗派 ====================
   - name: Baptist Press
-    url: https://www.baptistpress.com/feed/
+    url: https://news.google.com/rss/search
     category: church
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 15
+    extra:
+      provider: google
+      query: "Baptist Press"
 
   - name: 教会增长（国际）
     url: https://news.google.com/rss/search
@@ -1021,7 +1032,7 @@ sources:
     max_items: 15
 
   - name: Desiring God
-    url: https://www.desiringgod.org/feed
+    url: https://www.desiringgod.org/blog.rss
     category: culture
     parser: rss
     language: en
@@ -1185,7 +1196,7 @@ sources:
     max_items: 12
     extra:
       provider: google
-      query: "异端 邪教 辨析 基督教 辨别"
+      query: "基督教 异端"
 
   - name: 耶和华见证人
     url: https://news.google.com/rss/search
@@ -1240,7 +1251,7 @@ sources:
     max_items: 10
     extra:
       provider: google
-      query: "新纪元 成功神学 异端 辨别"
+      query: "新纪元运动 教会"
 
   # ==================== 百科背景 ====================
   - name: Wikipedia English

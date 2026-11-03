@@ -28,7 +28,7 @@ def parse_wikipedia(config: SourceConfig) -> List[Article]:
     lang = config.language or "en"
     base = config.url.rstrip("/") if config.url else f"https://{lang}.wikipedia.org/w/api.php"
     ua = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-          "(KHTML, like Gecko) Chrome/120.0 Safari/537.36") if "wikipedia.org" not in base \
+          "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36") if "wikipedia.org" not in base \
         else "ChristianNewsKB/1.0 (research bot)"
     headers = {"User-Agent": ua}
 
