@@ -187,7 +187,7 @@ class Collector:
                     logger.error(msg)
                     self.errors.append(msg)
 
-        # 去重
+        # 去重：按 ID（URL+标题哈希）
         seen = set()
         unique = []
         for a in self.articles:
@@ -195,7 +195,36 @@ class Collector:
                 seen.add(a.id)
                 unique.append(a)
         self.articles = unique
-        logger.info(f"Total unique articles after dedup: {len(self.articles)}")
+        logger.info(f"After ID dedup: {len(self.articles)} articles")
+
+        # 跨天去重：按标题去重，保留最新的一条（Google News 每天返回相同文章但 URL 不同）
+        db_path = os.path.join(self.db_dir, "articles.json")
+        history_titles = set()
+        if os.path.exists(db_path):
+            try:
+                with open(db_path, "r", encoding="utf-8") as f:
+                    old = json.load(f)
+                for a in old.get("articles", []):
+                    t = (a.get("title_zh") or a.get("title") or "").strip()
+                    if t:
+                        history_titles.add(t.lower())
+                logger.info(f"Loaded {len(history_titles)} historical titles for dedup")
+            except Exception as e:
+                logger.warning(f"Failed to load history titles: {e}")
+
+        new_articles = []
+        skipped = 0
+        for a in self.articles:
+            title = (a.title_zh or a.title or "").strip().lower()
+            if title and title in history_titles:
+                skipped += 1
+            else:
+                new_articles.append(a)
+        
+        if skipped > 0:
+            logger.info(f"Skipped {skipped} articles already in history (title-based dedup)")
+        self.articles = new_articles
+        logger.info(f"After title dedup: {len(self.articles)} new articles")
 
         # 英文标题自动翻译为中文（带本地缓存；失败则保留原标题）
         translator = Translator(os.path.join(self.data_dir, "translation_cache.json"))

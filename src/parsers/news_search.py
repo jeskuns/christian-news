@@ -15,6 +15,7 @@
 """
 import json
 import logging
+import re
 import threading
 import time
 from datetime import datetime, timezone
@@ -62,26 +63,45 @@ def parse_news_search(config: SourceConfig) -> List[Article]:
 
     preferred = (extra.get("provider") or "google").lower()
     order = [preferred] + [p for p in ("google", "gdelt") if p != preferred]
+    ladder = _relax_ladder(query)
 
     for provider in order:
-        try:
-            if provider == "google":
-                items = _fetch_google(query, config)
-            elif provider == "gdelt":
-                items = _fetch_gdelt(query, config)
-            else:
-                continue
-        except Exception as e:
-            logger.debug(f"[{config.name}] {provider} 检索失败: {e}")
-            items = []
+        if provider not in ("google", "gdelt"):
+            continue
+        for q in ladder:
+            try:
+                if provider == "google":
+                    items = _fetch_google(q, config)
+                else:
+                    items = _fetch_gdelt(q, config)
+            except Exception as e:
+                logger.debug(f"[{config.name}] {provider} 检索失败: {e}")
+                items = []
 
-        if items:
-            logger.info(f"[{config.name}] {provider} 检索到 {len(items)} 条（关键词：{query}）")
-            return items
+            if items:
+                note = "" if q == query else f"，原词 {query!r} 过窄已放宽"
+                logger.info(f"[{config.name}] {provider} 检索到 {len(items)} 条（关键词：{q}{note}）")
+                return items
         logger.debug(f"[{config.name}] {provider} 无结果，切换下一个 provider")
 
     logger.info(f"[{config.name}] 全部 provider 无结果（关键词：{query}）")
     return []
+
+
+def _relax_ladder(query: str) -> List[str]:
+    """Google News 把空格当 AND，词一多就 0 条；逐级去掉尾部词，保留前两词为主旨"""
+    terms = query.split()
+    if len(terms) < 3:
+        return [query]
+    ladder = [query] + [" ".join(terms[:n]) for n in range(len(terms) - 1, 1, -1)]
+    seen, out = set(), []
+    for q in ladder:
+        # 去掉尾部词可能把 OR/AND 孤零零留在句尾，那是无效查询
+        if q in seen or re.search(r"\b(OR|AND)$", q, re.IGNORECASE):
+            continue
+        seen.add(q)
+        out.append(q)
+    return out
 
 
 # ---------- Google News RSS ----------
