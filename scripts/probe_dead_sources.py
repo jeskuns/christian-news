@@ -1,94 +1,90 @@
-"""一次性探测脚本：为失效源找出当前可用的 feed 地址 / 检索词。用完即删。"""
-import json
+"""探测第二轮：发现真实 feed 地址 + 验证请求头影响。用完即删。"""
+import re
 import feedparser
 import requests
 
-UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-      "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
+BROWSER = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"),
+    "Accept-Language": "en-US,en;q=0.9",
+}
+FEED_ACCEPT = {"Accept": "application/rss+xml, application/xml, text/xml, */*"}
 
-RSS_CANDIDATES = {
-    "Christianity Today": [
-        "https://www.christianitytoday.com/news/rss/",
-        "https://www.christianitytoday.com/rss.xml",
-        "https://www.christianitytoday.com/feed/",
-        "https://feeds.christianitytoday.com/christianitytoday/all",
-    ],
-    "The Christian Post": [
-        "https://www.christianpost.com/rss/full/",
-        "https://www.christianpost.com/rss/",
-        "https://www.christianpost.com/feed/",
-        "https://www.christianpost.com/rss/news.xml",
-        "https://feeds.christianpost.com/christianpost/news/",
-    ],
-    "Religion News Service": [
-        "https://religionnews.com/feed/",
-        "https://www.religionnews.com/feed/",
-        "https://religionnews.com/rss/",
-        "https://religionnews.com/feed/?post_type=news",
-    ],
-    "Premier Christian News": [
-        "https://premierchristian.news/rss",
-        "https://www.premierchristiannews.com/rss",
-        "https://premierchristian.news/en/news/rss",
-        "https://premierchristian.news/feed",
-        "https://feeds.premierchristiannews.com/premier/news",
-    ],
-    "Evangelical Focus": [
-        "https://evangelicalfocus.com/rss",
-        "https://evangelicalfocus.com/feed",
-        "https://www.evangelicalfocus.com/rss",
-        "https://evangelicalfocus.eu/rss",
-        "https://evangelicalfocus.eu/feed",
-    ],
-    "Baptist Press": [
-        "https://www.baptistpress.com/feed/",
-        "https://www.baptistpress.com/rss.xml",
-        "https://bpnews.net/feed/",
-        "https://www.baptistpress.com/v2-feed/",
-    ],
-    "Desiring God": [
-        "https://www.desiringgod.org/feed",
-        "https://www.desiringgod.org/feed/",
-        "https://www.desiringgod.org/articles.rss",
-        "https://www.desiringgod.org/rss.xml",
-        "https://www.desiringgod.org/.rss",
-    ],
+DISCOVER_FROM = {
+    "Desiring God": "https://www.desiringgod.org/",
+    "Premier Christian News": "https://premierchristian.news/en/news",
+    "Baptist Press": "https://www.baptistpress.com/",
+    "Evangelical Focus": "https://evangelicalfocus.com/",
 }
 
-SEARCH_CANDIDATES = {
-    "异端辨析（中文）": ["异端 邪教 辨析 基督教 辨别", "基督教 异端", "异端 识别 教会", "新天地 异端"],
-    "新纪元思潮": ["新纪元 成功神学 异端 辨别", "成功神学", "新纪元运动 教会", "灵恩 偏差 教会"],
-}
+# 已知返回 200 但 feedparser 解析 0 条：看正文到底是什么
+MYSTERY_BODIES = [
+    ("Baptist Press", "https://www.baptistpress.com/feed/"),
+    ("Christianity Today", "https://www.christianitytoday.com/news/rss/"),
+]
 
 
-def probe_rss(name: str, urls: list) -> None:
-    print(f"\n### {name}")
-    for url in urls:
+def discover(name: str, page_url: str) -> None:
+    print(f"\n### {name} — 从 {page_url} 找 feed 链接")
+    try:
+        r = requests.get(page_url, headers=BROWSER, timeout=30)
+        print(f"  homepage {r.status_code} {len(r.text)}B")
+        links = re.findall(
+            r'<link[^>]+rel=["\']alternate["\'][^>]*>', r.text, re.IGNORECASE)
+        for tag in links[:8]:
+            print("  TAG:", tag.strip()[:200])
+        # 页面上出现的 rss/atom/feed 字样链接
+        for href in sorted(set(re.findall(r'href=["\']([^"\']*(?:rss|atom|feed)[^"\']*)["\']', r.text, re.IGNORECASE)))[:12]:
+            print("  HREF:", href[:150])
+    except Exception as exc:
+        print(f"  ERR {type(exc).__name__}: {str(exc)[:80]}")
+    # 常见约定路径
+    base = page_url.split("/")[0] + "//" + page_url.split("/")[2]
+    for path in ("/rss", "/feed", "/rss.xml", "/atom.xml", "/feed.xml", "/api/rss", "/news/feed"):
+        url = base + path
         try:
-            r = requests.get(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"}, timeout=25)
-            feed = feedparser.parse(r.content)
-            n = len(feed.entries)
-            first = (feed.entries[0].get("title") or "")[:40] if n else ""
-            print(f"  {r.status_code} items={n:<3} ct={r.headers.get('content-type','')[:24]:<24} {url}  | {first}")
+            r = requests.get(url, headers={**BROWSER, **FEED_ACCEPT}, timeout=20)
+            n = len(feedparser.parse(r.content).entries)
+            if r.status_code != 404 or n:
+                print(f"  {r.status_code} items={n:<3} ct={r.headers.get('content-type','')[:26]:<26} {url}")
         except Exception as exc:
-            print(f"  ERR {type(exc).__name__}: {str(exc)[:60]} {url}")
+            print(f"  ERR {type(exc).__name__:16} {url}")
 
 
-def probe_search(name: str, queries: list) -> None:
-    print(f"\n### {name} (google_news)")
-    for q in queries:
-        for hl, ceid in (("zh-CN", "TW|zh-Hant"), ("zh-CN", "CN|zh-CN"), ("en-US", "US|en")):
-            try:
-                r = requests.get("https://news.google.com/rss/search",
-                                 params={"q": q, "hl": hl, "gl": ceid.split("|")[0], "ceid": ceid},
-                                 headers={"User-Agent": UA}, timeout=25)
-                feed = feedparser.parse(r.content)
-                print(f"  {r.status_code} items={len(feed.entries):<3} ceid={ceid:<10} q={q}")
-            except Exception as exc:
-                print(f"  ERR {type(exc).__name__} ceid={ceid} q={q}")
+def body_peek(name: str, url: str) -> None:
+    print(f"\n### {name} — 200 但 0 条，看正文前 400 字符")
+    for hdrs, label in ((BROWSER, "无 Accept"), ({**BROWSER, **FEED_ACCEPT}, "带 Accept")):
+        try:
+            r = requests.get(url, headers=hdrs, timeout=25)
+            feed = feedparser.parse(r.content)
+            print(f"  [{label}] {r.status_code} entries={len(feed.entries)} ct={r.headers.get('content-type','')[:30]}")
+            print("   ", r.text[:400].replace("\n", " "))
+        except Exception as exc:
+            print(f"  [{label}] ERR {type(exc).__name__}: {str(exc)[:60]}")
 
 
-for src, urls in RSS_CANDIDATES.items():
-    probe_rss(src, urls)
-for src, qs in SEARCH_CANDIDATES.items():
-    probe_search(src, qs)
+def header_effect(name: str, url: str) -> None:
+    print(f"\n### {name} — 403 是否由请求头决定")
+    combos = {
+        "仅 UA": {"User-Agent": BROWSER["User-Agent"]},
+        "UA+Accept": {**BROWSER, **FEED_ACCEPT},
+        "UA+Accept+Referer": {**BROWSER, **FEED_ACCEPT, "Referer": url},
+        "UA+Sec-Fetch": {**BROWSER, "Sec-Fetch-Dest": "document", "Sec-Fetch-Mode": "navigate",
+                         "Sec-Fetch-Site": "none", "Upgrade-Insecure-Requests": "1"},
+        "空 UA": {"User-Agent": ""},
+        "feedparser 默认 UA": {"User-Agent": "Feedparser/6.0"},
+    }
+    for label, hdrs in combos.items():
+        try:
+            r = requests.get(url, headers=hdrs, timeout=25)
+            print(f"  {r.status_code} entries={len(feedparser.parse(r.content).entries):<3} {label}")
+        except Exception as exc:
+            print(f"  ERR {type(exc).__name__:16} {label}")
+
+
+for name, url in DISCOVER_FROM.items():
+    discover(name, url)
+for name, url in MYSTERY_BODIES:
+    body_peek(name, url)
+header_effect("Religion News Service", "https://religionnews.com/feed/")
+header_effect("Evangelical Focus", "https://evangelicalfocus.com/rss")
