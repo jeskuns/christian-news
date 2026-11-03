@@ -81,9 +81,11 @@ def audit(source):
             n = f"ERR {type(exc).__name__}"
         return f"{name:38} news_search q={q!r} -> {n} 条 (ceid={ceid})"
 
+    if parser not in ("rss", "news_search"):
+        return f"{name:38} SKIP 解析器={parser}（非 RSS，脚本不评估）"
     code, n, first = entries_of(url)
     if n:
-        return f"{name:38} OK   {n} 条  {url}"
+        return f"{name:38} OK   {n} 条  {url}  | {first}"
     parts = urlparse(url)
     base = f"{parts.scheme}://{parts.netloc}/"
     fixed = []

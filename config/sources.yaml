@@ -1247,7 +1247,7 @@ sources:
     category: heresy
     parser: news_search
     language: zh
-    country: CN
+    country: TW
     max_items: 10
     extra:
       provider: google

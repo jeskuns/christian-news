@@ -36,6 +36,10 @@ def run_pipeline(config_path: str, data_dir: str, site_dir: str, template_dir: s
 
     elapsed = (datetime.now(HK_TZ) - start).total_seconds()
     logger.info(f"Daily pipeline finished in {elapsed:.1f}s, total articles: {snap.total}, errors: {len(snap.errors)}")
+    if collector.zero_sources:
+        # 源静默失效（改地址/换检索词）不会让流水线报错，只能靠这条告警发现
+        logger.warning(f"空源 {len(collector.zero_sources)} 个（已启用但当日 0 条，需检查 feed 地址或检索词）: "
+                       + ", ".join(collector.zero_sources))
     logger.info("=" * 50)
     return snap
 
