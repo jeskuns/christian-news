@@ -1,8 +1,8 @@
 {
   "category": "theology",
   "label": "神学与合一",
-  "count": 58,
-  "updated_at": "2026-11-03T12:07:57.325540+08:00",
+  "count": 62,
+  "updated_at": "2026-11-03T12:30:35.553469+08:00",
   "articles": [
     {
       "title": "Global Prayer for Peace in Ukraine",
@@ -284,7 +284,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:42.470031",
+      "fetched_at": "2026-11-03T04:21:27.938572",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -462,7 +462,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:42.470247",
+      "fetched_at": "2026-11-03T04:21:27.938700",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -696,7 +696,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:42.653727",
+      "fetched_at": "2026-11-03T04:21:28.552210",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -751,7 +751,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:38.679882",
+      "fetched_at": "2026-11-03T04:21:24.658103",
       "extra": {
         "provider": "google_news",
         "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
@@ -763,7 +763,7 @@
       "title": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOMDhySDJzMUtVN2lvUlFHM3RyVjJOVEoxZWNvZ1ZFWWY1WFNXTExvTmdxSm1xQ3dJVm9KbEJpdFlWbTJiNkJYSU41ejltV2wwcnlHbXB3b1JqUQ?oc=5",
       "category": "theology",
-      "source": "建道神学院",
+      "source": "台港澳神學與神學院",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-15",
       "summary": "從光影世界看信仰啟示：丘靜美博士談電影與神學的對話 基督日報",
@@ -774,18 +774,46 @@
       "author": "基督日報",
       "tags": [],
       "language": "zh",
-      "country": "HK",
+      "country": "TW",
       "region": "亚洲",
-      "stance": "academic",
+      "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:42.507712",
+      "fetched_at": "2026-11-03T04:21:24.658341",
       "extra": {
         "provider": "google_news",
-        "query": "建道神学院 神学 研究",
+        "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
         "publisher": "基督日報"
       },
       "id": "a867b55876fa3dca"
+    },
+    {
+      "title": "彭盛有教授介紹新書《神學美學》：十字架重新定義了「美」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sb1VxeC0wRFp5VHhkZUdnZkNKUXltU3ZoclNTZy0xSWxRZ3VjN0tnR3RkMDg0VWx0c0RJbmllbFJyUEpCeWwyblJOSDd4VnVFYmM5U2VLUEhMUQ?oc=5",
+      "category": "theology",
+      "source": "台港澳神學與神學院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-02",
+      "summary": "彭盛有教授介紹新書《神學美學》：十字架重新定義了「美」 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T04:21:24.659179",
+      "extra": {
+        "provider": "google_news",
+        "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
+        "publisher": "基督日報"
+      },
+      "id": "94e5a6002fef0248"
     },
     {
       "title": "WCC Global Ecumenical Indigenous Women’s Theological Network launched",
@@ -869,6 +897,34 @@
       "content_zh": ""
     },
     {
+      "title": "打開信仰的味蕾，走進更寬廣的上帝框架——莊信德牧師好味推薦",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFZzQi1NNFhHZ2tEOS1IY0RncFc5TjB4OUNhdW9ZaUlLbHpINDk5eENGS3JVWVVlZ3k5MVFCR0pUREtWZ0hjQlhHVXZpWjlwNy1JZ3ZGMVBybldndnVpRjRUWXAxa2hZamtwYW1DNzYtX3ZqbmVMRkRPLWhsYjJVZ015dG5UMVJQNjEyUGo5Y3FuMFlYMjZ4QTZTMXA?oc=5",
+      "category": "theology",
+      "source": "台港澳神學與神學院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-17",
+      "summary": "打開信仰的味蕾，走進更寬廣的上帝框架——莊信德牧師好味推薦 基督教今日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "基督教今日報",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T04:21:24.658551",
+      "extra": {
+        "provider": "google_news",
+        "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
+        "publisher": "基督教今日報"
+      },
+      "id": "b336856380d1578b"
+    },
+    {
       "title": "No, James Talarico Is Not a Christian Nationalist",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbmJ3Q2ZYek44VWtndndFazFzbVFYellFODAzYWU2b3NsS0dLd0VTTWcyYnFQUURqNTliUFYyZkI4ZVVENDdUUWhiYnFlMFhNM2lWU19Ud0RBOVRKUG5jZmowWU04VEwydGd1eDdFUjBnS240Zmo4MW9UcmI3NjZUOUpRZw?oc=5",
       "category": "theology",
@@ -888,7 +944,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:42.655423",
+      "fetched_at": "2026-11-03T04:21:28.553003",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -943,7 +999,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:42.654558",
+      "fetched_at": "2026-11-03T04:21:28.552553",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -971,7 +1027,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:42.028728",
+      "fetched_at": "2026-11-03T04:21:28.045109",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -999,7 +1055,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:38.680438",
+      "fetched_at": "2026-11-03T04:21:24.658997",
       "extra": {
         "provider": "google_news",
         "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
@@ -1163,13 +1219,41 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:38.680596",
+      "fetched_at": "2026-11-03T04:21:24.658646",
       "extra": {
         "provider": "google_news",
         "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
         "publisher": "台灣教會公報新聞網"
       },
       "id": "7d68356783b17a00"
+    },
+    {
+      "title": "環境生態與基督徒何干？張浩然博士談六十年生態神學反思",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUWEzOE1GXzNyVGxZQ0dGcXZadUViZnZDVEg2TWp6WjBjNlNnM0NmQ2tmVnRtMFBnenF3Nkd5cmtKZGhJLW16bTU1cW4tMkdNX0lHb2lmMy1iUQ?oc=5",
+      "category": "theology",
+      "source": "中国神学研究院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-04",
+      "summary": "環境生態與基督徒何干？張浩然博士談六十年生態神學反思 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "HK",
+      "region": "亚洲",
+      "stance": "academic",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T04:21:28.012631",
+      "extra": {
+        "provider": "google_news",
+        "query": "中国神学研究院 神学",
+        "publisher": "基督日報"
+      },
+      "id": "a497c3c1bcc72855"
     },
     {
       "title": "September 3, 2026: Central Louisiana Daily Briefing",
@@ -1246,7 +1330,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:42.654764",
+      "fetched_at": "2026-11-03T04:21:28.552667",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -1292,6 +1376,7 @@
       "summary_zh": "帕尔默·罗伯逊 (O. Palmer Robertson) 对圣约神学的长期辩护 今日基督教",
       "title_zh": "O. Palmer Robertson对盟约神学的长期辩护",
       "content": "",
+      "content_zh": "",
       "author": "Christianity Today",
       "tags": [],
       "language": "en",
@@ -1300,13 +1385,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.986612",
+      "fetched_at": "2026-11-03T04:21:28.320695",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",
         "publisher": "Christianity Today"
       },
-      "content_zh": ""
+      "id": "fab90b68e19814eb"
     },
     {
       "title": "中神追思李思敬牧師 緬懷一代舊約學者、神學工作者及牧者",
@@ -1402,6 +1487,7 @@
       "summary_zh": "基督教神学与流行文化在新的 IVP 系列《出版商周刊》中相遇",
       "title_zh": "基督教神学在新的IVP系列中与流行文化相遇",
       "content": "",
+      "content_zh": "",
       "author": "Publishers Weekly",
       "tags": [],
       "language": "en",
@@ -1410,13 +1496,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:37.191039",
+      "fetched_at": "2026-11-03T04:21:28.876979",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
         "publisher": "Publishers Weekly"
       },
-      "content_zh": ""
+      "id": "4e7a3723b9490757"
     },
     {
       "title": "Dallas seminary partners with India school to launch biblical counseling degree",
@@ -1483,6 +1569,7 @@
       "summary_zh": "国际关系概论：宗教与文化电子国际关系",
       "title_zh": "国际关系简介：宗教与文化",
       "content": "",
+      "content_zh": "",
       "author": "E-International Relations",
       "tags": [],
       "language": "en",
@@ -1491,13 +1578,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:37.191406",
+      "fetched_at": "2026-11-03T04:21:28.877305",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
         "publisher": "E-International Relations"
       },
-      "content_zh": ""
+      "id": "62dd8e4bdecb3bbd"
     },
     {
       "title": "Ecumenical Institute brings emerging theologians together across North America–Turtle Island",
@@ -1519,7 +1606,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:41.886716",
+      "fetched_at": "2026-11-03T04:21:27.546904",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -1538,6 +1625,7 @@
       "summary_zh": "改革宗基督徒关心圣灵吗？现代宗教改革",
       "title_zh": "改革宗基督徒关心圣灵吗？",
       "content": "",
+      "content_zh": "",
       "author": "Modern Reformation",
       "tags": [],
       "language": "en",
@@ -1546,13 +1634,41 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.986473",
+      "fetched_at": "2026-11-03T04:21:28.320555",
       "extra": {
         "provider": "google_news",
         "query": "Reformed theology covenant",
         "publisher": "Modern Reformation"
       },
-      "content_zh": ""
+      "id": "1381d99d25febaec"
+    },
+    {
+      "title": "台灣神學院針對校友連君涉及性侵案件發表公開聲明",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nUzFwSGZQRkszSENla0Fuc2VwNjVKX2tNR1Q2cTcxdlBqS2lQdnd6blVYZ0xRdjlsTjNaV3pFMFRvWlhfbGd5cC1Haw?oc=5",
+      "category": "theology",
+      "source": "台港澳神學與神學院",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-10",
+      "summary": "台灣神學院針對校友連君涉及性侵案件發表公開聲明 台灣教會公報新聞網",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "台灣教會公報新聞網",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T04:21:24.659090",
+      "extra": {
+        "provider": "google_news",
+        "query": "神學院 神學 台灣 OR 香港 OR 華神 OR 建道",
+        "publisher": "台灣教會公報新聞網"
+      },
+      "id": "140cd2ea3ee2a478"
     }
   ]
 }
