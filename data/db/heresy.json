@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 19,
-  "updated_at": "2026-11-03T12:07:57.343944+08:00",
+  "count": 21,
+  "updated_at": "2026-11-03T12:30:35.569665+08:00",
   "articles": [
     {
       "title": "World Series champ Cooper Pratt on the connection between tithing and baseball",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.674286",
+      "fetched_at": "2026-11-03T04:21:29.781537",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -132,7 +132,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.674657",
+      "fetched_at": "2026-11-03T04:21:29.781673",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -241,7 +241,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.674483",
+      "fetched_at": "2026-11-03T04:21:29.781904",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -322,7 +322,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.675183",
+      "fetched_at": "2026-11-03T04:21:29.782545",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -356,6 +356,62 @@
         "publisher": "The Business Journals"
       },
       "content_zh": ""
+    },
+    {
+      "title": "\"希望不要出现异端\"赵惠莲，没想到她会如此虔诚……撰写了三本基督教书籍",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTbUM1Sk44TURxQ1NCa21IOS10QUs5QWJuWjg3R2FYNi1JVWlqWk1UMjcybHN0QV8ycTBPUGFieXoteHIyRXg2Z3JNbE1BSElMOUd0RzQ5NmFoRF9KdzFWakRvWEZQYXo4SHNpU2dYWkxpb29HOUhN?oc=5",
+      "category": "heresy",
+      "source": "异端辨析（中文）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-16",
+      "summary": "\"希望不要出现异端\"赵惠莲，没想到她会如此虔诚……撰写了三本基督教书籍 스타뉴스",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "스타뉴스",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T04:21:29.550427",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督教 异端",
+        "publisher": "스타뉴스"
+      },
+      "id": "fa97c794f9044fe4"
+    },
+    {
+      "title": "歐洲塔羅水晶復甦 指南助基督徒回應新紀元風潮",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeVI5SjRmSHVnTEVSZXhTdlFlQllKZlpya2U1TzNDc0tvTWJNNHBhSTZENEJTVEV5WFU1aDRpM1FXalFIQm5mVGJ6SFFGOExkMllWVXJ4YXBsQQ?oc=5",
+      "category": "heresy",
+      "source": "新纪元思潮",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-06",
+      "summary": "歐洲塔羅水晶復甦 指南助基督徒回應新紀元風潮 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T04:21:29.821160",
+      "extra": {
+        "provider": "google_news",
+        "query": "新纪元运动 教会",
+        "publisher": "基督日報"
+      },
+      "id": "03a254d8a0f85b6f"
     },
     {
       "title": "Hawaiʻi Mormon Population Growing, Diversifying In U.S.",
@@ -393,9 +449,10 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-10-04",
       "summary": "Are Mormons Losing Their Distinctiveness? The Atlantic",
-      "summary_zh": "",
+      "summary_zh": "摩门教徒是否正在失去其独特性？大西洋",
       "title_zh": "摩门教徒是否正在失去其独特性？",
       "content": "",
+      "content_zh": "",
       "author": "The Atlantic",
       "tags": [],
       "language": "en",
@@ -404,13 +461,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.755523",
+      "fetched_at": "2026-11-03T04:21:29.782731",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Atlantic"
       },
-      "content_zh": ""
+      "id": "a6533386abda7ee1"
     },
     {
       "title": "Fewer Americans raised Mormon are staying in the faith, study finds",
@@ -432,7 +489,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.675348",
+      "fetched_at": "2026-11-03T04:21:29.782324",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -451,6 +508,7 @@
       "summary_zh": "美国皮尤研究中心后期圣徒的传统与变化",
       "title_zh": "美国后期圣徒的传统和变化",
       "content": "",
+      "content_zh": "",
       "author": "Pew Research Center",
       "tags": [],
       "language": "en",
@@ -459,13 +517,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:28.754185",
+      "fetched_at": "2026-11-03T04:21:29.782002",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Pew Research Center"
       },
-      "content_zh": ""
+      "id": "76028826457f34a8"
     },
     {
       "title": "韩国朴振英回应邪教质疑：教会里有新天地出身，不代表教会就是新天地",

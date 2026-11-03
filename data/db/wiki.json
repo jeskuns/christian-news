@@ -1,8 +1,8 @@
 {
   "category": "wiki",
   "label": "百科背景",
-  "count": 46,
-  "updated_at": "2026-11-03T12:07:57.327532+08:00",
+  "count": 47,
+  "updated_at": "2026-11-03T12:30:35.555118+08:00",
   "articles": [
     {
       "title": "基督教",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.177940",
+      "fetched_at": "2026-11-03T04:21:29.880152",
       "extra": {
         "wordcount": 7969
       },
@@ -50,7 +50,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.177965",
+      "fetched_at": "2026-11-03T04:21:29.880173",
       "extra": {
         "wordcount": 31085
       },
@@ -76,7 +76,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.177997",
+      "fetched_at": "2026-11-03T04:21:29.880195",
       "extra": {
         "wordcount": 24183
       },
@@ -102,7 +102,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.438216",
+      "fetched_at": "2026-11-03T04:21:30.109041",
       "extra": {
         "wordcount": 11792
       },
@@ -128,7 +128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.438265",
+      "fetched_at": "2026-11-03T04:21:30.109060",
       "extra": {
         "wordcount": 495
       },
@@ -154,7 +154,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.438288",
+      "fetched_at": "2026-11-03T04:21:30.109078",
       "extra": {
         "wordcount": 6250
       },
@@ -180,7 +180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.438245",
+      "fetched_at": "2026-11-03T04:21:30.109094",
       "extra": {
         "wordcount": 18768
       },
@@ -206,7 +206,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.769522",
+      "fetched_at": "2026-11-03T04:21:30.407899",
       "extra": {
         "wordcount": 9802
       },
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.769558",
+      "fetched_at": "2026-11-03T04:21:30.407922",
       "extra": {
         "wordcount": 2815
       },
@@ -258,7 +258,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.769600",
+      "fetched_at": "2026-11-03T04:21:30.407953",
       "extra": {
         "wordcount": 156
       },
@@ -284,7 +284,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.769621",
+      "fetched_at": "2026-11-03T04:21:30.407967",
       "extra": {
         "wordcount": 266
       },
@@ -310,7 +310,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.040365",
+      "fetched_at": "2026-11-03T04:21:30.668203",
       "extra": {
         "wordcount": 6733
       },
@@ -336,7 +336,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.040397",
+      "fetched_at": "2026-11-03T04:21:30.668228",
       "extra": {
         "wordcount": 229
       },
@@ -362,7 +362,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.040422",
+      "fetched_at": "2026-11-03T04:21:30.668247",
       "extra": {
         "wordcount": 3907
       },
@@ -388,7 +388,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.040440",
+      "fetched_at": "2026-11-03T04:21:30.668264",
       "extra": {
         "wordcount": 1263
       },
@@ -414,7 +414,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.295051",
+      "fetched_at": "2026-11-03T04:21:30.884825",
       "extra": {
         "wordcount": 3872
       },
@@ -440,7 +440,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.295070",
+      "fetched_at": "2026-11-03T04:21:30.884841",
       "extra": {
         "wordcount": 676
       },
@@ -466,7 +466,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.295145",
+      "fetched_at": "2026-11-03T04:21:30.884861",
       "extra": {
         "wordcount": 1171
       },
@@ -492,7 +492,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.097961",
+      "fetched_at": "2026-11-03T04:21:29.934256",
       "extra": {
         "wordcount": 33517
       },
@@ -518,7 +518,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.097983",
+      "fetched_at": "2026-11-03T04:21:29.934271",
       "extra": {
         "wordcount": 9224
       },
@@ -544,7 +544,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.098001",
+      "fetched_at": "2026-11-03T04:21:29.934283",
       "extra": {
         "wordcount": 13167
       },
@@ -570,7 +570,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.098020",
+      "fetched_at": "2026-11-03T04:21:29.934297",
       "extra": {
         "wordcount": 2469
       },
@@ -596,7 +596,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.388456",
+      "fetched_at": "2026-11-03T04:21:30.226184",
       "extra": {
         "wordcount": 29554
       },
@@ -622,7 +622,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.388476",
+      "fetched_at": "2026-11-03T04:21:30.226198",
       "extra": {
         "wordcount": 31258
       },
@@ -648,7 +648,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.388492",
+      "fetched_at": "2026-11-03T04:21:30.226210",
       "extra": {
         "wordcount": 5737
       },
@@ -700,7 +700,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.757162",
+      "fetched_at": "2026-11-03T04:21:30.621654",
       "extra": {
         "wordcount": 25523
       },
@@ -726,7 +726,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.757189",
+      "fetched_at": "2026-11-03T04:21:30.621672",
       "extra": {
         "wordcount": 9244
       },
@@ -752,7 +752,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.757215",
+      "fetched_at": "2026-11-03T04:21:30.621693",
       "extra": {
         "wordcount": 5010
       },
@@ -778,7 +778,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.161464",
+      "fetched_at": "2026-11-03T04:21:31.009853",
       "extra": {
         "wordcount": 26795
       },
@@ -804,7 +804,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.161489",
+      "fetched_at": "2026-11-03T04:21:31.009878",
       "extra": {
         "wordcount": 3170
       },
@@ -856,7 +856,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.161537",
+      "fetched_at": "2026-11-03T04:21:31.009901",
       "extra": {
         "wordcount": 1499
       },
@@ -882,7 +882,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.485876",
+      "fetched_at": "2026-11-03T04:21:31.319731",
       "extra": {
         "wordcount": 23130
       },
@@ -908,7 +908,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.485923",
+      "fetched_at": "2026-11-03T04:21:31.319811",
       "extra": {
         "wordcount": 8302
       },
@@ -934,7 +934,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.485899",
+      "fetched_at": "2026-11-03T04:21:31.319766",
       "extra": {
         "wordcount": 252
       },
@@ -1012,7 +1012,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:45.295086",
+      "fetched_at": "2026-11-03T04:21:30.884873",
       "extra": {
         "wordcount": 91
       },
@@ -1038,7 +1038,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:44.757235",
+      "fetched_at": "2026-11-03T04:21:30.621708",
       "extra": {
         "wordcount": 2563
       },
@@ -1050,11 +1050,12 @@
       "category": "wiki",
       "source": "Wikipedia (zh)",
       "source_url": "https://zh.wikipedia.org/w/api.php",
-      "published": "2026-10-30",
+      "published": "2026-11-03",
       "summary": "議活動的標誌。有網友發起在各國報章登廣告的群眾募資，亦有網友開設使用「長輩圖」的「保民生抗修例大聯盟」專頁宣傳。隨著許多香港基督教（英语：Christianity in Hong Kong）信徒參與抗議，由於警方較難驅散宗教集會，一些抗議者建議吟唱基督教讚美詩《唱哈利路亞》，將該歌曲視為示威的主題曲。",
       "summary_zh": "",
       "title_zh": "",
       "content": "",
+      "content_zh": "",
       "author": "",
       "tags": [],
       "language": "zh",
@@ -1063,11 +1064,89 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:38.274089",
+      "fetched_at": "2026-11-03T04:21:29.880216",
       "extra": {
-        "wordcount": 30107
+        "wordcount": 30239
       },
-      "content_zh": ""
+      "id": "1d9971007fc01282"
+    },
+    {
+      "title": "Bible (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Bible_%28disambiguation%29",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-03",
+      "summary": "Look up Bible or bible in Wiktionary, the free dictionary. The Bible is a canonical collection of texts treated as religious scripture in Judaism, Christianity",
+      "summary_zh": "在免费词典维基词典中查找《圣经》或《圣经》。圣经是犹太教、基督教中被视为宗教经典的经典文本集",
+      "title_zh": "圣经",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T04:21:31.319793",
+      "extra": {
+        "wordcount": 348
+      },
+      "id": "8cf66a7b105faa24"
+    },
+    {
+      "title": "Evangelicalism",
+      "url": "https://en.wikipedia.org/wiki/Evangelicalism",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-03",
+      "summary": "evangelical Christianity or evangelical Protestantism, is a worldwide, interdenominational movement within Protestant Christianity that emphasizes evangelism",
+      "summary_zh": "福音派基督教或福音派新教是新教基督教内强调传福音的世界性跨教派运动",
+      "title_zh": "福音神學",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T04:21:30.226221",
+      "extra": {
+        "wordcount": 19652
+      },
+      "id": "30540a537212a3f8"
+    },
+    {
+      "title": "History of the Eastern Orthodox Church",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Eastern_Orthodox_Church",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-03",
+      "summary": "Eastern Orthodox Church is the formation, events, and transformation of the Eastern Orthodox Church through time. According to the Eastern Orthodox tradition",
+      "summary_zh": "东正教是东正教随时间的形成、事件和转变。根据东正教传统",
+      "title_zh": "东正教历史",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T04:21:31.009920",
+      "extra": {
+        "wordcount": 12390
+      },
+      "id": "a0c1be18c72d1fbe"
     },
     {
       "title": "Hierarchy of the Catholic Church",
@@ -1091,31 +1170,6 @@
       "fetched_at": "2026-10-30T05:46:38.857156",
       "extra": {
         "wordcount": 8701
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "Bible (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Bible_%28disambiguation%29",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-10-30",
-      "summary": "Look up Bible or bible in Wiktionary, the free dictionary. The Bible is a canonical collection of texts treated as religious scripture in Judaism, Christianity",
-      "summary_zh": "在免费词典维基词典中查找《圣经》或《圣经》。圣经是犹太教、基督教中被视为宗教经典的经典文本集",
-      "title_zh": "圣经",
-      "content": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:46:39.482995",
-      "extra": {
-        "wordcount": 348
       },
       "content_zh": ""
     },
@@ -1166,28 +1220,6 @@
       "fetched_at": "2026-10-29T06:14:01.917446",
       "extra": {
         "wordcount": 8368
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "Evangelicalism",
-      "url": "https://en.wikipedia.org/wiki/Evangelicalism",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-10-29",
-      "summary": "evangelical Christianity or evangelical Protestantism, is a worldwide, interdenominational movement within Protestant Christianity that emphasizes evangelism",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "fetched_at": "2026-10-29T02:13:16.795956",
-      "extra": {
-        "wordcount": 19652
       },
       "content_zh": ""
     }
