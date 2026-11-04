@@ -1,9 +1,373 @@
 {
   "category": "church",
   "label": "教会与机构",
-  "count": 205,
-  "updated_at": "2026-11-03T12:30:35.565098+08:00",
+  "count": 215,
+  "updated_at": "2026-11-04T08:36:34.257411+08:00",
   "articles": [
+    {
+      "title": "Highland Park Methodist Church worships under new name for first time",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlM5YWU0YXdrcDcxMnA4Z1pVcnkxYjhBajlKVm10RFBiTHA4bklNTUxQVzJodl9HSWxhc1BwOHhkWXR4NHJFVHY1UFVwdkNKaDF3bHNoVlNrcmg1eXd5SXFnRldJaEZPMU5DNjVOMlZSSkhjd01Nb3h1bG0zVFRBMG5IN2RGSlFPUElvZGxwMmRTcVlnRXdYcWNVVTlqUlJDUVNnYTRXUm1sUms?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-04",
+      "summary": "Highland Park Methodist Church worships under new name for first time Dallas News",
+      "summary_zh": "高地公园卫理公会教堂首次以新名称崇拜达拉斯新闻",
+      "title_zh": "高地公园卫理公会教堂首次以新名称崇拜",
+      "content": "",
+      "content_zh": "",
+      "author": "Dallas News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.140363",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "Dallas News"
+      },
+      "id": "b1a8f3caa28603fb"
+    },
+    {
+      "title": "Vision36 launch event will invite churches to join a decade of church planting",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa2xsOHpkQTBoanltNUJVRVROVU5vNWYzU3poR2tuUU5ZcEYwQUQyeURLWldyRzk0eFFBM2dMYkdRMmozVzgyWmtmNzIzZEc1RW53TW5sbUdWUlhhYWRQWUlpT2g2TmVMSWhtd3VEbmRpLVlFSU9BbmFpMElyeGhDSG82a3luSS0zTWd0OHlTWE5OaHM0SkZoUFFSbldCVkRZMkZYTUYwY05XWEVrT1lSXzhKbWFDVnhwLWlsTHNrUlpaSVE?oc=5",
+      "category": "church",
+      "source": "教会增长（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Vision36 launch event will invite churches to join a decade of church planting Anglican Communion News Service",
+      "summary_zh": "Vision36 启动活动将邀请教会加入英国圣公会十年植堂活动",
+      "title_zh": "Vision36启动活动将邀请教会加入十年的教会植堂活动",
+      "content": "",
+      "content_zh": "",
+      "author": "Anglican Communion News Service",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.058352",
+      "extra": {
+        "provider": "google_news",
+        "query": "church growth planting",
+        "publisher": "Anglican Communion News Service"
+      },
+      "id": "b24aa7dfcb8522b3"
+    },
+    {
+      "title": "Optimism, caution accompany news over location of Noah’s Ark",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZlQ0b3YtX0JRbGhjMk9iQzdRamJNakt3aFdtZkZpSm12Z0dHOXVma0dNejZVYzc2YWphbmY1cU1YOFVxcmYtdDFOdXExZFZlZm5KOS1xYTEwUDg4TVRMYmFsdGtGYlY0Q0hpUkRUbHViakJIZnFqZkdLY0pjUEpNZi1qTmUtYWRSNUdGU1pfU3JVUEFmcE5NdV9CUkZXc0kyRElRWERYWmtrQ21kWWZN?oc=5",
+      "category": "church",
+      "source": "Baptist Press",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Optimism, caution accompany news over location of Noah’s Ark Baptist Press",
+      "summary_zh": "关于诺亚方舟位置的消息既乐观又谨慎 浸信会出版社",
+      "title_zh": "乐观，谨慎伴随着关于诺亚方舟位置的消息",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist Press",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.264707",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist Press",
+        "publisher": "Baptist Press"
+      },
+      "id": "9e71976d1a251d84"
+    },
+    {
+      "title": "Devastating flooding in Desert Southwest, Florida activates Disaster Relief",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOanBHdDl6d2s2WXF3RkZIdG8tZmNGTUJLYnZkMUFMUGY3NTVDRkRBdktuaVhKZnhOWTRXYzZxTmZOdGt2RF9WenZjUEl3eEpVVERVWGVDVXpxel8yWUdvcFlMa0tzbDRTd1pacG5uUGtzQUxvMFcwNVJlMTlEX0o2VThYSDlLRUtpTm1mb0lyRjdNTTVJRm5odDNUQjdoN241NTRHTWRmMzl6dkZKUnJ6Sy10T0oxM0xUb3g4cnNUenNCUWhQ?oc=5",
+      "category": "church",
+      "source": "Baptist Press",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Devastating flooding in Desert Southwest, Florida activates Disaster Relief Baptist Press",
+      "summary_zh": "佛罗里达州西南部沙漠发生毁灭性洪水，浸信会新闻社启动救灾工作",
+      "title_zh": "佛罗里达州西南部沙漠发生毁灭性洪灾，启动救灾行动",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist Press",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.264879",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist Press",
+        "publisher": "Baptist Press"
+      },
+      "id": "e3fb9a59ff9e8380"
+    },
+    {
+      "title": "Wisconsin church trains college students to be disciple makers",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWdVVVlCd3NfQmR6TS0wUDRIVmNiNFRFNk1PSWlMTk8zNVJySFdxTlVyZjc5WnFGcEVyYjZweXFQNTZtM0EwNGtnNm5RMWFibjd0TnNTTlc4aTM2dUJfdjl1Vk55enMtRVpZbXBoWFpmRGF6WUludFNfeFpLWXQ4MU5wR2VRUDZza3JEcXpzNzBTMXhTQjBKb0J1M2d0VXlLNnhRNG4tY29rM3N6b053UmJPeWw?oc=5",
+      "category": "church",
+      "source": "Baptist Press",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Wisconsin church trains college students to be disciple makers Baptist Press",
+      "summary_zh": "威斯康星州教会培训大学生成为门徒训练者 Baptist Press",
+      "title_zh": "威斯康星州教会培养大学生成为门徒",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist Press",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.265045",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist Press",
+        "publisher": "Baptist Press"
+      },
+      "id": "cf436601a9296bc7"
+    },
+    {
+      "title": "2 in 3 churchgoers fail Bible literacy quiz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0NwYjgtOFNSUl9PcnZvWXRKUEdSNVR4b3BQQ3ktajdlOFF0NUNpV0NTMVgwUlBuX1lna0ZpeG5NMTN0UGh6VHRfb0oza1hyYVFQV08zWXFHbmRVd0lSOXBzWjBIWEw1bUEwcHBOVlJmZzM5dDcwYmhxNDI2ZC1ka0pTdEtkVmJEYzlTWnZMM3J4b2t6UkJKVHRHNA?oc=5",
+      "category": "church",
+      "source": "Baptist Press",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "2 in 3 churchgoers fail Bible literacy quiz Baptist Press",
+      "summary_zh": "三分之二的去教堂的人未能通过圣经素养测验 Baptist Press",
+      "title_zh": "三分之二的去教会者未能通过圣经扫盲测验",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist Press",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.265202",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist Press",
+        "publisher": "Baptist Press"
+      },
+      "id": "f6027aad180167a2"
+    },
+    {
+      "title": "The Middle East is losing its Christians: We can’t look away",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUlZNEpFa21UWGZtaENFcDJZRGlwS3FWcy1fNjJGLXg5MEdLbElTUk1WWUZ0Nk5zeDlSQkZzWjJwNlBHcmFhN3RUaXFlUjFCTHZ5eWJPOHVQT1pTREhRVjVpQ0Z6a1Rlek5TU0YydFdiNVZBQ09ialQyeXZHUXNvUDIzVUwzZmtja1JWbFdUOGREUzdGck9XdDVIdw?oc=5",
+      "category": "church",
+      "source": "中东教会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "The Middle East is losing its Christians: We can’t look away Religion News Service",
+      "summary_zh": "中东正在失去基督徒：我们不能忽视宗教新闻服务",
+      "title_zh": "中东正在失去基督徒：我们不能视而不见",
+      "content": "",
+      "content_zh": "",
+      "author": "Religion News Service",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.474270",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East church Christians",
+        "publisher": "Religion News Service"
+      },
+      "id": "979e5c95e7a82193"
+    },
+    {
+      "title": "Challenged to engage with responsible theology in a wounded world",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVA1VDlxWHJVQjl2ZmVidmVvWEdvNGVmUDNxZEpjcDBvM0pTZFpPSWtxamFlMTBUMU0tTzV5MXdrcGw5Q2xKYkdOQVJ1c2c1WGxIV1k1U0IzV2UycGo3Y0hVU2ZXWEVIUG5oSWJWVUw2WVZyYlZHc3ZSVlBuS28xcDV0bk5WZ2E1bE9Z?oc=5",
+      "category": "church",
+      "source": "Lutheran World Federation",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Challenged to engage with responsible theology in a wounded world The Lutheran World Federation",
+      "summary_zh": "面临在受伤的世界中参与负责任的神学的挑战 路德教会世界联合会",
+      "title_zh": "在受伤的世界中挑战负责任的神学",
+      "content": "",
+      "content_zh": "",
+      "author": "The Lutheran World Federation",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.076131",
+      "extra": {
+        "provider": "google_news",
+        "query": "Lutheran World Federation",
+        "publisher": "The Lutheran World Federation"
+      },
+      "id": "6d9d72999020c373"
+    },
+    {
+      "title": "Lafayette Methodist Church serves up meals and community support on Election Day",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHJRR09OTVVwb2FFS1RtbVY2TDhiZE1oeEtSYlNydUUwaVdaRTJZX3h4ek5KaFdjaV91V1VhalExQ1JBRjB5S0xHWTZOdGEwTjRRRFZCcGpEOFljVGdQSzktSUNnTWEzMnBiOWdlMFNSVlNZcTd5NElBWXhOcG1lQm5Ba29IVzZ0RTBldGVDcFE2cG51NmUzNjYwMkFucjROYTZWVk9LLURXVTVLTzVwempoMVVhTXZpMGfSAc4BQVVfeXFMTjMzUlRKUk1jNXJTVkJXN2pBdmE1Sm9vbHFCdDBtaXJUV2RoeXotNHRZV2ZyRXljTkYzajhiSW0wc3JDQXA5czNCNzNCdXYxY0l5NDB0YVZLTnBlem9IXzk4MVRTcjIyNjdPTlV4a2RFUFB1a0xlckliMGFnMmxIbEFkREJvRnNHZUhDZE5HYWdzbGJGbHFUR3pXckExcWE2U2ZhbEh2eEM1TDcxNUZkaUYtal81V1pCQ0NQQnhRc21BcS1zV21OYTNoWVBTcHc?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Lafayette Methodist Church serves up meals and community support on Election Day WLIO",
+      "summary_zh": "拉斐特卫理公会教堂在选举日提供膳食和社区支持 WLIO",
+      "title_zh": "拉斐特卫理公会教堂在选举日提供膳食和社区支持",
+      "content": "",
+      "content_zh": "",
+      "author": "WLIO",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.141538",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "WLIO"
+      },
+      "id": "de7aa30901ed7a82"
+    },
+    {
+      "title": "Rockfield United Methodist Church invites community to annual Holiday Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVU1N18xSlRjbE1tWHlLM0hLNjAwVXIwZlotUnNaY0diTXdCZE5LSENQa3lrN1lJQTJ1b1FyRGZNVDNxRXFUSkp5RzVFaXBISnJWLXdWLUlDejRjSHlxMGVJZmJJVC1vZFROM01QckNiZFdva1VoQVFIOVVkdTFlLUZEOTVpMG1QcncxcnpfbFJGNHFGNW13RmoyYVh4c3BIcjYxbXBWSEN2QQ?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Rockfield United Methodist Church invites community to annual Holiday Bazaar WBKO",
+      "summary_zh": "罗克菲尔德联合卫理公会教堂邀请社区参加年度假日集市 WBKO",
+      "title_zh": "罗克菲尔德联合卫理公会教堂邀请社区参加一年一度的假日集市",
+      "content": "",
+      "content_zh": "",
+      "author": "WBKO",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.141710",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "WBKO"
+      },
+      "id": "9f7457b5e1345ae2"
+    },
+    {
+      "title": "Three Voices, One Hope: Reflections on the Future of Our Church",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzFaTkxpSkstQ0l6QkdKenZHZTlWdDl1M3Fkc0tYVk00YmZQRWNleGpSTTM5VG9sa3ZjRlNlR3JJOUFrSGw4VjFHenFZX1QtaGZUTnk2bTBIRXNWaWNRVkZHTmh4VTNIbks4UVBvY3BmQzBpRGNSeUhMZ2JCbFNWLVA5NENsWEtyNkc1aTNuUjA2dThZc2phdDZISVFxV0xPU2JjRHFn?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Three Voices, One Hope: Reflections on the Future of Our Church Kentucky Annual Conference",
+      "summary_zh": "三种声音，一种希望：对我们教会肯塔基年会未来的思考",
+      "title_zh": "三个声音，一个希望：对我们教会未来的反思",
+      "content": "",
+      "content_zh": "",
+      "author": "Kentucky Annual Conference",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.141874",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "Kentucky Annual Conference"
+      },
+      "id": "abb6d383543c19ad"
+    },
+    {
+      "title": "Ethiopian Orthodox Church calls for stronger protection after more than 60 Christians killed in attacks",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUljZnJIVFpBUmpuWDhWVVFENjdIYzkzSy1LWFNxMlJiakRhVzhkVkdLZ0VidWE1TFBuNGlmYXFKWXpFakJLMHQ1QzlNbFo0WFNtc2hKb0lyNjZfcnh5RHNUSHo1VC1WUEhmaHg5ZXR2MXdmamFwN0FNQ1VvVjFtblhwU0Fhc0NGR3gzZmprUDBhdlNrSDUyZ2xobGs3aEl4VkV4ZWZNY1g1QQ?oc=5",
+      "category": "church",
+      "source": "东正教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Ethiopian Orthodox Church calls for stronger protection after more than 60 Christians killed in attacks www.christiandaily.com",
+      "summary_zh": "60多名基督徒在袭击中丧生后，埃塞俄比亚东正教呼吁加强保护 www.christiandaily.com",
+      "title_zh": "在60多名基督徒在袭击中丧生后，埃塞俄比亚东正教会呼吁加强保护",
+      "content": "",
+      "content_zh": "",
+      "author": "www.christiandaily.com",
+      "tags": [],
+      "language": "en",
+      "country": "GR",
+      "region": "欧洲",
+      "stance": "orthodox",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.344254",
+      "extra": {
+        "provider": "google_news",
+        "query": "Orthodox Christianity church",
+        "publisher": "www.christiandaily.com"
+      },
+      "id": "2281c9d4f8dea352"
+    },
+    {
+      "title": "The Escalating Violence Against the Ethiopian Orthodox Tewahedo Church",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTEdDSkIyMkxjYUVHZjZFdlVXeDZ0TllvM0xSUkhYX3o5UThvR3MzVkwtdEJwVXFTa0pUTzBjdmlNSnY2VWQ1ZThJTFpuUnA3QmJ3MTFkQ2t5dzZ5WHA1c1hOOHlOZjhxUlpQdW1xMlgxOFFQR0c2MHFycGRWX0VaNGhEWG4xS29ERERsaDBWQXo1TE50cGc?oc=5",
+      "category": "church",
+      "source": "东正教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "The Escalating Violence Against the Ethiopian Orthodox Tewahedo Church Borkena",
+      "summary_zh": "针对埃塞俄比亚东正教特瓦赫多教堂博克纳的暴力不断升级",
+      "title_zh": "针对埃塞俄比亚东正教Tewahedo教会的暴力升级",
+      "content": "",
+      "content_zh": "",
+      "author": "Borkena",
+      "tags": [],
+      "language": "en",
+      "country": "GR",
+      "region": "欧洲",
+      "stance": "orthodox",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.344802",
+      "extra": {
+        "provider": "google_news",
+        "query": "Orthodox Christianity church",
+        "publisher": "Borkena"
+      },
+      "id": "56d0d63e816d9292"
+    },
     {
       "title": "More than 200 Church leaders sign declaration urging peace and protection of Middle Eastern Christians",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdk5XM1BMWVJBcmtNXzFfRVpvQVZfeGtyeTRJQUI4dl9mY0VXZ1ktb3VUc2lwTVJydzViZ1ZQc205ZjZUTWxWLVhneHl4UDE2X3lnNkdWOWZTTmtBcGItUnpSY19pYVE4QUdVZmlHYzVrUWQ5ZVNaRWVrNmRKWWdiTkhjekdHaHRZd3R4RnRNUEthRVBXdnZoM0tpQnhnaTA0M0tzcEtYdjAwUEdpZXlTbEptdjZnazlzNUFWNUxFRHFKaWFDWXBwTmtYRGVMczd1VDFBNXhCajY5ekU?oc=5",
@@ -24,7 +388,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.904029",
+      "fetched_at": "2026-11-04T00:27:26.474501",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -52,7 +416,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.926262",
+      "fetched_at": "2026-11-04T00:27:26.540936",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -80,7 +444,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.926398",
+      "fetched_at": "2026-11-04T00:27:26.541141",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -117,34 +481,6 @@
       "id": "2af308ee0d79c1d7"
     },
     {
-      "title": "NC county says fight over JD Greear’s church expansion isn’t about religious discrimination",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVFOaFlGSGFxaWVBV2tqX1dpbzF4T1NMOXp2MGcxV2tCd2MxTHdfWnpkYXNSWm5Ua09QZzBxRXRSQzFlaXlBRHpaMHVFVXR1MmZLM2l4MGI2cDkycnBhR3ktQXRGbTk0WWkxQzhFRnlzLXhGZjgwclNZLVp3dE40VVFIMG9wWTI1REoybTBWN2Y2MlVoS21ETE9LbEQtcUlfVlM4Vjd3?oc=5",
-      "category": "church",
-      "source": "美南浸信会 SBC",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-02",
-      "summary": "NC county says fight over JD Greear’s church expansion isn’t about religious discrimination Christian Post",
-      "summary_zh": "北卡罗来纳州称JD Greear教堂扩建之争并非宗教歧视 基督邮报",
-      "title_zh": "北卡罗来纳州县政府表示，争夺JD Greear教会扩张的斗争与宗教歧视无关",
-      "content": "",
-      "content_zh": "",
-      "author": "Christian Post",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.970090",
-      "extra": {
-        "provider": "google_news",
-        "query": "Southern Baptist Convention SBC",
-        "publisher": "Christian Post"
-      },
-      "id": "46510ff559896aee"
-    },
-    {
       "title": "‘Together in hope’ to serve others and share peace",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RM2RIUU5UcGRtRE9kM0p2b09pRkZkYlpDcFlhYVpHNjY4dk12LW1MWnlwSVlMZldWU1otU2Q0LVAyY1hlXzdHUVd1Q0dfWGFOdW9iRWE0dWg2U01NVFdnNFBLR0R2YklxZ0VsWkJjMkFQVVhUSzR1aHRJLXVxQQ?oc=5",
       "category": "church",
@@ -164,7 +500,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.207772",
+      "fetched_at": "2026-11-04T00:27:27.076743",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -192,7 +528,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.523030",
+      "fetched_at": "2026-11-04T00:27:27.140167",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -304,7 +640,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.405949",
+      "fetched_at": "2026-11-04T00:27:26.265390",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -332,7 +668,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.406054",
+      "fetched_at": "2026-11-04T00:27:26.265573",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -360,7 +696,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.406157",
+      "fetched_at": "2026-11-04T00:27:26.265737",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -416,7 +752,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.406346",
+      "fetched_at": "2026-11-04T00:27:26.265895",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -444,7 +780,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.523370",
+      "fetched_at": "2026-11-04T00:27:27.140976",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -453,32 +789,60 @@
       "id": "43b206ed810a9d11"
     },
     {
-      "title": "Highland Park Methodist Church worships under new name for first time",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlM5YWU0YXdrcDcxMnA4Z1pVcnkxYjhBajlKVm10RFBiTHA4bklNTUxQVzJodl9HSWxhc1BwOHhkWXR4NHJFVHY1UFVwdkNKaDF3bHNoVlNrcmg1eXd5SXFnRldJaEZPMU5DNjVOMlZSSkhjd01Nb3h1bG0zVFRBMG5IN2RGSlFPUElvZGxwMmRTcVlnRXdYcWNVVTlqUlJDUVNnYTRXUm1sUms?oc=5",
+      "title": "When the church tries to ‘yeet’ Jesus",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waW5WZmctWnNCSnBLQkI1ZmZKODJLaHI2a19Qbjc2dHhtV0o2YkpBSnoxRWZtVm1wazFTSGpBbVZlaVRTcHhWYlFOeXZ2YnNpZ2tIRnRTeDZVdFhuNHhWU2t0RDVJbGdvQ3FNamxUQTFzQTBaQ2FN?oc=5",
       "category": "church",
-      "source": "卫理公会",
+      "source": "Baptist News Global",
       "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-01",
-      "summary": "Highland Park Methodist Church worships under new name for first time Dallas News",
-      "summary_zh": "高地公园卫理公会教堂首次以新名称崇拜达拉斯新闻",
-      "title_zh": "高地公园卫理公会教堂首次以新名称崇拜",
+      "published": "2026-11-02",
+      "summary": "When the church tries to ‘yeet’ Jesus Baptist News Global",
+      "summary_zh": "当教会试图“迎合”耶稣时 浸信会 News Global",
+      "title_zh": "当教会试图“嘲笑”耶稣时",
       "content": "",
       "content_zh": "",
-      "author": "Dallas News",
+      "author": "Baptist News Global",
       "tags": [],
       "language": "en",
       "country": "US",
       "region": "",
-      "stance": "mainline",
+      "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.522899",
+      "fetched_at": "2026-11-04T00:27:26.541318",
       "extra": {
         "provider": "google_news",
-        "query": "Methodist church news",
-        "publisher": "Dallas News"
+        "query": "Baptist News Global",
+        "publisher": "Baptist News Global"
       },
-      "id": "b1a8f3caa28603fb"
+      "id": "6733952ce6948900"
+    },
+    {
+      "title": "NC county says fight over JD Greear’s church expansion isn’t about religious discrimination",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVFOaFlGSGFxaWVBV2tqX1dpbzF4T1NMOXp2MGcxV2tCd2MxTHdfWnpkYXNSWm5Ua09QZzBxRXRSQzFlaXlBRHpaMHVFVXR1MmZLM2l4MGI2cDkycnBhR3ktQXRGbTk0WWkxQzhFRnlzLXhGZjgwclNZLVp3dE40VVFIMG9wWTI1REoybTBWN2Y2MlVoS21ETE9LbEQtcUlfVlM4Vjd3?oc=5",
+      "category": "church",
+      "source": "美南浸信会 SBC",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-02",
+      "summary": "NC county says fight over JD Greear’s church expansion isn’t about religious discrimination Christian Post",
+      "summary_zh": "北卡罗来纳州称JD Greear教堂扩建之争并非宗教歧视 基督邮报",
+      "title_zh": "北卡罗来纳州县政府表示，争夺JD Greear教会扩张的斗争与宗教歧视无关",
+      "content": "",
+      "content_zh": "",
+      "author": "Christian Post",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.586315",
+      "extra": {
+        "provider": "google_news",
+        "query": "Southern Baptist Convention SBC",
+        "publisher": "Christian Post"
+      },
+      "id": "46510ff559896aee"
     },
     {
       "title": "Park Cities church hosts first service since voting to leave denominational conference",
@@ -500,7 +864,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.523141",
+      "fetched_at": "2026-11-04T00:27:27.140575",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -528,7 +892,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.904289",
+      "fetched_at": "2026-11-04T00:27:26.474685",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -556,7 +920,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.523670",
+      "fetched_at": "2026-11-04T00:27:27.141151",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -638,7 +1002,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.926819",
+      "fetched_at": "2026-11-04T00:27:26.541888",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -666,7 +1030,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.904507",
+      "fetched_at": "2026-11-04T00:27:26.475036",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -694,7 +1058,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.926611",
+      "fetched_at": "2026-11-04T00:27:26.541521",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -722,7 +1086,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.926709",
+      "fetched_at": "2026-11-04T00:27:26.541720",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -862,7 +1226,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.405833",
+      "fetched_at": "2026-11-04T00:27:26.264510",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -897,6 +1261,34 @@
         "publisher": "Baptist Press"
       },
       "id": "1101957aff3d47e6"
+    },
+    {
+      "title": "Explore Orthodox Christianity | St. Sebastian Orthodox Church",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFdtekoxY1llaG42X2twdHl3VWRNQXhWamxNdmE4ODlSZGZ3RzBLdjdmd0FwTnlkdTdpOExhMDRscGtpamVYVG5MZlQwc0Vfa1lOMGN4REVYa3V3aGlqOFNObGswWEN1OXRIRTVtY1RRZ2xxbFVTNXdKajJBQmhnRGRuVG5CLWQwUDBzelRGSkdGTjlV?oc=5",
+      "category": "church",
+      "source": "东正教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "Explore Orthodox Christianity | St. Sebastian Orthodox Church Carson Now",
+      "summary_zh": "探索东正教 |现在卡森圣塞巴斯蒂安东正教教堂",
+      "title_zh": "探索东正教|圣塞巴斯蒂安东正教堂",
+      "content": "",
+      "content_zh": "",
+      "author": "Carson Now",
+      "tags": [],
+      "language": "en",
+      "country": "GR",
+      "region": "欧洲",
+      "stance": "orthodox",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.344463",
+      "extra": {
+        "provider": "google_news",
+        "query": "Orthodox Christianity church",
+        "publisher": "Carson Now"
+      },
+      "id": "bdf5bf40c91a880d"
     },
     {
       "title": "What patriarchy asks of men who oppose it",
@@ -1060,33 +1452,6 @@
       "content_zh": ""
     },
     {
-      "title": "UMC bishop removes ministers from Dallas’ Highland Park; church says they will stay",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMW0ySmI5SkZEOWFERExLdklYMzVmMzVyeVgwYUNVRDl6YzNFc0lzUllvM1VOR3Z6cWszZExldFRxd0k2eXpidHpFM2JsNGFmZHdLWGgwcEF6LVVBb3F4LXdDYXIzbmF1ZkRPNlktei1wbEpaVW9oSTFVczZXOC1IWkloa2xTUXlkS2k5Sm5QM19CSGJ1SmVmTzFPWWpaY080SU5qWVVmNGNJa1hsSXJ1Qg?oc=5",
-      "category": "church",
-      "source": "卫理公会",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "UMC bishop removes ministers from Dallas’ Highland Park; church says they will stay Religion News Service",
-      "summary_zh": "UMC主教将达拉斯高地公园的牧师撤职；教会表示他们将留在宗教新闻社",
-      "title_zh": "UMC主教从达拉斯高地公园撤走牧师；教堂说他们会留下来",
-      "content": "",
-      "author": "Religion News Service",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "mainline",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:35:43.032668",
-      "extra": {
-        "provider": "google_news",
-        "query": "Methodist church news",
-        "publisher": "Religion News Service"
-      },
-      "content_zh": ""
-    },
-    {
       "title": "Highland Park UMC votes to leave denomination, removes senior pastor",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWUtMX2VobTZMcGp2cjhXcmNLOFJQSm5wdXRHMkJaNUpVMjVZT01UemdFOWptalp6bWtUQ3I2YjVjOGl1OFdGODZLbU5SN0RfTmlHODd5WlROaVRjR19WMTNTU3dzMzZ4N1E1V0tNeUw5cU8za1MtR1RtY0dQaE4zRml4Y1ZHVHh2WW1yVlpxSS14aUhPRlhuXzA1WG0xTmdPdlNCUkdsTkg0cTV4M3ZuNVRRcGFjSWJGXzFENEhhNVA1T2hzNkZYT2ZpR2lzZXlLdmNfUTBjUDM4b3pYZHYtNHdxQnZaYnFhRGh1NmFkUQ?oc=5",
       "category": "church",
@@ -1243,7 +1608,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.926921",
+      "fetched_at": "2026-11-04T00:27:26.542060",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1353,7 +1718,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.056538",
+      "fetched_at": "2026-11-04T00:27:26.932064",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -1381,7 +1746,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.406921",
+      "fetched_at": "2026-11-04T00:27:26.266544",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -1436,7 +1801,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.927210",
+      "fetched_at": "2026-11-04T00:27:26.542592",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1464,7 +1829,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.208540",
+      "fetched_at": "2026-11-04T00:27:27.077792",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1708,7 +2073,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.927017",
+      "fetched_at": "2026-11-04T00:27:26.542225",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1763,7 +2128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.927116",
+      "fetched_at": "2026-11-04T00:27:26.542415",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1847,13 +2212,41 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.405682",
+      "fetched_at": "2026-11-04T00:27:26.264249",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
         "publisher": "Baptist Press"
       },
       "id": "10e9d3583d60a1fb"
+    },
+    {
+      "title": "FIRST-PERSON: Cooperating for the Gospel",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVjNmZTZIRzZsenlIbUhhRzRfbC1BV0tBRGZKUmhvSVdxUFJ3LTJMQVU1TkQzaWc0YVF1ZXBleFFuSld0V05GcDZfQWFqekVTNGplVTQ1aTJKcndPaU9JMGJuMXBHQnh5ekNwc0RiQWhZaWlpdlZ3QkxMSVZ6dmN1Wnp5VG44XzBYZUFwdHlUbE1wY1BBTEE?oc=5",
+      "category": "church",
+      "source": "Baptist Press",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "FIRST-PERSON: Cooperating for the Gospel Baptist Press",
+      "summary_zh": "第一人称：与福音浸信会出版社合作",
+      "title_zh": "第一人称：为福音而合作",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist Press",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.266360",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist Press",
+        "publisher": "Baptist Press"
+      },
+      "id": "e519be6bab75f0c3"
     },
     {
       "title": "Sixty people killed in attack on Orthodox Christian village in Ethiopia",
@@ -1866,6 +2259,7 @@
       "summary_zh": "埃塞俄比亚东正教村庄遭袭60人死亡梵蒂冈新闻",
       "title_zh": "埃塞俄比亚东正教村庄遭到袭击， 60人丧生",
       "content": "",
+      "content_zh": "",
       "author": "Vatican News",
       "tags": [],
       "language": "en",
@@ -1874,13 +2268,13 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.934640",
+      "fetched_at": "2026-11-04T00:27:27.344973",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
         "publisher": "Vatican News"
       },
-      "content_zh": ""
+      "id": "4744785abb59e6ce"
     },
     {
       "title": "Jordanians rally around Christian community after church attack",
@@ -1902,7 +2296,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.904396",
+      "fetched_at": "2026-11-04T00:27:26.474853",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2102,34 +2496,6 @@
       "content_zh": ""
     },
     {
-      "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSl9nclg0UmI5d2QxeXhUXzhFSzZWMlNJeThXckxzQUNSUVNuX2pQSHhlX1Bta3lzVnBqM1B0MHJna3F3Umg1Qnhia0FoeGkxYlpOQjRueEwySFZMQjlvYi1GY1hpTHVsYVRwUHB2eTItbDN6WFdtQUxpVEFZMzhTcUhlUHBjaEpuZzNqQnRhZks4anFVVllqeHVIYlFFbWt6RVF3TW13?oc=5",
-      "category": "church",
-      "source": "东正教",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says AP News",
-      "summary_zh": "教堂称，埃塞俄比亚至少 60 名东正教徒遇袭身亡",
-      "title_zh": "教堂说，埃塞俄比亚至少有60名东正教基督徒遇袭身亡",
-      "content": "",
-      "content_zh": "",
-      "author": "AP News",
-      "tags": [],
-      "language": "en",
-      "country": "GR",
-      "region": "欧洲",
-      "stance": "orthodox",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.751647",
-      "extra": {
-        "provider": "google_news",
-        "query": "Orthodox Christianity church",
-        "publisher": "AP News"
-      },
-      "id": "f1e9cf2ef509e9bf"
-    },
-    {
       "title": "Ethiopian Orthodox leaders call for justice, protection after 60 Christians killed in attacks",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGplRXZHNTVXVWVzZmM4VnJwSTJTVEt1UXJ2NG04V0NoMERoeGFDZG9WcUhvWkJmQ1V2TXhmZ0pmOVE4U3VmTXQwRDBkam9qUExLNTZQMTF5RU1vejR5dEdwaWJYd0EtbExXTWFrSVhGd0pUWkRLVG12QnNza0dHWEluR1VBejQ3OXJuMXpOMjBWM3BSa2Q5QzllNnFqUEdaWjlpaGpvcUZDMjFVWUdwM0VjWDVsS1Vz?oc=5",
       "category": "church",
@@ -2149,7 +2515,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.752101",
+      "fetched_at": "2026-11-04T00:27:27.345625",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -2325,34 +2691,6 @@
       "id": "4eefc9b014428639"
     },
     {
-      "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3c2eW1nekV5TkZuTU93UzI1dHBabEdiUEhnQThXdm5pemhzQnl3TjJjN3o3VXh1OVJUUE5LbXBERHpsaDNhSUp3LXdIcGgxVllhZXA4bEN3aUQ4aDZBekJoQnVlNUs3WklZNmo2NElJbVFDYWpBdGpxQmF5M2dyanpMODd5bThlaHUwTHl3dlRmclBlRnl4RU9HOXFteWtvY1E?oc=5",
-      "category": "church",
-      "source": "东正教",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-27",
-      "summary": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says Crux: Covering all things Catholic",
-      "summary_zh": "教会称，袭击造成埃塞俄比亚至少 60 名东正教徒死亡 关键：涵盖天主教的一切",
-      "title_zh": "教堂说，埃塞俄比亚至少有60名东正教基督徒遇袭身亡",
-      "content": "",
-      "content_zh": "",
-      "author": "Crux: Covering all things Catholic",
-      "tags": [],
-      "language": "en",
-      "country": "GR",
-      "region": "欧洲",
-      "stance": "orthodox",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.752195",
-      "extra": {
-        "provider": "google_news",
-        "query": "Orthodox Christianity church",
-        "publisher": "Crux: Covering all things Catholic"
-      },
-      "id": "c6757d31d4416471"
-    },
-    {
       "title": "Texas congregation says it will leave United Methodist Church following vote",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUC1TWDZnSTBpOGxTeHUxMzhZdDRaR2ZJdDB2WlF4X0E4Wk8tRlphajNfbEtodkdVQlhfRkk0Q0FrV0Y2Ni1UUDhRaGNpbnVpZ1EyZnY3V25YZVJ3aVlwMTZSREVGYW1vRlBEY1lmcHdaVmtscEl4ZUxTa283SUZXZWxxV3RwYjhOblZnLUY2TWhILXllaHoxX21vT0hFLU0xRVNBWlVYY0pfTjF4eXhUSzNrWnVrM0YyWm1BV1hmN2Fyb1AyVnl6UVRWS2R4b3hZUlVTMnlWekdkWXlBSkFNbGxZVWYxYlRpelFfcndnQWZKVmZhV21PSFB5a2bSAYICQVVfeXFMTkkxNFVxNHZyclFXQUpEVWliM1p2VC1YRkk2dnVrVU90WkU4WWhPYmlIZXJjemdmRnBrYXQ1bWdpNW5lN3dnLTdJLUROeTFyTWsxYTE3WEc4bUt6TmE5YmRtRmdxVkVuQ1dVZllUNGNTREZxRDNlcGlIYzh1eUJFbzFMNTE0UDdwR21JMTNVNkQ2Q0J3TEo1MkhPT1U2V0NmV1pwbVZGajFQY0xNNmJYMENjUnZDYjNrdE9Vd1ZoTnhHMDlHeUE2dXpnR2dka3luOEVqaXZyQUNHYXZJUGVISTBNdzZkclBzZFE3TTBvUkl3cUZSTmxhdkN4UWk3SW5Mc3BR?oc=5",
       "category": "church",
@@ -2480,7 +2818,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.523870",
+      "fetched_at": "2026-11-04T00:27:27.141314",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -2508,7 +2846,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.406531",
+      "fetched_at": "2026-11-04T00:27:26.266051",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -2536,13 +2874,69 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.406622",
+      "fetched_at": "2026-11-04T00:27:26.266201",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
         "publisher": "Baptist Press"
       },
       "id": "56f5946a2fe17ec8"
+    },
+    {
+      "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSl9nclg0UmI5d2QxeXhUXzhFSzZWMlNJeThXckxzQUNSUVNuX2pQSHhlX1Bta3lzVnBqM1B0MHJna3F3Umg1Qnhia0FoeGkxYlpOQjRueEwySFZMQjlvYi1GY1hpTHVsYVRwUHB2eTItbDN6WFdtQUxpVEFZMzhTcUhlUHBjaEpuZzNqQnRhZks4anFVVllqeHVIYlFFbWt6RVF3TW13?oc=5",
+      "category": "church",
+      "source": "东正教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says AP News",
+      "summary_zh": "教堂称，埃塞俄比亚至少 60 名东正教徒遇袭身亡",
+      "title_zh": "教堂说，埃塞俄比亚至少有60名东正教基督徒遇袭身亡",
+      "content": "",
+      "content_zh": "",
+      "author": "AP News",
+      "tags": [],
+      "language": "en",
+      "country": "GR",
+      "region": "欧洲",
+      "stance": "orthodox",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.344638",
+      "extra": {
+        "provider": "google_news",
+        "query": "Orthodox Christianity church",
+        "publisher": "AP News"
+      },
+      "id": "f1e9cf2ef509e9bf"
+    },
+    {
+      "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3c2eW1nekV5TkZuTU93UzI1dHBabEdiUEhnQThXdm5pemhzQnl3TjJjN3o3VXh1OVJUUE5LbXBERHpsaDNhSUp3LXdIcGgxVllhZXA4bEN3aUQ4aDZBekJoQnVlNUs3WklZNmo2NElJbVFDYWpBdGpxQmF5M2dyanpMODd5bThlaHUwTHl3dlRmclBlRnl4RU9HOXFteWtvY1E?oc=5",
+      "category": "church",
+      "source": "东正教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says Crux: Covering all things Catholic",
+      "summary_zh": "教会称，袭击造成埃塞俄比亚至少 60 名东正教徒死亡 关键：涵盖天主教的一切",
+      "title_zh": "教堂说，埃塞俄比亚至少有60名东正教基督徒遇袭身亡",
+      "content": "",
+      "content_zh": "",
+      "author": "Crux: Covering all things Catholic",
+      "tags": [],
+      "language": "en",
+      "country": "GR",
+      "region": "欧洲",
+      "stance": "orthodox",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:27.345781",
+      "extra": {
+        "provider": "google_news",
+        "query": "Orthodox Christianity church",
+        "publisher": "Crux: Covering all things Catholic"
+      },
+      "id": "c6757d31d4416471"
     },
     {
       "title": "Nine Dead in Attack on Jordanian Church as Pope Leo XIV and Middle Eastern Patriarchs Call for Unity - ZENIT",
@@ -2570,34 +2964,6 @@
         "publisher": "English"
       },
       "content_zh": ""
-    },
-    {
-      "title": "Middle East Christians are facing extinction",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3BpNE81THR1Q3RHUmV1VjZzb3dtMHN1cGdEZ3pKWWIzeGloWWI3cWd4OW1ZOHp1ZFdESUNpaE9DSU5WalBpc0ZoSFVJVlR5b20zQlNlTkRNWGgyMWpod0ZWZUNrQV9IQzZxdVRzZ1gtTTRRMWpHU0RGdWR1S3hKdw?oc=5",
-      "category": "church",
-      "source": "中东教会",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-26",
-      "summary": "Middle East Christians are facing extinction The Spectator",
-      "summary_zh": "中东基督徒面临灭绝《旁观者》",
-      "title_zh": "中东基督徒面临灭绝",
-      "content": "",
-      "content_zh": "",
-      "author": "The Spectator",
-      "tags": [],
-      "language": "en",
-      "country": "IL",
-      "region": "中东",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.905229",
-      "extra": {
-        "provider": "google_news",
-        "query": "Middle East church Christians",
-        "publisher": "The Spectator"
-      },
-      "id": "020a2a9b135be7e2"
     },
     {
       "title": "Franklin Graham extols Republican values",
@@ -2673,7 +3039,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.056153",
+      "fetched_at": "2026-11-04T00:27:26.931505",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -2716,6 +3082,7 @@
       "summary_zh": "圣安东尼东正教会准备一年一度的美食节 KOKI FOX 23",
       "title_zh": "圣安东尼东正教教堂为每年的美食节做准备",
       "content": "",
+      "content_zh": "",
       "author": "KOKI FOX 23",
       "tags": [],
       "language": "en",
@@ -2724,13 +3091,13 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:22:26.400786",
+      "fetched_at": "2026-11-04T00:27:27.345468",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
         "publisher": "KOKI FOX 23"
       },
-      "content_zh": ""
+      "id": "83eed59380acb742"
     },
     {
       "title": "Jordan says 3 arrested in deadly attack on Greek Orthodox church",
@@ -2996,68 +3363,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.904833",
+      "fetched_at": "2026-11-04T00:27:26.475389",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "The Christian Science Monitor"
       },
       "id": "9578fdb26664c1c0"
-    },
-    {
-      "title": "Lutheran World Federation newsletter",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPdjBjVUpkLTVTRFgzNkdET3hMMUJMU3VpZjdDbGZKYVNkXzltTHlYWlgwT0lGZTJhSkRmRDZ2MS1iMi1FaW02a2dSbkRHWlpablhwcWZ6a250bjlMY291VWsxSkU2NmFITXFKbUhaajM2X3VPbnJDWUxzMjF5dG8?oc=5",
-      "category": "church",
-      "source": "Lutheran World Federation",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-23",
-      "summary": "Lutheran World Federation newsletter Grand Canyon Synod of the ELCA",
-      "summary_zh": "世界路德教会联合会时事通讯 大峡谷 ELCA 会议",
-      "title_zh": "世界路德会联合会",
-      "content": "",
-      "author": "Grand Canyon Synod of the ELCA",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:35:42.775613",
-      "extra": {
-        "provider": "google_news",
-        "query": "Lutheran World Federation",
-        "publisher": "Grand Canyon Synod of the ELCA"
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "Explore Orthodox Christianity | St. Sebastian Orthodox Church",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFdtekoxY1llaG42X2twdHl3VWRNQXhWamxNdmE4ODlSZGZ3RzBLdjdmd0FwTnlkdTdpOExhMDRscGtpamVYVG5MZlQwc0Vfa1lOMGN4REVYa3V3aGlqOFNObGswWEN1OXRIRTVtY1RRZ2xxbFVTNXdKajJBQmhnRGRuVG5CLWQwUDBzelRGSkdGTjlV?oc=5",
-      "category": "church",
-      "source": "东正教",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-23",
-      "summary": "Explore Orthodox Christianity | St. Sebastian Orthodox Church Carson Now",
-      "summary_zh": "探索东正教 |现在卡森圣塞巴斯蒂安东正教教堂",
-      "title_zh": "探索东正教|圣塞巴斯蒂安东正教堂",
-      "content": "",
-      "content_zh": "",
-      "author": "Carson Now",
-      "tags": [],
-      "language": "en",
-      "country": "GR",
-      "region": "欧洲",
-      "stance": "orthodox",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.751903",
-      "extra": {
-        "provider": "google_news",
-        "query": "Orthodox Christianity church",
-        "publisher": "Carson Now"
-      },
-      "id": "bdf5bf40c91a880d"
     },
     {
       "title": "Renewed debate on churches as polling places",
@@ -3133,7 +3445,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.208866",
+      "fetched_at": "2026-11-04T00:27:27.077609",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -3217,7 +3529,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.752682",
+      "fetched_at": "2026-11-04T00:27:27.345285",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -3356,7 +3668,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.752378",
+      "fetched_at": "2026-11-04T00:27:27.345131",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -3412,7 +3724,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.988272",
+      "fetched_at": "2026-11-04T00:27:26.637956",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -3440,7 +3752,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.056870",
+      "fetched_at": "2026-11-04T00:27:26.932591",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -3632,7 +3944,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.905032",
+      "fetched_at": "2026-11-04T00:27:26.475563",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -3807,6 +4119,34 @@
       "content_zh": ""
     },
     {
+      "title": "The Disappearing Christian Middle East, Part VI: When Christianity Becomes History",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjJkODVMVWVvRXVNcGNtY0dicnBBdE5QbEVfUGtfdUVYdVlpd3Uzd055amxMM0lCd0hZa0lNMXdqeWtBZ3M4UjkwbHRmM0xVbEo2bm12c2x6QzFyU2lnR3pWR09aRFVINl8wNkRQRGpZZDVucWxPUmlBNmdxMldpRWhhUHJnWWlyNGlVcE54a180N29lNFFMOE9ucHNGVkJrblVLbmxncF9Rcno1MjhqR3BuSlFZdm8?oc=5",
+      "category": "church",
+      "source": "中东教会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-07",
+      "summary": "The Disappearing Christian Middle East, Part VI: When Christianity Becomes History International Christian Concern",
+      "summary_zh": "正在消失的中东基督教，第六部分：当基督教成为历史时 International Christian Concern",
+      "title_zh": "消失的基督教中东，第六部分：当基督教成为历史",
+      "content": "",
+      "content_zh": "",
+      "author": "International Christian Concern",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.475205",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East church Christians",
+        "publisher": "International Christian Concern"
+      },
+      "id": "f1f4d1eed0e71bc9"
+    },
+    {
       "title": "Conference: Responsible Theology Across the Global Lutheran Communion",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTRmZEpWZXMyYlZQS3pKd19hUkd3TU84aXBOMG9ZT1MwNlRFVWpnWEU5Z3JwSmlyOS04Q2UwTFlZZ2NOSmpIaHlIdV9DMjRqX0NkcG5YcVFrWEVuVEd6aUNHZi1FSWVJaWtHX1QtT05jME9oNVFjRVpxRDBkQ0MtS29VemRzeUtSRGRtNEM0MnVUX09aWTFhQkZSM1NNUQ?oc=5",
       "category": "church",
@@ -3887,34 +4227,6 @@
         "publisher": "Baptist News Global"
       },
       "id": "10e99cbda0786ac2"
-    },
-    {
-      "title": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcjE3Vk9Mc2lZd3lUVGN1YVUtVVoyTC0zdmVZbXJLdm43RElXVXNiNmNTUmdVNlhGcnVKNVA3ekRGR2pDMVZTX3U1VlRBOGd0U0ZlWm9Eanptdm52LTZvQ2VzSlFnWEg5eWpUQjJTUlNZVV9jWlBaTnh0aEVKcVFWZUE1ZVp3WjNWZW5TcGZiUlpDdWQ0Z2YxOWZndGNZdTBHdm1yZlMyUHNWTEpMM1ZDd3huRURYaGdUUlBabGVCajJiUUNzakgyUTJuZGU3dFIyNDR6Z0hfNEdVRjY4dHBWTXBB?oc=5",
-      "category": "church",
-      "source": "中东教会",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-06",
-      "summary": "The Disappearing Christian Middle East, Part V: The Holy Land — When Christians Leave the Birthplace of Christianity International Christian Concern",
-      "summary_zh": "消失的基督教中东，第五部分：圣地--当基督徒离开基督教的诞生地时",
-      "title_zh": "消失的基督教中东，第五部分：圣地—当基督徒离开基督教的诞生地",
-      "content": "",
-      "content_zh": "",
-      "author": "International Christian Concern",
-      "tags": [],
-      "language": "en",
-      "country": "IL",
-      "region": "中东",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T03:58:40.989613",
-      "extra": {
-        "provider": "google_news",
-        "query": "Middle East church Christians",
-        "publisher": "International Christian Concern"
-      },
-      "id": "b7eafa3f3e5b0add"
     },
     {
       "title": "European Regions’ Meeting opens in Augsburg",
@@ -4148,6 +4460,7 @@
       "summary_zh": "每个牧师成长为一个健康的教会领袖所需的5项技能",
       "title_zh": "每个牧师成长为健康教会所需的5项技能",
       "content": "",
+      "content_zh": "",
       "author": "ChurchLeaders",
       "tags": [],
       "language": "en",
@@ -4156,13 +4469,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.841986",
+      "fetched_at": "2026-11-04T00:27:26.059893",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
         "publisher": "ChurchLeaders"
       },
-      "content_zh": ""
+      "id": "34ea1b481e9ac977"
     },
     {
       "title": "‘From conflict to communion’: Lutheran World Federation meets with Pope",
@@ -4184,7 +4497,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.208102",
+      "fetched_at": "2026-11-04T00:27:27.076559",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -4212,7 +4525,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.208436",
+      "fetched_at": "2026-11-04T00:27:27.077080",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -4240,7 +4553,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.056643",
+      "fetched_at": "2026-11-04T00:27:26.932228",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -4303,34 +4616,6 @@
       "content_zh": ""
     },
     {
-      "title": "Mission Yearbook",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OWU1qTmcyT0dIQThLdC01N01rSTlmd1BnZUZuTE5PMW1NZHVIbmZabGVKcTVwdU1TNDhxeFFLZlNrdkpJUWtpTE1KVzM2SUp4NUJPVExCdkNiQy16OHVzR3ZoX3U3U3JiMmVlag?oc=5",
-      "category": "church",
-      "source": "长老会",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-09-28",
-      "summary": "Mission Yearbook Presbyterian Church (U.S.A.)",
-      "summary_zh": "长老会宣教年鉴（美国）",
-      "title_zh": "任务年鉴",
-      "content": "",
-      "content_zh": "",
-      "author": "Presbyterian Church (U.S.A.)",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T03:58:41.714808",
-      "extra": {
-        "provider": "google_news",
-        "query": "Presbyterian church mission",
-        "publisher": "Presbyterian Church (U.S.A.)"
-      },
-      "id": "b12501491198f2fe"
-    },
-    {
       "title": "Communique from the fall meeting of the ACNA College of Bishops",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oeElVaENKTU5SQkU4aFpPMmFnRG9xTi1kTXJGdEFzRk01eklpNWZsUjFMeV9hS0Y1bmZXUEd1OEhkNkxyUUhKMFRSdEFHWGM?oc=5",
       "category": "church",
@@ -4350,7 +4635,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.056437",
+      "fetched_at": "2026-11-04T00:27:26.931897",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -4386,6 +4671,34 @@
       "content_zh": ""
     },
     {
+      "title": "Mission Yearbook",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OWU1qTmcyT0dIQThLdC01N01rSTlmd1BnZUZuTE5PMW1NZHVIbmZabGVKcTVwdU1TNDhxeFFLZlNrdkpJUWtpTE1KVzM2SUp4NUJPVExCdkNiQy16OHVzR3ZoX3U3U3JiMmVlag?oc=5",
+      "category": "church",
+      "source": "长老会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-28",
+      "summary": "Mission Yearbook Presbyterian Church (U.S.A.)",
+      "summary_zh": "长老会宣教年鉴（美国）",
+      "title_zh": "任务年鉴",
+      "content": "",
+      "content_zh": "",
+      "author": "Presbyterian Church (U.S.A.)",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.969209",
+      "extra": {
+        "provider": "google_news",
+        "query": "Presbyterian church mission",
+        "publisher": "Presbyterian Church (U.S.A.)"
+      },
+      "id": "b12501491198f2fe"
+    },
+    {
       "title": "Young Lutherans launch prayer book on peacemaking",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGJKUlkybVJJWWFfdTlFYl9KdEdzd0MtY0tYVU5lYnZtLWF4ZzdZZlJhYVJ1YWtwQ01kNVhqcnJuM3hudkduelFXYXJSUUJDZ3BvNlFQM05lcllGaURRdHlMNTR3N2NmaDdaYVRlRVpVdHdWTUp4czVYT2pvUVU3RFFqTQ?oc=5",
       "category": "church",
@@ -4405,7 +4718,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.208740",
+      "fetched_at": "2026-11-04T00:27:27.077242",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -4672,6 +4985,7 @@
       "summary_zh": "宗主教约翰十世：中东基督徒必须“从幸存者转向和平缔造者”世界基督教协进会",
       "title_zh": "宗主教约翰十世：中东基督徒必须“从幸存者转向和平缔造者”",
       "content": "",
+      "content_zh": "",
       "author": "World Council of Churches",
       "tags": [],
       "language": "en",
@@ -4680,13 +4994,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:35:42.401555",
+      "fetched_at": "2026-11-04T00:27:26.476215",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
         "publisher": "World Council of Churches"
       },
-      "content_zh": ""
+      "id": "52f1c83a4af3e4ad"
     },
     {
       "title": "LWF Center Wittenberg continues to welcome people from all over the world",
@@ -4790,7 +5104,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.056968",
+      "fetched_at": "2026-11-04T00:27:26.932814",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -4864,6 +5178,7 @@
       "summary_zh": "探索路德宗的身份和见证 路德宗世界联合会",
       "title_zh": "探索路德会教徒的身份和见证",
       "content": "",
+      "content_zh": "",
       "author": "The Lutheran World Federation",
       "tags": [],
       "language": "en",
@@ -4872,13 +5187,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.377386",
+      "fetched_at": "2026-11-04T00:27:27.077426",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
         "publisher": "The Lutheran World Federation"
       },
-      "content_zh": ""
+      "id": "ef81e3eccd3e8d5a"
     },
     {
       "title": "Nepal: LWF responding to needs of flood survivors",
@@ -4972,6 +5287,7 @@
       "summary_zh": "鲁比·伯克讣告 - 肯塔基州路易斯维尔尊严纪念馆",
       "title_zh": "Ruby Burke讣告-肯塔基州路易斯维尔",
       "content": "",
+      "content_zh": "",
       "author": "Dignity Memorial",
       "tags": [],
       "language": "en",
@@ -4980,13 +5296,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.660513",
+      "fetched_at": "2026-11-04T00:27:26.757803",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
         "publisher": "Dignity Memorial"
       },
-      "content_zh": ""
+      "id": "7dc7f88c4f446993"
     },
     {
       "title": "Palestinian churches call for international action to save Christian schools in Jerusalem",
@@ -5036,7 +5352,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.905336",
+      "fetched_at": "2026-11-04T00:27:26.476045",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -5119,7 +5435,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.602701",
+      "fetched_at": "2026-11-04T00:27:26.968669",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -5147,7 +5463,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.989419",
+      "fetched_at": "2026-11-04T00:27:26.639788",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -5193,6 +5509,7 @@
       "summary_zh": "BWA 庆祝任命新传道和倍增会众大使 浸信会新闻全球",
       "title_zh": "BWA庆祝任命新的传道和倍增会众大使",
       "content": "",
+      "content_zh": "",
       "author": "Baptist News Global",
       "tags": [],
       "language": "en",
@@ -5201,13 +5518,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.659880",
+      "fetched_at": "2026-11-04T00:27:26.757275",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
         "publisher": "Baptist News Global"
       },
-      "content_zh": ""
+      "id": "a5211775a2f3653e"
     },
     {
       "title": "ACNA Responds to Shared S.C. Chapel Blessing",
@@ -5229,7 +5546,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.056319",
+      "fetched_at": "2026-11-04T00:27:26.931708",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -5257,7 +5574,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.056739",
+      "fetched_at": "2026-11-04T00:27:26.932417",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -5276,6 +5593,7 @@
       "summary_zh": "阻碍教会成长的5个障碍（以及如何打破它们）教会领袖",
       "title_zh": "阻碍教会成长的5个障碍（以及如何打破它们）",
       "content": "",
+      "content_zh": "",
       "author": "ChurchLeaders",
       "tags": [],
       "language": "en",
@@ -5284,13 +5602,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.840901",
+      "fetched_at": "2026-11-04T00:27:26.059205",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
         "publisher": "ChurchLeaders"
       },
-      "content_zh": ""
+      "id": "eb59df27c12cee9f"
     },
     {
       "title": "ACNA Bishop Jones Guilty on All Counts",
@@ -5340,7 +5658,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.057156",
+      "fetched_at": "2026-11-04T00:27:26.933153",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -5395,7 +5713,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:41.222893",
+      "fetched_at": "2026-11-04T00:27:26.757464",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
@@ -5441,6 +5759,7 @@
       "summary_zh": "最新消息：BWA前秘书长去世；印度尼西亚、哥伦比亚发生致命地震；你的教会对残疾人有多欢迎？阿拉巴马州浸信会",
       "title_zh": "最新消息：前BWA秘书长去世；印度尼西亚、哥伦比亚发生致命地震；您的教会对残障人士的欢迎程度如何？",
       "content": "",
+      "content_zh": "",
       "author": "The Alabama Baptist",
       "tags": [],
       "language": "en",
@@ -5449,13 +5768,41 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.660362",
+      "fetched_at": "2026-11-04T00:27:26.757637",
       "extra": {
         "provider": "google_news",
         "query": "Baptist World Alliance",
         "publisher": "The Alabama Baptist"
       },
-      "content_zh": ""
+      "id": "80b8931a0ea0152f"
+    },
+    {
+      "title": "其实，韩国人真没有那么多时间来抢我们的历史遗产",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPWkU3aERrTjZvU0dHZnRUR0hQWnRleV9lOFdYWUliUVd5cFVudWdRZVNTc3Q4MGw2Q1ZjQ2NxalZKNDAycFVtX09mMHQ5VWxEWElYdTJB?oc=5",
+      "category": "church",
+      "source": "日本教會（中文報導）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-14",
+      "summary": "其实，韩国人真没有那么多时间来抢我们的历史遗产 Jiemian.com",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "Jiemian.com",
+      "tags": [],
+      "language": "zh",
+      "country": "JP",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:24.174780",
+      "extra": {
+        "provider": "google_news",
+        "query": "日本 基督徒 教会 传教",
+        "publisher": "Jiemian.com"
+      },
+      "id": "5fbad7d9b5307120"
     },
     {
       "title": "LCMS church planting ‘indebted to Lutheran theology’ - Lutheran Church",
@@ -5477,7 +5824,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.988857",
+      "fetched_at": "2026-11-04T00:27:26.638916",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -5585,67 +5932,13 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:27.246835",
+      "fetched_at": "2026-11-04T00:27:26.679609",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Journal church",
         "publisher": "The Anglican Journal"
       },
       "id": "c974884a6646039b"
-    },
-    {
-      "title": "The Church in Britain is growing – and not only in places we can count",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcTNISlJYRTNjdnZTbVBaamdrVkFrMXpidzBHNG5UM0VhSkFQWW5MWEM1SVppQjFTWEtjY0g0X1cyNm5RSHk4UGcxWVJIZExSWkVEcHV2cmpYZTNUcTRkX2NHOC1wbVZnTEo3am1fQzktbm5yNnlDZ2VvdWwtVG1xS1NkSEtheWE1ZTFYOUwySEZvNV81MWlTeHAwZ3BqVjZmdzBuX1psYktNSnJza0VBU0syV2JUTkVscXYtYlVUNkNjWEl2?oc=5",
-      "category": "church",
-      "source": "教会增长（国际）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-05",
-      "summary": "The Church in Britain is growing – and not only in places we can count Premier Christianity Magazine",
-      "summary_zh": "英国的教会正在成长–不仅仅是在我们可以计算的地方Premier Christianity Magazine",
-      "title_zh": "英国的教会正在成长--而且不仅仅是在我们可以计算的地方",
-      "content": "",
-      "author": "Premier Christianity Magazine",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.841101",
-      "extra": {
-        "provider": "google_news",
-        "query": "church growth planting",
-        "publisher": "Premier Christianity Magazine"
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "Global Lutheran leaders: Challenges abound, but Christ’s contentment rules - Lutheran Church",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZllVc1dsSE9mbWI0RWdRa244dUU3WlRvWl9PenMzWjlBSEM0S2ZsSjhSRFRtOUN5RlZNQ1NnQjNEeXlMbUdFbXV0d2xZeDRlY0h1RzFMLXpPQTNyM2hSd1JNVGFIRGswazdrcnBGTVM0bzVtTWRfOGFYbmFqRjFxNWQ4OE9ibTBQN0VmbjZpREcwODVnbWfSAZsBQVVfeXFMTzB2STdtMVZTUm9lMndhUUlBRTFFdUZsMHRsTFNDWEczdEtCYVVjWFNNdExtWDlFU2ZUVzdLbHpuOTdJNTRKLXlBSU9DaXBoMDdOU0tVX3NKeUZ4N08xbVBQZUk5NjhJV2M5ekFicDV0cU80VFZLdW11NlZLUmQ5ZDJranJvRkpDLXhvbjRRaW11T2hfUVlmbmFoVGc?oc=5",
-      "category": "church",
-      "source": "路德会 LCMS",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-05",
-      "summary": "Global Lutheran leaders: Challenges abound, but Christ’s contentment rules Lutheran Church - Missouri Synod",
-      "summary_zh": "全球路德教会领袖：挑战比比皆是，但基督的满足统治着路德教会 - 密苏里州主教",
-      "title_zh": "全球路德会领袖：挑战比比皆是，但基督的满足规则-路德会",
-      "content": "",
-      "author": "Missouri Synod",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-29T06:13:58.033458",
-      "extra": {
-        "provider": "google_news",
-        "query": "LCMS Lutheran church",
-        "publisher": "Missouri Synod"
-      },
-      "content_zh": ""
     }
   ]
 }

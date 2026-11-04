@@ -1,8 +1,8 @@
 {
   "category": "mission",
   "label": "宣教运动",
-  "count": 48,
-  "updated_at": "2026-11-03T12:30:35.549555+08:00",
+  "count": 49,
+  "updated_at": "2026-11-04T08:36:34.263202+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -172,6 +172,34 @@
         "feed_type": "rss20"
       },
       "id": "170aaefed4d834cc"
+    },
+    {
+      "title": "Christianity - Missions, SE Asia, Pacific",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFhWTmQ5VTNVYXJFUDlkQURaOGo2elJRWWxrN2E2SEVvWVJDdXFVbFVSTC1vOERQb190VVpjS21kX2hTOUZFTWdhWjlTQkdpWjBteUd0djk5ai1CZ3pVSlROZEtCMVJ4UmNEdkk5QkJ6dkxiUEFyY1ZZU002NVZfb2ZNZF9DZDNEaVRxWjh1VXBJWVE?oc=5",
+      "category": "mission",
+      "source": "非洲宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-03",
+      "summary": "Christianity - Missions, SE Asia, Pacific Britannica",
+      "summary_zh": "基督教 - 宣教、东南亚、太平洋 大英百科全书",
+      "title_zh": "基督教-宣教，东南亚，太平洋",
+      "content": "",
+      "content_zh": "",
+      "author": "Britannica",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-04T00:27:26.126787",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian mission Africa",
+        "publisher": "Britannica"
+      },
+      "id": "70579d4f3f87d830"
     },
     {
       "title": "God’s comfort",
@@ -377,7 +405,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.368786",
+      "fetched_at": "2026-11-04T00:27:26.127621",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -405,7 +433,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.368639",
+      "fetched_at": "2026-11-04T00:27:26.127328",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -460,7 +488,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.292436",
+      "fetched_at": "2026-11-04T00:27:25.339183",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -514,7 +542,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:40.614875",
+      "fetched_at": "2026-11-04T00:27:25.990297",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -542,7 +570,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:25.555986",
+      "fetched_at": "2026-11-04T00:27:25.454552",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -570,7 +598,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:25.941898",
+      "fetched_at": "2026-11-04T00:27:25.638658",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -677,7 +705,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:25.555501",
+      "fetched_at": "2026-11-04T00:27:25.453803",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -705,7 +733,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:25.904688",
+      "fetched_at": "2026-11-04T00:27:25.781398",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -811,7 +839,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.368903",
+      "fetched_at": "2026-11-04T00:27:26.127078",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -839,7 +867,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.369009",
+      "fetched_at": "2026-11-04T00:27:26.127880",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -895,7 +923,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:40.615448",
+      "fetched_at": "2026-11-04T00:27:25.991037",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -975,7 +1003,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:26.151729",
+      "fetched_at": "2026-11-04T00:27:25.890071",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -1031,7 +1059,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:25.556182",
+      "fetched_at": "2026-11-04T00:27:25.454877",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -1059,7 +1087,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:25.941533",
+      "fetched_at": "2026-11-04T00:27:25.638394",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -1114,7 +1142,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:40.388834",
+      "fetched_at": "2026-11-04T00:27:25.781782",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1142,7 +1170,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:40.389636",
+      "fetched_at": "2026-11-04T00:27:25.782491",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1170,7 +1198,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:40.388596",
+      "fetched_at": "2026-11-04T00:27:25.781603",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1198,7 +1226,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:40.389039",
+      "fetched_at": "2026-11-04T00:27:25.781952",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1226,7 +1254,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T03:58:40.389441",
+      "fetched_at": "2026-11-04T00:27:25.782281",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1254,7 +1282,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:25.904951",
+      "fetched_at": "2026-11-04T00:27:25.782655",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
