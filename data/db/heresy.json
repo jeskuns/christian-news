@@ -1,9 +1,39 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 19,
-  "updated_at": "2026-11-04T08:36:34.269145+08:00",
+  "count": 20,
+  "updated_at": "2026-11-05T08:56:31.182094+08:00",
   "articles": [
+    {
+      "title": "LDS Church wins one, loses one on abortion ballot measures",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXRQeDJZMTlNMEt0TjBMNVpURmVpNjdPVEkzY1pzMXJzVzdhVUo5RDNvU0NWN1VabW1vM0JUN3E1UjdIYjFkaGExV2JYQS02LWxJcFhQVTFaRjRmN2NVc09NNGJhREZBXzE1bk1KdzZuOUlYUUdWV2R5X2JJRzF5OA?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-04",
+      "summary": "LDS Church wins one, loses one on abortion ballot measures The Salt Lake Tribune",
+      "summary_zh": "摩门教徒教会在堕胎投票措施上赢了一场，输了一场 盐湖论坛报",
+      "title_zh": "LDS教会赢得一票，在堕胎投票措施中输掉一票",
+      "content": "",
+      "content_zh": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [
+        "堕胎"
+      ],
+      "priority": 2,
+      "fetched_at": "2026-11-05T00:47:12.833134",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      },
+      "id": "a0b1732c1350411c"
+    },
     {
       "title": "BOOM: Big 12 CRACKS DOWN on Anti-Church of Jesus Christ of Latter-day Saints Chants & Discrimination",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPZFpWSk9CRmx5dUdfdlpaQnRWQjRhQnZkNHBJdFpRRHJBOUdTa0VzRFdxaGYyNDVPNm1TOFQxbTR4SmdobmZZbG9VdXl3WGhsdm5sZTZBa2hYb0VwSkFvLUxuUGFMdlFzZUlFOEpLYVRtRHFoTG5zNTVhbHQ2NjQyQ2ZJdi1SaWpPRzI3ZVdkQVV2OHlzTzRhdnBJNndEekNQT0poNW9FYzZlZzNZWjkwQ3QtMS1xUnFhano2NHc3dFVidWFEZXhLUU1xT3N0Y2xfak5Ib1dYYmdINmZNcGFlZkMyd0dMUWpudjBRa0o4Yk5sZjVhdGp2Y0RaRDdUb3djSWdGZV9yTWxHY2NiNmROSjFCYlFfR1BLRzBzS0w2ZS1UTF83Z2s2NkNDWTRMVFRGSnpWT0FCdEIwQVdzSXc?oc=5",
@@ -52,7 +82,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:29.620005",
+      "fetched_at": "2026-11-05T00:47:12.833300",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -133,7 +163,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:29.620397",
+      "fetched_at": "2026-11-05T00:47:12.833621",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -189,7 +219,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:29.621622",
+      "fetched_at": "2026-11-05T00:47:12.833995",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -270,7 +300,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:29.782545",
+      "fetched_at": "2026-11-05T00:47:12.833476",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -409,7 +439,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:29.782731",
+      "fetched_at": "2026-11-05T00:47:12.834673",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -437,7 +467,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:29.620594",
+      "fetched_at": "2026-11-05T00:47:12.834139",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -465,7 +495,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-03T04:21:29.782002",
+      "fetched_at": "2026-11-05T00:47:12.834271",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",

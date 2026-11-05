@@ -2,7 +2,7 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 49,
-  "updated_at": "2026-11-04T08:36:34.263202+08:00",
+  "updated_at": "2026-11-05T08:56:31.183067+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -193,7 +193,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:26.126787",
+      "fetched_at": "2026-11-05T00:47:09.730889",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -433,7 +433,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:26.127328",
+      "fetched_at": "2026-11-05T00:47:09.731216",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -488,7 +488,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.339183",
+      "fetched_at": "2026-11-05T00:47:09.391366",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -705,7 +705,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.453803",
+      "fetched_at": "2026-11-05T00:47:08.933708",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -733,7 +733,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.781398",
+      "fetched_at": "2026-11-05T00:47:09.477360",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -839,7 +839,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:26.127078",
+      "fetched_at": "2026-11-05T00:47:09.731061",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -1003,7 +1003,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.890071",
+      "fetched_at": "2026-11-05T00:47:09.570124",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -1087,7 +1087,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.638394",
+      "fetched_at": "2026-11-05T00:47:09.349133",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -1282,7 +1282,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.782655",
+      "fetched_at": "2026-11-05T00:47:09.477739",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
