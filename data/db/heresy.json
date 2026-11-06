@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 20,
-  "updated_at": "2026-11-05T08:56:31.182094+08:00",
+  "count": 21,
+  "updated_at": "2026-11-06T08:57:29.585896+08:00",
   "articles": [
     {
       "title": "LDS Church wins one, loses one on abortion ballot measures",
@@ -54,7 +54,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:29.621102",
+      "fetched_at": "2026-11-06T00:50:17.608755",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -82,7 +82,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-05T00:47:12.833300",
+      "fetched_at": "2026-11-06T00:50:17.608517",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -300,7 +300,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-05T00:47:12.833476",
+      "fetched_at": "2026-11-06T00:50:17.609003",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -439,13 +439,41 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-05T00:47:12.834673",
+      "fetched_at": "2026-11-06T00:50:17.608884",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Atlantic"
       },
       "id": "a6533386abda7ee1"
+    },
+    {
+      "title": "How a pro-LDS Church podcast might have just complicated the faith’s case against ‘Mormon Stories’",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5idWtlUkZwTkNxQ3UyWm5PdFg5NGFuTkJQVklCbXQ1NW15R0doWjhCQVQ0enJqR0hqZE9mNmxYZHdRcjhHRG5zWW42VFVjb0lrMjdiTXEzU3ZrTVRyOFI2b1lSLXJjVVRDc0VGVmlXeS1IeEczYzJBNzg5QXJMUQ?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-30",
+      "summary": "How a pro-LDS Church podcast might have just complicated the faith’s case against ‘Mormon Stories’ The Salt Lake Tribune",
+      "summary_zh": "支持摩门教教会的播客可能会让该信仰反对“摩门教故事”的案件变得复杂化",
+      "title_zh": "支持LDS的教会播客如何使信仰反对“摩门教故事”的案例复杂化",
+      "content": "",
+      "content_zh": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T00:50:17.608634",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      },
+      "id": "534f8bcffbfddfef"
     },
     {
       "title": "Fewer Americans raised Mormon are staying in the faith, study finds",
@@ -467,7 +495,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-05T00:47:12.834139",
+      "fetched_at": "2026-11-06T00:50:17.608051",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -495,7 +523,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-05T00:47:12.834271",
+      "fetched_at": "2026-11-06T00:50:17.608168",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
