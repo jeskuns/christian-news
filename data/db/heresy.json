@@ -1,9 +1,37 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 22,
-  "updated_at": "2026-11-07T08:09:56.378001+08:00",
+  "count": 23,
+  "updated_at": "2026-11-08T07:36:20.233516+08:00",
   "articles": [
+    {
+      "title": "LDS Church joins the tech gold rush, leasing some of its ranchland for a data center",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1lHRFctZU5Kak9Db01aTFJVYzhEa1RoSnYzNEtpWWlCcGtkd3d2TjlveUdRQ1JUZGdYMmlxTGRaM2RRT1NabFA5cE0wcUNmaUxsYk8tNGItYV9sbm9NR2M5bmRndGZvbXA3RGtoSy0zRkRIM2ZmaWoyTWtxU0NvQw?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-06",
+      "summary": "LDS Church joins the tech gold rush, leasing some of its ranchland for a data center The Salt Lake Tribune",
+      "summary_zh": "后期圣徒教会加入科技淘金热，将其部分牧场租赁给数据中心《盐湖论坛报》",
+      "title_zh": "LDS教会加入科技淘金热，租赁部分牧场作为数据中心",
+      "content": "",
+      "content_zh": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-07T23:29:34.175816",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      },
+      "id": "85a27daa4cc876a5"
+    },
     {
       "title": "LDS Church wins one, loses one on abortion ballot measures",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXRQeDJZMTlNMEt0TjBMNVpURmVpNjdPVEkzY1pzMXJzVzdhVUo5RDNvU0NWN1VabW1vM0JUN3E1UjdIYjFkaGExV2JYQS02LWxJcFhQVTFaRjRmN2NVc09NNGJhREZBXzE1bk1KdzZuOUlYUUdWV2R5X2JJRzF5OA?oc=5",
@@ -219,7 +247,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.499449",
+      "fetched_at": "2026-11-07T23:29:34.177086",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -439,7 +467,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.499087",
+      "fetched_at": "2026-11-07T23:29:34.176752",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -495,7 +523,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.497967",
+      "fetched_at": "2026-11-07T23:29:34.176454",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -523,7 +551,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.497524",
+      "fetched_at": "2026-11-07T23:29:34.176152",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -578,7 +606,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.497209",
+      "fetched_at": "2026-11-07T23:29:34.175632",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",

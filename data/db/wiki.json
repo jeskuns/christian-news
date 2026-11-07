@@ -1,8 +1,8 @@
 {
   "category": "wiki",
   "label": "百科背景",
-  "count": 47,
-  "updated_at": "2026-11-07T08:09:56.347675+08:00",
+  "count": 49,
+  "updated_at": "2026-11-08T07:36:20.202598+08:00",
   "articles": [
     {
       "title": "Christian denomination",
@@ -50,7 +50,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.617868",
+      "fetched_at": "2026-11-07T23:29:34.060287",
       "extra": {
         "wordcount": 13167
       },
@@ -76,7 +76,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.617852",
+      "fetched_at": "2026-11-07T23:29:34.060269",
       "extra": {
         "wordcount": 2469
       },
@@ -102,7 +102,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.900723",
+      "fetched_at": "2026-11-07T23:29:34.256525",
       "extra": {
         "wordcount": 31256
       },
@@ -128,7 +128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.900755",
+      "fetched_at": "2026-11-07T23:29:34.256557",
       "extra": {
         "wordcount": 5737
       },
@@ -154,7 +154,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.900740",
+      "fetched_at": "2026-11-07T23:29:34.256542",
       "extra": {
         "wordcount": 3118
       },
@@ -180,7 +180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.274959",
+      "fetched_at": "2026-11-07T23:29:34.585465",
       "extra": {
         "wordcount": 25600
       },
@@ -206,7 +206,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.274981",
+      "fetched_at": "2026-11-07T23:29:34.585488",
       "extra": {
         "wordcount": 9244
       },
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.632220",
+      "fetched_at": "2026-11-07T23:29:34.895640",
       "extra": {
         "wordcount": 26795
       },
@@ -258,7 +258,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.632245",
+      "fetched_at": "2026-11-07T23:29:34.895663",
       "extra": {
         "wordcount": 3170
       },
@@ -310,7 +310,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.930871",
+      "fetched_at": "2026-11-07T23:29:35.094068",
       "extra": {
         "wordcount": 23131
       },
@@ -336,7 +336,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.930924",
+      "fetched_at": "2026-11-07T23:29:35.094090",
       "extra": {
         "wordcount": 252
       },
@@ -362,7 +362,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.930905",
+      "fetched_at": "2026-11-07T23:29:35.094119",
       "extra": {
         "wordcount": 12292
       },
@@ -388,7 +388,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.274999",
+      "fetched_at": "2026-11-07T23:29:34.585522",
       "extra": {
         "wordcount": 8703
       },
@@ -414,7 +414,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.617829",
+      "fetched_at": "2026-11-07T23:29:34.060245",
       "extra": {
         "wordcount": 33528
       },
@@ -440,7 +440,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:16.900704",
+      "fetched_at": "2026-11-07T23:29:34.256508",
       "extra": {
         "wordcount": 29554
       },
@@ -466,7 +466,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.632293",
+      "fetched_at": "2026-11-07T23:29:34.895701",
       "extra": {
         "wordcount": 1499
       },
@@ -518,11 +518,115 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:17.930955",
+      "fetched_at": "2026-11-07T23:29:35.094151",
       "extra": {
         "wordcount": 348
       },
       "id": "8cf66a7b105faa24"
+    },
+    {
+      "title": "Armenian Catholic Church",
+      "url": "https://en.wikipedia.org/wiki/Armenian_Catholic_Church",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-07",
+      "summary": "The Armenian Catholic Church is an Eastern Catholic particular church sui iuris of the Catholic Church. It accepts the leadership of the bishop of Rome",
+      "summary_zh": "亚美尼亚天主教会是天主教会的一个东方天主教特殊教会。它接受罗马主教的领导",
+      "title_zh": "亚美尼亚天主教会",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-07T23:29:34.585506",
+      "extra": {
+        "wordcount": 2563
+      },
+      "id": "2c2d12a069da6a80"
+    },
+    {
+      "title": "History of the Eastern Orthodox Church",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Eastern_Orthodox_Church",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-07",
+      "summary": "Eastern Orthodox Church is the formation, events, and transformation of the Eastern Orthodox Church through time. According to the Eastern Orthodox tradition",
+      "summary_zh": "东正教是东正教随时间的形成、事件和转变。根据东正教传统",
+      "title_zh": "东正教历史",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-07T23:29:34.895684",
+      "extra": {
+        "wordcount": 12390
+      },
+      "id": "a0c1be18c72d1fbe"
+    },
+    {
+      "title": "黑暗聖經",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9A%97%E8%81%96%E7%B6%93",
+      "category": "wiki",
+      "source": "Wikipedia (zh)",
+      "source_url": "https://zh.wikipedia.org/w/api.php",
+      "published": "2026-11-07",
+      "summary": "《黑魔術學園》（或譯作《黑暗聖經》，日文原名バイブルブラック，即英文Bible Black）是2000年由日本Active公司製作的一款十八禁遊戲，原画和脚本制作者是著名的“圣少女”。此作是“圣少女”受雇Active时期六部原画作品的第五部、出任原作者后“三部曲”中的第二部。 因为游戏的情节和画风受业内好评，2002年由Milky",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-07T23:29:34.767207",
+      "extra": {
+        "wordcount": 1037
+      },
+      "id": "bb5595c2c15bd71a"
+    },
+    {
+      "title": "Jewish Christianity",
+      "url": "https://en.wikipedia.org/wiki/Jewish_Christianity",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-07",
+      "summary": "Jewish Christianity is the historical foundation of Early Christianity, which later developed into Nicene Christianity (which comprises the Catholic,",
+      "summary_zh": "犹太基督教是早期基督教的历史基础，后来发展成为尼西亚基督教（包括天主教，",
+      "title_zh": "犹太基督教",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-07T23:29:34.060303",
+      "extra": {
+        "wordcount": 16598
+      },
+      "id": "e544cf152334a6ab"
     },
     {
       "title": "Hebrew Bible",
@@ -549,58 +653,6 @@
         "wordcount": 8302
       },
       "id": "acee765e476650e4"
-    },
-    {
-      "title": "Armenian Catholic Church",
-      "url": "https://en.wikipedia.org/wiki/Armenian_Catholic_Church",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-05",
-      "summary": "The Armenian Catholic Church is an Eastern Catholic particular church sui iuris of the Catholic Church. It accepts the leadership of the bishop of Rome",
-      "summary_zh": "亚美尼亚天主教会是天主教会的一个东方天主教特殊教会。它接受罗马主教的领导",
-      "title_zh": "亚美尼亚天主教会",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-05T00:47:13.321503",
-      "extra": {
-        "wordcount": 2563
-      },
-      "id": "2c2d12a069da6a80"
-    },
-    {
-      "title": "History of the Eastern Orthodox Church",
-      "url": "https://en.wikipedia.org/wiki/History_of_the_Eastern_Orthodox_Church",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-05",
-      "summary": "Eastern Orthodox Church is the formation, events, and transformation of the Eastern Orthodox Church through time. According to the Eastern Orthodox tradition",
-      "summary_zh": "东正教是东正教随时间的形成、事件和转变。根据东正教传统",
-      "title_zh": "东正教历史",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-05T00:47:13.665938",
-      "extra": {
-        "wordcount": 12390
-      },
-      "id": "a0c1be18c72d1fbe"
     },
     {
       "title": "基督教",

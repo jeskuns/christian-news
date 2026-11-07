@@ -1,8 +1,8 @@
 {
   "category": "theology",
   "label": "神学与合一",
-  "count": 75,
-  "updated_at": "2026-11-07T08:09:56.344179+08:00",
+  "count": 74,
+  "updated_at": "2026-11-08T07:36:20.199554+08:00",
   "articles": [
     {
       "title": "Global Prayer for Peace in Ukraine",
@@ -24,7 +24,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.789998",
+      "fetched_at": "2026-11-07T23:29:33.233777",
       "extra": {
         "feed_type": "rss20"
       },
@@ -50,7 +50,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.793342",
+      "fetched_at": "2026-11-07T23:29:33.237727",
       "extra": {
         "feed_type": "rss20"
       },
@@ -76,7 +76,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.795798",
+      "fetched_at": "2026-11-07T23:29:33.240870",
       "extra": {
         "feed_type": "rss20"
       },
@@ -102,7 +102,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.805327",
+      "fetched_at": "2026-11-07T23:29:33.251112",
       "extra": {
         "feed_type": "rss20"
       },
@@ -128,7 +128,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.786867",
+      "fetched_at": "2026-11-07T23:29:33.229693",
       "extra": {
         "feed_type": "rss20"
       },
@@ -154,7 +154,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.809244",
+      "fetched_at": "2026-11-07T23:29:33.258241",
       "extra": {
         "feed_type": "rss20"
       },
@@ -180,7 +180,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.813111",
+      "fetched_at": "2026-11-07T23:29:33.263129",
       "extra": {
         "feed_type": "rss20"
       },
@@ -206,7 +206,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.814954",
+      "fetched_at": "2026-11-07T23:29:33.265461",
       "extra": {
         "feed_type": "rss20"
       },
@@ -232,7 +232,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.773550",
+      "fetched_at": "2026-11-07T23:29:33.214606",
       "extra": {
         "feed_type": "rss20"
       },
@@ -258,7 +258,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.807174",
+      "fetched_at": "2026-11-07T23:29:33.255494",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1228,7 +1228,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:14.702097",
+      "fetched_at": "2026-11-07T23:29:32.277827",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -1409,12 +1409,12 @@
       "source": "Modern Reformation",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-09-11",
-      "summary": "The Irreverency of Speculation: What Paul Teaches Us About Conspiracies Modern Reformation Magazine",
-      "summary_zh": "投机的无礼：保罗教给我们关于阴谋的内容 现代宗教改革杂志",
+      "summary": "The Irreverency of Speculation: What Paul Teaches Us About Conspiracies Modern Reformation",
+      "summary_zh": "投机的无礼：保罗教导我们关于阴谋的现代宗教改革",
       "title_zh": "投机的无礼：保罗教给我们关于阴谋的知识",
       "content": "",
       "content_zh": "",
-      "author": "Modern Reformation Magazine",
+      "author": "Modern Reformation",
       "tags": [],
       "language": "en",
       "country": "US",
@@ -1422,11 +1422,11 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:14.822841",
+      "fetched_at": "2026-11-07T23:29:32.451715",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
-        "publisher": "Modern Reformation Magazine"
+        "publisher": "Modern Reformation"
       },
       "id": "68b3af07c539d401"
     },
@@ -1506,7 +1506,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:15.212113",
+      "fetched_at": "2026-11-07T23:29:32.926561",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -1927,34 +1927,6 @@
         "publisher": "First Things"
       },
       "id": "25d485c1ec56acfd"
-    },
-    {
-      "title": "Ecumenical Institute brings emerging theologians together across North America–Turtle Island",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaGs4MkxSSVpSdTJJdm5XOGJrWHhwTVladF9jeTJyS2c5d0RqYUhILUlHUktaOWFORW5pYVI3NEExcjdXZ2JIendWOWxlRDFJUzBvQXFxbmxxTFlUVUFIZUtuQWNWcXV2OUdkYV9KTDhBT3MtU19FYzVRTTQ2cDRTbG1UQ290aEdNZ1NNdXdqRU5xQmlUSjRnVXVRYlozdjNHZVNHSzI5OF9QVElSQkVtaXdtLThRMDdjWjc2dU14UWM?oc=5",
-      "category": "theology",
-      "source": "合一运动（国际）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-13",
-      "summary": "Ecumenical Institute brings emerging theologians together across North America–Turtle Island World Council of Churches",
-      "summary_zh": "普世教会研究所汇集了北美新兴的神学家--海龟岛世界教会理事会",
-      "title_zh": "普世教会研究所汇集了北美-海龟岛的新兴神学家",
-      "content": "",
-      "content_zh": "",
-      "author": "World Council of Churches",
-      "tags": [],
-      "language": "en",
-      "country": "CH",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-07T00:00:14.700778",
-      "extra": {
-        "provider": "google_news",
-        "query": "ecumenical council theology",
-        "publisher": "World Council of Churches"
-      },
-      "id": "16722368a685db2b"
     },
     {
       "title": "Do Reformed Christians Care About the Holy Spirit?",
