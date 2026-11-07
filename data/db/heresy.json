@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 21,
-  "updated_at": "2026-11-06T08:57:29.585896+08:00",
+  "count": 22,
+  "updated_at": "2026-11-07T08:09:56.378001+08:00",
   "articles": [
     {
       "title": "LDS Church wins one, loses one on abortion ballot measures",
@@ -26,7 +26,7 @@
         "堕胎"
       ],
       "priority": 2,
-      "fetched_at": "2026-11-05T00:47:12.833134",
+      "fetched_at": "2026-11-07T00:00:16.497661",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -144,34 +144,6 @@
       "content_zh": ""
     },
     {
-      "title": "UCF fined for fans' chants at BYU; Big 12 sets policy with in-game penalties",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGdxOUZaQW0yVWRHR2JQZFlaaGJfOGdjdWhid1FvWWViaTF1WDVYekEwS3hjY0Vna1dvaDFLWUZ1d1RGWHdTM08xYWxsWWtDZm5yZy02aVRnOXZPN3ZtOTdfLWZZczViQ3BKS1NqTjFKcTNZa2hQQkp1NTUtYTdsR2hsT1ptdjA3LWhmYkpGcHBOQ3RINkgycEtkOE85Q01qTktCaHM1LXpEYlBiREE?oc=5",
-      "category": "heresy",
-      "source": "摩门教 LDS",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-10-29",
-      "summary": "UCF fined for fans' chants at BYU; Big 12 sets policy with in-game penalties ESPN",
-      "summary_zh": "UCF因球迷在杨百翰大学高喊口号而被罚款； Big 12 制定了赛内处罚政策 ESPN",
-      "title_zh": "UCF因球迷在杨百翰大学高喊口号而被罚款； Big 12 制定了游戏内处罚政策",
-      "content": "",
-      "content_zh": "",
-      "author": "ESPN",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-05T00:47:12.833621",
-      "extra": {
-        "provider": "google_news",
-        "query": "Mormon LDS church",
-        "publisher": "ESPN"
-      },
-      "id": "6110cfd1f6b13432"
-    },
-    {
       "title": "Latest from Mormon Land: Historian Richard Bushman sought a blessing from a surprising apostle",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92Yno5aUhEUEMxQ3pndi1LWFpvU0wzV2JaUmxJZThWcjVlU3ZUaE9CT3dDTkh1YXBkUTNQdlBFMG1obDJaWHFlZlN3VUF4Z0h4UUxtTTB1TFQ3emR6ZEwxVzltQ1R4cDlCNnhVQ0hsbVU5ZEh5S3p2Q2Zpc2c1UQ?oc=5",
       "category": "heresy",
@@ -226,6 +198,34 @@
         "publisher": "Cronkite News"
       },
       "id": "b9b6c2d0985c27e9"
+    },
+    {
+      "title": "UCF fined for fans' chants at BYU; Big 12 sets policy with in-game penalties",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGdxOUZaQW0yVWRHR2JQZFlaaGJfOGdjdWhid1FvWWViaTF1WDVYekEwS3hjY0Vna1dvaDFLWUZ1d1RGWHdTM08xYWxsWWtDZm5yZy02aVRnOXZPN3ZtOTdfLWZZczViQ3BKS1NqTjFKcTNZa2hQQkp1NTUtYTdsR2hsT1ptdjA3LWhmYkpGcHBOQ3RINkgycEtkOE85Q01qTktCaHM1LXpEYlBiREE?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-28",
+      "summary": "UCF fined for fans' chants at BYU; Big 12 sets policy with in-game penalties ESPN",
+      "summary_zh": "UCF因球迷在杨百翰大学高喊口号而被罚款； Big 12 制定了赛内处罚政策 ESPN",
+      "title_zh": "UCF因球迷在杨百翰大学高喊口号而被罚款； Big 12 制定了游戏内处罚政策",
+      "content": "",
+      "content_zh": "",
+      "author": "ESPN",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-07T00:00:16.499449",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "ESPN"
+      },
+      "id": "6110cfd1f6b13432"
     },
     {
       "title": "‘Mormon Land’: As a presidential candidate, Joseph Smith was ‘anti-slavery,’ but he was no abolitionist",
@@ -439,7 +439,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:17.608884",
+      "fetched_at": "2026-11-07T00:00:16.499087",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -495,7 +495,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:17.608051",
+      "fetched_at": "2026-11-07T00:00:16.497967",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -523,7 +523,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:17.608168",
+      "fetched_at": "2026-11-07T00:00:16.497524",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -557,6 +557,34 @@
         "publisher": "腾讯新闻"
       },
       "content_zh": ""
+    },
+    {
+      "title": "The Mormon church is expanding its real-estate empire across the United States: ‘They’re opportunists in a very calculated way’",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTTR0YlZseElQcnVmRGFQd0gyZm5jM3BtVnRMNzlfdV80XzRscDR2SnVaLTB5cmlnUXkwRTQ2TUg1XzY5MUlCSzAtblBnblpQUmJaR2FOWG1vSnEwMHRTUDdJUk0telUzaGRRbl9ZampNZUZLNU9jWGQtckk5RFhZeVJyaEk0VGxQYUxLWFpxV1h3aGY1Z3pnX2lLckpRZ2tuTXZkN1RoYmlpRXhnYThDWnk5ckRIWEU4UV93UEtZZWNaU2NMYUl0VjluNFJkcDUyVVJHMWdPVkdJTDNxQThNR2FIM2xWXy10RXFIc1dfZS04SWFCRTBxU0VMQlRGbFnSAZMCQVVfeXFMTVh2SEE1UkMzdmhUSG0yUDhad3pNQUVnQ0ZyUUxBemVISWFsVEd6WWdPcFJaMG4yeXJpb3lpRXhkaXM2eHZGRGIxajF2dWZnbmR1OEpIajZ3aFcyd3FnV093LU5wSjVpczQzR1loMjVYNnNnZkxsTUthd2F5WG9DTVNDVndaNUlfM1diUGZjaVdscjBoU0NnYjZqQldQeHNza1RJc0Q3a3hXQk90eWRrbDhJYXRvQk83bk5rdmZ3QWhGcWNYT2dlYkZjTkNVTUt4eU5QWEE1VzlEZ3h2ZVg0MDk4QXpHOTU1ODh2RmpNYlpkS085Yk51YWlTSmZWNmpRZEVadENvaFljdVlQbTdUM21Tc2M?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-20",
+      "summary": "The Mormon church is expanding its real-estate empire across the United States: ‘They’re opportunists in a very calculated way’ EL PAÍS English",
+      "summary_zh": "摩门教正在全美扩张其房地产帝国：“他们是精心策划的机会主义者” EL PAÍS",
+      "title_zh": "摩门教会正在美国各地扩张其房地产帝国： “他们是非常有计划的机会主义者”",
+      "content": "",
+      "content_zh": "",
+      "author": "EL PAÍS English",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-07T00:00:16.497209",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "EL PAÍS English"
+      },
+      "id": "ef9fa3f230f396e7"
     },
     {
       "title": "10th Circuit affirms dismissal of Mormon church tithing fraud class action as too late",

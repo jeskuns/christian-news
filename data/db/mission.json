@@ -1,8 +1,8 @@
 {
   "category": "mission",
   "label": "宣教运动",
-  "count": 49,
-  "updated_at": "2026-11-06T08:57:29.586754+08:00",
+  "count": 51,
+  "updated_at": "2026-11-07T08:09:56.379157+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -433,7 +433,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:14.666291",
+      "fetched_at": "2026-11-07T00:00:13.469257",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -488,7 +488,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:14.222203",
+      "fetched_at": "2026-11-07T00:00:13.093578",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -705,7 +705,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:13.994693",
+      "fetched_at": "2026-11-07T00:00:12.876576",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -733,7 +733,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:14.401882",
+      "fetched_at": "2026-11-07T00:00:13.278771",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -839,7 +839,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:14.666141",
+      "fetched_at": "2026-11-07T00:00:13.469036",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -932,6 +932,34 @@
       "id": "e13e50f5a9018883"
     },
     {
+      "title": "UN panel cites India for discrimination against Christians, Muslims",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXNNbVJHNWFKc1FWVERFWS1lRjFSM0J1OWtORXJQckl2WWpfdVViMHo0b3ZBOHY2eWdlRVZKRHptVDVMcUtMaHhsQWN4MHJPbGg1RlF5UjVDN1ZROGRQX2htck5DNzV2QU9ZQ3pSaEswMUJfSVplZGZ3cnJMRmZfVVc0T3plaGo4amlyWTROVXBCem1yc19UMGthdE5tdDltVXNjcA?oc=5",
+      "category": "mission",
+      "source": "伊斯兰宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-02",
+      "summary": "UN panel cites India for discrimination against Christians, Muslims www.christiandaily.com",
+      "summary_zh": "联合国小组指责印度歧视基督徒和穆斯林 www.christiandaily.com",
+      "title_zh": "联合国小组指责印度歧视基督徒和穆斯林",
+      "content": "",
+      "content_zh": "",
+      "author": "www.christiandaily.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-07T00:00:13.333293",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian mission to Muslims",
+        "publisher": "www.christiandaily.com"
+      },
+      "id": "62e5dc744e53b2fc"
+    },
+    {
       "title": "在華宣教士司徒雷登誕辰150週年 中國多地展開紀念活動",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43M0J5ZXB0bWZ0SUlWN1c3VHoxOEtOZF81ckYwVFJkNERUNXRJeTZCcjAyMm9oS0ZlSFZEUVBqcVRqNG5lU09FZXkyR09XLTFTV09TSnJuSGlkYjVLMGZ0ZFFtZ1pQOGFZT3Utek1Faw?oc=5",
       "category": "mission",
@@ -1003,7 +1031,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:14.338307",
+      "fetched_at": "2026-11-07T00:00:13.307634",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -1087,7 +1115,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:14.232679",
+      "fetched_at": "2026-11-07T00:00:12.984771",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -1316,6 +1344,34 @@
         "publisher": "Serving in Mission"
       },
       "content_zh": ""
+    },
+    {
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ibUxfZ3M2ZUlmakNhOF9zUEFDSzh3VWI1SW5RMWR3SkFCNHNoUE9pTjJrS3g5YjZvdmczQ2NlM05rdjAwenpYLTRVTnNaXzdIRmlsSU84OS02UQ?oc=5",
+      "category": "mission",
+      "source": "SIM 宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-14",
+      "summary": "US missionary released following kidnap in Niger, Christian group says BBC",
+      "summary_zh": "基督教组织称，美国传教士在尼日尔被绑架后获释",
+      "title_zh": "基督教组织称，美国传教士在尼日尔被绑架后获释",
+      "content": "",
+      "content_zh": "",
+      "author": "BBC",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-07T00:00:13.279213",
+      "extra": {
+        "provider": "google_news",
+        "query": "SIM mission Africa",
+        "publisher": "BBC"
+      },
+      "id": "61c3c19de1db2ea3"
     },
     {
       "title": "廿六年跨文化宣教：國際關懷協會會長黃亮宇回顧差會發展歷程",
