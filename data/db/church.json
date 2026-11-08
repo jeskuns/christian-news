@@ -1,9 +1,289 @@
 {
   "category": "church",
   "label": "教会与机构",
-  "count": 293,
-  "updated_at": "2026-11-08T07:36:20.225760+08:00",
+  "count": 305,
+  "updated_at": "2026-11-09T07:35:16.243202+08:00",
   "articles": [
+    {
+      "title": "Psychology Today claims porn beneficial, draws rebuke of ERLC’s Lenow",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmdFTzhJQWR3RjY3bUFZNWt3YU9qd293VVE3ZzZaTUlBb3N3QTJsdjZBU0twb1RMUEtSdmlGbjBzSi1jVWczb0djVUlPaXU4XzI3Yzg4d2JrUkMyZjZZbDc3ZS1aOUhXLUY5V2N0bVBQYzBqaGNMTk5VYzFod3FIQXZXSVpKRENqZ3h4NWZCVnY5bXcwYWU0OW9zOVI4YmtOY21qUzlIbDkzZHB3a1lnSjhUV0RJakk0NTYw?oc=5",
+      "category": "church",
+      "source": "Baptist Press",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "Psychology Today claims porn beneficial, draws rebuke of ERLC’s Lenow Baptist Press",
+      "summary_zh": "《今日心理学》声称色情有益，招致 ERLC 的 Lenow Baptist Press 的谴责",
+      "title_zh": "《今日心理学》声称色情有益，并谴责ERLC的Lenow",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist Press",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:46.283438",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist Press",
+        "publisher": "Baptist Press"
+      },
+      "id": "b079f669d7e01b16"
+    },
+    {
+      "title": "Supporting families who are raising relatives’ children",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQktOWHVjV1lYOTJ6WmlqWVRvUXp2Ukx1OVhuTFhhZnctVlhqZXdoSTVsMkpvcV9wV01jbEdocjZPdjZjbGZ2dF9zdTJmVUl4dFFsdThrTjctZ2hlTDFvQWIzaUhmXzliaXgxQmxla3ZhV1o0TVh3ekRrcm85NWZkQ0NudDFyRlpBOEx5MGdNdnQ?oc=5",
+      "category": "church",
+      "source": "Baptist News Global",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "Supporting families who are raising relatives’ children Baptist News Global",
+      "summary_zh": "为抚养亲戚子女的家庭提供支持《浸信会全球新闻》",
+      "title_zh": "为抚养亲戚子女的家庭提供支持",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist News Global",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:46.742813",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist News Global",
+        "publisher": "Baptist News Global"
+      },
+      "id": "a006bfba61d4a06b"
+    },
+    {
+      "title": "Caring for God’s creation is a chance to move beyond politics",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTW5pZ2xPNWFQNFl4Sm8zelRYb0hGQkUweVdVN2ZSS2NEdGtJTXU4dTZ5dXVKdktrOHJQbGN1eEEwanp3QW1FdmsxLVdaN3BCRFNISXhtTHNfVmVFYUhUbmFlNTFfOFBkSWF5MDgtXy1EUUozZjVia2h5NVlKVV9jR3NINmF0M1RoTkJNUVlmaTl1ZWlXUmh3Vw?oc=5",
+      "category": "church",
+      "source": "Baptist News Global",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "Caring for God’s creation is a chance to move beyond politics Baptist News Global",
+      "summary_zh": "关心上帝的创造是一个超越政治的机会Baptist News Global",
+      "title_zh": "关心上帝的创造是一个超越政治的机会",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist News Global",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:46.742945",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist News Global",
+        "publisher": "Baptist News Global"
+      },
+      "id": "3e7f2001397502f9"
+    },
+    {
+      "title": "Understanding the classics as tools for survival",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWERYMXQya2ljZHBGcHVXMURaVEF2Yl8zRzdXTFhrb3BhWHVUeTJSbWVLNXlORnlRUXp1X0JPU3g3eG5OOVFKYVQ5NExUbXFPVmVla2NMUUhqWW9KMjhMRk5jTkpDTUdGSVVoa01kaTVjb0sxM2ppM2RFeEdTb0FLTzJfa2lhcWsx?oc=5",
+      "category": "church",
+      "source": "Baptist News Global",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "Understanding the classics as tools for survival Baptist News Global",
+      "summary_zh": "了解经典作为全球浸信会新闻生存工具",
+      "title_zh": "了解经典作为生存工具",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist News Global",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:46.743064",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist News Global",
+        "publisher": "Baptist News Global"
+      },
+      "id": "f88f679168637857"
+    },
+    {
+      "title": "Here’s who’s behind the next Capitol insurrection",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0FnVXBLUnBhUmUtOU5wTlNyR2lnVkZVVW5RTFgzaFNFQXJkNDhfZE1FOFI3TFpqOWs1MXUxaXBZa2pWdzUydUhMR0pEM0ZrNU56eGo1YkhWRU5sMF9hbmxudWNFNXV6anQ1aFhDWnpLTWhZM0VEZGFEYlYtR2pvZnVndHJaZEE?oc=5",
+      "category": "church",
+      "source": "Baptist News Global",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "Here’s who’s behind the next Capitol insurrection Baptist News Global",
+      "summary_zh": "这是下一届国会大厦起义背后的人浸信会新闻全球",
+      "title_zh": "这是下一次国会大厦起义的幕后推手",
+      "content": "",
+      "content_zh": "",
+      "author": "Baptist News Global",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:46.743171",
+      "extra": {
+        "provider": "google_news",
+        "query": "Baptist News Global",
+        "publisher": "Baptist News Global"
+      },
+      "id": "03dbff83cd9e4413"
+    },
+    {
+      "title": "Orthodox Christian church in former Jewish synagogue prepares to build new church",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUXdnemotNHhmaHF3d3VvRHNOVm5URmJMZjVSRE15UFlFNTJQN0NWZFhZeUVQZjktQktiYURVNlpfemhyd3h2RkFsTW5ONXIzOEYxWFJFUUR6QUdwLTY0MjU2dTVOSUo0U2hrTE5OaHlkSnZkZU40cVZGNDRzWEVOM3B1ZElzRGxXMzRGU09jSkdYaE5jcTc5M2o5TG1zMUF6RGwtOTE1VW1tOGtlamtvbFlTbThzc0RySmc?oc=5",
+      "category": "church",
+      "source": "东正教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "Orthodox Christian church in former Jewish synagogue prepares to build new church KSL News",
+      "summary_zh": "前犹太教堂东正教教堂准备建造新教堂KSL新闻",
+      "title_zh": "前犹太教堂中的东正教教堂准备建造新教堂",
+      "content": "",
+      "content_zh": "",
+      "author": "KSL News",
+      "tags": [],
+      "language": "en",
+      "country": "GR",
+      "region": "欧洲",
+      "stance": "orthodox",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:47.060397",
+      "extra": {
+        "provider": "google_news",
+        "query": "Orthodox Christianity church",
+        "publisher": "KSL News"
+      },
+      "id": "f5262f6e285b1b1f"
+    },
+    {
+      "title": "Orthodox Church Plans New Kearns Building Amid Growth",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM011RzhxcGhOSDJVeEUxVkF1MnBzSVBBSHJETmZMdGpiMUhSYnY5TTdSSDV5VnNxNzl1SFFJR1g2QmJVNDZpY2lHeTVHY0lSN1RkemYteUdlVllHb1hlTV9HZG5MWlFPYkJlN1o0Q3BaclNRQW1iWkVJUVAzMmZQWjN6QzY0bTZfcnZiZkVGQTFEQkZORDl3RDZqblVZMHlWamtYWG55WXpNUVhUYjl1dlAydkdYWjA2UF9BYUp3?oc=5",
+      "category": "church",
+      "source": "东正教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "Orthodox Church Plans New Kearns Building Amid Growth Hoodline",
+      "summary_zh": "东正教教堂计划在增长的连帽衫中建造新的Kearns大楼",
+      "title_zh": "东正教会在增长中规划新的Kearns大楼",
+      "content": "",
+      "content_zh": "",
+      "author": "Hoodline",
+      "tags": [],
+      "language": "en",
+      "country": "GR",
+      "region": "欧洲",
+      "stance": "orthodox",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:47.060527",
+      "extra": {
+        "provider": "google_news",
+        "query": "Orthodox Christianity church",
+        "publisher": "Hoodline"
+      },
+      "id": "8ee63098520d0485"
+    },
+    {
+      "title": "Free family fun, holiday shopping and more: First United Methodist Church Missouri City's Fall Festival returns Nov. 14",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcDFJOVFrUE1EX3BCbHc0dkJqNktSdk5jWWtOV3B0aTdqcW85cmdXUlJYdHNraVBlNjBrbFVRT1BSLXc5S2wzbFlocS1iQUJDbGxsRmJOVzFQMEllRGk5OHN5TmVaN09raE1Gd2pGUmh1azlCb04xNzJyYVV6b1BpMmFIN05KUmFHYk5TaXVJa3hYQU92Rkx4TE5OZHVLY3lsQXlXLUVrbHhZcW9ITzk4TmRGbGQ1TVctY1JzYWNiLXd3T0NKMjJBNm1FSTJUZnpxTDhHSHFYcXlucUlYc084VExTZWpXY2FpVFk0?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "Free family fun, holiday shopping and more: First United Methodist Church Missouri City's Fall Festival returns Nov. 14 Community Impact",
+      "summary_zh": "免费家庭娱乐、假日购物等：密苏里城第一联合卫理公会秋季节日回归11月14日社区影响力",
+      "title_zh": "免费家庭娱乐、假日购物等：密苏里城第一联合卫理公会秋季节日将于11月14日回归",
+      "content": "",
+      "content_zh": "",
+      "author": "Community Impact",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:47.139897",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "Community Impact"
+      },
+      "id": "ce1f2da6d1a1dcc4"
+    },
+    {
+      "title": "West Virginia Supreme Court blocks lawsuit by 33 churches seeking to leave UMC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMnVQZzNUa0VPaXAtQ1NTTTVwQVROeGZBc2pFYkNFeVpBc2otdllPMFEzX3d5LXpZR2JsZEREUnlOWFlnWDdWM0kzRzlWNnhIQzhXVDY2SXFVWldYX3lzSGxfVGMtNzRoNXBpY1VHYUNOZWZxeEVpa3BCbkJmMXhzclJqa1oyeS1rcjdWZFptbE1POEN6a0J2bmZ0b2d5LW5QRVE?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "West Virginia Supreme Court blocks lawsuit by 33 churches seeking to leave UMC Christian Post",
+      "summary_zh": "西弗吉尼亚州最高法院阻止33个教会寻求离开联华基督教邮政的诉讼",
+      "title_zh": "西弗吉尼亚州最高法院阻止33个教会寻求离开UMC的诉讼",
+      "content": "",
+      "content_zh": "",
+      "author": "Christian Post",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:47.140191",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "Christian Post"
+      },
+      "id": "9d12d30ea17d0064"
+    },
+    {
+      "title": "Fruitful Weekend at St. John's Methodist Church",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPclNXNWQ5REJwWkpUckwtMXdvOXB5Qmk1NEE3aHhXV2dNZldhUE0tR01nSU9PX1Fsc1FhRHMwVVZlck5TOENoZzE1dUlpRDUtdE9IRElsTlhKVUV0eFYtLTZYTjFnclVVZE1GLXY2WFBMX08zekROdktEekI3eWZtX1ZnSmozaDVtWE43MFlGRWdlZmhodGFweVFpbHF1NnlCNmFqSjUxd1h1dEo2dUM2cXlHa1dZWDVzS3pLcVE0NjhQMWlvX2xjZ2JRalVOUjJVcmxBTk1nWWRsNUxSU0JVMEdYcGc?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "Fruitful Weekend at St. John's Methodist Church Post and Courier",
+      "summary_zh": "在圣约翰卫理公会邮政和快递公司度过富有成果的周末",
+      "title_zh": "在圣约翰卫理公会教堂度过富有成果的周末",
+      "content": "",
+      "content_zh": "",
+      "author": "Post and Courier",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:47.140884",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "Post and Courier"
+      },
+      "id": "ddd16449ddf219b0"
+    },
     {
       "title": "Allentown United Methodist Church Hosts Annual Veterans Day Spaghetti Dinner",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2MzaXNDUW1WTzlHYnBUd2JETlNFMnB0a2QzcFJuNmE3MUVmS05NS05ac2RadDh3YTBWNjJOMEtBeWk2NXd6cFhjSUtTMmhGVHFrNUI4Qzh3R3o5eDdJZDZmUW4ySjNRcWcxR1EyWGZWbjZPd1lPUW9xbmdFT09aUGxaQXlZY0YwVnJIV25WRGF5TWFHUE5QREQtajNaUGNfVVhzVmNoQ3pVWV8yQmJqU29Pd08tQ2F2bHc0?oc=5",
@@ -52,13 +332,41 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.964384",
+      "fetched_at": "2026-11-08T23:28:47.140500",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
         "publisher": "WIFR"
       },
       "id": "6ce33a5129913271"
+    },
+    {
+      "title": "Hello, Quad Cities from Aledo United Methodist Church annual food drive",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVhWZVJ3VTd4aWwtTW5RcGFMQTFGV29MQ2tiR05QYU5WdUFneTZpY05ncVo1RVBWVzVaQkFuOVB6cHU0c3VjLURBZWUzY2I1N2FSUzRPY1VTbGdvWVRXM3VGRHFiMEJWLVZyQ0VVZm9waFNwcHZ0eDVVUlNNZXdMb3MyR0RtSFNtQzUzNEx3NkVtTjVPZUhsVENZZmVtMkpPWGZMX2NYRQ?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-07",
+      "summary": "Hello, Quad Cities from Aledo United Methodist Church annual food drive KWQC",
+      "summary_zh": "您好，来自Aledo United Methodist Church的Quad Cities年度美食活动KWQC",
+      "title_zh": "您好，来自Aledo United Methodist Church的Quad Cities年度美食之旅",
+      "content": "",
+      "content_zh": "",
+      "author": "KWQC",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:47.140699",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "KWQC"
+      },
+      "id": "4528d76a196987d3"
     },
     {
       "title": "NEHALEM BAY METHODIST CHURCH & BIG SHAUN'S SMASH BURGERS TEAM UP FOR COMMUNITY THANKSGIVING DINNER; TO-GO MEALS AVAILABLE WED. NOV. 25; IN-PERSON GATHERING NOV. 26",
@@ -108,7 +416,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.329427",
+      "fetched_at": "2026-11-08T23:28:46.283571",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -192,7 +500,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.329955",
+      "fetched_at": "2026-11-08T23:28:46.283677",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -227,34 +535,6 @@
         "publisher": "Baptist Press"
       },
       "id": "50770da88495e415"
-    },
-    {
-      "title": "Psychology Today claims porn beneficial, draws rebuke of ERLC’s Lenow",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmdFTzhJQWR3RjY3bUFZNWt3YU9qd293VVE3ZzZaTUlBb3N3QTJsdjZBU0twb1RMUEtSdmlGbjBzSi1jVWczb0djVUlPaXU4XzI3Yzg4d2JrUkMyZjZZbDc3ZS1aOUhXLUY5V2N0bVBQYzBqaGNMTk5VYzFod3FIQXZXSVpKRENqZ3h4NWZCVnY5bXcwYWU0OW9zOVI4YmtOY21qUzlIbDkzZHB3a1lnSjhUV0RJakk0NTYw?oc=5",
-      "category": "church",
-      "source": "Baptist Press",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-06",
-      "summary": "Psychology Today claims porn beneficial, draws rebuke of ERLC’s Lenow Baptist Press",
-      "summary_zh": "《今日心理学》声称色情有益，招致 ERLC 的 Lenow Baptist Press 的谴责",
-      "title_zh": "《今日心理学》声称色情有益，并谴责ERLC的Lenow",
-      "content": "",
-      "content_zh": "",
-      "author": "Baptist Press",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-07T00:00:13.715604",
-      "extra": {
-        "provider": "google_news",
-        "query": "Baptist Press",
-        "publisher": "Baptist Press"
-      },
-      "id": "b079f669d7e01b16"
     },
     {
       "title": "‘The Lord has brought the nations here’: Church plant reaches growing Alamance County",
@@ -304,7 +584,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:13.693005",
+      "fetched_at": "2026-11-08T23:28:46.304533",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -500,7 +780,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.908893",
+      "fetched_at": "2026-11-08T23:28:46.795563",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -612,7 +892,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.963822",
+      "fetched_at": "2026-11-08T23:28:47.140300",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -752,7 +1032,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.683584",
+      "fetched_at": "2026-11-08T23:28:46.742671",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -780,7 +1060,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.962838",
+      "fetched_at": "2026-11-08T23:28:47.140075",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
@@ -815,6 +1095,62 @@
         "publisher": "Charisma Magazine Online"
       },
       "id": "16e6f29d708a713a"
+    },
+    {
+      "title": "State supreme court blocks church-property suit",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTktWXNYc1BfcVBtemI5LVc2bG9EU2VDYkgxVDF5dEhlOVJ0Qy1lcFVfQzh5LUVTelJPRm53NWgxVllucXpHaXdBLVc0bEN5dzk5QmtPYzYtei00NTVHVzdTaUl4aHFxOWpqWVZBRG53QnNVX3NfRlVxWk5FN1EtQUVOVHQ?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-06",
+      "summary": "State supreme court blocks church-property suit UM News",
+      "summary_zh": "州最高法院阻止教堂财产诉讼UM新闻",
+      "title_zh": "州最高法院阻止教会财产诉讼",
+      "content": "",
+      "content_zh": "",
+      "author": "UM News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:47.140399",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "UM News"
+      },
+      "id": "27b2a851b667dfd0"
+    },
+    {
+      "title": "Highland Park church voted to leave United Methodist Church",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QVWpQeEhwWGpzQUhyOWFjN0JENGdWM2VnLUNDWkRqdFJSckYwVVZwWE1tbVpTMW1RVjdyU0tFQm9IdXJDNXJtcmg3Rmlwd3h1SnRRcld0cmN3VUMtNWhPN0VZa2VrX2hGaDVqWVZCck5JTDdCWXZFdGxvcw?oc=5",
+      "category": "church",
+      "source": "卫理公会",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-06",
+      "summary": "Highland Park church voted to leave United Methodist Church qz.com",
+      "summary_zh": "高地公园教会投票决定离开联合卫理公会qz.com",
+      "title_zh": "高地公园教堂投票决定离开联合卫理公会",
+      "content": "",
+      "content_zh": "",
+      "author": "qz.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:47.140596",
+      "extra": {
+        "provider": "google_news",
+        "query": "Methodist church news",
+        "publisher": "qz.com"
+      },
+      "id": "e8ffa4c66b0276c5"
     },
     {
       "title": "United Methodists win big in midterms",
@@ -892,7 +1228,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.331235",
+      "fetched_at": "2026-11-08T23:28:46.283775",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -920,7 +1256,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.331380",
+      "fetched_at": "2026-11-08T23:28:46.283870",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -1032,7 +1368,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.331677",
+      "fetched_at": "2026-11-08T23:28:46.285363",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -1116,7 +1452,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.748349",
+      "fetched_at": "2026-11-08T23:28:46.702817",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -1172,7 +1508,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.684562",
+      "fetched_at": "2026-11-08T23:28:46.743468",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1200,7 +1536,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.684271",
+      "fetched_at": "2026-11-08T23:28:46.743274",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1228,7 +1564,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.684417",
+      "fetched_at": "2026-11-08T23:28:46.743372",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1284,7 +1620,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:14.251106",
+      "fetched_at": "2026-11-08T23:28:46.622668",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -1536,7 +1872,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.684706",
+      "fetched_at": "2026-11-08T23:28:46.743561",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1564,7 +1900,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.330114",
+      "fetched_at": "2026-11-08T23:28:46.283984",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -1594,7 +1930,7 @@
         "堕胎"
       ],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.330269",
+      "fetched_at": "2026-11-08T23:28:46.284078",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -1650,7 +1986,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.330434",
+      "fetched_at": "2026-11-08T23:28:46.284179",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -1678,7 +2014,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.330585",
+      "fetched_at": "2026-11-08T23:28:46.284275",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -1762,7 +2098,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.685009",
+      "fetched_at": "2026-11-08T23:28:46.743662",
       "extra": {
         "provider": "google_news",
         "query": "Baptist News Global",
@@ -1958,7 +2294,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:32.191059",
+      "fetched_at": "2026-11-08T23:28:47.061573",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -2042,7 +2378,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.330742",
+      "fetched_at": "2026-11-08T23:28:46.284374",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -2070,7 +2406,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:14.707087",
+      "fetched_at": "2026-11-08T23:28:46.286004",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -2126,7 +2462,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.330932",
+      "fetched_at": "2026-11-08T23:28:46.284466",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -2154,7 +2490,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.400497",
+      "fetched_at": "2026-11-08T23:28:46.412465",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -2294,7 +2630,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:32.190059",
+      "fetched_at": "2026-11-08T23:28:47.060638",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -3216,7 +3552,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.331089",
+      "fetched_at": "2026-11-08T23:28:46.285136",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -4859,6 +5195,7 @@
       "summary_zh": "Highland Park UMC投票退出联合卫理公会教派www.kera.org",
       "title_zh": "Highland Park UMC投票退出联合卫理公会教派",
       "content": "",
+      "content_zh": "",
       "author": "www.kera.org",
       "tags": [],
       "language": "en",
@@ -4867,13 +5204,13 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:35.832510",
+      "fetched_at": "2026-11-08T23:28:47.140793",
       "extra": {
         "provider": "google_news",
         "query": "Methodist church news",
         "publisher": "www.kera.org"
       },
-      "content_zh": ""
+      "id": "674eb40d303a5d67"
     },
     {
       "title": "Lifeway Research analysis reveals most impactful keys to discipleship",
@@ -5144,7 +5481,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.909083",
+      "fetched_at": "2026-11-08T23:28:46.795719",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -5662,7 +5999,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:32.112053",
+      "fetched_at": "2026-11-08T23:28:46.964155",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -5745,7 +6082,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:32.111699",
+      "fetched_at": "2026-11-08T23:28:46.963903",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -5801,7 +6138,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.331523",
+      "fetched_at": "2026-11-08T23:28:46.285240",
       "extra": {
         "provider": "google_news",
         "query": "Baptist Press",
@@ -5885,7 +6222,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.788701",
+      "fetched_at": "2026-11-08T23:28:46.654372",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -6022,7 +6359,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:32.190233",
+      "fetched_at": "2026-11-08T23:28:47.060738",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -6299,7 +6636,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-05T00:47:10.373147",
+      "fetched_at": "2026-11-08T23:28:46.704080",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -6437,7 +6774,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.832933",
+      "fetched_at": "2026-11-08T23:28:46.622790",
       "extra": {
         "provider": "google_news",
         "query": "Southern Baptist Convention SBC",
@@ -6603,7 +6940,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.401631",
+      "fetched_at": "2026-11-08T23:28:46.412825",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -6631,7 +6968,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.256824",
+      "fetched_at": "2026-11-08T23:28:46.304997",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -6659,7 +6996,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.748518",
+      "fetched_at": "2026-11-08T23:28:46.702971",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -6825,7 +7162,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.790301",
+      "fetched_at": "2026-11-08T23:28:46.655174",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -6853,7 +7190,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:32.113098",
+      "fetched_at": "2026-11-08T23:28:46.964981",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -6881,7 +7218,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.748673",
+      "fetched_at": "2026-11-08T23:28:46.703088",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -6964,7 +7301,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.749137",
+      "fetched_at": "2026-11-08T23:28:46.703517",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -7048,7 +7385,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.401018",
+      "fetched_at": "2026-11-08T23:28:46.412711",
       "extra": {
         "provider": "google_news",
         "query": "Middle East church Christians",
@@ -7076,7 +7413,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.749462",
+      "fetched_at": "2026-11-08T23:28:46.703801",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -7104,7 +7441,7 @@
       "stance": "orthodox",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:32.190726",
+      "fetched_at": "2026-11-08T23:28:47.061365",
       "extra": {
         "provider": "google_news",
         "query": "Orthodox Christianity church",
@@ -7132,7 +7469,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.749634",
+      "fetched_at": "2026-11-08T23:28:46.703952",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -7381,7 +7718,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.748989",
+      "fetched_at": "2026-11-08T23:28:46.703354",
       "extra": {
         "provider": "google_news",
         "query": "Lutheran World Federation",
@@ -7575,7 +7912,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.910207",
+      "fetched_at": "2026-11-08T23:28:46.796843",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -7630,7 +7967,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:32.112615",
+      "fetched_at": "2026-11-08T23:28:46.964453",
       "extra": {
         "provider": "google_news",
         "query": "Presbyterian church mission",
@@ -7658,7 +7995,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.790462",
+      "fetched_at": "2026-11-08T23:28:46.655272",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -7769,7 +8106,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.909579",
+      "fetched_at": "2026-11-08T23:28:46.796091",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -7797,7 +8134,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.256351",
+      "fetched_at": "2026-11-08T23:28:46.304663",
       "extra": {
         "provider": "google_news",
         "query": "church growth planting",
@@ -7825,7 +8162,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.909898",
+      "fetched_at": "2026-11-08T23:28:46.796744",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Communion ACNA",
@@ -8019,7 +8356,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.788906",
+      "fetched_at": "2026-11-08T23:28:46.654513",
       "extra": {
         "provider": "google_news",
         "query": "LCMS Lutheran church",
@@ -8127,7 +8464,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:31.874699",
+      "fetched_at": "2026-11-08T23:28:46.680265",
       "extra": {
         "provider": "google_news",
         "query": "Anglican Journal church",

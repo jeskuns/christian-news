@@ -1,9 +1,37 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 23,
-  "updated_at": "2026-11-08T07:36:20.233516+08:00",
+  "count": 24,
+  "updated_at": "2026-11-09T07:35:16.255973+08:00",
   "articles": [
+    {
+      "title": "LDS Daily Watchlist: The MORMON Who Led the Brewers to the World Series",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNW5WR3lXbG1Zb1Y0TjA0US1iMlU5Q3FwaENSX1N3aWpRdWJPZndvbDZHRVpHSnNWUkVlQ0FrWlZ5NUxqSXg2MUFwdFYzelFMcnJuSk4xQ09XbkY3S2dNRUFxZWdRR3RpeGVTYVJ5TXpvcGYzRWlrZDFUU3BhbTY3aHR6eWI5OW5ZNkwzT2xR?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "LDS Daily Watchlist: The MORMON Who Led the Brewers to the World Series LDS Daily",
+      "summary_zh": "后期圣徒每日观察名单：带领酿酒人参加世界系列赛的摩门教徒后期圣徒每日观察",
+      "title_zh": "后期圣徒每日观察名单：带领酿酒人参加世界系列赛的摩门教徒",
+      "content": "",
+      "content_zh": "",
+      "author": "LDS Daily",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-08T23:28:48.643068",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "LDS Daily"
+      },
+      "id": "e344b5c27477f1ca"
+    },
     {
       "title": "LDS Church joins the tech gold rush, leasing some of its ranchland for a data center",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1lHRFctZU5Kak9Db01aTFJVYzhEa1RoSnYzNEtpWWlCcGtkd3d2TjlveUdRQ1JUZGdYMmlxTGRaM2RRT1NabFA5cE0wcUNmaUxsYk8tNGItYV9sbm9NR2M5bmRndGZvbXA3RGtoSy0zRkRIM2ZmaWoyTWtxU0NvQw?oc=5",
@@ -24,7 +52,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:34.175816",
+      "fetched_at": "2026-11-08T23:28:48.642957",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -467,7 +495,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:34.176752",
+      "fetched_at": "2026-11-08T23:28:48.643656",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -523,7 +551,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:34.176454",
+      "fetched_at": "2026-11-08T23:28:48.643281",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -551,7 +579,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:34.176152",
+      "fetched_at": "2026-11-08T23:28:48.643383",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -606,7 +634,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T23:29:34.175632",
+      "fetched_at": "2026-11-08T23:28:48.642805",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
