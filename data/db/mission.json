@@ -2,7 +2,7 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 52,
-  "updated_at": "2026-11-09T07:35:16.254261+08:00",
+  "updated_at": "2026-11-10T10:45:49.643597+08:00",
   "articles": [
     {
       "title": "FAITH LIFT: Relationship trumps religion",
@@ -31,6 +31,34 @@
         "publisher": "PelhamToday.ca"
       },
       "id": "ba1f4807b805e271"
+    },
+    {
+      "title": "FAITH LIFT: Relationship trumps religion",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFc1Vk1kQmRPclhoVTR1LWtzMlNNQWpLUVA2alNtb2xPTkU3WFQ1dWVlMW5jQVVGMzFHbEp3azVaU09CTDhHZVV0Rlpaa3gxaE1HdDdXYjN0VjZGem01akJ6SlhzeUtmbUhwYXhLUGViMGhyNXFsOEljaXlfcXVXeTdaWDlBUExtdmZHMERfeTg?oc=5",
+      "category": "mission",
+      "source": "Operation Mobilization",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-08",
+      "summary": "FAITH LIFT: Relationship trumps religion ThoroldToday.ca",
+      "summary_zh": "信念提升：关系胜过宗教ThoroldToday.ca",
+      "title_zh": "信心提升：关系胜过宗教",
+      "content": "",
+      "content_zh": "",
+      "author": "ThoroldToday.ca",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-10T02:36:24.286003",
+      "extra": {
+        "provider": "google_news",
+        "query": "Operation Mobilization mission",
+        "publisher": "ThoroldToday.ca"
+      },
+      "id": "fc3ccf3ae6fe9cc5"
     },
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -461,7 +489,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:46.083312",
+      "fetched_at": "2026-11-10T02:36:24.705760",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -516,7 +544,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:45.998845",
+      "fetched_at": "2026-11-10T02:36:24.286256",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -733,7 +761,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:45.643630",
+      "fetched_at": "2026-11-10T02:36:23.941334",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -761,7 +789,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:45.918117",
+      "fetched_at": "2026-11-10T02:36:24.261267",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -867,7 +895,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:46.083185",
+      "fetched_at": "2026-11-10T02:36:24.705595",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -979,7 +1007,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:45.962962",
+      "fetched_at": "2026-11-10T02:36:24.360495",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -1059,7 +1087,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:45.948361",
+      "fetched_at": "2026-11-10T02:36:24.342399",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -1143,7 +1171,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:45.809111",
+      "fetched_at": "2026-11-10T02:36:24.214548",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -1338,7 +1366,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:45.918356",
+      "fetched_at": "2026-11-10T02:36:24.261628",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1357,6 +1385,7 @@
       "summary_zh": "SIM国际声明： Kevin Rideout发布服务于使命",
       "title_zh": "SIM国际声明： Kevin Rideout发布",
       "content": "",
+      "content_zh": "",
       "author": "Serving in Mission",
       "tags": [],
       "language": "en",
@@ -1365,13 +1394,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.478005",
+      "fetched_at": "2026-11-10T02:36:24.261766",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
         "publisher": "Serving in Mission"
       },
-      "content_zh": ""
+      "id": "7a18ae9c8708a81c"
     },
     {
       "title": "US missionary released following kidnap in Niger, Christian group says",
@@ -1421,33 +1450,6 @@
       "flags": [],
       "priority": 2,
       "fetched_at": "2026-10-29T06:13:56.429503",
-      "extra": {
-        "provider": "google_news",
-        "query": "基督教 宣教 宣教士 差会",
-        "publisher": "基督日報"
-      },
-      "content_zh": ""
-    },
-    {
-      "title": "跳出框框！Arise Asia香港青年參加者的宣教反思",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GdEw5Q0VsNFpmdjktSU00dUs0dUZpekdKNVlFY05scEZVWFRNaDJ2NHMtQnNzSGo0SXJURG1nQWFnMjVhRWNTN214WTFVQ2VPZTNrRUdQSTlpRS1BX0NSdHFEdVBjSDJVWlVLTVpYZw?oc=5",
-      "category": "mission",
-      "source": "宣教运动（中文）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-11",
-      "summary": "跳出框框！Arise Asia香港青年參加者的宣教反思 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "CN",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.138486",
       "extra": {
         "provider": "google_news",
         "query": "基督教 宣教 宣教士 差会",
