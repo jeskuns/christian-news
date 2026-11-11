@@ -2,8 +2,36 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 52,
-  "updated_at": "2026-11-10T10:45:49.643597+08:00",
+  "updated_at": "2026-11-11T08:35:07.710356+08:00",
   "articles": [
+    {
+      "title": "Mission India doubles impact of summer Bible clubs",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWUxV1ZFaDlEZU05LWlvcFY1S1B2clBKbEd1dEptaWI0NmVMczhJOThYVjN5NV9RcnVKTFJITzNkSnFJSFhvcnFtWC1NNlpjTkt4WEc1ci00cWFEMHJfTnpzQlpFc3VqWmdpRy1VYkZXek14UDVOa242RXZfZHZlTVh6dm51QUtuVkE?oc=5",
+      "category": "mission",
+      "source": "未得之民",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-10",
+      "summary": "Mission India doubles impact of summer Bible clubs Mission Network News",
+      "summary_zh": "印度传教士 夏日圣经俱乐部的双重影响 传教士网络新闻",
+      "title_zh": "Mission India将夏季圣经俱乐部的影响加倍",
+      "content": "",
+      "content_zh": "",
+      "author": "Mission Network News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T00:28:01.983792",
+      "extra": {
+        "provider": "google_news",
+        "query": "unreached people groups mission",
+        "publisher": "Mission Network News"
+      },
+      "id": "0c879de1845ed967"
+    },
     {
       "title": "FAITH LIFT: Relationship trumps religion",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbnVvaHZTVmFmeDFxZjJTWmdQTWVRQ09JaFpjOHlmdlVSSEZETkY2cjIzYnc4UndvbXpMeEhBYUtDcHN0bHgtbHJsbWhZUnd0NENHa3JQdHpxNnQ1dG9GaURmVERmZDdyb1pNTEZoWG1zZG92V2FqUFZNNnlUM0ttdDdEaER0c0dFelBuNUdVam9kTTF4TDY2eF9R?oc=5",
@@ -52,7 +80,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.286003",
+      "fetched_at": "2026-11-11T00:28:01.780137",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -489,7 +517,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.705760",
+      "fetched_at": "2026-11-11T00:28:02.160279",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -544,7 +572,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.286256",
+      "fetched_at": "2026-11-11T00:28:01.780242",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -761,7 +789,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:23.941334",
+      "fetched_at": "2026-11-11T00:28:01.477836",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -789,7 +817,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.261267",
+      "fetched_at": "2026-11-11T00:28:01.847988",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -895,7 +923,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.705595",
+      "fetched_at": "2026-11-11T00:28:02.160177",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -1007,7 +1035,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.360495",
+      "fetched_at": "2026-11-11T00:28:01.871384",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -1087,7 +1115,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.342399",
+      "fetched_at": "2026-11-11T00:28:01.983900",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -1171,7 +1199,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.214548",
+      "fetched_at": "2026-11-11T00:28:01.804909",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -1366,7 +1394,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.261628",
+      "fetched_at": "2026-11-11T00:28:01.848176",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1394,7 +1422,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-10T02:36:24.261766",
+      "fetched_at": "2026-11-11T00:28:01.848256",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1429,33 +1457,6 @@
         "publisher": "BBC"
       },
       "id": "61c3c19de1db2ea3"
-    },
-    {
-      "title": "廿六年跨文化宣教：國際關懷協會會長黃亮宇回顧差會發展歷程",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fR2NUSmZYenJZNGdQc01feklld2hLNGNUNE5nVjlyUUUzSTFtR0RBcUcxZWxyaUhCcC1vTm9NTUNZN3ZOYkFpSy1DTFlLbURPUGZENDN1ZURKV3ViUTFITXhkTklLeWJlLXIxUjBBUQ?oc=5",
-      "category": "mission",
-      "source": "宣教运动（中文）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-12",
-      "summary": "廿六年跨文化宣教：國際關懷協會會長黃亮宇回顧差會發展歷程 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "CN",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-29T06:13:56.429503",
-      "extra": {
-        "provider": "google_news",
-        "query": "基督教 宣教 宣教士 差会",
-        "publisher": "基督日報"
-      },
-      "content_zh": ""
     }
   ]
 }
