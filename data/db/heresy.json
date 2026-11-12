@@ -1,9 +1,37 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 31,
-  "updated_at": "2026-11-11T08:35:07.717638+08:00",
+  "count": 32,
+  "updated_at": "2026-11-12T09:59:32.481794+08:00",
   "articles": [
+    {
+      "title": "Why is Bobbi Althoff on 'Mormon Wives'? Meet the SLOMW: OC cast",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNk1ZdGgwdzFmbTlZOUFlY29rQURkWm9aeVg0cGhjLWZaUVU1aHNrTlVzZmREbnRmWm9ybjVKUmNJVnBfbEloN0pDZHRoNk5lNUdwNTZPWnM2NjFHTGJscmZYX3hYTWx1Y3F3cV9POHNXUHZ0aDVWS0Y5SEhNcFB1SDg0U3RtUl9zM3BKOEE0TnYwaVNVXzhMUkJrczU0N2R6OHpISDJKV2t5QUNBcDdJT2M5NG8wVUI0aVZDWVlEdll3VGZyVVQzQ2VxNXdBenVYcXVKSC1iT0tXQQ?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-11",
+      "summary": "Why is Bobbi Althoff on 'Mormon Wives'? Meet the SLOMW: OC cast Bergen Record",
+      "summary_zh": "为什么波比阿尔索夫会出现在《摩门教妻子》中？遇见 SLOMW：OC 演员 Bergen Record",
+      "title_zh": "为什么Bobbi Althoff会出现在《摩门教妻子》中？认识《SLOMW：OC》的演员阵容",
+      "content": "",
+      "content_zh": "",
+      "author": "Bergen Record",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T01:50:55.147764",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Bergen Record"
+      },
+      "id": "faf8096851378e8e"
+    },
     {
       "title": "“全家从拥有100万信徒的宗教中脱离出来”……赵惠莲开始警惕异端",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVU5UYWRvemM3UHd2aUd1ODVPV3l1OGtRa292dV9NcXZoa1BKUTBnMUd4ZkluMVJfMm5BNmpmYXVUVW1HOVpOUmhyRHlDYk1VX0E?oc=5",
@@ -248,7 +276,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:04.858041",
+      "fetched_at": "2026-11-12T01:50:55.147495",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -691,7 +719,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:48.643656",
+      "fetched_at": "2026-11-12T01:50:55.149298",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -747,7 +775,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:04.858361",
+      "fetched_at": "2026-11-12T01:50:55.148166",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -775,7 +803,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:04.858620",
+      "fetched_at": "2026-11-12T01:50:55.147892",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -830,7 +858,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:04.857831",
+      "fetched_at": "2026-11-12T01:50:55.147319",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",

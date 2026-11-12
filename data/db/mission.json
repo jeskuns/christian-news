@@ -2,7 +2,7 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 52,
-  "updated_at": "2026-11-11T08:35:07.710356+08:00",
+  "updated_at": "2026-11-12T09:59:32.483062+08:00",
   "articles": [
     {
       "title": "Mission India doubles impact of summer Bible clubs",
@@ -80,7 +80,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:01.780137",
+      "fetched_at": "2026-11-12T01:50:51.373008",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -517,7 +517,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:02.160279",
+      "fetched_at": "2026-11-12T01:50:51.657104",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -572,7 +572,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:01.780242",
+      "fetched_at": "2026-11-12T01:50:51.373196",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -789,7 +789,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:01.477836",
+      "fetched_at": "2026-11-12T01:50:50.986327",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -923,7 +923,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:02.160177",
+      "fetched_at": "2026-11-12T01:50:51.656919",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -1035,7 +1035,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:01.871384",
+      "fetched_at": "2026-11-12T01:50:51.580364",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -1115,7 +1115,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:01.983900",
+      "fetched_at": "2026-11-12T01:50:51.491548",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -1199,7 +1199,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:01.804909",
+      "fetched_at": "2026-11-12T01:50:51.159760",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -1378,7 +1378,7 @@
       "title": "US missionary released following kidnap in Niger, Christian group says",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6aVJUZ0tZRmh5N0RyMWp3TWxhX3cyX0tyblYyaUpzeVBCWlhpbno5YW52aFFWcWsybUp2TUFYSnp3M1Qxc1VZMzcyNE1hS2thNVZBWk5taU9UTnV4?oc=5",
       "category": "mission",
-      "source": "SIM 宣教",
+      "source": "非洲宣教",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-14",
       "summary": "US missionary released following kidnap in Niger, Christian group says BBC",
@@ -1390,14 +1390,14 @@
       "tags": [],
       "language": "en",
       "country": "US",
-      "region": "",
+      "region": "非洲",
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:01.848176",
+      "fetched_at": "2026-11-12T01:50:51.657531",
       "extra": {
         "provider": "google_news",
-        "query": "SIM mission Africa",
+        "query": "Christian mission Africa",
         "publisher": "BBC"
       },
       "id": "40db57243b19abd0"
@@ -1422,7 +1422,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:01.848256",
+      "fetched_at": "2026-11-12T01:50:51.252818",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1450,7 +1450,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-07T00:00:13.279213",
+      "fetched_at": "2026-11-12T01:50:51.252686",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
