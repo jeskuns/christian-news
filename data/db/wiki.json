@@ -1,8 +1,8 @@
 {
   "category": "wiki",
   "label": "百科背景",
-  "count": 52,
-  "updated_at": "2026-11-12T09:59:32.441371+08:00",
+  "count": 53,
+  "updated_at": "2026-11-13T09:03:57.057388+08:00",
   "articles": [
     {
       "title": "Reformed Christianity",
@@ -10,7 +10,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "Reformed Christianity, also called Calvinism, is a major branch of Protestantism that began during the 16th-century Reformation. In the modern day, it",
       "summary_zh": "改革宗基督教，也称为加尔文主义，是新教的一个主要分支，始于 16 世纪宗教改革时期。在现代，它",
       "title_zh": "改革宗基督教",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.034715",
+      "fetched_at": "2026-11-13T00:56:22.128692",
       "extra": {
         "wordcount": 13176
       },
@@ -36,7 +36,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "Western Christianity is one of two subdivisions of Christianity (Eastern Christianity being the other). Western Christianity is composed of the Latin Church",
       "summary_zh": "西方基督教是基督教的两个分支之一（另一个是东方基督教）。西方基督教由拉丁教会组成",
       "title_zh": "西方基督教",
@@ -50,7 +50,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.034683",
+      "fetched_at": "2026-11-13T00:56:22.128705",
       "extra": {
         "wordcount": 2469
       },
@@ -62,7 +62,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "justification. Protestantism also introduced new ecclesiology. The general points of theological agreement by the different Protestant groups have been",
       "summary_zh": "理由。新教还引入了新的教会学。不同新教团体的神学共识的一般要点是",
       "title_zh": "宗教改革 Reformation",
@@ -76,7 +76,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.273633",
+      "fetched_at": "2026-11-13T00:56:22.343911",
       "extra": {
         "wordcount": 31256
       },
@@ -88,7 +88,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "Proto-Protestantism, also called pre-Protestantism, refers to individuals and movements that propagated various ideas later associated with Protestantism before",
       "summary_zh": "原始新教，也称为前新教，是指后来传播与新教相关的各种思想的个人和运动。",
       "title_zh": "原始-原始新教",
@@ -102,7 +102,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.273649",
+      "fetched_at": "2026-11-13T00:56:22.343920",
       "extra": {
         "wordcount": 5737
       },
@@ -114,7 +114,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "The Catholic Church (Latin: Ecclesia Catholica), also called the Roman Catholic Church (Latin: Ecclesia Catholica Romana), is the largest Christian church",
       "summary_zh": "天主教堂（拉丁语：Ecclesia Catholica），也称罗马天主教堂（拉丁语：Ecclesia Catholica Romana），是最大的基督教教堂",
       "title_zh": "天主教教会",
@@ -128,7 +128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.601952",
+      "fetched_at": "2026-11-13T00:56:22.664719",
       "extra": {
         "wordcount": 25590
       },
@@ -140,7 +140,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "The Eastern Catholic Churches or Oriental Catholic Churches, also known as the Eastern-Rite Catholic Churches, Eastern Rite Catholicism, or simply the",
       "summary_zh": "东方天主教会或东方天主教会，也称为东方礼天主教会、东方礼天主教，或简称为东方礼天主教会。",
       "title_zh": "东方天主教堂",
@@ -154,7 +154,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.601974",
+      "fetched_at": "2026-11-13T00:56:22.664734",
       "extra": {
         "wordcount": 9252
       },
@@ -166,7 +166,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "The Eastern Orthodox Church, officially the Orthodox Catholic Church, also known as the Greek Orthodox Church is the second-largest Christian body in",
       "summary_zh": "东正教，正式名称为东正教天主教会，也称为希腊东正教，是希腊第二大基督教团体。",
       "title_zh": "东正教",
@@ -180,7 +180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.964006",
+      "fetched_at": "2026-11-13T00:56:22.911531",
       "extra": {
         "wordcount": 26795
       },
@@ -192,7 +192,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "The Eastern Orthodox Church, officially the Orthodox Catholic Church and commonly known simply as the Orthodox Church, is a communion composed of up to",
       "summary_zh": "东正教，正式名称为东正教天主教会，通常简称为东正教，是一个由最多",
       "title_zh": "东正教会组织",
@@ -206,7 +206,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.964061",
+      "fetched_at": "2026-11-13T00:56:22.911547",
       "extra": {
         "wordcount": 3170
       },
@@ -218,7 +218,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "for the Orthodox Rum'), is an autocephalous Eastern Orthodox church in full communion with the other autocephalous Eastern Orthodox churches and originates",
       "summary_zh": "为东正教朗姆酒'），是一个独立的东正教教堂，与其他独立的东正教教堂完全共融，起源于",
       "title_zh": "安提阿希腊东正教牧首辖区",
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.964096",
+      "fetched_at": "2026-11-13T00:56:22.911578",
       "extra": {
         "wordcount": 7689
       },
@@ -244,7 +244,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "The Bible is an anthology of religious texts that are central to Judaism and Christianity, and important in other Abrahamic religions such as Islam. The",
       "summary_zh": "圣经是犹太教和基督教的核心宗教文本选集，在伊斯兰教等其他亚伯拉罕宗教中也很重要。这",
       "title_zh": "圣经",
@@ -258,7 +258,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:56.186056",
+      "fetched_at": "2026-11-13T00:56:23.107047",
       "extra": {
         "wordcount": 23131
       },
@@ -270,7 +270,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "particular Jewish or Christian religious community regards as part of the Bible. The English word canon comes from the Greek κανών kanōn, meaning 'rule'",
       "summary_zh": "特定的犹太教或基督教宗教团体将其视为圣经的一部分。英语单词 canon 来自希腊语 κανών kanōn，意思是“规则”",
       "title_zh": "圣经正典",
@@ -284,7 +284,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:56.186110",
+      "fetched_at": "2026-11-13T00:56:23.107073",
       "extra": {
         "wordcount": 12292
       },
@@ -296,7 +296,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "The hierarchy of the Catholic Church consists of its bishops, priests, and deacons. In the ecclesiological sense of the term, hierarchy strictly means",
       "summary_zh": "天主教会的等级制度由主教、神父和执事组成。从教会学的意义上来说，等级制度严格意味着",
       "title_zh": "天主教会的等级制度",
@@ -310,7 +310,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.601992",
+      "fetched_at": "2026-11-13T00:56:22.664761",
       "extra": {
         "wordcount": 8703
       },
@@ -322,7 +322,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "Christianity is an Abrahamic monotheistic religion based on the Bible and the teachings of Jesus. The Gospels state that Jesus is the Son of God and rose",
       "summary_zh": "基督教是基于圣经和耶稣教义的亚伯拉罕一神论宗教。福音书说耶稣是神的儿子并且复活了",
       "title_zh": "基督教",
@@ -336,7 +336,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.034658",
+      "fetched_at": "2026-11-13T00:56:22.128678",
       "extra": {
         "wordcount": 33528
       },
@@ -348,7 +348,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "usually refers to evangelical Protestant churches, and therefore to a certain part of Protestantism rather than to Protestantism as a whole. The English word",
       "summary_zh": "通常指福音派新教教会，因此指新教的某一部分，而不是整个新教。英语单词",
       "title_zh": "新教",
@@ -362,7 +362,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.273598",
+      "fetched_at": "2026-11-13T00:56:22.343889",
       "extra": {
         "wordcount": 29658
       },
@@ -374,7 +374,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "The Old Catholic Church, Old Catholics, Old-Catholic churches, or Old Catholic movement are \"any of the groups of Western Christians who believe themselves",
       "summary_zh": "旧天主教会、旧天主教徒、旧天主教堂或旧天主教运动是“任何相信自己的西方基督徒团体”",
       "title_zh": "天主教教会",
@@ -388,7 +388,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.602017",
+      "fetched_at": "2026-11-13T00:56:22.664751",
       "extra": {
         "wordcount": 5010
       },
@@ -400,7 +400,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "A Christian denomination is a distinct religious group within Christianity that comprises all church congregations of the same kind, identifiable by traits",
       "summary_zh": "基督教教派是基督教内的一个独特的宗教团体，由所有同类教会会众组成，可通过特征来识别",
       "title_zh": "基督教派系",
@@ -414,7 +414,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.034700",
+      "fetched_at": "2026-11-13T00:56:22.128715",
       "extra": {
         "wordcount": 9224
       },
@@ -426,7 +426,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "Jerusalem, the Church of Greece and the Church of Cyprus. The third meaning refers to the Church of Greece, an Eastern Orthodox Church operating within",
       "summary_zh": "耶路撒冷、希腊教会和塞浦路斯教会。第三个含义是指希腊教会，一个在境内运作的东正教教会。",
       "title_zh": "希腊东正教",
@@ -440,7 +440,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.964114",
+      "fetched_at": "2026-11-13T00:56:22.911560",
       "extra": {
         "wordcount": 1499
       },
@@ -452,7 +452,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "ecumenical Protestantism (especially outside the United States). While in 1970 the Mainline Protestant churches claimed most Protestants and more than",
       "summary_zh": "普世新教(特别是美国境外). 1970年,Mainline新教教堂宣称大多数新教徒和超过",
       "title_zh": "主流新教徒",
@@ -466,7 +466,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.273619",
+      "fetched_at": "2026-11-13T00:56:22.343902",
       "extra": {
         "wordcount": 9417
       },
@@ -478,7 +478,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "The Bible Belt is a region of the Southern United States, the Midwestern state of Missouri, and the Mid-Atlantic states of Virginia and West Virginia",
       "summary_zh": "圣经带(英語:Bible Belt)是美国南部的一个地区,密苏里州中西部,以及弗吉尼亚州和西弗吉尼亚州的中大西洋州.",
       "title_zh": "圣经腰带",
@@ -492,11 +492,63 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:56.186077",
+      "fetched_at": "2026-11-13T00:56:23.107084",
       "extra": {
         "wordcount": 5954
       },
       "id": "1d07101e856310c3"
+    },
+    {
+      "title": "Bible study",
+      "url": "https://en.wikipedia.org/wiki/Bible_study",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-13",
+      "summary": "up Bible study in Wiktionary, the free dictionary. Bible study or Biblical study may refer to: Bible study (Christianity), the study of the Bible by people",
+      "summary_zh": "在免费词典维基词典中进行圣经学习。圣经研究或圣经研究可以指：圣经研究（基督教），人们对圣经的研究",
+      "title_zh": "圣经研究",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-13T00:56:23.107095",
+      "extra": {
+        "wordcount": 252
+      },
+      "id": "77c9b9dd5e4f6d48"
+    },
+    {
+      "title": "以色列",
+      "url": "https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%89%B2%E5%88%97",
+      "category": "wiki",
+      "source": "Wikipedia (zh)",
+      "source_url": "https://zh.wikipedia.org/w/api.php",
+      "published": "2026-11-13",
+      "summary": "犹太人 21.1% 阿拉伯人 5.3% 其余族裔 宗教 （2023年） 73.7% 犹太教 18.3% 伊斯兰教 1.9% 基督教（英语：Christianity in Israel） 1.6% 德鲁兹教（英语：Druze in Israel） 4.5% 其他宗教 政府 單一制議會制共和國 • 总统",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-13T00:56:22.179545",
+      "extra": {
+        "wordcount": 24940
+      },
+      "id": "1834a196d4fd9c7e"
     },
     {
       "title": "Bible (disambiguation)",
@@ -523,32 +575,6 @@
         "wordcount": 348
       },
       "id": "8cf66a7b105faa24"
-    },
-    {
-      "title": "Bible study",
-      "url": "https://en.wikipedia.org/wiki/Bible_study",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-11",
-      "summary": "up Bible study in Wiktionary, the free dictionary. Bible study or Biblical study may refer to: Bible study (Christianity), the study of the Bible by people",
-      "summary_zh": "在免费词典维基词典中进行圣经学习。圣经研究或圣经研究可以指：圣经研究（基督教），人们对圣经的研究",
-      "title_zh": "圣经研究",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-11T00:28:06.025767",
-      "extra": {
-        "wordcount": 252
-      },
-      "id": "77c9b9dd5e4f6d48"
     },
     {
       "title": "天主教会圣统制",
