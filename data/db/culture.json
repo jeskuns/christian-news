@@ -1,8 +1,8 @@
 {
   "category": "culture",
   "label": "文化媒体",
-  "count": 115,
-  "updated_at": "2026-11-14T08:52:28.401335+08:00",
+  "count": 120,
+  "updated_at": "2026-11-15T07:49:02.951540+08:00",
   "articles": [
     {
       "title": "Contend Without Being Contentious",
@@ -85,7 +85,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.364854",
+      "fetched_at": "2026-11-14T23:42:38.546626",
       "extra": {
         "feed_type": "rss20"
       },
@@ -114,7 +114,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.367386",
+      "fetched_at": "2026-11-14T23:42:38.548942",
       "extra": {
         "feed_type": "rss20"
       },
@@ -229,7 +229,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.360120",
+      "fetched_at": "2026-11-14T23:42:38.542436",
       "extra": {
         "feed_type": "rss20"
       },
@@ -266,7 +266,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.362242",
+      "fetched_at": "2026-11-14T23:42:38.544396",
       "extra": {
         "feed_type": "rss20"
       },
@@ -296,7 +296,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.364138",
+      "fetched_at": "2026-11-14T23:42:38.546070",
       "extra": {
         "feed_type": "rss20"
       },
@@ -322,7 +322,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.912605",
+      "fetched_at": "2026-11-14T23:42:39.319826",
       "extra": {
         "feed_type": "rss20"
       },
@@ -350,7 +350,7 @@
         "成功神学"
       ],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.916561",
+      "fetched_at": "2026-11-14T23:42:39.322970",
       "extra": {
         "feed_type": "rss20"
       },
@@ -382,7 +382,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.355443",
+      "fetched_at": "2026-11-14T23:42:38.539309",
       "extra": {
         "feed_type": "rss20"
       },
@@ -418,7 +418,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.357057",
+      "fetched_at": "2026-11-14T23:42:38.540327",
       "extra": {
         "feed_type": "rss20"
       },
@@ -449,7 +449,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.359151",
+      "fetched_at": "2026-11-14T23:42:38.541667",
       "extra": {
         "feed_type": "rss20"
       },
@@ -475,7 +475,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.911187",
+      "fetched_at": "2026-11-14T23:42:39.318872",
       "extra": {
         "feed_type": "rss20"
       },
@@ -501,7 +501,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.912440",
+      "fetched_at": "2026-11-14T23:42:39.319697",
       "extra": {
         "feed_type": "rss20"
       },
@@ -532,7 +532,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.350521",
+      "fetched_at": "2026-11-14T23:42:38.535602",
       "extra": {
         "feed_type": "rss20"
       },
@@ -563,7 +563,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.353057",
+      "fetched_at": "2026-11-14T23:42:38.537681",
       "extra": {
         "feed_type": "rss20"
       },
@@ -589,7 +589,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.911052",
+      "fetched_at": "2026-11-14T23:42:39.318766",
       "extra": {
         "feed_type": "rss20"
       },
@@ -620,7 +620,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.342806",
+      "fetched_at": "2026-11-14T23:42:38.529573",
       "extra": {
         "feed_type": "rss20"
       },
@@ -652,7 +652,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.344579",
+      "fetched_at": "2026-11-14T23:42:38.530646",
       "extra": {
         "feed_type": "rss20"
       },
@@ -682,7 +682,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.349387",
+      "fetched_at": "2026-11-14T23:42:38.534634",
       "extra": {
         "feed_type": "rss20"
       },
@@ -708,7 +708,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.908944",
+      "fetched_at": "2026-11-14T23:42:39.317152",
       "extra": {
         "feed_type": "rss20"
       },
@@ -734,11 +734,155 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:20.910878",
+      "fetched_at": "2026-11-14T23:42:39.318646",
       "extra": {
         "feed_type": "rss20"
       },
       "id": "3441ab9837d7f928"
+    },
+    {
+      "title": "The Festive Attire We Really Need",
+      "url": "https://www.thegospelcoalition.org/article/festive-attire-we-need/",
+      "category": "culture",
+      "source": "The Gospel Coalition",
+      "source_url": "https://www.thegospelcoalition.org/feed/",
+      "published": "2026-11-14",
+      "summary": "Even in our finest clothes we can still be dirty on the inside. Advent reminds us that Jesus dresses us in his righteousness.",
+      "summary_zh": "读取 他必坐作炼银的精炼者,他必洗涤利未之子,并如金银般精炼,他们必以善报主耶和华. 犹大和耶路撒冷的供奉,将像往年和往年一样,为耶和华所喜悦。 (3:3-4) 反映 我祖母总是把去教堂做成一个特殊的活动 她帮我选合适的裙子 确保我的鞋子光亮洁洁 从卷曲的熨斗中烧伤 我知道教堂的服装会有所不同 但我还是穿好衣服去参加公司礼拜 因为不管这听起来多么陈词滥调 我想穿我的星期天最好的耶稣。",
+      "title_zh": "我们真正需要的节日装束",
+      "content": "Read He will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and silver, and they will bring offerings in righteousness to the LORD. Then the offering of Judah and Jerusalem will be pleasing to the LORD as in the days of old and as in former years. (Mal. 3:3–4) Reflect My grandmother always made going to church a special event. She helped me pick the right dress, made sure my shoes were shiny and clean, and withstood burns from the curling iron to perfect my hairdo. I know church attire can vary. But I still get dressed up for corporate worship because, no matter how cliché it sounds, I want to wear my Sunday best for Jesus. Yet even in our finest clothes, we can still be dirty on the inside. Hidden sins are, after all, hidden. We can sing hymns at max volume, forgetting the way we treated our coworkers last week. We can kneel in prayer, easily dismissing what we posted on the internet earlier that morning. We can take the bread and wine even if we lost it with our kids in the car. People at church only see what’s on the outside, but God looks on the heart (1 Sam. 16:7). And unless we come clean, we can’t come into his presence at all. Even in our finest clothes, we can still be dirty on the inside. Purity in God’s presence is a major theme in Scripture. In Leviticus, we learn how Israel was to distinguish between the clean and unclean. These categories extended to foods and animals. Even people could be defiled by disease or by touching unclean things such as a dead body. The temple was off-limits for the unclean. Only ritual washings and animal sacrifices made reentry into God’s presence achievable. But even this wasn’t permanent—for the blood of bulls and goats couldn’t fully atone for sin (Heb. 10:4). Like Israel, we dare not present ourselves before God in our sinful condition. As the psalmist asks, “Who shall stand in [God’s] holy place? He who has clean hands and a pure heart” (Ps. 24:3–4). While soap and water might wash our filthy hands, what can purify our sin-stained hearts? In today’s verses, the prophet Malachi announced the coming of One who would refine his people as gold and silver. Later, the author of Hebrews clarified the refiner’s identity: If the blood of goats and bulls . . . sanctify for the purification of the flesh, how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God. (Heb. 9:13–14) During Advent, we remember that Jesus is the great Refiner. He came to shed his purifying blood to cover our sins and forgive us. Then, like a refiner who heats metal to remove impurities, the Lord sanctifies us so that on judgment day we’ll be an unblemished offering to God. On that day, because of Jesus, we’ll wear white robes of righteousness (Rev. 6:11). Grandma made sure I looked pretty for church, but I wasn’t truly clean. Jesus, the great Purifier of sinners, is the only One who can wash away every stain and remove every impurity. When he dresses us in white robes, we’ll enter God’s presence because we’ll be clean—not just on the outside but on the inside too. Respond Sometimes the Lord refines us through trials and difficult circumstances. How have you experienced his refining process this year? Write a prayer thanking God for Christ who cleanses, purifies, and refines us so we’ll one day be holy and acceptable in his presence.",
+      "content_zh": "读取 他必坐作炼银的精炼者,他必洗涤利未之子,并如金银般精炼,他们必以善报主耶和华. 犹大和耶路撒冷的供奉,将像往年和往年一样,为耶和华所喜悦。 (3:3-4) 反映 我祖母总是把去教堂做成一个特殊的活动\n她帮我选合适的裙子 确保我的鞋子光亮洁洁 从卷曲的熨斗中烧伤 我知道教堂的服装会有所不同 但我还是穿好衣服去参加公司礼拜 因为不管这听起来多么陈词滥调 我想穿我的星期天最好的耶稣。 即便穿着我们最好的衣服 我们内心仍然可以肮脏\n隐藏的罪恶毕竟是隐藏的。 我们可以用最高音量唱颂歌 忘记上周我们对待同事的方式 我们可以跪下祈祷, 我们可以拿走面包和酒 即使我们失去了它与我们的孩子在车里。 人们在教堂只看到外面的东西,但上帝看着心脏(1Sam. 16:7).\n除非我们说出真相,否则我们根本不可能出现在他面前。 即使穿着我们最好的衣服, 我们内部仍然可以脏。 上帝面前的纯洁是圣经中的一个主要主题。 在利维提库斯,我们了解到以色列如何区分干净和不干净。 这些类别扩大到食物和动物。\n甚至人们也可能因疾病或触摸尸体等不干净的东西而受到玷污。 该寺对不洁者禁入. 只有仪式洗涤和动物牺牲才能使重返上帝的存在。 但即使是这也不是永久的 — — 因为公牛和山羊的血无法完全赎罪(Heb. 10:4)。\n象以色列一样,我们不敢以罪恶的条件在上帝面前露面。 正如诗人所问的, \" 谁会站在[上帝]的圣地? 手清净而心清净者”(第24:3-4页)。 虽然肥皂和水可能洗我们的脏手,但什么能净化我们的罪恶的心? 先知马拉奇在今天的诗文中宣布,\n后来,希伯来人的作者澄清了提炼者的身份: 如果山羊和公牛的血... ...为净化肉体而神圣化, 基督的血会有多少, 他通过永恒的灵献给自己 没有污点给上帝, (Heb. 9:13-14)在\"启示录\"中,我们记得耶稣是伟大的炼油者.\n他为了掩盖我们的罪孽 并原谅我们而来 然后,像精炼者一样,他用金属加热去除杂质,主使我们圣洁,这样,在审判日,我们将成为向上帝献礼的无瑕疵者。 因为耶稣的缘故, 外婆确保我看起来很适合教堂,\n耶稣,罪人的伟大净化者,是唯一能洗去每一个污点,去除每一个杂质的人. 当他穿白袍时, 我们将进入上帝的面前, 有时主会通过考验和困难的环境来完善我们 你今年是怎么经历他的提炼过程的?\n感谢上帝净化、净化、精炼我们,",
+      "author": "Sharonda Cooper",
+      "tags": [
+        "Christian Living",
+        "Advent",
+        "Atonement",
+        "Christmas",
+        "Nature of Sin"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:42:38.527035",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "2f7d145e8f29613e"
+    },
+    {
+      "title": "Don’t Be Afraid of the Alien Question",
+      "url": "https://www.thegospelcoalition.org/reviews/faith-in-space-extraterrestrial/",
+      "category": "culture",
+      "source": "The Gospel Coalition",
+      "source_url": "https://www.thegospelcoalition.org/feed/",
+      "published": "2026-11-14",
+      "summary": "‘Faith in Space’ shows that many Americans throughout history have already taken the question of extraterrestrial life seriously, but they’ve done so from outside an orthodox Christian framework.",
+      "summary_zh": "你有没有想过其他世界是否存在,如果存在,他们是否充满了智慧生命? 如果是这样的话,你已经深入到了人类的本能之中。 美国人早就仰望着夜空,问了这个问题. 但对于基督徒来说 答案会让人不安 我们已经相信非人类的智慧 我们称他们为天使和恶魔。",
+      "title_zh": "不要害怕外星人问题",
+      "content": "Have you ever wondered whether other worlds exist, and, if they do, whether they’re filled with intelligent life? If so, you’ve tapped into a deeply human instinct. Americans have long looked up at the night sky and asked that question. For Christians, though, the answers can feel unnerving. We already believe in nonhuman intelligence. We call them angels and demons. But aliens would be something else—material, embodied, literally otherworldly . In 2016, NASA started a conversation among religious scholars at the Center of Theological Inquiry in Princeton about what the existence of extraterrestrial life would mean for religion. Paul Gutjahr, Ruth N. Halls professor of English at Indiana University, has been wrestling with that question for years. Faith in Space: American Religious Belief in Extraterrestrial Life is his considered answer. He thinks we need to look back at existing “extraterrestrial cosmologies” in American religions rather than merely pondering future possibilities (7). Faith in Space is ultimately a history of what happens when religious communities take extraterrestrial life seriously. Many minority religions have, and it has shaped their cosmology and even their soteriology. But for many evangelical Christians, Gutjahr’s history raises a more uncomfortable question: What happens when we don’t take seriously the possibility of extraterrestrial life? Alien Religion Early Americans didn’t need much help imagining inhabited worlds. According to Gutjahr, many Americans “believed there to be life elsewhere in the universe” (19). By the end of the 19th century, “every stratum of American society had been exposed” to this belief (43). For example, Emanuel Swedenborg taught that the universe is populated with humans bearing God’s image and claimed to have conversed with them. His American followers never numbered more than a few thousand, and yet his ideas traveled across the young nation; Helen Keller held them, as did John Chapman (a.k.a. Johnny Appleseed). What happens when we don’t take seriously the possibility of extraterrestrial life? Andrew Jackson Davis, the father of American Spiritualism, was similarly inspired, convinced that “if life is to be found on other planets, it is human life.” He arranged extraterrestrial humans in “a progression of degrees that move from less to more spiritual” (64). Then Joseph Smith took things further. Latter-day Saints (Mormons) took an “aggressive extraterrestrial cosmological stance,” linking all worlds under one governing structure (79). God created many inhabited worlds arranged in “a hierarchy where some worlds rule over others” (89). Among these many worlds, Earth holds the least desirable title of “the most wicked, and thus most in need of a savior” (86). God himself is an enfleshed exalted man dwelling on a planet near the star Kolob. I’d add that the Salt Lake Temple bears the Big Dipper, and early Latter-day Saint temple iconography is thick with suns, moons, and stars. Next came the founder of Seventh-day Adventism, Ellen G. White. Where William Miller’s followers read comets and meteor showers as signs of Christ’s return, White gave Seventh-day Adventists “a far more complex understanding of their relationship with the stars” (124). Ours “was the only wicked world” (125). White distinguished strongly between the righteous and unrighteous worlds, and put Earth on the wrong side of that distinction. By the 20th century, the heavens were packed and theories about the heavens were part of salvation. Then comes Helena Blavatsky (Theosophy), L. Ron Hubbard (Scientology), Wallace Fard Muhammad and Louis Farrakhan (Nation of Islam), Malachi Z. York (Nuwaubian Nation), Ashtar Command, and Heaven’s Gate. All these figures or groups saw extraterrestrial life as part of the human story, whether for our good or our ill, or both. While the subtitle promises to cover American religions broadly, Gutjahr sets aside Catholics, Jews, and native traditions. The only “Protestants” he examines are Swedenborgians and Latter-day Saints, neither of whom would accept the label. The better subtitle would have been American Minority Religious Belief in Extraterrestrial Life ; that book is excellent. The great observation Gutjahr makes is that while older traditions discussed other worlds and their inhabitants, newer traditions made them doctrine. Evangelical Attitudes This book leads me to wonder where evangelicalism sits. As a pastor, I’m afraid the honest answer is that many evangelicals haven’t yet pulled up a chair. Our people are already thinking about this possibility, including many of our young men. The U.S. government keeps releasing Unidentified Anomalous Phenomena (UAP) footage and testimony, and Congress keeps holding hearings. Some of the loudest Christian voices on the subject are repeating only one word, over and over: demonic . Demonology certainly is part of the UAP discussion. I’ve read enough abduction encounters and heard enough testimony to understand that sort of thing is in play and should be taken seriously. But my concern is that all UAP and nonhuman intelligence will be considered demonic by default, and we’ll stop asking what else might be out there. If his Space Trilogy is any measure to go by, I think C. S. Lewis would find that move unwise. It’s such a big conclusion to draw from such a small, opaque sample. Lewis would ask us to stretch our imagination within the bounds of biblical orthodoxy. Much of the buzz around Steven Spielberg’s Disclosure Day this summer focused on how the movie, which presented the existence aliens in our midst as a fact, might undermine religious belief. The UAP discussion is something our culture is wrestling with in religious terms. Our answer needs to go deeper than simply attributing the inexplicable to demons. Considered Response Thankfully, the Christian worldview allows us to think carefully about this subject, and it even invites us to. Scripture already speaks of a creation that includes things “visible and invisible” (Col. 1:16). C. S. Lewis takes up these questions without flinching—especially in his excellent essay “ Religion and Rocketry ”—where he walks through the logical possibilities for rational extraterrestrial life. He argues that “the mere existence of these creatures would not raise a problem.” We would need to know if they were fallen and in need of redemption before we worry about how their existence affects our theology. Meanwhile, Lewis reminds us that “Christians and their opponents again and again expect that some new discovery will either turn matters of faith into matters of knowledge or else reduce them to patent absurdities. But it has never happened.” Yet if Lewis thought it worthwhile to consider the possibilities, then we can do the same, and I think pastors should for the sake of their people. The Christian worldview allows us to think carefully about this subject, and it even invites us to. The challenge for church leaders is to take people seriously when they ask these questions. When a young man brings up the topic, we can’t simply claim it’s demonic and walk away. Instead, we need to turn to discipleship. Ask what he’s been reading and hearing. Ask what he thinks about it. Then show him how the Christian doctrine of creation is big enough to hold all those questions and thoughts and feelings. We don’t need to have all the answers. We just need to be willing to wrestle with all the questions. Faith in Space shows that many Americans throughout history have already taken the question of extraterrestrial life seriously, but they’ve done so from outside an orthodox Christian framework. By expounding an engaging history, Gutjahr invites readers to join in the conversation.",
+      "content_zh": "你有没有想过其他世界是否存在,如果存在,他们是否充满了智慧生命? 如果是这样的话,你已经深入到了人类的本能之中。 美国人早就仰望着夜空,问了这个问题. 但对于基督徒来说 答案会让人不安 我们已经相信非人类的智慧 我们称他们为天使和恶魔。\n但外星人会是别的东西——物质的,体现的,其实是异世界的。 2016年,NASA在普林斯顿神学调查中心开始了宗教学者之间的对话,讨论外星生命的存在对宗教的意义. Paul Gutjahr, 印第安纳大学的Ruth N. Halls英语教授, 多年来一直在与这个问题搏斗。\n信仰太空:美国宗教信仰外星生活是他深思熟虑的答案. 他认为,我们需要回顾美国宗教中现有的“地外宇宙学”,而不是仅仅考虑未来的可能性(7)。 对太空的信仰最终是宗教界严肃对待外星生活时所发生的历史.\n许多少数宗教都有,它塑造了他们的宇宙学甚至其神学. 但对于许多福音派基督徒来说, 如果我们不认真对待外星生命的可能性, 早期美国人不需要多少帮助,\nGutjahr说,许多美国人“相信宇宙中别处有生命”(19)。 到19世纪末,“美国社会的每一个阶层都暴露在”这种信念中(43)。 例如,伊曼纽尔·瑞典堡教导说,宇宙中充满着带有上帝形象的人类,并声称与他们进行了交谈。\n他的美国追随者人数从未超过几千人,然而他的想法却横跨了年轻的国家;海伦·凯勒和约翰·查普曼(英语:Johnny Appleseed)一样抱着他们. 如果我们不认真对待外星生命的可能性,\n美国精神主义之父安德鲁·杰克逊·戴维斯(Andrew Jackson Davis)同样受到启发,他坚信“如果在其他星球上找到生命,那就是人的生命。” 他将外星人类安排在“从较少的学位发展到更精神的学位”(64)。 后来约瑟夫·史密斯把事情更进一步.\n末日圣徒(摩门教徒)采取了一种“侵略性的外星宇宙学立场,将所有的世界在一个管理结构下联系起来(79)。 上帝创造了许多有人居住的世界,这些世界是以“一些世界统治其他世界的等级”安排的(89)。 在许多世界中,地球拥有最不可取的“最邪恶因而最需要救世主”的称号(86)。\n上帝本身就是一个被包围的尊贵的人 住在一颗星科洛布附近的星球上 盐湖寺庙承载着大迪珀, 接下来是基督复临安息日会的创始人爱伦·G·怀特.\n威廉·米勒的追随者将彗星和流星雨读作基督回归的标志,怀特给了基督复临安息日会信徒\"对其与恒星关系的更复杂的理解\"(124). 我们的“是唯一邪恶的世界”(125)。 怀特强烈区分了正直和不公的世界,将地球置于这种区分的错误一边.\n到了20世纪,诸天被收拾,关于诸天的理论是救赎的一部分. 接下来是Helena Blavatsky(Theosophy)、L. Ron Hubbard(科学学)、Wallace Fard Muhammad和Louis Farrakhan(伊斯兰教联盟)、Malachi Z. York(努瓦乌比亚民族)、Ashtar指挥部和天堂之门。\n所有这些人物或团体都将外星生命视为人类故事的一部分,无论是为了我们的好,还是为了我们的病,或者两者兼而有之. 虽然字幕承诺广泛涵盖美国宗教,但古特贾赫却抛弃了天主教徒、犹太人和本土传统。 他审查的唯一“抗议者”是瑞典博尔吉亚人和晚期圣徒,他们都不接受这一标签。\n更合适的副标题是《外星生活中的美国少数派宗教信仰》, Gutjahr的伟大观察是,虽然较古老的传统讨论了其他世界及其居民,但较新的传统却使它们成为学说. 福音派态度 这本书让我怀疑福音派在哪里\n作为牧师, 老实回答是许多福音派人士还没有拉起椅子。 我们的人民已经在考虑这种可能性,包括我们的许多年轻人。 美国政府不断发布不明异常现象(UAP)镜头和证词,国会也不断举行听证会.\n一些最响亮的基督教声音, 恶魔学当然是UAP讨论的一部分. 我读了足够多的绑架事件,\n但我担心所有UAP和非人类的智能默认都会被认为是恶魔, 如果他的\"太空三部曲\"是任何措施的话 我想C. S. Lewis会觉得这招不明智 从如此小的,不透明的样本中得出这样的大结论。 刘易斯会要求我们把想象力伸展到圣经正统的范畴.\n这部电影将外星人的存在作为一个事实, UAP讨论是我们文化在宗教方面正在面对的问题。 我们的答案需要更深入一些, 而不是简单地将无法解释的事物归咎于恶魔。\n审议答复 值得庆幸的是,基督教世界观允许我们仔细考虑这个问题,它甚至邀请我们这样做. 圣经已经提到一种包括“无形和无形”事物的创造(第1:16上校)。 C.S. 报告\n刘易斯在讨论这些问题时毫不犹豫——特别是在他出色的论文《宗教和火箭》中——他走过理性的地球外生活的逻辑可能性。\n他争辩说,“这些生物的存在不会引起问题。” 我们需要知道他们是否堕落 并且需要救赎 在我们担心他们的存在 如何影响我们的神学之前\n与此同时,刘易斯提醒我们,“基督教徒及其反对者一再期望,一些新的发现要么会把信仰问题变成知识问题,要么会把它们变成明显的荒谬。 但这种情况从未发生。” 如果刘易斯认为值得考虑这些可能性,那么我们也可以这样做,我认为牧师应该为了他们的人民着想.\n基督教世界观允许我们仔细考虑这个问题,它甚至邀请我们这样做. 教会领袖面临的挑战是当人们问到这些问题时要严肃对待他们. 当一个年轻人提出这个话题时, 相反,我们需要转向门徒。 问他阅读和听到什么。 问他如何想.\n然后向他展示基督教的造物学说如何大到足以承受所有这些问题和思想与感情. 我们不需要所有答案。 我们只需要愿意面对所有的问题\n相信太空表明, 历史上许多美国人 已经认真对待外星生命问题, Gutjahr通过阐述参与历史,邀请读者加入对话。",
+      "author": "Kyle Beshears",
+      "tags": [
+        "Arts & Culture",
+        "Reviews",
+        "Angels",
+        "Church and Culture",
+        "End Times",
+        "Fear and Anxiety",
+        "Satan and Demons"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:42:38.528782",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "6575bca778d2b948"
+    },
+    {
+      "title": "What’s Happening in Your Heart?",
+      "url": "https://rss.desiringgod.org/link/10732/17524499/whats-happening-in-your-heart",
+      "category": "culture",
+      "source": "Desiring God",
+      "source_url": "https://www.desiringgod.org/blog.rss",
+      "published": "2026-11-14",
+      "summary": "The human heart is a strange and wild thing. It motivates all behavior, whether holy joys (Psalm 4:7), self-immolating sins (Matthew 15:19), or godly obedience (Ephesians 6:6). Its purposes are like deep water (Proverbs 20:5), yet it can be as shallow as a rain puddle (Matthew 13:20–21). It lives where its treasure lies (Matthew 6:21) yet wanders like a lost dog (Isaiah 63:17). Jeremiah says, “The heart is deceitful above all things, and desperately sick” (Jeremiah 17:9). And yet for believers,",
+      "summary_zh": "人心既奇妙又难以捉摸。它驱使着一切行为，无论是圣洁的喜乐（诗篇4:7）、自我毁灭的罪（马太福音15:19），还是敬虔的顺服（以弗所书6:6）。它的意图像深水（箴言20:5），但又可能像雨水积成的水坑一样浅（马太福音13:20-21）。它住在有财宝的地方（马太福音6:21），却像迷路的狗一样游荡（以赛亚书63:17）。耶利米说：“人心比万物都诡诈，无可救药。”（耶利米书17:9）然而，对于信徒来说，",
+      "title_zh": "您的内心在想些什么？",
+      "content": "",
+      "content_zh": "",
+      "author": "Pierce Taylor Hibbs",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:42:39.316758",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "3256188408ffc5a6"
+    },
+    {
+      "title": "1 Corinthians 3:12–17, Part 2: The Day of Judgment on Believers and Unbelievers",
+      "url": "https://rss.desiringgod.org/link/10732/17524500/the-day-of-judgment-on-believers-and-unbelievers",
+      "category": "culture",
+      "source": "Desiring God",
+      "source_url": "https://www.desiringgod.org/blog.rss",
+      "published": "2026-11-14",
+      "summary": "No one will escape the day of judgment when Christ returns. Believers will be rewarded for their good works; unbelievers will be condemned for their evil ones. Watch Now",
+      "summary_zh": "基督再临时，没有人能逃脱审判的日子。信徒将因善行而得赏赐；不信者将因恶行而被定罪。立即观看",
+      "title_zh": "哥林多前书3:12-17，第2部分：审判信徒和不信者的日子",
+      "content": "",
+      "content_zh": "",
+      "author": "John Piper",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:42:39.316910",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "3f14d4401c2c422b"
+    },
+    {
+      "title": "How to Commune with Christ",
+      "url": "https://rss.desiringgod.org/link/10732/17524501/how-to-commune-with-christ",
+      "category": "culture",
+      "source": "Desiring God",
+      "source_url": "https://www.desiringgod.org/blog.rss",
+      "published": "2026-11-14",
+      "summary": "Whether in creation, providence, redemption, or glorification, God aims to bring his people into deep fellowship with him through Jesus Christ. Watch Now",
+      "summary_zh": "无论是在创造、护理、救赎还是荣耀中，神的旨意都是通过耶稣基督使祂的子民与祂建立深厚的契合。立即观看",
+      "title_zh": "如何与基督交通",
+      "content": "",
+      "content_zh": "",
+      "author": "John Piper",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:42:39.317033",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "adb94dd1dd359be7"
     },
     {
       "title": "Who Is the God of the Bible?",

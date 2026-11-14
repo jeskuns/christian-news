@@ -2,7 +2,7 @@
   "category": "wiki",
   "label": "百科背景",
   "count": 53,
-  "updated_at": "2026-11-14T08:52:28.399529+08:00",
+  "updated_at": "2026-11-15T07:49:02.950535+08:00",
   "articles": [
     {
       "title": "Reformed Christianity",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.282484",
+      "fetched_at": "2026-11-14T23:42:39.489612",
       "extra": {
         "wordcount": 13176
       },
@@ -50,7 +50,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.282499",
+      "fetched_at": "2026-11-14T23:42:39.489603",
       "extra": {
         "wordcount": 2469
       },
@@ -76,7 +76,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.472441",
+      "fetched_at": "2026-11-14T23:42:39.679517",
       "extra": {
         "wordcount": 31257
       },
@@ -102,7 +102,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.472454",
+      "fetched_at": "2026-11-14T23:42:39.679526",
       "extra": {
         "wordcount": 5737
       },
@@ -128,7 +128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.784737",
+      "fetched_at": "2026-11-14T23:42:39.963069",
       "extra": {
         "wordcount": 25590
       },
@@ -154,7 +154,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.784755",
+      "fetched_at": "2026-11-14T23:42:39.963083",
       "extra": {
         "wordcount": 9252
       },
@@ -180,7 +180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:22.016418",
+      "fetched_at": "2026-11-14T23:42:40.243065",
       "extra": {
         "wordcount": 26795
       },
@@ -206,7 +206,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:22.016436",
+      "fetched_at": "2026-11-14T23:42:40.243080",
       "extra": {
         "wordcount": 3170
       },
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:22.168029",
+      "fetched_at": "2026-11-14T23:42:40.457805",
       "extra": {
         "wordcount": 23131
       },
@@ -258,9 +258,9 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:22.168058",
+      "fetched_at": "2026-11-14T23:42:40.457830",
       "extra": {
-        "wordcount": 12292
+        "wordcount": 12300
       },
       "id": "e995476b9a3f9f72"
     },
@@ -284,7 +284,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.784787",
+      "fetched_at": "2026-11-14T23:42:39.963109",
       "extra": {
         "wordcount": 8703
       },
@@ -310,7 +310,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.282467",
+      "fetched_at": "2026-11-14T23:42:39.489588",
       "extra": {
         "wordcount": 33534
       },
@@ -336,7 +336,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.472413",
+      "fetched_at": "2026-11-14T23:42:39.679496",
       "extra": {
         "wordcount": 29658
       },
@@ -362,7 +362,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.784774",
+      "fetched_at": "2026-11-14T23:42:39.963099",
       "extra": {
         "wordcount": 5010
       },
@@ -388,7 +388,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.282511",
+      "fetched_at": "2026-11-14T23:42:39.489621",
       "extra": {
         "wordcount": 9224
       },
@@ -440,7 +440,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.472429",
+      "fetched_at": "2026-11-14T23:42:39.679508",
       "extra": {
         "wordcount": 9417
       },
@@ -466,7 +466,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:22.168071",
+      "fetched_at": "2026-11-14T23:42:40.457840",
       "extra": {
         "wordcount": 5954
       },
@@ -492,7 +492,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:22.168085",
+      "fetched_at": "2026-11-14T23:42:40.457850",
       "extra": {
         "wordcount": 252
       },
@@ -518,7 +518,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:22.016452",
+      "fetched_at": "2026-11-14T23:42:40.243093",
       "extra": {
         "wordcount": 12390
       },
@@ -530,7 +530,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-13",
+      "published": "2026-11-14",
       "summary": "for the Orthodox Rum'), is an autocephalous Eastern Orthodox church in full communion with the other autocephalous Eastern Orthodox churches and originates",
       "summary_zh": "为东正教朗姆酒'），是一个独立的东正教教堂，与其他独立的东正教教堂完全共融，起源于",
       "title_zh": "安提阿希腊东正教牧首辖区",
@@ -544,7 +544,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-13T00:56:22.911578",
+      "fetched_at": "2026-11-14T23:42:40.243109",
       "extra": {
         "wordcount": 7689
       },

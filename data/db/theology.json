@@ -2,7 +2,7 @@
   "category": "theology",
   "label": "神学与合一",
   "count": 98,
-  "updated_at": "2026-11-14T08:52:28.396284+08:00",
+  "updated_at": "2026-11-15T07:49:02.948518+08:00",
   "articles": [
     {
       "title": "Global Prayer for Peace in Ukraine",
@@ -362,7 +362,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:19.647641",
+      "fetched_at": "2026-11-14T23:42:38.230148",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -1799,6 +1799,7 @@
       "summary_zh": "弗吉尼亚州的投票将凯撒置于上帝之上",
       "title_zh": "弗吉尼亚州的投票将凯撒置于上帝之上",
       "content": "",
+      "content_zh": "",
       "author": "First Things",
       "tags": [],
       "language": "en",
@@ -1807,13 +1808,13 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:36.347045",
+      "fetched_at": "2026-11-14T23:42:38.230843",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
         "publisher": "First Things"
       },
-      "content_zh": ""
+      "id": "745ec53cad688cfb"
     },
     {
       "title": "宗文社五十周年社庆研讨会 （9月16日消息）",
@@ -1947,7 +1948,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:19.479875",
+      "fetched_at": "2026-11-14T23:42:38.000579",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -2141,7 +2142,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:19.622648",
+      "fetched_at": "2026-11-14T23:42:38.163164",
       "extra": {
         "provider": "google_news",
         "query": "Modern Reformation magazine",
@@ -2225,7 +2226,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:19.995998",
+      "fetched_at": "2026-11-14T23:42:38.585882",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
