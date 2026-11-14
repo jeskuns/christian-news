@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 36,
-  "updated_at": "2026-11-13T09:03:57.082456+08:00",
+  "count": 37,
+  "updated_at": "2026-11-14T08:52:28.442732+08:00",
   "articles": [
     {
       "title": "Latest from Mormon Land: Gender gap again shows up in the church; LDS voters ride the blue wave",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-13T00:56:22.341243",
+      "fetched_at": "2026-11-14T00:44:21.782937",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -87,6 +87,34 @@
         "publisher": "Axios"
       },
       "id": "a2caec00ef83573c"
+    },
+    {
+      "title": "One of the Best Shows on TV Has a New Spinoff. It’s Worth Your Time.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUNuYmNBTEZ3TFRzMnQxR1BpblpDZWl5TWlJdldfSWRVTDdkaXRBS1d0c1ZxM3NqNUFWbnphS1dYM0xVdEEtWjRuUmNjeXFhMDI3ZU1ORGZ3cHhFbmxGd1FSSkNvNjlnc1hGanFaUGVHRS14Ql84YnllU1VFSGxGX1RqZE5udEJPcmlV?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-12",
+      "summary": "One of the Best Shows on TV Has a New Spinoff. It’s Worth Your Time. Slate Magazine",
+      "summary_zh": "最好的电视节目之一有新的衍生剧。值得您花时间。石板杂志",
+      "title_zh": "一部最出色的电视节目推出了新衍生剧。值得一看。",
+      "content": "",
+      "content_zh": "",
+      "author": "Slate Magazine",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T00:44:21.783802",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Slate Magazine"
+      },
+      "id": "56842a6a75c66146"
     },
     {
       "title": "Why is Bobbi Althoff on 'Mormon Wives'? Meet the SLOMW: OC cast",
@@ -192,7 +220,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-13T00:56:22.341957",
+      "fetched_at": "2026-11-14T00:44:21.783704",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -276,7 +304,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-13T00:56:22.341634",
+      "fetched_at": "2026-11-14T00:44:21.783316",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -332,7 +360,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-13T00:56:22.341793",
+      "fetched_at": "2026-11-14T00:44:21.783601",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -859,7 +887,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:50:17.608634",
+      "fetched_at": "2026-11-14T00:44:21.783208",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -887,7 +915,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-13T00:56:22.342034",
+      "fetched_at": "2026-11-14T00:44:21.783912",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -915,7 +943,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-13T00:56:22.341872",
+      "fetched_at": "2026-11-14T00:44:21.783511",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -970,7 +998,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-13T00:56:22.341458",
+      "fetched_at": "2026-11-14T00:44:21.783090",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
