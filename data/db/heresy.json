@@ -2,7 +2,7 @@
   "category": "heresy",
   "label": "异端辨析",
   "count": 41,
-  "updated_at": "2026-11-15T07:49:02.977181+08:00",
+  "updated_at": "2026-11-16T07:56:13.744735+08:00",
   "articles": [
     {
       "title": "Massive data center approved on Mormon church's historic Texas ranch",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:42:39.622055",
+      "fetched_at": "2026-11-15T23:49:57.519961",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -52,7 +52,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:42:39.622166",
+      "fetched_at": "2026-11-15T23:49:57.520527",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -108,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:42:39.622261",
+      "fetched_at": "2026-11-15T23:49:57.520089",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -179,12 +179,12 @@
       "source": "摩门教 LDS",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-11-12",
-      "summary": "One of the Best Shows on TV Has a New Spinoff. It’s Worth Your Time. Slate Magazine",
-      "summary_zh": "最好的电视节目之一有新的衍生剧。值得您花时间。石板杂志",
+      "summary": "One of the Best Shows on TV Has a New Spinoff. It’s Worth Your Time. Slate",
+      "summary_zh": "一部最受欢迎的电视剧推出了新衍生剧。值得一看。Slate",
       "title_zh": "一部最出色的电视节目推出了新衍生剧。值得一看。",
       "content": "",
       "content_zh": "",
-      "author": "Slate Magazine",
+      "author": "Slate",
       "tags": [],
       "language": "en",
       "country": "US",
@@ -192,11 +192,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.783802",
+      "fetched_at": "2026-11-15T23:49:57.520842",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
-        "publisher": "Slate Magazine"
+        "publisher": "Slate"
       },
       "id": "56842a6a75c66146"
     },
@@ -500,7 +500,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:50:55.147495",
+      "fetched_at": "2026-11-15T23:49:57.520648",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -999,7 +999,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.783208",
+      "fetched_at": "2026-11-15T23:49:57.520220",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1027,7 +1027,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:44:21.783912",
+      "fetched_at": "2026-11-15T23:49:57.520936",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1055,7 +1055,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:42:39.622568",
+      "fetched_at": "2026-11-15T23:49:57.520421",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
