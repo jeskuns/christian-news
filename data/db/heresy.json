@@ -1,9 +1,37 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 41,
-  "updated_at": "2026-11-16T07:56:13.744735+08:00",
+  "count": 43,
+  "updated_at": "2026-11-17T11:02:08.135871+08:00",
   "articles": [
+    {
+      "title": "Sister Wives’ Janelle Brown Recalls Being ‘Excommunicated’ From LDS Church While Pregnant",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckhQa1ZJM29lcVNvcnhyUzZTRFJwc1RyaDRLZmZqeXNiWV9pR3U5RkxrRkc5UGhDSWZfTFg2TlZPdS1pSUR0T05BVUMyRlo2c3Qwc0pQMzRXWUN3ZVgxNWZ1dTlIX0V4UTB3eWl3N2s4Nkxha0NneEwxc0k2dkpUcUNyN3MzNHBMWWpEWWItSjRjZFNVT2NsTzd3VFBpVE1iU0RnTA?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-16",
+      "summary": "Sister Wives’ Janelle Brown Recalls Being ‘Excommunicated’ From LDS Church While Pregnant Us Weekly",
+      "summary_zh": "Janelle Brown修女回忆说,",
+      "title_zh": "《多妻姐妹》的珍妮尔·布朗回忆起自己在怀孕期间被耶稣基督后期圣徒教会“开除教籍”的经历",
+      "content": "",
+      "content_zh": "",
+      "author": "Us Weekly",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-17T02:50:12.532329",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Us Weekly"
+      },
+      "id": "7ab7a9bd1b31bce7"
+    },
     {
       "title": "Massive data center approved on Mormon church's historic Texas ranch",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzRKOXpUTS1jSC0tQU1UNG1vVlRheHV4dTMzQW40ZE9sQTIwdWpCdkMzc2ZPZ2ljV1RfQ1g0aDkzZFdpMHJ3XzRJcG8yNE5VLTM5M2FidGZrelQtRm5TOUZrOFBqYVRzS051X1Nua0Q0bUpOTmpYck05MWpiUVM3Z2FB?oc=5",
@@ -24,7 +52,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-15T23:49:57.519961",
+      "fetched_at": "2026-11-17T02:50:12.531452",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -108,7 +136,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-15T23:49:57.520089",
+      "fetched_at": "2026-11-17T02:50:12.531826",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -227,6 +255,34 @@
         "publisher": "Bergen Record"
       },
       "id": "faf8096851378e8e"
+    },
+    {
+      "title": "Are Mormons Christians?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbm9FZEpiSkNINWx0bFJWUHhNam43c2hMYy1GQnZQNW9udlI1ZGZxdkJMXzRDRTE1WUpqbW9RUGZPNUgxVkxpNy04bGZnTHo1Y1VRNGZyMlVnN05ldmRkRnladE1OS3RFYWJPNTFRNW94VWtfX2lQV19ieGJIUnBxVkxMMEpXXzJPWVYwaVZIcF83c190VU5ScWVfY3dwZw?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-11",
+      "summary": "Are Mormons Christians? Crosswalk.com",
+      "summary_zh": "摩门教徒是基督徒吗? Crosswalk.com 互联网档案馆的存檔,存档日期2013-10-02.",
+      "title_zh": "摩门教徒是基督徒吗？",
+      "content": "",
+      "content_zh": "",
+      "author": "Crosswalk.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-17T02:50:12.532634",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Crosswalk.com"
+      },
+      "id": "659abe4d6d6fe4af"
     },
     {
       "title": "“全家从拥有100万信徒的宗教中脱离出来”……赵惠莲开始警惕异端",
@@ -999,7 +1055,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-15T23:49:57.520220",
+      "fetched_at": "2026-11-17T02:50:12.531650",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1027,7 +1083,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-15T23:49:57.520936",
+      "fetched_at": "2026-11-17T02:50:12.532787",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1055,7 +1111,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-15T23:49:57.520421",
+      "fetched_at": "2026-11-17T02:50:12.532138",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
