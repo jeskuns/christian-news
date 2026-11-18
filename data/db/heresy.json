@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 43,
-  "updated_at": "2026-11-17T11:02:08.135871+08:00",
+  "count": 45,
+  "updated_at": "2026-11-18T10:21:17.557927+08:00",
   "articles": [
     {
       "title": "Sister Wives’ Janelle Brown Recalls Being ‘Excommunicated’ From LDS Church While Pregnant",
@@ -24,13 +24,69 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:12.532329",
+      "fetched_at": "2026-11-18T02:12:02.574059",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Us Weekly"
       },
       "id": "7ab7a9bd1b31bce7"
+    },
+    {
+      "title": "LDS Church instructs children on how to stop and report unwanted touching",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbUtzSS1reFFZLUIzZjdUQmNVTE9tM19XN2lvdUZLNk1hbFJaUm03d1hTdG9zeTJIN2ZYb2ptTlRyVGVxUDA2eUprM1YxSlhpNzlzMmhMNWUwV194VnJaSGlFT0pVMW04MGVZMk5Qc1lhYzUwNWhLN3VnQ2t6d1BXaFdORQ?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-15",
+      "summary": "LDS Church instructs children on how to stop and report unwanted touching The Salt Lake Tribune",
+      "summary_zh": "LDS 教会指导儿童如何停止和报告不必要的触摸 盐湖论坛报",
+      "title_zh": "耶稣基督后期圣徒教会指导儿童如何制止和举报不当触摸行为",
+      "content": "",
+      "content_zh": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-18T02:12:02.573401",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      },
+      "id": "109e84ae87190b20"
+    },
+    {
+      "title": "Wife of child-molesting ex-Mormon figure once based in Chicago area calls him 'caring,' 'a wonderful father'",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNci13eGdtc1FkVlNDcFA4ZkREcUljOTNZRl9icU8wNmxIYzk2eUtGTEgxSHVzZTRrWlJLYVhZMThMeFEzLTBqT3EyTGNZcXlyZk1jWWFudVpKbWZJNDBwcGdvbm1GdWx2ZFZUM3BoT2pQM3hzc2xFSDFhOUwwb1hFREVDUFZKbFBLR3FpeVBFMzg4cXJLUHBtc2VrdXdMZTZxY2NWMjVKTk9zMGJ1ZjR4YVpDSVR6WjhFSm1XbWNqbG5HdlphVTVfWVRJYzJVbzRITHF6M2NtODJXUW9HcXBQZzRKN0xfXzBsSzNMbjFuV1BDWEllbEJfVC00aw?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-15",
+      "summary": "Wife of child-molesting ex-Mormon figure once based in Chicago area calls him 'caring,' 'a wonderful father' Chicago Sun-Times",
+      "summary_zh": "曾在芝加哥地区猥亵儿童的前摩门教徒人物的妻子称他为“有爱心的人”，“一位出色的父亲”《芝加哥太阳时报》",
+      "title_zh": "曾居住在芝加哥地区的猥亵儿童的前摩门教人物的妻子称他“体贴”、“是一位好父亲”",
+      "content": "",
+      "content_zh": "",
+      "author": "Chicago Sun-Times",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-18T02:12:02.573585",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Chicago Sun-Times"
+      },
+      "id": "0b714264af287fcf"
     },
     {
       "title": "Massive data center approved on Mormon church's historic Texas ranch",
@@ -52,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:12.531452",
+      "fetched_at": "2026-11-18T02:12:02.572897",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1083,7 +1139,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:12.532787",
+      "fetched_at": "2026-11-18T02:12:02.574212",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1111,7 +1167,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:12.532138",
+      "fetched_at": "2026-11-18T02:12:02.573239",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",

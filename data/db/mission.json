@@ -2,7 +2,7 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 47,
-  "updated_at": "2026-11-17T11:02:08.137343+08:00",
+  "updated_at": "2026-11-18T10:21:17.559516+08:00",
   "articles": [
     {
       "title": "Who was the first Augustinian missionary in Peru?",
@@ -108,10 +108,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:07.719154",
+      "fetched_at": "2026-11-18T02:11:58.873098",
       "extra": {
         "provider": "google_news",
-        "query": "Operation Mobilization",
+        "query": "Operation Mobilization mission",
         "publisher": "ThoroldToday.ca"
       },
       "id": "fc3ccf3ae6fe9cc5"
@@ -573,7 +573,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:07.532599",
+      "fetched_at": "2026-11-18T02:11:59.182667",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -656,7 +656,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-15T23:49:54.436962",
+      "fetched_at": "2026-11-18T02:11:58.873275",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -873,7 +873,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:06.519422",
+      "fetched_at": "2026-11-18T02:11:58.457405",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -1063,7 +1063,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:07.533188",
+      "fetched_at": "2026-11-18T02:11:59.183170",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -1231,7 +1231,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-15T23:49:54.422277",
+      "fetched_at": "2026-11-18T02:11:58.977321",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
