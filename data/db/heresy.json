@@ -1,9 +1,65 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 45,
-  "updated_at": "2026-11-18T10:21:17.557927+08:00",
+  "count": 48,
+  "updated_at": "2026-11-19T09:54:51.390645+08:00",
   "articles": [
+    {
+      "title": "96MW data center planned on rural Texas ranch owned by Mormon Church",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40eVI2Qk1ockZLR0ZQTHREcVRkMlBvaXRfczVaNzdUN0NhV25QT2xvazEtR2FPc21VUUxDMmRQWndFcHdRRC1UejhzdmpRSEw5Vnl5Ri1mRFBVNkNmSVVfeko3Qm9WR0cwZG40NHQ2RUVmcGxnSFNj?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-18",
+      "summary": "96MW data center planned on rural Texas ranch owned by Mormon Church Data Center Dynamics",
+      "summary_zh": "96MW 数据中心计划建在摩门教会拥有的德克萨斯州农村牧场 Data Center Dynamics",
+      "title_zh": "摩门教会拥有的德州乡村牧场计划建设96兆瓦数据中心",
+      "content": "",
+      "content_zh": "",
+      "author": "Data Center Dynamics",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T01:46:36.121211",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Data Center Dynamics"
+      },
+      "id": "70980ff529c9b38d"
+    },
+    {
+      "title": "The Queer Throuple on SLOMW: OC Is Sparking a Conversation About Homophobia in Mormonism",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsUHNFVm1RZDhhTk9xWEpXQjQwQXEzSVFBN0ZnNkw5R1ZITW1JQVBWbDcwTGQ1UXBneWRfWC1PY2RnRVdHNlQ4WXJmNmhOdll2ZzB2T0h2QWo2bG1LaG4wVGh0VXprZlg1LVJtSm81cDhsTmd3R0tv?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-17",
+      "summary": "The Queer Throuple on SLOMW: OC Is Sparking a Conversation About Homophobia in Mormonism Them",
+      "summary_zh": "SLOMW 上的酷儿三人组：OC 正在引发一场关于摩门教中恐同症的对话",
+      "title_zh": "SLOMW上的酷儿三人行：OC正在引发关于摩门教中恐同现象的讨论",
+      "content": "",
+      "content_zh": "",
+      "author": "Them",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T01:46:36.121632",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Them"
+      },
+      "id": "9fd09a159ac2483e"
+    },
     {
       "title": "Sister Wives’ Janelle Brown Recalls Being ‘Excommunicated’ From LDS Church While Pregnant",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckhQa1ZJM29lcVNvcnhyUzZTRFJwc1RyaDRLZmZqeXNiWV9pR3U5RkxrRkc5UGhDSWZfTFg2TlZPdS1pSUR0T05BVUMyRlo2c3Qwc0pQMzRXWUN3ZVgxNWZ1dTlIX0V4UTB3eWl3N2s4Nkxha0NneEwxc0k2dkpUcUNyN3MzNHBMWWpEWWItSjRjZFNVT2NsTzd3VFBpVE1iU0RnTA?oc=5",
@@ -31,6 +87,34 @@
         "publisher": "Us Weekly"
       },
       "id": "7ab7a9bd1b31bce7"
+    },
+    {
+      "title": "Are Mormons Christians?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbm9FZEpiSkNINWx0bFJWUHhNam43c2hMYy1GQnZQNW9udlI1ZGZxdkJMXzRDRTE1WUpqbW9RUGZPNUgxVkxpNy04bGZnTHo1Y1VRNGZyMlVnN05ldmRkRnladE1OS3RFYWJPNTFRNW94VWtfX2lQV19ieGJIUnBxVkxMMEpXXzJPWVYwaVZIcF83c190VU5ScWVfY3dwZw?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-16",
+      "summary": "Are Mormons Christians? Crosswalk.com",
+      "summary_zh": "摩门教徒是基督徒吗? Crosswalk.com 互联网档案馆的存檔,存档日期2013-10-02.",
+      "title_zh": "摩门教徒是基督徒吗？",
+      "content": "",
+      "content_zh": "",
+      "author": "Crosswalk.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T01:46:36.121560",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Crosswalk.com"
+      },
+      "id": "659abe4d6d6fe4af"
     },
     {
       "title": "LDS Church instructs children on how to stop and report unwanted touching",
@@ -80,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:12:02.573585",
+      "fetched_at": "2026-11-19T01:46:36.121777",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -108,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:12:02.572897",
+      "fetched_at": "2026-11-19T01:46:36.121329",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -171,6 +255,34 @@
         "publisher": "Mormon Stories"
       },
       "id": "618ee0f023a42edd"
+    },
+    {
+      "title": "Proposed data center on land leased from LDS Church moves forward",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTC1jcl91Umc1c0lrcHExQjBWb2hhcTFwQlhNcmtYN0V3WHhWazhmTnh3djdiblZEUzBKSk5BUmNQbHJaelJraWNQRmNCVkVaSUJmZGdmUlJRYndFUkhzUGdPOUh2eVY5VERqVThha25TZ3lPcHg3NWhCNjI5aG92M04wZw?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-13",
+      "summary": "Proposed data center on land leased from LDS Church moves forward The Salt Lake Tribune",
+      "summary_zh": "从 LDS 教会租用的土地上拟议的数据中心正在推进中 - 盐湖论坛报",
+      "title_zh": "拟建在从耶稣基督后期圣徒教会租赁的土地上的数据中心项目正在推进",
+      "content": "",
+      "content_zh": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T01:46:36.121413",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      },
+      "id": "f05a940e1c2f545d"
     },
     {
       "title": "Latest from Mormon Land: Gender gap again shows up in the church; LDS voters ride the blue wave",
@@ -311,34 +423,6 @@
         "publisher": "Bergen Record"
       },
       "id": "faf8096851378e8e"
-    },
-    {
-      "title": "Are Mormons Christians?",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbm9FZEpiSkNINWx0bFJWUHhNam43c2hMYy1GQnZQNW9udlI1ZGZxdkJMXzRDRTE1WUpqbW9RUGZPNUgxVkxpNy04bGZnTHo1Y1VRNGZyMlVnN05ldmRkRnladE1OS3RFYWJPNTFRNW94VWtfX2lQV19ieGJIUnBxVkxMMEpXXzJPWVYwaVZIcF83c190VU5ScWVfY3dwZw?oc=5",
-      "category": "heresy",
-      "source": "摩门教 LDS",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-11",
-      "summary": "Are Mormons Christians? Crosswalk.com",
-      "summary_zh": "摩门教徒是基督徒吗? Crosswalk.com 互联网档案馆的存檔,存档日期2013-10-02.",
-      "title_zh": "摩门教徒是基督徒吗？",
-      "content": "",
-      "content_zh": "",
-      "author": "Crosswalk.com",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-17T02:50:12.532634",
-      "extra": {
-        "provider": "google_news",
-        "query": "Mormon LDS church",
-        "publisher": "Crosswalk.com"
-      },
-      "id": "659abe4d6d6fe4af"
     },
     {
       "title": "“全家从拥有100万信徒的宗教中脱离出来”……赵惠莲开始警惕异端",
@@ -1167,7 +1251,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:12:02.573239",
+      "fetched_at": "2026-11-19T01:46:36.121703",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
