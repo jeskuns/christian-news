@@ -1,5 +1,5 @@
 """
-基督教世界新闻知识库数据模型
+林前基督教世界新闻知识库数据模型
 """
 from dataclasses import dataclass, field, asdict
 from datetime import datetime

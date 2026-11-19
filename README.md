@@ -1,4 +1,4 @@
-# 基督教世界新闻 · Christian News
+# 林前基督教世界新闻 · Christian News
 
 每日自动采集全球基督教资讯源，生成静态知识库网站。
 仿照 `company/power-tools-kb` 架构（多源采集 → 解析 → 建库 → 静态站点生成 → 定时调度）。
