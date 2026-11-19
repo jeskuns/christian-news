@@ -1,8 +1,8 @@
 {
   "category": "theology",
   "label": "神学与合一",
-  "count": 113,
-  "updated_at": "2026-11-19T09:54:51.350928+08:00",
+  "count": 114,
+  "updated_at": "2026-11-19T14:56:11.177809+08:00",
   "articles": [
     {
       "title": "Global Prayer for Peace in Ukraine",
@@ -24,7 +24,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.618605",
+      "fetched_at": "2026-11-19T06:50:09.438756",
       "extra": {
         "feed_type": "rss20"
       },
@@ -50,7 +50,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.625119",
+      "fetched_at": "2026-11-19T06:50:09.445864",
       "extra": {
         "feed_type": "rss20"
       },
@@ -76,7 +76,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.626713",
+      "fetched_at": "2026-11-19T06:50:09.460425",
       "extra": {
         "feed_type": "rss20"
       },
@@ -102,7 +102,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.631956",
+      "fetched_at": "2026-11-19T06:50:09.482803",
       "extra": {
         "feed_type": "rss20"
       },
@@ -128,7 +128,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.616706",
+      "fetched_at": "2026-11-19T06:50:09.429083",
       "extra": {
         "feed_type": "rss20"
       },
@@ -154,7 +154,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.610122",
+      "fetched_at": "2026-11-19T06:50:09.411551",
       "extra": {
         "feed_type": "rss20"
       },
@@ -180,7 +180,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.612680",
+      "fetched_at": "2026-11-19T06:50:09.417088",
       "extra": {
         "feed_type": "rss20"
       },
@@ -206,7 +206,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.632883",
+      "fetched_at": "2026-11-19T06:50:09.488924",
       "extra": {
         "feed_type": "rss20"
       },
@@ -232,7 +232,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.636008",
+      "fetched_at": "2026-11-19T06:50:09.504479",
       "extra": {
         "feed_type": "rss20"
       },
@@ -263,6 +263,32 @@
         "feed_type": "rss20"
       },
       "id": "faed5d91989f00b2"
+    },
+    {
+      "title": "No climate justice without Indigenous justice, says Gunadule theologian",
+      "url": "https://www.oikoumene.org/news/no-climate-justice-without-indigenous-justice-says-gunadule-theologian",
+      "category": "theology",
+      "source": "World Council of Churches",
+      "source_url": "https://www.oikoumene.org/rss.xml",
+      "published": "2026-11-19",
+      "summary": "No climate justice without Indigenous justice, says Gunadule theologian   valter   Thu, 11/19/2026 - 05:49     Jocabed Solano, a Gunadule theologian from Panama, is director of Memoria Indígena and a member of the World Council of Churches (WCC) Ecumenical Indigenous Peoples Network Reference Group. She reflects on why local climate action matters most for bringing the WCC Ecumenical Decade of Climate Justice Action to fruition, not only during COP31 but long after the climate negotiations end.",
+      "summary_zh": "来自巴拿马的古纳杜勒神学家乔卡贝德·索拉诺（Jocabed Solano）表示，没有原住民正义，就没有气候正义。她现任Memoria Indígena的主任，也是世界基督教协进会（WCC）普世原住民网络咨商小组的成员。   valter   2026年11月19日（星期四）05:49 她阐述了为什么地方气候行动对于使世界基督教协进会气候正义行动普世十年取得成果至关重要，这不仅适用于COP31期间，而且在气候谈判结束后很长一段时间内都适用。",
+      "title_zh": "古纳杜勒神学家表示，没有原住民正义就没有气候正义",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:09.487062",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "81aa6a3cd03f43b9"
     },
     {
       "title": "WCC central committee leaders to join launch of “Compact of Faith and Child Flourishing”",
@@ -414,7 +440,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:35.024581",
+      "fetched_at": "2026-11-19T06:50:09.959783",
       "extra": {
         "provider": "google_news",
         "query": "theology and culture Christianity",
@@ -520,7 +546,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.649203",
+      "fetched_at": "2026-11-19T06:50:09.329890",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -548,7 +574,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.649099",
+      "fetched_at": "2026-11-19T06:50:09.329480",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -758,7 +784,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.649301",
+      "fetched_at": "2026-11-19T06:50:09.330087",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -946,7 +972,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.649380",
+      "fetched_at": "2026-11-19T06:50:09.330564",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -2093,7 +2119,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:12:00.593916",
+      "fetched_at": "2026-11-19T06:50:09.330255",
       "extra": {
         "provider": "google_news",
         "query": "First Things Christianity",
@@ -2372,7 +2398,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:34.357332",
+      "fetched_at": "2026-11-19T06:50:09.165382",
       "extra": {
         "provider": "google_news",
         "query": "ecumenical council theology",
@@ -2706,7 +2732,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:35.006974",
+      "fetched_at": "2026-11-19T06:50:09.901618",
       "extra": {
         "provider": "google_news",
         "query": "evangelical theology",
@@ -2871,7 +2897,7 @@
       "stance": "academic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:12:00.753224",
+      "fetched_at": "2026-11-19T06:50:09.388596",
       "extra": {
         "provider": "google_news",
         "query": "Journal Evangelical Theological Society",

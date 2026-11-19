@@ -2,7 +2,7 @@
   "category": "wiki",
   "label": "百科背景",
   "count": 55,
-  "updated_at": "2026-11-19T09:54:51.361329+08:00",
+  "updated_at": "2026-11-19T14:56:11.184444+08:00",
   "articles": [
     {
       "title": "Reformed Christianity",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:35.920959",
+      "fetched_at": "2026-11-19T06:50:10.815209",
       "extra": {
         "wordcount": 13176
       },
@@ -50,7 +50,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.130954",
+      "fetched_at": "2026-11-19T06:50:10.988445",
       "extra": {
         "wordcount": 31265
       },
@@ -76,7 +76,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.451036",
+      "fetched_at": "2026-11-19T06:50:11.259772",
       "extra": {
         "wordcount": 25619
       },
@@ -102,7 +102,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.451050",
+      "fetched_at": "2026-11-19T06:50:11.259794",
       "extra": {
         "wordcount": 9252
       },
@@ -128,7 +128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.740102",
+      "fetched_at": "2026-11-19T06:50:11.507826",
       "extra": {
         "wordcount": 26795
       },
@@ -154,7 +154,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.740116",
+      "fetched_at": "2026-11-19T06:50:11.507850",
       "extra": {
         "wordcount": 3170
       },
@@ -180,7 +180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.933192",
+      "fetched_at": "2026-11-19T06:50:11.666881",
       "extra": {
         "wordcount": 23131
       },
@@ -206,7 +206,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.451060",
+      "fetched_at": "2026-11-19T06:50:11.259811",
       "extra": {
         "wordcount": 8703
       },
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:35.920946",
+      "fetched_at": "2026-11-19T06:50:10.815185",
       "extra": {
         "wordcount": 33534
       },
@@ -258,7 +258,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.130933",
+      "fetched_at": "2026-11-19T06:50:10.988395",
       "extra": {
         "wordcount": 29658
       },
@@ -284,7 +284,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.451076",
+      "fetched_at": "2026-11-19T06:50:11.259834",
       "extra": {
         "wordcount": 5010
       },
@@ -310,7 +310,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:35.920968",
+      "fetched_at": "2026-11-19T06:50:10.815228",
       "extra": {
         "wordcount": 9224
       },
@@ -336,7 +336,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.740144",
+      "fetched_at": "2026-11-19T06:50:11.507868",
       "extra": {
         "wordcount": 1499
       },
@@ -362,7 +362,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.130945",
+      "fetched_at": "2026-11-19T06:50:10.988415",
       "extra": {
         "wordcount": 9417
       },
@@ -388,7 +388,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.933246",
+      "fetched_at": "2026-11-19T06:50:11.666904",
       "extra": {
         "wordcount": 252
       },
@@ -414,7 +414,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.933235",
+      "fetched_at": "2026-11-19T06:50:11.666938",
       "extra": {
         "wordcount": 348
       },
@@ -440,7 +440,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.933210",
+      "fetched_at": "2026-11-19T06:50:11.666962",
       "extra": {
         "wordcount": 8096
       },
@@ -518,11 +518,63 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.740134",
+      "fetched_at": "2026-11-19T06:50:11.507893",
       "extra": {
         "wordcount": 7689
       },
       "id": "88d2de0fe143cc46"
+    },
+    {
+      "title": "Proto-Protestantism",
+      "url": "https://en.wikipedia.org/wiki/Proto-Protestantism",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-19",
+      "summary": "Proto-Protestantism, also called pre-Protestantism, refers to individuals and movements that propagated various ideas later associated with Protestantism before",
+      "summary_zh": "原始新教，也称为前新教，是指后来传播与新教相关的各种思想的个人和运动。",
+      "title_zh": "原始-原始新教",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:10.988431",
+      "extra": {
+        "wordcount": 5737
+      },
+      "id": "bcf3626112e992d6"
+    },
+    {
+      "title": "Jewish Christianity",
+      "url": "https://en.wikipedia.org/wiki/Jewish_Christianity",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-19",
+      "summary": "Jewish Christianity is the historical foundation of Early Christianity, which later developed into Nicene Christianity (which comprises the Catholic,",
+      "summary_zh": "犹太基督教是早期基督教的历史基础，后来发展成为尼西亚基督教（包括天主教，",
+      "title_zh": "犹太基督教",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:10.815248",
+      "extra": {
+        "wordcount": 16544
+      },
+      "id": "e544cf152334a6ab"
     },
     {
       "title": "History of the Eastern Orthodox Church",
@@ -601,58 +653,6 @@
         "wordcount": 377
       },
       "id": "513e6b9832a7567a"
-    },
-    {
-      "title": "Proto-Protestantism",
-      "url": "https://en.wikipedia.org/wiki/Proto-Protestantism",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-15",
-      "summary": "Proto-Protestantism, also called pre-Protestantism, refers to individuals and movements that propagated various ideas later associated with Protestantism before",
-      "summary_zh": "原始新教，也称为前新教，是指后来传播与新教相关的各种思想的个人和运动。",
-      "title_zh": "原始-原始新教",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-15T23:49:57.530395",
-      "extra": {
-        "wordcount": 5737
-      },
-      "id": "bcf3626112e992d6"
-    },
-    {
-      "title": "Jewish Christianity",
-      "url": "https://en.wikipedia.org/wiki/Jewish_Christianity",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-15",
-      "summary": "Jewish Christianity is the historical foundation of Early Christianity, which later developed into Nicene Christianity (which comprises the Catholic,",
-      "summary_zh": "犹太基督教是早期基督教的历史基础，后来发展成为尼西亚基督教（包括天主教，",
-      "title_zh": "犹太基督教",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-15T23:49:57.359616",
-      "extra": {
-        "wordcount": 16598
-      },
-      "id": "e544cf152334a6ab"
     },
     {
       "title": "Biblical canon",

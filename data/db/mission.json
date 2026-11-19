@@ -2,7 +2,7 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 47,
-  "updated_at": "2026-11-19T09:54:51.391642+08:00",
+  "updated_at": "2026-11-19T14:56:11.238438+08:00",
   "articles": [
     {
       "title": "Who was the first Augustinian missionary in Peru?",
@@ -108,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:32.965661",
+      "fetched_at": "2026-11-19T06:50:07.788559",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -573,7 +573,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:33.366063",
+      "fetched_at": "2026-11-19T06:50:08.011828",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -656,7 +656,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:32.965756",
+      "fetched_at": "2026-11-19T06:50:07.788759",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -873,7 +873,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:32.510988",
+      "fetched_at": "2026-11-19T06:50:07.523858",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -1063,7 +1063,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:33.366390",
+      "fetched_at": "2026-11-19T06:50:08.012352",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",

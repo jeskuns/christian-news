@@ -1,8 +1,8 @@
 {
   "category": "news",
   "label": "基督教世界资讯",
-  "count": 879,
-  "updated_at": "2026-11-19T09:54:51.366890+08:00",
+  "count": 895,
+  "updated_at": "2026-11-19T14:56:11.193859+08:00",
   "articles": [
     {
       "title": "The Flaw in ‘Heritage’ Americanism",
@@ -36,7 +36,7 @@
         "创造与进化"
       ],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.152514",
+      "fetched_at": "2026-11-19T06:50:05.327014",
       "extra": {
         "feed_type": "rss20"
       },
@@ -71,7 +71,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.152204",
+      "fetched_at": "2026-11-19T06:50:05.326429",
       "extra": {
         "feed_type": "rss20"
       },
@@ -103,7 +103,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.152364",
+      "fetched_at": "2026-11-19T06:50:05.326728",
       "extra": {
         "feed_type": "rss20"
       },
@@ -138,7 +138,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.151902",
+      "fetched_at": "2026-11-19T06:50:05.325847",
       "extra": {
         "feed_type": "rss20"
       },
@@ -171,7 +171,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.152059",
+      "fetched_at": "2026-11-19T06:50:05.326143",
       "extra": {
         "feed_type": "rss20"
       },
@@ -309,7 +309,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.129057",
+      "fetched_at": "2026-11-19T06:50:05.297054",
       "extra": {
         "feed_type": "rss20"
       },
@@ -344,7 +344,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.129279",
+      "fetched_at": "2026-11-19T06:50:05.297391",
       "extra": {
         "feed_type": "rss20"
       },
@@ -379,7 +379,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.129438",
+      "fetched_at": "2026-11-19T06:50:05.297704",
       "extra": {
         "feed_type": "rss20"
       },
@@ -412,7 +412,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.129683",
+      "fetched_at": "2026-11-19T06:50:05.297998",
       "extra": {
         "feed_type": "rss20"
       },
@@ -446,7 +446,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.151670",
+      "fetched_at": "2026-11-19T06:50:05.325493",
       "extra": {
         "feed_type": "rss20"
       },
@@ -472,7 +472,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.507758",
+      "fetched_at": "2026-11-19T06:50:05.746729",
       "extra": {
         "provider": "google_news",
         "query": "Premier Christian News",
@@ -500,7 +500,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.532970",
+      "fetched_at": "2026-11-19T06:50:05.629357",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -537,34 +537,6 @@
       "id": "110ae8d5dc23a442"
     },
     {
-      "title": "Churches worldwide flooded with red light to commemorate persecuted Christians: 'They need hope'",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMl9veHlfRU9sNl9HZllyWWRpNmduRW5hMlQ5RzhnZjV4bDRoZnppbVVkOXRwbEtvRlppajZSUVI2RW1vNEt5cFN3WlY0N3FpTngtTnJPakJBU1p0SUlwcWR4RWowa0Z0R1BVa3BtY3FDbUdFUlJhbF9YMUNvM2VCeHdtajAzWFZlVWhHQWs5T2l1QXYtTHliZkhqVXdfN21ZcHp4T29DY3I?oc=5",
-      "category": "news",
-      "source": "World News (Christian)",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-19",
-      "summary": "Churches worldwide flooded with red light to commemorate persecuted Christians: 'They need hope' Christian Post",
-      "summary_zh": "世界各地的教堂亮起红灯，纪念受迫害的基督徒：“他们需要希望”——《基督教邮报》",
-      "title_zh": "世界各地的教堂亮起红灯，纪念受迫害的基督徒：“他们需要希望”",
-      "content": "",
-      "content_zh": "",
-      "author": "Christian Post",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.533290",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian news world",
-        "publisher": "Christian Post"
-      },
-      "id": "cf0e4c621eef0aed"
-    },
-    {
       "title": "Chris Pratt challenges Hollywood’s modern masculinity in new movie 'Way of the Warrior Kid'",
       "url": "https://www.christianpost.com/news/chris-pratt-challenges-modern-masculinity-in-new-movie.html",
       "category": "news",
@@ -584,7 +556,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.542702",
+      "fetched_at": "2026-11-19T06:50:05.514187",
       "extra": {
         "feed_type": "rss20"
       },
@@ -610,7 +582,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.542765",
+      "fetched_at": "2026-11-19T06:50:05.514356",
       "extra": {
         "feed_type": "rss20"
       },
@@ -636,7 +608,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.542811",
+      "fetched_at": "2026-11-19T06:50:05.514469",
       "extra": {
         "feed_type": "rss20"
       },
@@ -662,7 +634,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.542853",
+      "fetched_at": "2026-11-19T06:50:05.514554",
       "extra": {
         "feed_type": "rss20"
       },
@@ -688,7 +660,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.542890",
+      "fetched_at": "2026-11-19T06:50:05.514668",
       "extra": {
         "feed_type": "rss20"
       },
@@ -714,7 +686,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.542928",
+      "fetched_at": "2026-11-19T06:50:05.514769",
       "extra": {
         "feed_type": "rss20"
       },
@@ -740,7 +712,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.542964",
+      "fetched_at": "2026-11-19T06:50:05.514864",
       "extra": {
         "feed_type": "rss20"
       },
@@ -766,7 +738,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.542999",
+      "fetched_at": "2026-11-19T06:50:05.514957",
       "extra": {
         "feed_type": "rss20"
       },
@@ -792,7 +764,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.543037",
+      "fetched_at": "2026-11-19T06:50:05.515044",
       "extra": {
         "feed_type": "rss20"
       },
@@ -818,7 +790,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.543072",
+      "fetched_at": "2026-11-19T06:50:05.515128",
       "extra": {
         "feed_type": "rss20"
       },
@@ -844,7 +816,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.543107",
+      "fetched_at": "2026-11-19T06:50:05.515209",
       "extra": {
         "feed_type": "rss20"
       },
@@ -870,7 +842,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.543144",
+      "fetched_at": "2026-11-19T06:50:05.515324",
       "extra": {
         "feed_type": "rss20"
       },
@@ -896,7 +868,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.543311",
+      "fetched_at": "2026-11-19T06:50:05.515427",
       "extra": {
         "feed_type": "rss20"
       },
@@ -922,11 +894,341 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.543353",
+      "fetched_at": "2026-11-19T06:50:05.515509",
       "extra": {
         "feed_type": "rss20"
       },
       "id": "c1567f8c9c4e54be"
+    },
+    {
+      "title": "World Vision to host global prayer event for children facing poverty and conflict",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU01abW5lX0hfZnNpTVhzMndNenU3S244RWwxd2dqamEzM216OWdXNEU1ZHFDYWxSWkIwVnR1M2RoWDEySm9vUTl5ZnZFa25HRzFOdXhiRmFJLWM1SzZ1UlUyY2tBSEM1MF9Gek43OXlESGFUakk2a1NFZUIzcTdaZDQtWmVjUnJFdmp2dV9sTHhHa1hXTE9tRU9TRExpLXNsdTVIM0RrY1J2T1poejFIZUxRaFFSYXo0N0RVQ24xM3pETnRNdEE?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-19",
+      "summary": "World Vision to host global prayer event for children facing poverty and conflict Premier Christian News",
+      "summary_zh": "世界展望组织将举办全球祈祷活动，为面临贫困和冲突的儿童祈祷《基督教新闻头条》",
+      "title_zh": "世界展望组织将举办全球祈祷活动，为面临贫困和冲突的儿童祈祷",
+      "content": "",
+      "content_zh": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.630337",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Premier Christian News"
+      },
+      "id": "1922bde6622ac1cb"
+    },
+    {
+      "title": "Indi Gregory: Parents meet Pope Leo to present book honouring her legacy",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVZMd2ptazFZWUg4RW5qcW5RbzVKV2VLcTNiVnRPUTMyRjhGRFV3ME4zVi1Ma3RzVk41bFpQS0ZwRUZVSFg5RnRWaHAxR2gyMUtiZnQxYlltREN2SDVQcmsxZEVLa01jY2JrTW1YTkYyT1dWVkluSm4zS1B2YUZrOGw3U2xHMWx0dTdEVjM5RDd2NEE2RDA0VmxCRHlrQmdPZzVPS3VLWU9YZzF6OXdKX1BiSlV6SWs2?oc=5",
+      "category": "news",
+      "source": "Premier Christian News",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-19",
+      "summary": "Indi Gregory: Parents meet Pope Leo to present book honouring her legacy Premier Christian News",
+      "summary_zh": "Indi Gregory：父母与教宗利奥会面，呈献纪念其遗志的书籍《基督教新闻首要报》",
+      "title_zh": "印地·格雷戈里：父母与教宗利奥会面，向其赠送纪念印地精神遗产的书籍",
+      "content": "",
+      "content_zh": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.748407",
+      "extra": {
+        "provider": "google_news",
+        "query": "Premier Christian News",
+        "publisher": "Premier Christian News"
+      },
+      "id": "7635ff5a7817f3a1"
+    },
+    {
+      "title": "Arizona Democrats target Down syndrome abortion protection",
+      "url": "https://www.christianpost.com/voices/arizona-democrats-target-down-syndrome-abortion-protection.html",
+      "category": "news",
+      "source": "The Christian Post",
+      "source_url": "https://www.christianpost.com/rss/",
+      "published": "2026-11-19",
+      "summary": "Arizona’s new Democratic majority plans to end the state’s legal defense of key pro-life laws and repeal them next year, starting with the ban on aborting a child solely because of a genetic condition like Down syndrome. This isn’t about bodily autonomy. It’s about deciding who is worthy of life.",
+      "summary_zh": "亚利桑那州新当选的民主党多数派计划停止该州对关键反堕胎法律的法律辩护，并于明年废除这些法律，首先是废除仅因唐氏综合征等遗传疾病而堕胎的禁令。这与身体自主权无关。而是要决定谁有资格享有生命。",
+      "title_zh": "亚利桑那州民主党人针对唐氏综合征堕胎保护提出立法",
+      "content": "",
+      "content_zh": "",
+      "author": "Dillon Burroughs",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [
+        "堕胎"
+      ],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.513805",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "057cb843ea48325e"
+    },
+    {
+      "title": "Iran’s persecuted Church shows what makes faith dangerous",
+      "url": "https://www.christianpost.com/voices/irans-persecuted-church-shows-what-makes-faith-dangerous.html",
+      "category": "news",
+      "source": "The Christian Post",
+      "source_url": "https://www.christianpost.com/rss/",
+      "published": "2026-11-19",
+      "summary": "In the comfort of America, it’s easy to settle into a faith that poses little threat to the enemy. In Iran, where following Jesus can cost everything, some of the boldest Christians on earth show another way.",
+      "summary_zh": "在美国的舒适环境中，人们很容易安于一种对敌人几乎不构成威胁的信仰。在伊朗，跟随耶稣可能要付出一切代价，但世界上一些最勇敢的基督徒却以另一种方式行事。",
+      "title_zh": "伊朗受迫害的教会揭示了信仰为何会招致危险",
+      "content": "",
+      "content_zh": "",
+      "author": "Lana Silk",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.513916",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "3103e94e66766be5"
+    },
+    {
+      "title": "Christian disagreement with feminism has become hatred of women",
+      "url": "https://www.christianpost.com/voices/christian-disagreement-with-feminism-has-become-hatred-of-women.html",
+      "category": "news",
+      "source": "The Christian Post",
+      "source_url": "https://www.christianpost.com/rss/",
+      "published": "2026-11-19",
+      "summary": "I disagree with feminism philosophically on several levels. But much of what passes for a critique of feminism online has become something else: ferocious contempt for women as a whole.",
+      "summary_zh": "在多个层面上，我从哲学角度不同意女权主义。但网上许多被认为是批评女权主义的内容已经变了味：变成了对全体女性的强烈蔑视。",
+      "title_zh": "基督徒对女权主义的异议已演变为对女性的仇恨",
+      "content": "",
+      "content_zh": "",
+      "author": "Brandon Showalter",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.514007",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "9544efb4ba4d34cb"
+    },
+    {
+      "title": "Christian counties swung hardest toward Dems in 2026, study finds",
+      "url": "https://www.christianpost.com/news/christian-counties-swung-hardest-towards-dems-in-2026-study.html",
+      "category": "news",
+      "source": "The Christian Post",
+      "source_url": "https://www.christianpost.com/rss/",
+      "published": "2026-11-19",
+      "summary": "Counties with the highest percentages of Christians swung hardest to Democrats in the 2026 midterm elections, with political observers on both sides of the aisle criticizing Republicans' broken promises and messaging that ignored the struggles of families.",
+      "summary_zh": "在2026年中期选举中，基督教徒比例最高的县最倾向于支持民主党，两党的政治观察家都批评共和党人失信于民，并指出其宣传内容无视家庭的困境。",
+      "title_zh": "研究发现，2026年基督教县向民主党靠拢的幅度最大",
+      "content": "",
+      "content_zh": "",
+      "author": "Ryan Foley",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.514099",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "4b001c9d62b6d116"
+    },
+    {
+      "title": "Islam forecast to soon exceed Christianity as world's biggest faith",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzhzMHplMEVtRTFScDNDeERNU05DOVY1TXVIeDl3Uko3bkcyU3NLYlJPRTVITEIyNHg1TGtZVVJhOWVlUFNYU1hTUk5CaldhMW04UXM4MEJsNjJ2WG02bG56bGJjQW91b2dBUDlHSm5WMnpxbkp6WkFqbjBiUk1tLXczSm9FWEMzZE1YNDRCdU54ME1LS3B5YmhZNVBSeUZ4WXZwN2hvbTBvcjRsQUpCNjBjNDM?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-19",
+      "summary": "Islam forecast to soon exceed Christianity as world's biggest faith Reuters",
+      "summary_zh": "路透社：伊斯兰教预计将很快超过基督教，成为世界第一大宗教",
+      "title_zh": "预计伊斯兰教将很快超过基督教，成为世界上最大的宗教",
+      "content": "",
+      "content_zh": "",
+      "author": "Reuters",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.629514",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Reuters"
+      },
+      "id": "aac7154d05980f0b"
+    },
+    {
+      "title": "Christian persecution remains a ‘crime the world prefers not to see’, ACN Ireland warns",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWxLWXM3ZXJoQzdNNGpfQlVCcXVxeHpRSW5hRk1mbDUxNXJEX3VNMlVKZl9CWmR2dEQ2WjdwWERVR0dvZWprd1BHZExIem5kWmRDRnZ6VWN3Z1pDOFhxMG9zQUhoWkoySFZWeEhab3VuWjlUcW9nSDNHenB3djNiY3pJMk5ySmVXS1B3Zk13eTZodFR2YldreUYySkowLTVtb0R2eVZocXE0a3ZJNnZBTEpURzcyWjBmeF9hc0RzZWFTTUlISzEycg?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-19",
+      "summary": "Christian persecution remains a ‘crime the world prefers not to see’, ACN Ireland warns The Catholic Thing",
+      "summary_zh": "爱尔兰天主教慈善社（ACN Ireland）向《天主教事务》（The Catholic Thing）警告称，迫害基督徒仍然是“世人宁愿视而不见的罪行”",
+      "title_zh": "爱尔兰天主教慈善团体援助受迫害教会会（ACN）警告称，迫害基督徒仍然是“世人宁愿视而不见的罪行”",
+      "content": "",
+      "content_zh": "",
+      "author": "The Catholic Thing",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.629705",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "The Catholic Thing"
+      },
+      "id": "de186e510b9dc9ea"
+    },
+    {
+      "title": "查爾斯三世：基督信仰是我履行王職的指南針 盼教會守護不同信仰的公共空間",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMHlsRTBlaERwTVlUNm5BWTRwaklwM2dpV1V2XzlselJsV25QM2FGM2p2SlJNM2UzZ2VNTWREZFNTTXVZZVp1ZUl6ZmxlYnFHWWRoYTdaRzNOS0NMZS04cmRyS1laSXBFbnc?oc=5",
+      "category": "news",
+      "source": "基督教论坛报",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-19",
+      "summary": "查爾斯三世：基督信仰是我履行王職的指南針 盼教會守護不同信仰的公共空間 基督教論壇報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "基督教論壇報",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.685740",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督教论坛报 新闻 教会",
+        "publisher": "基督教論壇報"
+      },
+      "id": "67fbb1032c842d88"
+    },
+    {
+      "title": "BBC accused of treating religious broadcasting as less important in Daily Service shake-up",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSG1MNXlGb29vMldBYzhiclhxR2VSWXM5dmlSWURjc0cyaGNMNkNremxLVFJHUXp3T2wzUnJFWGZYTFZ1SlhQOHFlMmpKRzc1ZE0td3RmMUpmRWNfY0ZoWVBST3pMcnBveWxMMkUwSmMyY2x3NGVsdVhxZXhrU1Vhb1NtMU5HVndVUW81UTRRRmM0NWh3WkM0eXZLaWhjNmdNNEpUN0tKZGo2QW9jZHUweDAzUlRWdVMtbU5zdmxoRWNGNFNJT21kY19HLW16ZkRWV2c?oc=5",
+      "category": "news",
+      "source": "Premier Christian News",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-19",
+      "summary": "BBC accused of treating religious broadcasting as less important in Daily Service shake-up Premier Christian News",
+      "summary_zh": "英国广播公司被指责在《每日服务》改版中降低了宗教节目的重要性《基督教新闻首要版》",
+      "title_zh": "BBC被指责在《每日服务》改版中降低了宗教节目的重要性",
+      "content": "",
+      "content_zh": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.746529",
+      "extra": {
+        "provider": "google_news",
+        "query": "Premier Christian News",
+        "publisher": "Premier Christian News"
+      },
+      "id": "810e2220af8a3edd"
+    },
+    {
+      "title": "No climate justice without Indigenous justice, says Gunadule theologian",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGdKeFA5S0hNSDdYZTRfbGltQ2MzczQyRGNGcTk5c1ZQTC0wTUlNYTI5WU0waTc3SVRKUldaWjRZYTlmNldlN1lTLU94OHdLZWVyNDNyVE1hWW1yWm14bkh2dkxpb0twWDRWdU56N1dNTi0zYmg4cFJfNUd0RG82MkFWVlRBMzhTVXlMTnh6dFdmeVpLOXhqeERucW92RU0yRVdv?oc=5",
+      "category": "news",
+      "source": "普世教会新闻",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-19",
+      "summary": "No climate justice without Indigenous justice, says Gunadule theologian World Council of Churches",
+      "summary_zh": "世界基督教协进会的古纳杜勒神学家表示，没有原住民正义，就没有气候正义",
+      "title_zh": "古纳杜勒神学家表示，没有原住民正义就没有气候正义",
+      "content": "",
+      "content_zh": "",
+      "author": "World Council of Churches",
+      "tags": [],
+      "language": "en",
+      "country": "CH",
+      "region": "",
+      "stance": "mainline",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:06.128068",
+      "extra": {
+        "provider": "google_news",
+        "query": "World Council of Churches ecumenical news",
+        "publisher": "World Council of Churches"
+      },
+      "id": "3dcdcc46805e2b01"
+    },
+    {
+      "title": "Churches worldwide flooded with red light to commemorate persecuted Christians: 'They need hope'",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMl9veHlfRU9sNl9HZllyWWRpNmduRW5hMlQ5RzhnZjV4bDRoZnppbVVkOXRwbEtvRlppajZSUVI2RW1vNEt5cFN3WlY0N3FpTngtTnJPakJBU1p0SUlwcWR4RWowa0Z0R1BVa3BtY3FDbUdFUlJhbF9YMUNvM2VCeHdtajAzWFZlVWhHQWs5T2l1QXYtTHliZkhqVXdfN21ZcHp4T29DY3I?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-18",
+      "summary": "Churches worldwide flooded with red light to commemorate persecuted Christians: 'They need hope' Christian Post",
+      "summary_zh": "世界各地的教堂亮起红灯，纪念受迫害的基督徒：“他们需要希望”——《基督教邮报》",
+      "title_zh": "世界各地的教堂亮起红灯，纪念受迫害的基督徒：“他们需要希望”",
+      "content": "",
+      "content_zh": "",
+      "author": "Christian Post",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.631435",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Christian Post"
+      },
+      "id": "cf0e4c621eef0aed"
     },
     {
       "title": "From 1956 to Now: Nicole Martin on CT’s Unchanging Mission",
@@ -1496,34 +1798,6 @@
       "id": "c333b2c0c495a393"
     },
     {
-      "title": "Christian apologist Wes Huff responds to claims of plagiarism in his papers",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSG04TDVjU2szWm5OaG5KaG4teW1JeDFIeTBYVWgteGh2MklMaTQtTWxKdk5icGlYMURxME51SmxuWjB0T3htMDhOYTRfdE0yVktmazlONGJ3M3lLd2E0NzJBckZNR0JFRnVGck5wV3ZIQWxNcV9JU3hVOHhxR09qQmw5Tlluc1B1cnUyVEZPRloySHVhbkJocnoyaWoxVF9rLXJxSzNhTDY5OGNDY21iem9lRUpKNEoxTXpIOEVB?oc=5",
-      "category": "news",
-      "source": "Premier Christian News",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-18",
-      "summary": "Christian apologist Wes Huff responds to claims of plagiarism in his papers Premier Christian News",
-      "summary_zh": "基督教护教学者韦斯·赫夫（Wes Huff）回应其论文被指剽窃的说法《Premier Christian News》",
-      "title_zh": "基督教护教学者韦斯·赫夫（Wes Huff）回应其论文被指抄袭的说法",
-      "content": "",
-      "content_zh": "",
-      "author": "Premier Christian News",
-      "tags": [],
-      "language": "en",
-      "country": "GB",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-18T02:11:56.204474",
-      "extra": {
-        "provider": "google_news",
-        "query": "Premier Christian News",
-        "publisher": "Premier Christian News"
-      },
-      "id": "a5c9c46762704952"
-    },
-    {
       "title": "Christian woman takes prayer to the front line of violent Paris protests",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHYyWlpfZEpOckVvVHNEZktLTW1tZVowdkxpa2dXNzlONTNXVkZsLXJjZDR4dUVCUVNnWUw0MGJoWEpjTFhwbnZXYUxNRWNfT3UyaURWNmhaeERwaUw2VXhCajJiNFhiMFJQRWcwbEpmMGNVZTJjX0dwRUdkVUNiZTN0N1JVaFZNYVBFSFlNRER0VzFEeEEyWUN6WWlXUVFkYW1JX3o4Ty1kakdQSHlUWDNoc2RuZktYRVE?oc=5",
       "category": "news",
@@ -1599,7 +1873,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.349613",
+      "fetched_at": "2026-11-19T06:50:05.466477",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -1655,7 +1929,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466156",
+      "fetched_at": "2026-11-19T06:50:05.597724",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -1683,41 +1957,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466303",
+      "fetched_at": "2026-11-19T06:50:05.597908",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
         "publisher": "Evangelical Focus"
       },
       "id": "517dad4c1448503f"
-    },
-    {
-      "title": "World Vision to host global prayer event for children facing poverty and conflict",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU01abW5lX0hfZnNpTVhzMndNenU3S244RWwxd2dqamEzM216OWdXNEU1ZHFDYWxSWkIwVnR1M2RoWDEySm9vUTl5ZnZFa25HRzFOdXhiRmFJLWM1SzZ1UlUyY2tBSEM1MF9Gek43OXlESGFUakk2a1NFZUIzcTdaZDQtWmVjUnJFdmp2dV9sTHhHa1hXTE9tRU9TRExpLXNsdTVIM0RrY1J2T1poejFIZUxRaFFSYXo0N0RVQ24xM3pETnRNdEE?oc=5",
-      "category": "news",
-      "source": "Premier Christian News",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-18",
-      "summary": "World Vision to host global prayer event for children facing poverty and conflict Premier Christian News",
-      "summary_zh": "世界展望组织将举办全球祈祷活动，为面临贫困和冲突的儿童祈祷《基督教新闻头条》",
-      "title_zh": "世界展望组织将举办全球祈祷活动，为面临贫困和冲突的儿童祈祷",
-      "content": "",
-      "content_zh": "",
-      "author": "Premier Christian News",
-      "tags": [],
-      "language": "en",
-      "country": "GB",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.507834",
-      "extra": {
-        "provider": "google_news",
-        "query": "Premier Christian News",
-        "publisher": "Premier Christian News"
-      },
-      "id": "1922bde6622ac1cb"
     },
     {
       "title": "'What is the BBC for': Former BBC broadcaster criticises decision to move Daily Service programme from Radio 4 timeslot",
@@ -1767,41 +2013,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.507979",
+      "fetched_at": "2026-11-19T06:50:05.746890",
       "extra": {
         "provider": "google_news",
         "query": "Premier Christian News",
         "publisher": "Premier Christian News"
       },
       "id": "6c3ddc6b2cd24cb8"
-    },
-    {
-      "title": "Indi Gregory: Parents meet Pope Leo to present book honouring her legacy",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVZMd2ptazFZWUg4RW5qcW5RbzVKV2VLcTNiVnRPUTMyRjhGRFV3ME4zVi1Ma3RzVk41bFpQS0ZwRUZVSFg5RnRWaHAxR2gyMUtiZnQxYlltREN2SDVQcmsxZEVLa01jY2JrTW1YTkYyT1dWVkluSm4zS1B2YUZrOGw3U2xHMWx0dTdEVjM5RDd2NEE2RDA0VmxCRHlrQmdPZzVPS3VLWU9YZzF6OXdKX1BiSlV6SWs2?oc=5",
-      "category": "news",
-      "source": "Premier Christian News",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-18",
-      "summary": "Indi Gregory: Parents meet Pope Leo to present book honouring her legacy Premier Christian News",
-      "summary_zh": "Indi Gregory：父母与教宗利奥会面，呈献纪念其遗志的书籍《基督教新闻首要报》",
-      "title_zh": "印地·格雷戈里：父母与教宗利奥会面，向其赠送纪念印地精神遗产的书籍",
-      "content": "",
-      "content_zh": "",
-      "author": "Premier Christian News",
-      "tags": [],
-      "language": "en",
-      "country": "GB",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.508050",
-      "extra": {
-        "provider": "google_news",
-        "query": "Premier Christian News",
-        "publisher": "Premier Christian News"
-      },
-      "id": "7635ff5a7817f3a1"
     },
     {
       "title": "'Don't treat AI as a trusted oracle' says YouVersion founder",
@@ -1823,7 +2041,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.508126",
+      "fetched_at": "2026-11-19T06:50:05.747048",
       "extra": {
         "provider": "google_news",
         "query": "Premier Christian News",
@@ -1907,7 +2125,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.532774",
+      "fetched_at": "2026-11-19T06:50:05.628996",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1935,7 +2153,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.532887",
+      "fetched_at": "2026-11-19T06:50:05.629190",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1963,7 +2181,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.533049",
+      "fetched_at": "2026-11-19T06:50:05.630182",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -1991,7 +2209,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.533123",
+      "fetched_at": "2026-11-19T06:50:05.629866",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2019,7 +2237,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.533361",
+      "fetched_at": "2026-11-19T06:50:05.630968",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2047,7 +2265,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.533502",
+      "fetched_at": "2026-11-19T06:50:05.631284",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2075,7 +2293,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.533568",
+      "fetched_at": "2026-11-19T06:50:05.630488",
       "extra": {
         "provider": "google_news",
         "query": "Christian news world",
@@ -2383,7 +2601,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:30.145518",
+      "fetched_at": "2026-11-19T06:50:06.128249",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2411,7 +2629,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:30.145622",
+      "fetched_at": "2026-11-19T06:50:06.128414",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -2467,13 +2685,181 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:30.145778",
+      "fetched_at": "2026-11-19T06:50:06.128585",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
         "publisher": "World Council of Churches"
       },
       "id": "a4c40d20e98fdeb5"
+    },
+    {
+      "title": "Install CCTV cameras at critical points, Christian bodies urge Bengal churches",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTUp6Z2hsUzVaeXN6QmRZWkRHVUpha3RnUjVNMm5QZ1JxVFp0c0J3Ri1UOF9iYXpVQTNRVWZiaFJnaVZjTEFtTE85akZhVG10d0VsRHZrcC1IeFhQeDZka21SZTRJZlBycmtBR1k3d1Ria1JzcmJUbzUxZFFRVVhyOGxMOTEwTjZQUmlfVUJSbzNiMjVmM1ZJSzVJY2UtRWFaRDhYc2ZsZ0FkRFp1RWxkOXR2bjFsYmJCNEo5T1ZwbHVwUmdhYW9RUGp5dmpDMlpnSFdaejYydU1KNHlha2RFU0RDdjhpWjTSAewBQVVfeXFMUEtld1FiUEkzbEtISEhYZ2w3bkFZQ05GMVNJenZhNHhNN1hxSGtTLVAtNTAtMU5UQjBWWGx2aTNiMGRsSGtIX1RuOWQ4SjBUWDNGMk42Q3ZacmlNbmtYd3ktbzRoTlpPOURiNXluNWdBbllidVNqQldBTXNpMFYwOEtTNjlkckcwUmtDanljMFNmMnEteXZrd1BHdXpiX0g5RXVSNVZwR3hXS0NPa2d4WXlvLWhXRFAtNHlwSXA3UkFBSkNzWWVoLS1lNVpWc2J4SjFJRkNiYWRMU2JtVmx4Q0d3NnJmNDNUUFpEeDM?oc=5",
+      "category": "news",
+      "source": "Christian Today India",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-18",
+      "summary": "Install CCTV cameras at critical points, Christian bodies urge Bengal churches The Times of India",
+      "summary_zh": "基督教团体敦促孟加拉邦的教堂在关键位置安装闭路电视摄像头《印度时报》",
+      "title_zh": "基督教团体敦促孟加拉邦的教堂在关键位置安装闭路电视摄像头",
+      "content": "",
+      "content_zh": "",
+      "author": "The Times of India",
+      "tags": [],
+      "language": "en",
+      "country": "IN",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.492315",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news India church",
+        "publisher": "The Times of India"
+      },
+      "id": "2a5396573043c8d9"
+    },
+    {
+      "title": "Muslims will outnumber Christians worldwide by 2035, report says",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUpJTnlKaWFiNHdtd0VHNDBEX2NOYk5PVnVtRWVLRFRXZTRYSlFLanROeHhZVUMzMWJGdE43Q29RSDZfU2plUVZDRFNDOW9scGpSVHZJb29xYTAwUjk2RWJUMVozUDlBS3VaMzcxbWV0STRrOVNycC15WDNPanYwcllCNDhpX2l6a055T0N6bzRaemliV3l4U0pxbVlzcU5LTnZtaml0NHZDQ3ZG?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-18",
+      "summary": "Muslims will outnumber Christians worldwide by 2035, report says NPR",
+      "summary_zh": "据NPR报道，到2035年，全球穆斯林人口将超过基督徒人口",
+      "title_zh": "报告称，到2035年，穆斯林人数将超过全球基督徒人数",
+      "content": "",
+      "content_zh": "",
+      "author": "NPR",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.630021",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "NPR"
+      },
+      "id": "784c15676f3c891c"
+    },
+    {
+      "title": "Muslims Projected To Outnumber Christians Worldwide By 2035",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXoxRm5HcWx2RU8wNFhjcEpIOFdjdS1oUk8yWno4RHhQc0NBb21iVUppelN4VllETWZSQ1FzeFZVTU1LNGhoSmE0VkgyTkdrUF9CSGdQU0lnVXVkc0JET0d2bnJUeTBMallsQmg4R1RXSmd1aDZ6ZlViY2hYLVROcHNhRG84ZTZ1V1hiNkowcUpDdl9oOWFiS1FR?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-18",
+      "summary": "Muslims Projected To Outnumber Christians Worldwide By 2035 Religion Unplugged",
+      "summary_zh": "据预测，到2035年，全球穆斯林人口将超过基督徒人口——《宗教无界》",
+      "title_zh": "预计到2035年，全球穆斯林人口将超过基督徒人口",
+      "content": "",
+      "content_zh": "",
+      "author": "Religion Unplugged",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.630812",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Religion Unplugged"
+      },
+      "id": "c5ac42af573f9bc0"
+    },
+    {
+      "title": "America’s Christian majority is projected to fall below half by 2070",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFkcFF0T3YtV3lQM2hsLVBGT3U5SkJ3Y3IwaHhKdzlaTE9hRnJhaG5Gb3dQTGJ1RVNTeUV0Um1IdXlxSkN5aXpwMnpTTXM5TmRsS3ZyYkJzWnN0OEFwb1RFMlZoYnhOc3VhQVdQU3FFcjN4SmUtcHpKSDZmaDRYYld6VmJpVWM0QnJkSG9iTGtVNUJqelE?oc=5",
+      "category": "news",
+      "source": "World News (Christian)",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-18",
+      "summary": "America’s Christian majority is projected to fall below half by 2070 Deseret News",
+      "summary_zh": "据预测，到2070年，美国的基督教徒将不再占多数，比例将降至50%以下《德撒律新闻》",
+      "title_zh": "预计到2070年，美国的基督教徒将不再占多数，比例将降至50%以下。",
+      "content": "",
+      "content_zh": "",
+      "author": "Deseret News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.631130",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian news world",
+        "publisher": "Deseret News"
+      },
+      "id": "a4d659d2b53ba7ed"
+    },
+    {
+      "title": "Gaming vicar: Don't write off GTA 6 players",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNak9CQmNNSmNPemVhVm9HaHFkSXdNU2pZMUZhaG8xelhBOUwyR0NfV19yRG8yVFpXQWkxaEtLVjdfcHhVd0IzUy1MZnJIX0NUbXRZZlJhY3pmemEySlliVlhDSWlYTm1qUTZleVBRVEkyWWFFdzhjMUtzcE8wNGUwMTVaeEowdU1DVlRITWVvblRqZw?oc=5",
+      "category": "news",
+      "source": "Premier Christian News",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-18",
+      "summary": "Gaming vicar: Don't write off GTA 6 players Premier Christian News",
+      "summary_zh": "游戏牧师：不要低估《GTA 6》玩家《Premier Christian News》",
+      "title_zh": "游戏牧师：不要低估《GTA 6》的玩家",
+      "content": "",
+      "content_zh": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.748550",
+      "extra": {
+        "provider": "google_news",
+        "query": "Premier Christian News",
+        "publisher": "Premier Christian News"
+      },
+      "id": "26e86251c7180953"
+    },
+    {
+      "title": "Christian apologist Wes Huff responds to claims of plagiarism in his papers",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSG04TDVjU2szWm5OaG5KaG4teW1JeDFIeTBYVWgteGh2MklMaTQtTWxKdk5icGlYMURxME51SmxuWjB0T3htMDhOYTRfdE0yVktmazlONGJ3M3lLd2E0NzJBckZNR0JFRnVGck5wV3ZIQWxNcV9JU3hVOHhxR09qQmw5Tlluc1B1cnUyVEZPRloySHVhbkJocnoyaWoxVF9rLXJxSzNhTDY5OGNDY21iem9lRUpKNEoxTXpIOEVB?oc=5",
+      "category": "news",
+      "source": "Premier Christian News",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-17",
+      "summary": "Christian apologist Wes Huff responds to claims of plagiarism in his papers Premier Christian News",
+      "summary_zh": "基督教护教学者韦斯·赫夫（Wes Huff）回应其论文被指剽窃的说法《Premier Christian News》",
+      "title_zh": "基督教护教学者韦斯·赫夫（Wes Huff）回应其论文被指抄袭的说法",
+      "content": "",
+      "content_zh": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.747199",
+      "extra": {
+        "provider": "google_news",
+        "query": "Premier Christian News",
+        "publisher": "Premier Christian News"
+      },
+      "id": "a5c9c46762704952"
     },
     {
       "title": "What the Lausanne Covenant Means to Gen Z",
@@ -2644,7 +3030,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:11:56.205017",
+      "fetched_at": "2026-11-19T06:50:05.747354",
       "extra": {
         "provider": "google_news",
         "query": "Premier Christian News",
@@ -3042,7 +3428,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466465",
+      "fetched_at": "2026-11-19T06:50:05.598240",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -3098,7 +3484,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466624",
+      "fetched_at": "2026-11-19T06:50:05.598560",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -3126,7 +3512,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466837",
+      "fetched_at": "2026-11-19T06:50:05.598890",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -3154,7 +3540,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.467063",
+      "fetched_at": "2026-11-19T06:50:05.599496",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -3742,7 +4128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:30.042383",
+      "fetched_at": "2026-11-19T06:50:06.230718",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -3798,7 +4184,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:11:56.205169",
+      "fetched_at": "2026-11-19T06:50:05.747499",
       "extra": {
         "provider": "google_news",
         "query": "Premier Christian News",
@@ -3854,7 +4240,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466539",
+      "fetched_at": "2026-11-19T06:50:05.598394",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -4106,7 +4492,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:30.145928",
+      "fetched_at": "2026-11-19T06:50:06.128907",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -4134,7 +4520,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:30.146019",
+      "fetched_at": "2026-11-19T06:50:06.129076",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -4386,7 +4772,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:30.145851",
+      "fetched_at": "2026-11-19T06:50:06.128750",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -4798,6 +5184,34 @@
       "id": "da95bc4c818f7f07"
     },
     {
+      "title": "Cissie Graham Lynch questioned by Senate committee for Trump religious freedom post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWG5RZHhabENUcF9yVzJ0cExYMktqSmYyQlFGNm5tbnFSTWF4RVJqQTVKUUt4MTVrdkFZNlZnSWlmUDFxSnNydzRhSFQ4UnAzTVJNU1RtWC1JbVFzVFM1SmFidVRwSXl0QXpoTXB5cWxKZi1kTGdEZE5hWndoT0pGcG1VWUF5V3pmUXRZWnhzcS1IbkhiVEhPdERoUjFyclJyMy15TXNLYlcyT2xJd21aOXdwLWFpaURDOHdOLTRxSnE3X0N0SUVMTg?oc=5",
+      "category": "news",
+      "source": "Premier Christian News",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-15",
+      "summary": "Cissie Graham Lynch questioned by Senate committee for Trump religious freedom post Premier Christian News",
+      "summary_zh": "Cissie Graham Lynch因特朗普宗教自由言论受到参议院委员会质询《Premier Christian News》",
+      "title_zh": "Cissie Graham Lynch因特朗普的宗教自由帖子而被参议院委员会质询",
+      "content": "",
+      "content_zh": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.746351",
+      "extra": {
+        "provider": "google_news",
+        "query": "Premier Christian News",
+        "publisher": "Premier Christian News"
+      },
+      "id": "cbdacf2d6b3598a5"
+    },
+    {
       "title": "Killers in Jordan church massacre sentenced to death by hanging",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVdyaEk0MmNNVWVaMEpNdkFlTlJxckVPS1NwcnlQRVUwZlNzYjBJbVZlb09YcURuSnB4UGZmdlRDU2xpUnFETFdtT0dIejNqTEoyRmh4Mm5yU1VzWktVM09ySlNlMnlSeDlaYjVEUkRvVGpDdldfVEFYQUJmUjFNS1FhQWEyUy1JNzZWMEowbFQybHB2TktUaHV4Unl6bkFx?oc=5",
       "category": "news",
@@ -5113,7 +5527,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466388",
+      "fetched_at": "2026-11-19T06:50:05.598079",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -6697,7 +7111,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466696",
+      "fetched_at": "2026-11-19T06:50:05.598740",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -6725,7 +7139,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466766",
+      "fetched_at": "2026-11-19T06:50:05.599042",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -6865,7 +7279,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:11:56.204105",
+      "fetched_at": "2026-11-19T06:50:05.747664",
       "extra": {
         "provider": "google_news",
         "query": "Premier Christian News",
@@ -6893,7 +7307,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:11:56.205504",
+      "fetched_at": "2026-11-19T06:50:05.747815",
       "extra": {
         "provider": "google_news",
         "query": "Premier Christian News",
@@ -7719,7 +8133,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.467198",
+      "fetched_at": "2026-11-19T06:50:05.600071",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -7747,7 +8161,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466993",
+      "fetched_at": "2026-11-19T06:50:05.599348",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -7833,7 +8247,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:11:56.205655",
+      "fetched_at": "2026-11-19T06:50:05.747967",
       "extra": {
         "provider": "google_news",
         "query": "Premier Christian News",
@@ -8169,10 +8583,10 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:04.616270",
+      "fetched_at": "2026-11-19T06:50:06.129547",
       "extra": {
         "provider": "google_news",
-        "query": "World Council of Churches ecumenical",
+        "query": "World Council of Churches ecumenical news",
         "publisher": "World Council of Churches"
       },
       "id": "bccd160a8164de7e"
@@ -9241,7 +9655,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:11:56.205945",
+      "fetched_at": "2026-11-19T06:50:05.748117",
       "extra": {
         "provider": "google_news",
         "query": "Premier Christian News",
@@ -10482,7 +10896,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.467133",
+      "fetched_at": "2026-11-19T06:50:05.599770",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -11266,7 +11680,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.467272",
+      "fetched_at": "2026-11-19T06:50:05.599926",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -11350,7 +11764,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.349721",
+      "fetched_at": "2026-11-19T06:50:05.466680",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -14489,7 +14903,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:11:56.816152",
+      "fetched_at": "2026-11-19T06:50:06.129233",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -16623,7 +17037,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.349801",
+      "fetched_at": "2026-11-19T06:50:05.466845",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -18489,6 +18903,34 @@
       "id": "013c434e1cf28c41"
     },
     {
+      "title": "愛與真實基督教會誠徵全職牧者",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dmIxdFhTSnFac24yWVZSQW1ZWGRGZV9uV3B4UmNUR2dXcWZBZmlUWnRCOUpQQ0JiUUJUT0xfYlNtVG44NFRTbEo4dTljN1hlT3lnOEFxQnlFVGNpMWVucmsxQk9KdS1LUkE?oc=5",
+      "category": "news",
+      "source": "基督教论坛报",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-02",
+      "summary": "愛與真實基督教會誠徵全職牧者 基督教論壇報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "基督教論壇報",
+      "tags": [],
+      "language": "zh",
+      "country": "TW",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T06:50:05.686865",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督教论坛报 新闻 教会",
+        "publisher": "基督教論壇報"
+      },
+      "id": "be806240342ea73d"
+    },
+    {
       "title": "20 men ‘attack’ new Basanti church during inauguration by bishop, ‘assault’ devotees; cops say ‘fight bet",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQWVBxR0Zua0U5U0NhNEswX0h6WUtaUVF5RkFrdlhsbS1lT2hTSXFISDh6U2RrTnVHeloxUHJtb2NYNUkxdFBFOGpPazF5c040WEFZaXlGc0FrcElfMUxuTWVQUzBMbVR1czRrS1NROGFFbjJTWmp0enA5UzI3Sk0wdWlJeldhbFRyZXNEeXBnMzJrUnRjV3NyenpxZXYtcjhmT21Ga1BkazN3QnNrd1QtelpBYjJBMHNUYTh4MEFBQ25vQkROaEdkNFJ6NnhaWDlqNER0WW9YOXpINDNkVmlHSDZhLTBpb0RxeDdsSmtXdXJ4VG0wTHRfc05XU21RN1RHVndfMUMyWk53Nkl4SjVsSTdEazFyeDNnNC1GZ2V1WUItSm1M0gGqAkFVX3lxTFBPcThHOXVWZXFVc2ZqWmhzZzVvUUpJV0FlSXl2OXFYTXZZTWxqbkthN2tMbXNmNzdRbENfMDlOSlA1ZlJodGJyOG8xNXo2bHY2blN6b2VlSUQ3OTJKTzBURXBQUTVhYXdjRGVXR3ZRbjFlclFLdXE1Sm1hci1oRVBLdXVQVnFqSENUa2hHTmdkUFpTNjZBSzF0ZlRyV2Nhd0V6NUpJU2JVOVhsRmVZV29oZHVyZWdSd1dmczJVWHB5Y29mOWJMdld1emdUUmV5a19fUEFvaE56akdDNU0tc3pPVTNaNkpLYlRSN0VRcnNBYnQ4c19HcHlZRGZfZUIyY2JhazdsRnd3UVNfZVRGVGRWOFh2MU41RS1pTERTYWxzdjN0LUNIUV9teHc?oc=5",
       "category": "news",
@@ -18984,7 +19426,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.466914",
+      "fetched_at": "2026-11-19T06:50:05.599191",
       "extra": {
         "provider": "google_news",
         "query": "Evangelical Focus",
@@ -21001,7 +21443,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.349878",
+      "fetched_at": "2026-11-19T06:50:05.467001",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -21084,7 +21526,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:11:56.816308",
+      "fetched_at": "2026-11-19T06:50:06.129396",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -21140,7 +21582,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:30.042973",
+      "fetched_at": "2026-11-19T06:50:06.232171",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -21734,7 +22176,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.350282",
+      "fetched_at": "2026-11-19T06:50:05.467758",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -22341,7 +22783,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.441945",
+      "fetched_at": "2026-11-19T06:50:05.492486",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -22369,7 +22811,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.350505",
+      "fetched_at": "2026-11-19T06:50:05.468220",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -22397,7 +22839,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.349965",
+      "fetched_at": "2026-11-19T06:50:05.467169",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -22537,7 +22979,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-15T23:49:52.607171",
+      "fetched_at": "2026-11-19T06:50:06.129868",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -22980,7 +23422,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:50:03.812858",
+      "fetched_at": "2026-11-19T06:50:06.054549",
       "extra": {
         "provider": "google_news",
         "query": "Christianity daily news headline",
@@ -23091,7 +23533,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.350362",
+      "fetched_at": "2026-11-19T06:50:05.467920",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -23119,7 +23561,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.350044",
+      "fetched_at": "2026-11-19T06:50:05.467410",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -23343,7 +23785,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.442082",
+      "fetched_at": "2026-11-19T06:50:05.493727",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -23566,7 +24008,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:30.042673",
+      "fetched_at": "2026-11-19T06:50:06.231256",
       "extra": {
         "provider": "google_news",
         "query": "Christian news Asia church",
@@ -23845,7 +24287,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.442015",
+      "fetched_at": "2026-11-19T06:50:05.492667",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -24095,7 +24537,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.442370",
+      "fetched_at": "2026-11-19T06:50:05.494258",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",
@@ -24261,7 +24703,7 @@
       "stance": "catholic",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.350178",
+      "fetched_at": "2026-11-19T06:50:05.467587",
       "extra": {
         "provider": "google_news",
         "query": "Vatican news Christianity Pope",
@@ -24289,7 +24731,7 @@
       "stance": "mainline",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-15T23:49:52.607079",
+      "fetched_at": "2026-11-19T06:50:06.129716",
       "extra": {
         "provider": "google_news",
         "query": "World Council of Churches ecumenical news",
@@ -24541,7 +24983,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:29.442302",
+      "fetched_at": "2026-11-19T06:50:05.494524",
       "extra": {
         "provider": "google_news",
         "query": "Christian news India church",

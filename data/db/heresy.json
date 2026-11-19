@@ -2,7 +2,7 @@
   "category": "heresy",
   "label": "异端辨析",
   "count": 48,
-  "updated_at": "2026-11-19T09:54:51.390645+08:00",
+  "updated_at": "2026-11-19T14:56:11.236831+08:00",
   "articles": [
     {
       "title": "96MW data center planned on rural Texas ranch owned by Mormon Church",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.121211",
+      "fetched_at": "2026-11-19T06:50:10.801680",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -52,7 +52,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.121632",
+      "fetched_at": "2026-11-19T06:50:10.802184",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -108,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.121560",
+      "fetched_at": "2026-11-19T06:50:10.802483",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -164,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.121777",
+      "fetched_at": "2026-11-19T06:50:10.802951",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -192,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.121329",
+      "fetched_at": "2026-11-19T06:50:10.801858",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -276,7 +276,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.121413",
+      "fetched_at": "2026-11-19T06:50:10.802024",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1251,7 +1251,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:46:36.121703",
+      "fetched_at": "2026-11-19T06:50:10.802652",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
