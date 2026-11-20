@@ -1,9 +1,37 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 48,
-  "updated_at": "2026-11-19T14:56:11.236831+08:00",
+  "count": 49,
+  "updated_at": "2026-11-20T09:50:00.771431+08:00",
   "articles": [
+    {
+      "title": "Latest from Mormon Land: Maybe blue-streaking LDS voters should opt for CTL rings",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLUotVF9tTUpUVE5LNEs3ZDdWMzBWRVRKRjNuUjE1anp3cTcxUUJaS1R1VWJoaVczTmh3amhRU3pLUFJOaU56akMwMjUyOVZjdDlqTXJqLXZXUDFTS3QtVUpjS1ZPdm5XQmVDdkxWTWdsY2R6QldMWXUtREZPUVNsdnljQQ?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-19",
+      "summary": "Latest from Mormon Land: Maybe blue-streaking LDS voters should opt for CTL rings The Salt Lake Tribune",
+      "summary_zh": "来自 Mormon Land 的最新消息：也许蓝条纹 LDS 选民应该选择 CTL 戒指 - 盐湖论坛报",
+      "title_zh": "摩门之地最新消息：也许有蓝条纹的耶稣基督后期圣徒教会选民应该选择CTL戒指",
+      "content": "",
+      "content_zh": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-20T01:42:47.718348",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      },
+      "id": "07fe5a38f7c32808"
+    },
     {
       "title": "96MW data center planned on rural Texas ranch owned by Mormon Church",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40eVI2Qk1ockZLR0ZQTHREcVRkMlBvaXRfczVaNzdUN0NhV25QT2xvazEtR2FPc21VUUxDMmRQWndFcHdRRC1UejhzdmpRSEw5Vnl5Ri1mRFBVNkNmSVVfeko3Qm9WR0cwZG40NHQ2RUVmcGxnSFNj?oc=5",
@@ -52,7 +80,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T06:50:10.802184",
+      "fetched_at": "2026-11-20T01:42:47.718797",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -108,7 +136,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T06:50:10.802483",
+      "fetched_at": "2026-11-20T01:42:47.718669",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -164,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T06:50:10.802951",
+      "fetched_at": "2026-11-20T01:42:47.719088",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -192,7 +220,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T06:50:10.801858",
+      "fetched_at": "2026-11-20T01:42:47.718467",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -640,7 +668,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:42:39.622644",
+      "fetched_at": "2026-11-20T01:42:47.719262",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1251,7 +1279,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T06:50:10.802652",
+      "fetched_at": "2026-11-20T01:42:47.718994",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
