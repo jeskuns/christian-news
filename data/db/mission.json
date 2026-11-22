@@ -1,8 +1,8 @@
 {
   "category": "mission",
   "label": "宣教运动",
-  "count": 47,
-  "updated_at": "2026-11-21T09:18:19.753586+08:00",
+  "count": 48,
+  "updated_at": "2026-11-22T08:15:32.194432+08:00",
   "articles": [
     {
       "title": "Who was the first Augustinian missionary in Peru?",
@@ -108,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:08.754582",
+      "fetched_at": "2026-11-22T00:08:51.960588",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -442,6 +442,34 @@
       "content_zh": ""
     },
     {
+      "title": "追念首位从美来华女宣教士叔何显理",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2hNOFhCeUtXYndsU05wTTZNX0JTZlBFcUE3RTB2ZWFpU1oyTWljR3BtM0ZNVFRnUmZnOHR2c29JZlBvdC1PSHZhOUc0QTl2b2xTMk1UQlVrOHd6OC1HTXN3RGFKNGw2aHoxTzhiZWdmcDBqWXhzVjBZRWhUMFo5aTN5VFEwMG93aGxzX1ItVkV2RjEzelVIYTRxcjE5Q0h4bVo1QUVUNnU4SW1BTlhLSUJTc0U?oc=5",
+      "category": "mission",
+      "source": "宣教运动（中文）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-30",
+      "summary": "追念首位从美来华女宣教士叔何显理 《時代論壇》Christian Times",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "author": "《時代論壇》Christian Times",
+      "tags": [],
+      "language": "zh",
+      "country": "CN",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-22T00:08:51.617061",
+      "extra": {
+        "provider": "google_news",
+        "query": "基督教 宣教 宣教士 差会",
+        "publisher": "《時代論壇》Christian Times"
+      },
+      "id": "0ecc82be6559383d"
+    },
+    {
       "title": "追念美国来华首位女宣教士叔何显理",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3FrR21fYXFacjhaaXRqaTFJcDl3WXdaQ2phdDRtYUo0Sk5sUmtpU0xDQXY4NkVxclhSNVpEWjJqTDQ5Y19xa2NNT0o2SE9LMTNzMmlPRkxNMElNRzdJcGNnOVpRNmVCd3pOdmk3NHZoUGkwOU1SRjBscmRSZnZkMjZWbUZQSVZMNXB3Q0V6RFpFLXJ6LXo3RHdJZDhEZ3ZyZEZweXpDRzlDUGRrOGUwVUF3?oc=5",
       "category": "mission",
@@ -573,7 +601,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:09.021844",
+      "fetched_at": "2026-11-22T00:08:52.125475",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -656,7 +684,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:08.754781",
+      "fetched_at": "2026-11-22T00:08:51.960733",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -873,7 +901,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:08.388909",
+      "fetched_at": "2026-11-22T00:08:51.495175",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -1063,7 +1091,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:09.021639",
+      "fetched_at": "2026-11-22T00:08:52.125852",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",

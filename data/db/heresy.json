@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 51,
-  "updated_at": "2026-11-21T09:18:19.751303+08:00",
+  "count": 52,
+  "updated_at": "2026-11-22T08:15:32.193013+08:00",
   "articles": [
     {
       "title": "Is Mormonism necessary?",
@@ -52,13 +52,41 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:12.106329",
+      "fetched_at": "2026-11-22T00:08:54.745753",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "The Salt Lake Tribune"
       },
       "id": "07fe5a38f7c32808"
+    },
+    {
+      "title": "The Queer Throuple on SLOMW: OC Is Sparking a Conversation About Homophobia in Mormonism",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsUHNFVm1RZDhhTk9xWEpXQjQwQXEzSVFBN0ZnNkw5R1ZITW1JQVBWbDcwTGQ1UXBneWRfWC1PY2RnRVdHNlQ4WXJmNmhOdll2ZzB2T0h2QWo2bG1LaG4wVGh0VXprZlg1LVJtSm81cDhsTmd3R0tv?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-19",
+      "summary": "The Queer Throuple on SLOMW: OC Is Sparking a Conversation About Homophobia in Mormonism Them",
+      "summary_zh": "SLOMW 上的酷儿三人组：OC 正在引发一场关于摩门教中恐同症的对话",
+      "title_zh": "SLOMW上的酷儿三人行：OC正在引发关于摩门教中恐同现象的讨论",
+      "content": "",
+      "content_zh": "",
+      "author": "Them",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-22T00:08:54.746520",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Them"
+      },
+      "id": "9fd09a159ac2483e"
     },
     {
       "title": "96MW data center planned on rural Texas ranch owned by Mormon Church",
@@ -80,41 +108,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T06:50:10.801680",
+      "fetched_at": "2026-11-22T00:08:54.746059",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Data Center Dynamics"
       },
       "id": "70980ff529c9b38d"
-    },
-    {
-      "title": "The Queer Throuple on SLOMW: OC Is Sparking a Conversation About Homophobia in Mormonism",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsUHNFVm1RZDhhTk9xWEpXQjQwQXEzSVFBN0ZnNkw5R1ZITW1JQVBWbDcwTGQ1UXBneWRfWC1PY2RnRVdHNlQ4WXJmNmhOdll2ZzB2T0h2QWo2bG1LaG4wVGh0VXprZlg1LVJtSm81cDhsTmd3R0tv?oc=5",
-      "category": "heresy",
-      "source": "摩门教 LDS",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-11-17",
-      "summary": "The Queer Throuple on SLOMW: OC Is Sparking a Conversation About Homophobia in Mormonism Them",
-      "summary_zh": "SLOMW 上的酷儿三人组：OC 正在引发一场关于摩门教中恐同症的对话",
-      "title_zh": "SLOMW上的酷儿三人行：OC正在引发关于摩门教中恐同现象的讨论",
-      "content": "",
-      "content_zh": "",
-      "author": "Them",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-21T01:09:12.107437",
-      "extra": {
-        "provider": "google_news",
-        "query": "Mormon LDS church",
-        "publisher": "Them"
-      },
-      "id": "9fd09a159ac2483e"
     },
     {
       "title": "Former Chicago-area Mormon leader is sentenced to 45 years in prison in child sex abuse case in Ohio",
@@ -136,7 +136,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:12.107139",
+      "fetched_at": "2026-11-22T00:08:54.746433",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -276,7 +276,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:12.106824",
+      "fetched_at": "2026-11-22T00:08:54.746604",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -847,6 +847,34 @@
       "id": "ad54df0ee95460b8"
     },
     {
+      "title": "Open House Begins for the Fort Worth Texas Temple",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWs1X3FNdVpIbnliWDF4Ti1aNDdKLTdQUkJvTG5ReDJtT1JSZFlmcXc3ZUNVNjY5TDI2dTBMdVJPX1hVV1Y0bFpkVEdhc0l0Zl9XeU5MNEIydjFveWJ1WXBJUHRLcDQ5M3hINTdHU2QtbUZwNVFIM1VWZzA0WFh3MlQ5WE9kNTNIdVB6S05NZHBQMmwxUmt0ZHA0QkNtQVk?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-02",
+      "summary": "Open House Begins for the Fort Worth Texas Temple newsroom.churchofjesuschrist.org",
+      "summary_zh": "德州沃思堡圣殿开放日开始newsroom.churchofjesuschrist.org",
+      "title_zh": "德州沃思堡圣殿开放日活动开始",
+      "content": "",
+      "content_zh": "",
+      "author": "newsroom.churchofjesuschrist.org",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-22T00:08:54.746162",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "newsroom.churchofjesuschrist.org"
+      },
+      "id": "e6c83b19616c0735"
+    },
+    {
       "title": "World Series champ Cooper Pratt on the connection between tithing and baseball",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnJORHdOZGM0bm1rTzI1WjhMeW00WUJ4VVppbFlER0M2YTBtWW43OHB6MDZCUXAtdzNyajBkbnd3NndUcnBBc2c0ams3a1pFTDc4S2RIbVFtdkYxbGx3eThaOFBKWllTNWJGNjNrZjhILXFTZUtsTUc5RlBvd2dlTGtzU2h0emhhWlR5Qy1BSFY2dGw2M0JuSmJiUVVCaVBrQzhCbHpXUXRPUno5dDk3WjlCVkxJRV9qTnlqZ0ZZU2pIbWY2dVdpVDJEWEY?oc=5",
       "category": "heresy",
@@ -1335,7 +1363,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:12.106981",
+      "fetched_at": "2026-11-22T00:08:54.746343",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
