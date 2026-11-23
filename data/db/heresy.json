@@ -2,7 +2,7 @@
   "category": "heresy",
   "label": "异端辨析",
   "count": 52,
-  "updated_at": "2026-11-22T08:15:32.193013+08:00",
+  "updated_at": "2026-11-23T08:45:37.725037+08:00",
   "articles": [
     {
       "title": "Is Mormonism necessary?",
@@ -52,7 +52,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:54.745753",
+      "fetched_at": "2026-11-23T00:38:34.946006",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -80,7 +80,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:54.746520",
+      "fetched_at": "2026-11-23T00:38:34.946594",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -136,7 +136,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:54.746433",
+      "fetched_at": "2026-11-23T00:38:34.946937",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -192,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-21T01:09:12.107285",
+      "fetched_at": "2026-11-23T00:38:34.947276",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -276,7 +276,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:54.746604",
+      "fetched_at": "2026-11-23T00:38:34.946792",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1335,7 +1335,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:12:02.574212",
+      "fetched_at": "2026-11-23T00:38:34.947168",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1363,7 +1363,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:54.746343",
+      "fetched_at": "2026-11-23T00:38:34.946454",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",

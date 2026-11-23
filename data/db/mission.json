@@ -1,8 +1,8 @@
 {
   "category": "mission",
   "label": "宣教运动",
-  "count": 48,
-  "updated_at": "2026-11-22T08:15:32.194432+08:00",
+  "count": 47,
+  "updated_at": "2026-11-23T08:45:37.726874+08:00",
   "articles": [
     {
       "title": "Who was the first Augustinian missionary in Peru?",
@@ -108,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:51.960588",
+      "fetched_at": "2026-11-23T00:38:31.659455",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -601,7 +601,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:52.125475",
+      "fetched_at": "2026-11-23T00:38:32.110772",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -901,7 +901,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:51.495175",
+      "fetched_at": "2026-11-23T00:38:31.364537",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -1091,7 +1091,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:52.125852",
+      "fetched_at": "2026-11-23T00:38:32.110609",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -1318,34 +1318,6 @@
         "publisher": "基督日報"
       },
       "content_zh": ""
-    },
-    {
-      "title": "在新時代回應大使命：蔡頌輝牧師談宣教五大轉向",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRDdGQ1FZUGdjdW5maGVkQlY3UGt6WXFTZXFDaTJ2ekhEWkhITWhZblJLMEI1QjhEX1h6SXNvUTYyN3RGX2tERVlKMmhpQUh5MVN3dlR6TDRaUk10c1ZCOXpHUzlVaXNJak9iY3Nxaw?oc=5",
-      "category": "mission",
-      "source": "宣教运动（中文）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-24",
-      "summary": "在新時代回應大使命：蔡頌輝牧師談宣教五大轉向 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "content_zh": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "CN",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-03T04:21:25.849377",
-      "extra": {
-        "provider": "google_news",
-        "query": "基督教 宣教 宣教士 差会",
-        "publisher": "基督日報"
-      },
-      "id": "f8a78c3de46fd4c5"
     }
   ]
 }
