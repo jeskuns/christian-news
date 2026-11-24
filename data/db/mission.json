@@ -1,9 +1,37 @@
 {
   "category": "mission",
   "label": "宣教运动",
-  "count": 47,
-  "updated_at": "2026-11-23T08:45:37.726874+08:00",
+  "count": 50,
+  "updated_at": "2026-11-24T12:49:41.010561+08:00",
   "articles": [
+    {
+      "title": "Faithful to the End: The Harvest One African Missionary Never Saw",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFRvREVkV1VhQTM0VF9peHBGYzlCUGpIOU1ZREt1empKcktjejM2MFU2VEhyS1lsM2FoN19nU0F3R2tGbTctdEx6dXk0anhubG9OM0xUakU5ZUp0ZTBjOXVxeGV1NklaRUVFMndTWjJMandxUUZGSFNOX2ljWWlYWkVzamxLdEkzQjhCS2tXa0RLSmNfdkkxM2l5N2hDUDBTWW14Zi0xSXF2LXcwQUp6aU9KTWd0by1m?oc=5",
+      "category": "mission",
+      "source": "非洲宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-21",
+      "summary": "Faithful to the End: The Harvest One African Missionary Never Saw Billy Graham Evangelistic Association",
+      "summary_zh": "忠信到底：收获 一位非洲传教士从未见过葛培理福音协会",
+      "title_zh": "至死忠心：一位非洲传教士从未见过的丰收",
+      "content": "",
+      "content_zh": "",
+      "author": "Billy Graham Evangelistic Association",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-24T04:40:13.088081",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian mission Africa",
+        "publisher": "Billy Graham Evangelistic Association"
+      },
+      "id": "cb79dd4705c0f3af"
+    },
     {
       "title": "Who was the first Augustinian missionary in Peru?",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNzdBWXJoSHBNZzJPMnJJYXNobWJSYWRubUpNOEswTG5USUNrZHRpUHlXQUx6STBZZEJ5c3VBc1BuQkdwVnZmU3B2M1N2X1BVQUs2Vm9ISW9CMEtrS1VjLUFQbWJFd05mRFhQcmxITFVNZUstUlBIc3Zjak9sSlJsOXRPRzU2Z1E?oc=5",
@@ -61,6 +89,34 @@
       "id": "0c879de1845ed967"
     },
     {
+      "title": "Mission India doubles impact of summer Bible clubs",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yNFFPWFpfc3BvWlRFMHNoR05GemxBcTVlN29TS0l2STdMZlZvMExQUzNVV2RKN185cTN0V2FfYWpaLVg3S0xwWF9fTnltZGRwN2Q1Y0g2alJEYU44Wjd3?oc=5",
+      "category": "mission",
+      "source": "未得之民",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-10",
+      "summary": "Mission India doubles impact of summer Bible clubs Mission Network News",
+      "summary_zh": "印度传教士 夏日圣经俱乐部的双重影响 传教士网络新闻",
+      "title_zh": "Mission India将夏季圣经俱乐部的影响加倍",
+      "content": "",
+      "content_zh": "",
+      "author": "Mission Network News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-24T04:40:13.041610",
+      "extra": {
+        "provider": "google_news",
+        "query": "unreached people groups mission",
+        "publisher": "Mission Network News"
+      },
+      "id": "b61f68fe912a071b"
+    },
+    {
       "title": "FAITH LIFT: Relationship trumps religion",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbnVvaHZTVmFmeDFxZjJTWmdQTWVRQ09JaFpjOHlmdlVSSEZETkY2cjIzYnc4UndvbXpMeEhBYUtDcHN0bHgtbHJsbWhZUnd0NENHa3JQdHpxNnQ1dG9GaURmVERmZDdyb1pNTEZoWG1zZG92V2FqUFZNNnlUM0ttdDdEaER0c0dFelBuNUdVam9kTTF4TDY2eF9R?oc=5",
       "category": "mission",
@@ -108,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:31.659455",
+      "fetched_at": "2026-11-24T04:40:12.538152",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -601,7 +657,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:32.110772",
+      "fetched_at": "2026-11-24T04:40:13.087497",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -766,7 +822,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.454552",
+      "fetched_at": "2026-11-24T04:40:12.614990",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -901,7 +957,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:31.364537",
+      "fetched_at": "2026-11-24T04:40:12.614150",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -936,6 +992,34 @@
         "publisher": "Serving in Mission"
       },
       "id": "6ffa3d2e2e740e45"
+    },
+    {
+      "title": "Wycliffe Bible Translator Number of Employees 2026 | Employee Count & Headcount Data",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FYk5vd0VBQWJ4XzFLalBMQjdkdzE0MXpEVUhvOW50RDBfQlJEeGlRVGNGcEgtQ3c5dmNPdGN4a19Cc1R6QW9Hai1VMjdQU3NRbHA2NGxualcyUGNwejVOU2N4SE5CalBxQlBBb0hpOVhKOXdoeVUtRlVSNC03UQ?oc=5",
+      "category": "mission",
+      "source": "Wycliffe Bible Translators",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-23",
+      "summary": "Wycliffe Bible Translator Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "summary_zh": "Wycliffe Bible Translators 2026年员工人数 | 员工人数和人员编制数据 Revelio Labs",
+      "title_zh": "Wycliffe Bible Translators 2026年员工人数 | 员工人数与人员编制数据",
+      "content": "",
+      "content_zh": "",
+      "author": "Revelio Labs",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-24T04:40:12.614616",
+      "extra": {
+        "provider": "google_news",
+        "query": "Wycliffe Bible translators",
+        "publisher": "Revelio Labs"
+      },
+      "id": "d0f8c94f6a324dda"
     },
     {
       "title": "中華差傳25週年感恩禮拜 從華民到萬民開展家門口宣教",
@@ -1091,7 +1175,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:32.110609",
+      "fetched_at": "2026-11-24T04:40:13.087960",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",

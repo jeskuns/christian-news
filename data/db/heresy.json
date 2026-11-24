@@ -1,9 +1,37 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 52,
-  "updated_at": "2026-11-23T08:45:37.725037+08:00",
+  "count": 54,
+  "updated_at": "2026-11-24T12:49:41.008705+08:00",
   "articles": [
+    {
+      "title": "Democrats’ tantalizing dream of a Blue Utah",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3JkVXNYRWl0YjFwY1kzYVk3UnJpenhsOVppQUIzQzI3SlZnN0lWMURYQ2RNSlVTVjFmWVdQd2RLLS1JS0dULThLSEdYYVgtNVowU1FZUVJDZTFfS1pXSzhURFl0U0F4VF9wUkxVUjRKQnltNndJdDdibXpueWp5UWZOaEw1VklSZDYxcmdfU1NrUXdybzFaUC1SVndkaHFQVm9NeVp1RktteDhyVUFwMTdFbHlrZw?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-23",
+      "summary": "Democrats’ tantalizing dream of a Blue Utah Vox",
+      "summary_zh": "民主党人对蓝色犹他之声的诱人梦想",
+      "title_zh": "民主党人对犹他州“变蓝”的诱人梦想",
+      "content": "",
+      "content_zh": "",
+      "author": "Vox",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-24T04:40:16.763092",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Vox"
+      },
+      "id": "1ffad3824f43a9f4"
+    },
     {
       "title": "Is Mormonism necessary?",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xS2RvLXFzeElvS3p4anEySWZDTVduVXM0VEhOTUdCekZEUWExRmxjMnhRalNRVnltYmZOOXlzLXZsaDFoVzdxSWpWZWZwTFY2RG9STFlGTm5EX254YUNkN2RhY01jazRy?oc=5",
@@ -52,7 +80,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:34.946006",
+      "fetched_at": "2026-11-24T04:40:16.763268",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -108,7 +136,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:54.746059",
+      "fetched_at": "2026-11-24T04:40:16.763689",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -276,7 +304,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:34.946792",
+      "fetched_at": "2026-11-24T04:40:16.763811",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -875,6 +903,34 @@
       "id": "e6c83b19616c0735"
     },
     {
+      "title": "LDS church suffered initial opposition, then prospered in Mesa County",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLXdaeEhjZENCeHdEdTRta2lYMkFKWkd4QjVpYXZLOHk5a1dsNjBiQlZKYVZ0NmtGU2tsbW9JMHRJX0MyX010MW0wU1Y3SjAwZnM0YXkxM3BkSmxwTGxEcnhKNGgyV2hBOE5MaDJ5eF9IbnM5WHRxTGs1MlhGa3h0dVZ6QUhfZUlSaGFicE5jR2ZCTmtDSmhjRU9pTi1OMHJ4MVh3V0NpSk9GNml6cVhIZTRTajA4d212QnNHeXlIWFVVU3RjOC1MYmNrVm1tcjZ5TmdkWEV4SlJuMVVhZnBfNnotMnZpUWVPd1h1el9lMDgwOWZSazVHWkE5Y9IBgAJBVV95cUxPZnkxN0RzdUlvRXZST3NrX2M2NVpDTGxieEJ1ZXd2ejVNQ0xqT1BJVG9jOUVOaE1ncWhobVE1TWE5TlpULVJxRkt5cVpfQTl2c0xWczFOTlM4ZzFvbXkyTDA1d3N6OTJ0WXk3cDdXd041VEk4RE1JLWgzQkRRZzZMcG4tSklEanVYQ0k0aHZvRW1vVFZGblVhMW4xSHdRX19JWktUOV9kenJ0VlFxUElqUmhRZndvaDNRNlJQUnFKTldOaG1yMjFadzFDb3RqdzhQdnB1UmJOdGVOczBaZW9BSkxYSFBPZnB3dGszY1FDSmVYWS1KZzFMLXZxY0ZiaTds?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-02",
+      "summary": "LDS church suffered initial opposition, then prospered in Mesa County The Grand Junction Daily Sentinel",
+      "summary_zh": "摩门教教会最初遭到反对，后来在梅萨县蓬勃发展 The Grand Junction Daily Sentinel",
+      "title_zh": "耶稣基督后期圣徒教会最初遭到反对，随后在梅萨县蓬勃发展",
+      "content": "",
+      "content_zh": "",
+      "author": "The Grand Junction Daily Sentinel",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-24T04:40:16.764171",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Grand Junction Daily Sentinel"
+      },
+      "id": "7ea179376d815785"
+    },
+    {
       "title": "World Series champ Cooper Pratt on the connection between tithing and baseball",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnJORHdOZGM0bm1rTzI1WjhMeW00WUJ4VVppbFlER0M2YTBtWW43OHB6MDZCUXAtdzNyajBkbnd3NndUcnBBc2c0ams3a1pFTDc4S2RIbVFtdkYxbGx3eThaOFBKWllTNWJGNjNrZjhILXFTZUtsTUc5RlBvd2dlTGtzU2h0emhhWlR5Qy1BSFY2dGw2M0JuSmJiUVVCaVBrQzhCbHpXUXRPUno5dDk3WjlCVkxJRV9qTnlqZ0ZZU2pIbWY2dVdpVDJEWEY?oc=5",
       "category": "heresy",
@@ -1433,12 +1489,12 @@
       "source": "摩门教 LDS",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-08-31",
-      "summary": "10th Circuit affirms dismissal of Mormon church tithing fraud class action as too late Courthouse News",
-      "summary_zh": "第10巡回法院确认驳回摩门教会什一奉献欺诈集体诉讼为时已晚",
+      "summary": "10th Circuit affirms dismissal of Mormon church tithing fraud class action as too late Courthouse News Service",
+      "summary_zh": "第十巡回法院确认驳回摩门教教堂什一税欺诈集体诉讼，因为为时已晚 法院新闻服务",
       "title_zh": "第10巡回法院确认解雇摩门教会什一税欺诈集体诉讼为时已晚",
       "content": "",
       "content_zh": "",
-      "author": "Courthouse News",
+      "author": "Courthouse News Service",
       "tags": [],
       "language": "en",
       "country": "US",
@@ -1446,11 +1502,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:29.621443",
+      "fetched_at": "2026-11-24T04:40:16.763932",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
-        "publisher": "Courthouse News"
+        "publisher": "Courthouse News Service"
       },
       "id": "7fcae62a133a0577"
     }
