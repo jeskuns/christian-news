@@ -2,7 +2,7 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 50,
-  "updated_at": "2026-11-24T12:49:41.010561+08:00",
+  "updated_at": "2026-11-25T11:34:35.473711+08:00",
   "articles": [
     {
       "title": "Faithful to the End: The Harvest One African Missionary Never Saw",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:13.088081",
+      "fetched_at": "2026-11-25T03:25:44.364118",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -108,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:13.041610",
+      "fetched_at": "2026-11-25T03:25:44.339492",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -164,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.538152",
+      "fetched_at": "2026-11-25T03:25:44.031684",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -657,7 +657,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:13.087497",
+      "fetched_at": "2026-11-25T03:25:44.363443",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -794,7 +794,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.990297",
+      "fetched_at": "2026-11-25T03:25:44.427760",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -957,7 +957,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.614150",
+      "fetched_at": "2026-11-25T03:25:43.789197",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -985,7 +985,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T00:28:01.847988",
+      "fetched_at": "2026-11-25T03:25:44.073815",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1175,7 +1175,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:13.087960",
+      "fetched_at": "2026-11-25T03:25:44.363964",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",

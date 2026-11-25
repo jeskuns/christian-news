@@ -1,9 +1,65 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 54,
-  "updated_at": "2026-11-24T12:49:41.008705+08:00",
+  "count": 57,
+  "updated_at": "2026-11-25T11:34:35.446878+08:00",
   "articles": [
+    {
+      "title": "Is the church’s lawsuit really about the word ‘Mormon’?",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVzItZjNGcVNDeC03NmFaTjdxcVFjR3lWcmlvYXpVLUZOSEstNUlHVHJOeVRpZ180UWhEbllxSUduaXZJR2dYOFd5djJCSGVJZzZoM3BEN2ZTZzZodDFBT0tLUjVPZnZBX3FWWU5mVFZpSjJNOEVNXzdSRFhUUVRGemRDc2VxVVlLVGFZNzhLcFhJMkNYaW56cUxZMW9WdldYSFowRjgzdkU?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-25",
+      "summary": "Is the church’s lawsuit really about the word ‘Mormon’? Deseret News",
+      "summary_zh": "教会的诉讼真的是关于“摩门教”这个词吗？沙漠新闻",
+      "title_zh": "教会的诉讼真的与“摩门”一词有关吗？",
+      "content": "",
+      "content_zh": "",
+      "author": "Deseret News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-25T03:25:47.497049",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Deseret News"
+      },
+      "id": "86b1355ab132c492"
+    },
+    {
+      "title": "‘Mormon’ Trademark Case Pits Church Against Critical Podcaster",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbzFBUXlHZGZQQ2Z1QklGaGtYYlp2X21QZmNYR2ZCQm5YazY0eVoyZ1dBR2hhY1dfRlhPUHQxdXNrTUhITGRCd0ZlZ2lIZ3plUkstcGhndVN3U0JXMjRBRU9sSndCeE5mQkItdEZEcjhycnZKb1h4ckdwM0x2S2ZWcmlXOUxlN2dtdGM5U25lcnl5QV9YZzdHN25DNUFsZw?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-24",
+      "summary": "‘Mormon’ Trademark Case Pits Church Against Critical Podcaster Bloomberg Law News",
+      "summary_zh": "“摩门教”商标案引发教会与批评播客的对峙 彭博法律新闻",
+      "title_zh": "“摩门”商标案使教会与批评性播客主播对簿公堂",
+      "content": "",
+      "content_zh": "",
+      "author": "Bloomberg Law News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-25T03:25:47.496833",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Bloomberg Law News"
+      },
+      "id": "89654aa8942be511"
+    },
     {
       "title": "Democrats’ tantalizing dream of a Blue Utah",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3JkVXNYRWl0YjFwY1kzYVk3UnJpenhsOVppQUIzQzI3SlZnN0lWMURYQ2RNSlVTVjFmWVdQd2RLLS1JS0dULThLSEdYYVgtNVowU1FZUVJDZTFfS1pXSzhURFl0U0F4VF9wUkxVUjRKQnltNndJdDdibXpueWp5UWZOaEw1VklSZDYxcmdfU1NrUXdybzFaUC1SVndkaHFQVm9NeVp1RktteDhyVUFwMTdFbHlrZw?oc=5",
@@ -24,13 +80,41 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:16.763092",
+      "fetched_at": "2026-11-25T03:25:47.498340",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Vox"
       },
       "id": "1ffad3824f43a9f4"
+    },
+    {
+      "title": "Arizona child abuse victims challenge church's protections under religious confession",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaC1Bd3FEV09iaFdKckVSVGx0WUJZT2tmNkVBMHI3YXBDS1luaEhvVl9BVVg1TUhpNGY4U2tfM3VuSEFFc2dNSnNObmhubHBxTzh1ZVVQcTJDZWtBLTZXNDU5elJmNjBvTzQ0ZWkxQ3VGSUliRE9HaVY1cUJEaUxuUXdmb2FrUG55eXI1Zk9YbXVrNnFFZmstZHNyYkhNS2lkTlI1aWhzZmg4aG53Xy1CS01kQjJsSmtOWnkxbnVDd2p1THZPZm5xZUVldWZhM3hJZ0pPN0gwanFEM0hZUW9BZC1abWtESHBxT2F5OGIwNFUzNDVtMlQzVGRjSGlBR1NvWVhUeg?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-21",
+      "summary": "Arizona child abuse victims challenge church's protections under religious confession 12News",
+      "summary_zh": "亚利桑那州虐待儿童受害者挑战教会对宗教信仰的保护 12News",
+      "title_zh": "亚利桑那州儿童虐待受害者对教会基于宗教忏悔的保护提出质疑",
+      "content": "",
+      "content_zh": "",
+      "author": "12News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-25T03:25:47.497222",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "12News"
+      },
+      "id": "f8d44f4f186b62a1"
     },
     {
       "title": "Is Mormonism necessary?",
@@ -80,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:16.763268",
+      "fetched_at": "2026-11-25T03:25:47.497700",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -136,7 +220,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:16.763689",
+      "fetched_at": "2026-11-25T03:25:47.497873",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1419,7 +1503,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:34.946454",
+      "fetched_at": "2026-11-25T03:25:47.498030",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
