@@ -1,9 +1,177 @@
 {
   "category": "persecution",
   "label": "信仰自由与逼迫",
-  "count": 281,
-  "updated_at": "2026-11-25T11:34:35.465776+08:00",
+  "count": 289,
+  "updated_at": "2026-11-26T10:51:00.968168+08:00",
   "articles": [
+    {
+      "title": "Baptist Christian political prisoner released",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFhfSThra3ZrUEZjM2FpTnIxSVlpdUxNT1BZeXZ1QzNiRDc3a1MzUVVtc3pkQXRSdWVCdThzb1pPUE5zSS1wTEtXenV0dEp0TW5IeFVBQi02OVc2dnlqNjJDWnRUSjk2Rmp5emxIZndmSVhCS1o0OGdiMDZBaFdnTA?oc=5",
+      "category": "persecution",
+      "source": "CSW 宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-25",
+      "summary": "Baptist Christian political prisoner released Christian Solidarity Worldwide",
+      "summary_zh": "浸信会基督教政治犯获释 全球基督教团结会",
+      "title_zh": "浸信会基督徒政治犯获释",
+      "content": "",
+      "content_zh": "",
+      "author": "Christian Solidarity Worldwide",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:24.814187",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian Solidarity Worldwide religious freedom",
+        "publisher": "Christian Solidarity Worldwide"
+      },
+      "id": "50885458918e5c88"
+    },
+    {
+      "title": "Catholic churches across the Philippines joined others across the globe being lit in red as part of Red Wednesday, the annual commemoration started by the group Aid to the Church in Need since 2015 to stand in solidarity with persecuted Christians worldwid",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMm1sZnVYOWRHUmFFREJBMXBCdmdXenp6WHVDUzVQS21seUxOa1ZUajdRMmhxY19EYmY5SzBiTE5pREtJbEFTUVRiRmtUZEtUUS1pZ1hFZ2pKSGlWWURLSlU5NUhoQnp1cEtqUnBqVjJSTmswUUxmald1Wm83cmZpZXZyaTlJUzhmNHc3SGhkSVRMemswQ2pKOGdqME9fNDZ2eUthMUlQRmlwc0dTYkJfMHpGQ2VwQ0tXNy1abXUzaDRHNUlCc3N5cWdoTU9fOGx5Yk5RanozZw?oc=5",
+      "category": "persecution",
+      "source": "CSW 宗教自由",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-25",
+      "summary": "Catholic churches across the Philippines joined others across the globe being lit in red as part of Red Wednesday, the annual commemoration started by the group Aid to the Church in Need since 2015 to stand in solidarity with persecuted Christians worldwid Facebook",
+      "summary_zh": "菲律宾各地的天主教堂与全球其他教堂一起点亮红色，作为红色星期三的一部分，这是由援助有需要的教会组织自 2015 年以来发起的年度纪念活动，旨在声援全世界受迫害的基督徒",
+      "title_zh": "菲律宾各地的天主教堂与全球其他教堂一道亮起红色灯光，以纪念“红色星期三”这一年度活动。该活动由“援助受难教会”组织于2015年发起，旨在声援全球受迫害的基督徒。",
+      "content": "",
+      "content_zh": "",
+      "author": "Facebook",
+      "tags": [],
+      "language": "en",
+      "country": "GB",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:24.814535",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian Solidarity Worldwide religious freedom",
+        "publisher": "Facebook"
+      },
+      "id": "cad2f576e5cd2fb5"
+    },
+    {
+      "title": "Plea for help: Syrian Christians face kidnappings, torture, extortion",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2Y5MG02WWdPVnJlMG1iUy1BcGRqRkdGRTlqaGJMdV8wZjZ3M0ZFbDNSLW1zUlBmb3g0WnMwUXo3U0JyMU9oZnRBWjZ3bXUySjJsNk0wRTgxM3NNRnhoeVhpbGRKOXZPVHFweXRoVjN1RXZCWWxCVWF3bk1zV1BnTloyODh2NU9HQkdVd29PLVY?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-25",
+      "summary": "Plea for help: Syrian Christians face kidnappings, torture, extortion All Arab News",
+      "summary_zh": "恳求帮助：叙利亚基督徒面临绑架、酷刑和勒索 - 阿拉伯新闻",
+      "title_zh": "求助：叙利亚基督徒面临绑架、酷刑、勒索",
+      "content": "",
+      "content_zh": "",
+      "author": "All Arab News",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:25.347750",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "All Arab News"
+      },
+      "id": "d383b8d7da5efd89"
+    },
+    {
+      "title": "North Korea: How the regime persecutes Christians",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0d2UlhUTDVsLVhyQTdmZWJJSGNVZnp1aXVRS0ZXVS00aFFpNTRRcngtWm52Y3BBQkNyWHgwMDFqdVVsWGtacGMtSkRXSjJuRmp2ZlpRaWx3aG9hYWxyWjk3ZHRjdzVGZmpNTG5DX2lVUGh4THF3eWE0a3Fic29JbEE2ZnpUMEVSLWdkR0szUVd6Q2hVNldXOHM4aUh1QQ?oc=5",
+      "category": "persecution",
+      "source": "朝鲜基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-25",
+      "summary": "North Korea: How the regime persecutes Christians AsiaNews",
+      "summary_zh": "朝鲜：该政权如何迫害基督徒 亚洲新闻",
+      "title_zh": "朝鲜：该政权如何迫害基督徒",
+      "content": "",
+      "content_zh": "",
+      "author": "AsiaNews",
+      "tags": [],
+      "language": "en",
+      "country": "KP",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:25.410184",
+      "extra": {
+        "provider": "google_news",
+        "query": "North Korea Christians persecution",
+        "publisher": "AsiaNews"
+      },
+      "id": "dc123b2dc7643ffc"
+    },
+    {
+      "title": "‘They left her on the floor in pool of her own blood’: Damning report exposes North Korea’s persecution of Christians",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTE2cjk3R3JmZmhSYU1IYWp1N2FIX1JXZVRBbFcyRXhuR0JkVW1aYVF6dTN0X0VkWU9HNGtTRVZDY1RvY0taaW85SzdjVmRld1psOUVmREQ4MVZjMS1KOEVqTXFhSG5MblhGWVpZWnIzYmVteTc4ejhBYzluazJJR0tNUU1aNVR1cVlqT1gzelJhZ1FVVmtGYmNqMFd6cDdjR21kZndCZ3FDY1hDTnc?oc=5",
+      "category": "persecution",
+      "source": "朝鲜基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-25",
+      "summary": "‘They left her on the floor in pool of her own blood’: Damning report exposes North Korea’s persecution of Christians The Independent",
+      "summary_zh": "“他们把她留在地板上，沾满了她自己的血”：该死的报告揭露了朝鲜对基督徒的迫害",
+      "title_zh": "“他们把她撂倒在地，任其躺在自己的血泊中”：令人发指的报告揭露了朝鲜对基督徒的迫害",
+      "content": "",
+      "content_zh": "",
+      "author": "The Independent",
+      "tags": [],
+      "language": "en",
+      "country": "KP",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:25.410323",
+      "extra": {
+        "provider": "google_news",
+        "query": "North Korea Christians persecution",
+        "publisher": "The Independent"
+      },
+      "id": "6088ab8558c88561"
+    },
+    {
+      "title": "Report documents testimony from 570 North Korean escapees about persecution — BBC News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQODBjZTZhS1J3Q1pPRy1QdkJzcUlqeGNkS3JMNHBHckpXU3R0UDNYV0FfRm91dkswRlQ5S2s5eFFOYWNwZXdFV0tZXzBkRmc0b3hWZFZydFBMVlFnRGNudV8yNHJzYUtkaXlDYnB5U0hibEc2dkZDd2VmVUtyLU9XZlF1bW4xRl9FRnNNU1FCQlFYTENGb1RUbElRMDJZdnJqNGdWYTNMMlYyMXJlUndjVVJhcFZaQQ?oc=5",
+      "category": "persecution",
+      "source": "朝鲜基督徒",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-25",
+      "summary": "Report documents testimony from 570 North Korean escapees about persecution — BBC News UA.NEWS",
+      "summary_zh": "报告记录了 570 名朝鲜逃亡者有关迫害的证词 — BBC 新闻 UA.NEWS",
+      "title_zh": "报告记录了570名朝鲜逃亡者关于迫害的证词——BBC新闻",
+      "content": "",
+      "content_zh": "",
+      "author": "UA.NEWS",
+      "tags": [],
+      "language": "en",
+      "country": "KP",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:25.410648",
+      "extra": {
+        "provider": "google_news",
+        "query": "North Korea Christians persecution",
+        "publisher": "UA.NEWS"
+      },
+      "id": "16b006715a872604"
+    },
     {
       "title": "“Stop the violence”: decision-makers receive the Arise Africa petition",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14SVlSOWFPcVhHenZXQ3RBVXpMNXVTMzVmQktsVEdQV2MwVWppcmJvdy14VjVDMnVYS1dSclZtVVpOb25PXzU2aXh4RjUxbndDVkpHNFRJQnhsa1BUVHVaTlYtWTNid2tnY3hMQzBXeEY2S0VDSEpZRA?oc=5",
@@ -24,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.039955",
+      "fetched_at": "2026-11-26T02:42:24.638814",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -52,7 +220,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.242324",
+      "fetched_at": "2026-11-26T02:42:24.967270",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -80,7 +248,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.657556",
+      "fetched_at": "2026-11-26T02:42:25.410435",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
@@ -108,7 +276,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.698792",
+      "fetched_at": "2026-11-26T02:42:25.542217",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -136,7 +304,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.402474",
+      "fetched_at": "2026-11-26T02:42:24.814723",
       "extra": {
         "provider": "google_news",
         "query": "Christian Solidarity Worldwide religious freedom",
@@ -164,7 +332,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:11.723503",
+      "fetched_at": "2026-11-26T02:42:24.967174",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -192,7 +360,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.245177",
+      "fetched_at": "2026-11-26T02:42:24.967454",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -276,7 +444,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.358028",
+      "fetched_at": "2026-11-26T02:42:24.799474",
       "extra": {
         "provider": "google_news",
         "query": "Release International persecution Christians",
@@ -444,7 +612,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:30.974381",
+      "fetched_at": "2026-11-26T02:42:24.639151",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -528,7 +696,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.242905",
+      "fetched_at": "2026-11-26T02:42:24.967366",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -556,7 +724,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.242170",
+      "fetched_at": "2026-11-26T02:42:24.967061",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -584,7 +752,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.245896",
+      "fetched_at": "2026-11-26T02:42:24.967830",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -696,7 +864,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.402311",
+      "fetched_at": "2026-11-26T02:42:24.814937",
       "extra": {
         "provider": "google_news",
         "query": "Christian Solidarity Worldwide religious freedom",
@@ -724,7 +892,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.401487",
+      "fetched_at": "2026-11-26T02:42:24.814423",
       "extra": {
         "provider": "google_news",
         "query": "Christian Solidarity Worldwide religious freedom",
@@ -789,6 +957,34 @@
       "id": "3977171a9ed2c3d4"
     },
     {
+      "title": "'One of the greatest civilisational challenges of our time': Human Rights Commission hears of global Christian persecution",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNllnQXRnVXhRRUVaUFVzNzU5T3JsNDJXRWRKZFdhRnpheDIyX2xTYTIxZzY1MERicU13RTZnTk00TUJHODNaVS1xelA0WHNXSjVvLWtUaUtBR2FGdVZDTjZyekRDcGxmOW9WQ3Fld1B1aFFnTFBPR2lZX0V2NDlqM2l0NGdsMUcxZlVlcldSb2JsdWRNSG44V0tBRkZQNHdqM0dybVRaZGxEZ1RfckdzWXlDeGJkcnNRYnBXS29yNkdXcTB3OG55V2NzWl94WUhSZkR3emUwcEFsUVhscEVyVjluRENqZGhEdmFTM3gyRi1NWF9lWUQ1UQ?oc=5",
+      "category": "persecution",
+      "source": "基督徒逼迫（国际）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-20",
+      "summary": "'One of the greatest civilisational challenges of our time': Human Rights Commission hears of global Christian persecution Premier Christian News",
+      "summary_zh": "“我们这个时代最严峻的文明挑战之一”：人权委员会听取有关全球基督徒受迫害的证词《基督教新闻首要报》",
+      "title_zh": "“我们时代最严峻的文明挑战之一”：人权委员会听取关于全球基督徒受迫害的陈述",
+      "content": "",
+      "content_zh": "",
+      "author": "Premier Christian News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:24.967634",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecution of Christians religious freedom",
+        "publisher": "Premier Christian News"
+      },
+      "id": "015bd3a631bb98c7"
+    },
+    {
       "title": "The security timebomb that is Nigeria",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MTHAtdE1kX2xSOXQ5czVkMnVhdGhtaThpLW1LM1pEUXBVR3FKMXc4RzNCYndKdmcxMzNJMnlWM0dkMXVveVdnN3hFeXVybnhHc2RaWWp0ZHFkUlZpX2NYa0FDcHZlTnZ1QlFNVm9hRV9mSVk?oc=5",
       "category": "persecution",
@@ -808,7 +1004,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.242010",
+      "fetched_at": "2026-11-26T02:42:24.966805",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -876,7 +1072,7 @@
       "title": "Christians are world’s ‘most persecuted religious community,’ expert says at congressional hearing",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGw1V1RuTEplMG1GVTZGLXAyd3BQYzdPREhXSTJsMGljWmFPd01uQjNtbHNSZkRLYkotNE4zRl9sSy1TVEtGZEJOQjJVNldpcVQzVjlkcW16WVZ4REh1U0ExblN4RUVraHFtLUFqSFlNcDJmQWJHYlNMOURHa2x2am5CTUtVSXVxa25jUEd4czZOUFdqVTNuQnk4UVJ4cFdKS0I5TTBsTjhTUlZrMFF0bFBsUlN4VzJKNW5HTmM5NkRxUHpSUGhQTQ?oc=5",
       "category": "persecution",
-      "source": "基督徒逼迫（国际）",
+      "source": "CSW 宗教自由",
       "source_url": "https://news.google.com/rss/search",
       "published": "2026-11-19",
       "summary": "Christians are world’s ‘most persecuted religious community,’ expert says at congressional hearing EWTN News",
@@ -887,15 +1083,15 @@
       "author": "EWTN News",
       "tags": [],
       "language": "en",
-      "country": "US",
+      "country": "GB",
       "region": "",
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.241819",
+      "fetched_at": "2026-11-26T02:42:24.814830",
       "extra": {
         "provider": "google_news",
-        "query": "persecution of Christians religious freedom",
+        "query": "Christian Solidarity Worldwide religious freedom",
         "publisher": "EWTN News"
       },
       "id": "40aed093d7235efc"
@@ -920,7 +1116,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.040150",
+      "fetched_at": "2026-11-26T02:42:24.638675",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -948,7 +1144,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:30.974516",
+      "fetched_at": "2026-11-26T02:42:24.639248",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -1004,7 +1200,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.245704",
+      "fetched_at": "2026-11-26T02:42:24.967940",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -1060,7 +1256,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:11.843204",
+      "fetched_at": "2026-11-26T02:42:24.639442",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -1200,7 +1396,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.245372",
+      "fetched_at": "2026-11-26T02:42:24.967740",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -1312,7 +1508,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:11.742630",
+      "fetched_at": "2026-11-26T02:42:24.815122",
       "extra": {
         "provider": "google_news",
         "query": "Christian Solidarity Worldwide religious freedom",
@@ -1900,7 +2096,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:30.974874",
+      "fetched_at": "2026-11-26T02:42:24.639343",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -2460,7 +2656,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.387574",
+      "fetched_at": "2026-11-26T02:42:25.542955",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -2572,7 +2768,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.387693",
+      "fetched_at": "2026-11-26T02:42:25.543050",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -2628,7 +2824,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.242487",
+      "fetched_at": "2026-11-26T02:42:24.966933",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -2684,7 +2880,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.387063",
+      "fetched_at": "2026-11-26T02:42:25.542440",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -2740,7 +2936,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.387441",
+      "fetched_at": "2026-11-26T02:42:25.542542",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -3496,7 +3692,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.243077",
+      "fetched_at": "2026-11-26T02:42:24.967541",
       "extra": {
         "provider": "google_news",
         "query": "persecution of Christians religious freedom",
@@ -3888,7 +4084,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.699348",
+      "fetched_at": "2026-11-26T02:42:25.542336",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -3944,7 +4140,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.275231",
+      "fetched_at": "2026-11-26T02:42:24.743739",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -4000,7 +4196,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.275899",
+      "fetched_at": "2026-11-26T02:42:24.744402",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -4028,7 +4224,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.275389",
+      "fetched_at": "2026-11-26T02:42:24.743973",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -4056,7 +4252,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.387318",
+      "fetched_at": "2026-11-26T02:42:25.542842",
       "extra": {
         "provider": "google_news",
         "query": "Nigeria Christians persecution Boko Haram",
@@ -4140,7 +4336,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.760530",
+      "fetched_at": "2026-11-26T02:42:25.179396",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -4278,7 +4474,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.358494",
+      "fetched_at": "2026-11-26T02:42:24.799599",
       "extra": {
         "provider": "google_news",
         "query": "Release International persecution Christians",
@@ -4390,7 +4586,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.275069",
+      "fetched_at": "2026-11-26T02:42:24.743633",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -4501,7 +4697,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.832896",
+      "fetched_at": "2026-11-26T02:42:25.347988",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -4715,6 +4911,7 @@
       "summary_zh": "为受迫害的基督徒祈祷的五种方法让耶稣无处不在",
       "title_zh": "为受迫害的基督徒祈祷的五种方式",
       "content": "",
+      "content_zh": "",
       "author": "Make Jesus Known Everywhere",
       "tags": [],
       "language": "en",
@@ -4723,13 +4920,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.209090",
+      "fetched_at": "2026-11-26T02:42:25.411120",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
         "publisher": "Make Jesus Known Everywhere"
       },
-      "content_zh": ""
+      "id": "64a24e2dcc7fc177"
     },
     {
       "title": "Protecting the Real Refugees Isn’t Conceding to Illegal Immigration",
@@ -4813,6 +5010,34 @@
         "publisher": "The Globe and Mail"
       },
       "id": "d60641a758f0088e"
+    },
+    {
+      "title": "ACN report: 220 million Christians face persecution worldwide",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY19uM0xyVDN1SDREOUFpZnZvYzVsRDltUC1GRHNhYXV2SlZOLUMxYzFCTk1TRkFQM1pXbE1VUkx4dVdtX2tGbzVrR0VIZk1TOGVOcko4NkdnQWgwUUVEUXhqX1pjdENNYlA5ZXhrdUV0VlNMcnZwU25BRmNhb0h0S0htVHZMX0dGYjBteHR1WlRjckNjOVh3cklocnFUc3JRYndXd0J6aEVDV251SjJlYl9hYw?oc=5",
+      "category": "persecution",
+      "source": "中东逼迫",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-27",
+      "summary": "ACN report: 220 million Christians face persecution worldwide Vatican News",
+      "summary_zh": "ACN报告：全球2.2亿基督徒面临迫害梵蒂冈新闻",
+      "title_zh": "ACN报告：全球2.2亿基督徒面临迫害",
+      "content": "",
+      "content_zh": "",
+      "author": "Vatican News",
+      "tags": [],
+      "language": "en",
+      "country": "IL",
+      "region": "中东",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:25.347623",
+      "extra": {
+        "provider": "google_news",
+        "query": "Middle East Christians persecution",
+        "publisher": "Vatican News"
+      },
+      "id": "a71bcd0e2ad46bea"
     },
     {
       "title": "Study: Christian persecution worsening in most of already bad cases",
@@ -4943,7 +5168,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.274878",
+      "fetched_at": "2026-11-26T02:42:24.743505",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -5110,7 +5335,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T06:50:07.347338",
+      "fetched_at": "2026-11-26T02:42:25.179682",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -5138,7 +5363,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.275562",
+      "fetched_at": "2026-11-26T02:42:24.743853",
       "extra": {
         "provider": "google_news",
         "query": "Voice of the Martyrs persecution",
@@ -5496,7 +5721,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.966077",
+      "fetched_at": "2026-11-26T02:42:25.284780",
       "extra": {
         "provider": "google_news",
         "query": "India Christians religious freedom persecution",
@@ -6053,7 +6278,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.833065",
+      "fetched_at": "2026-11-26T02:42:25.348093",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -6109,7 +6334,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.833870",
+      "fetched_at": "2026-11-26T02:42:25.348553",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -6358,7 +6583,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.832704",
+      "fetched_at": "2026-11-26T02:42:25.347857",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -6632,7 +6857,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.359133",
+      "fetched_at": "2026-11-26T02:42:24.800140",
       "extra": {
         "provider": "google_news",
         "query": "Release International persecution Christians",
@@ -6660,7 +6885,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.040465",
+      "fetched_at": "2026-11-26T02:42:24.638941",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -6854,7 +7079,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.658063",
+      "fetched_at": "2026-11-26T02:42:25.410534",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
@@ -6937,7 +7162,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:30.975106",
+      "fetched_at": "2026-11-26T02:42:24.639609",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -6965,7 +7190,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.760031",
+      "fetched_at": "2026-11-26T02:42:25.179202",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -7073,7 +7298,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.119307",
+      "fetched_at": "2026-11-26T02:42:24.871109",
       "extra": {
         "provider": "google_news",
         "query": "USCIRF religious freedom persecuted",
@@ -7101,7 +7326,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:31.443173",
+      "fetched_at": "2026-11-26T02:42:25.285007",
       "extra": {
         "provider": "google_news",
         "query": "India Christians religious freedom persecution",
@@ -7120,6 +7345,7 @@
       "summary_zh": "无教会信徒在朝鲜坚挺 宣教网络新闻",
       "title_zh": "无教会信徒在朝鲜站稳脚跟",
       "content": "",
+      "content_zh": "",
       "author": "Mission Network News",
       "tags": [],
       "language": "en",
@@ -7128,13 +7354,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:34.209905",
+      "fetched_at": "2026-11-26T02:42:25.410940",
       "extra": {
         "provider": "google_news",
         "query": "North Korea Christians persecution",
         "publisher": "Mission Network News"
       },
-      "content_zh": ""
+      "id": "339abb3c6e6c7436"
     },
     {
       "title": "Former Open Doors CEO Eddie Lyle remembered as champion for persecuted church after death aged 73",
@@ -7294,7 +7520,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.041234",
+      "fetched_at": "2026-11-26T02:42:24.639046",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -7378,7 +7604,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.017880",
+      "fetched_at": "2026-11-26T02:42:25.179303",
       "extra": {
         "provider": "google_news",
         "query": "Pakistan Christians persecution blasphemy",
@@ -7630,7 +7856,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.833535",
+      "fetched_at": "2026-11-26T02:42:25.348358",
       "extra": {
         "provider": "google_news",
         "query": "Middle East Christians persecution",
@@ -7714,7 +7940,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:38:30.975224",
+      "fetched_at": "2026-11-26T02:42:24.639699",
       "extra": {
         "provider": "google_news",
         "query": "Open Doors persecution Christians",
@@ -7798,7 +8024,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.119533",
+      "fetched_at": "2026-11-26T02:42:24.871201",
       "extra": {
         "provider": "google_news",
         "query": "USCIRF religious freedom persecuted",

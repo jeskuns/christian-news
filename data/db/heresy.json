@@ -1,8 +1,8 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 57,
-  "updated_at": "2026-11-25T11:34:35.446878+08:00",
+  "count": 60,
+  "updated_at": "2026-11-26T10:51:00.966486+08:00",
   "articles": [
     {
       "title": "Is the church’s lawsuit really about the word ‘Mormon’?",
@@ -24,13 +24,69 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:47.497049",
+      "fetched_at": "2026-11-26T02:42:29.922110",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
         "publisher": "Deseret News"
       },
       "id": "86b1355ab132c492"
+    },
+    {
+      "title": "Judge takes skeptical view of ‘Mormon Stories’ podcaster’s efforts to toss LDS Church trademark case",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LSHZUQWNIWFlFMUtvbFBBd1lCcnY3dFgtektvUHhGd0QycTJOdGt6V1hJLWliVmZxR3hRLW1iaFQyTVhKTXJ1ZmMyYXRrYjRIM1Q4Z3ZLcTEzNEZad2ZVemJpRzA0RWFFZFBMeGJBeEJFLWdRNkJYSDA0cFBWQQ?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-25",
+      "summary": "Judge takes skeptical view of ‘Mormon Stories’ podcaster’s efforts to toss LDS Church trademark case The Salt Lake Tribune",
+      "summary_zh": "法官对“摩门教故事”播客试图推翻摩门教徒教会商标案的努力持怀疑态度 盐湖论坛报",
+      "title_zh": "法官对“摩门故事”播客主持人试图驳回耶稣基督后期圣徒教会商标案的举动持怀疑态度",
+      "content": "",
+      "content_zh": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:29.921853",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      },
+      "id": "6fa81daf8882c271"
+    },
+    {
+      "title": "‘Mormon Land’: Should you confess your sins to A.I.? Some Latter-day Saints say yes.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnFOQkhVUUE3cGZIWTZ1YlhmNkdGbWlVd29kV205V0JYWERmNUNMVVVrdllpMlZVOEVTTHM5M2VTeHM1Q01iRWdIZlRMZ1BoQ1pjOTE5anVjVld6S3J3aEw0R0Z5RnZPR2lteUZ1UTcwNWw2NEhoZmVqTzJDd2NjaQ?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-25",
+      "summary": "‘Mormon Land’: Should you confess your sins to A.I.? Some Latter-day Saints say yes. The Salt Lake Tribune",
+      "summary_zh": "“摩门教之地”：你应该向人工智能认罪吗？一些后期圣徒说是的。盐湖论坛报",
+      "title_zh": "“摩门之地”：你应该向人工智能坦白自己的罪过吗？一些后期圣徒的回答是肯定的。",
+      "content": "",
+      "content_zh": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:29.922326",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      },
+      "id": "38ea2991ef26c9a7"
     },
     {
       "title": "‘Mormon’ Trademark Case Pits Church Against Critical Podcaster",
@@ -52,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:47.496833",
+      "fetched_at": "2026-11-26T02:42:29.922001",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -89,6 +145,34 @@
       "id": "1ffad3824f43a9f4"
     },
     {
+      "title": "Salt Lake City & the Church of Jesus Christ of Latter-day Saints",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11a2NHNF9CX1kzVEQ2aEs4ZHBGbHRiWGRDa0l5RGllYlpyZTdrQ0tlZHMxVExYTjRMNS1DSmJLNFlWTG12MDRNUkVqZUo5WWVKSkpnWHdsTDliYmpvTmV1cUV4cnQ3aEpyRVZvTVZvenpHWF9HenItSg?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-23",
+      "summary": "Salt Lake City & the Church of Jesus Christ of Latter-day Saints Britannica",
+      "summary_zh": "盐湖城和大英耶稣基督后期圣徒教会",
+      "title_zh": "盐湖城和耶稣基督后期圣徒教会",
+      "content": "",
+      "content_zh": "",
+      "author": "Britannica",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:42:29.922220",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "Britannica"
+      },
+      "id": "7c6c93301d26a246"
+    },
+    {
       "title": "Arizona child abuse victims challenge church's protections under religious confession",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaC1Bd3FEV09iaFdKckVSVGx0WUJZT2tmNkVBMHI3YXBDS1luaEhvVl9BVVg1TUhpNGY4U2tfM3VuSEFFc2dNSnNObmhubHBxTzh1ZVVQcTJDZWtBLTZXNDU5elJmNjBvTzQ0ZWkxQ3VGSUliRE9HaVY1cUJEaUxuUXdmb2FrUG55eXI1Zk9YbXVrNnFFZmstZHNyYkhNS2lkTlI1aWhzZmg4aG53Xy1CS01kQjJsSmtOWnkxbnVDd2p1THZPZm5xZUVldWZhM3hJZ0pPN0gwanFEM0hZUW9BZC1abWtESHBxT2F5OGIwNFUzNDVtMlQzVGRjSGlBR1NvWVhUeg?oc=5",
       "category": "heresy",
@@ -108,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:47.497222",
+      "fetched_at": "2026-11-26T02:42:29.922427",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -220,7 +304,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:47.497873",
+      "fetched_at": "2026-11-26T02:42:29.922712",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1586,7 +1670,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:16.763932",
+      "fetched_at": "2026-11-26T02:42:29.922801",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",

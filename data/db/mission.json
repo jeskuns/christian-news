@@ -2,7 +2,7 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 50,
-  "updated_at": "2026-11-25T11:34:35.473711+08:00",
+  "updated_at": "2026-11-26T10:51:00.974595+08:00",
   "articles": [
     {
       "title": "Faithful to the End: The Harvest One African Missionary Never Saw",
@@ -108,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:44.339492",
+      "fetched_at": "2026-11-26T02:42:25.892335",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -164,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:44.031684",
+      "fetched_at": "2026-11-26T02:42:25.603880",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -657,7 +657,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:44.363443",
+      "fetched_at": "2026-11-26T02:42:26.056891",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -822,7 +822,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.614990",
+      "fetched_at": "2026-11-26T02:42:25.329039",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -850,7 +850,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.638658",
+      "fetched_at": "2026-11-26T02:42:25.780733",
       "extra": {
         "provider": "google_news",
         "query": "Frontiers Islamic world mission",
@@ -957,7 +957,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:43.789197",
+      "fetched_at": "2026-11-26T02:42:25.328484",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -1013,7 +1013,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:40:12.614616",
+      "fetched_at": "2026-11-26T02:42:25.328831",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -1175,7 +1175,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:44.363964",
+      "fetched_at": "2026-11-26T02:42:26.056764",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
