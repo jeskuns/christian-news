@@ -1,8 +1,8 @@
 {
   "category": "wiki",
   "label": "百科背景",
-  "count": 57,
-  "updated_at": "2026-11-26T10:51:00.919171+08:00",
+  "count": 58,
+  "updated_at": "2026-11-27T10:51:23.632327+08:00",
   "articles": [
     {
       "title": "Reformed Christianity",
@@ -10,7 +10,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "Reformed Christianity, also called Calvinism, is a major branch of Protestantism that began during the 16th-century Reformation. In the modern day, it",
       "summary_zh": "改革宗基督教，也称为加尔文主义，是新教的一个主要分支，始于 16 世纪宗教改革时期。在现代，它",
       "title_zh": "改革宗基督教",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.384792",
+      "fetched_at": "2026-11-27T02:42:29.789014",
       "extra": {
         "wordcount": 13176
       },
@@ -36,7 +36,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "The Catholic Church (Latin: Ecclesia Catholica), also called the Roman Catholic Church (Latin: Ecclesia Catholica Romana), is the largest Christian denomination",
       "summary_zh": "天主教会(拉丁語:Ecclessia Catholiana)也叫罗马天主教会(拉丁語:Ecclessia Catholiana Romana),是基督教中最大的教派.",
       "title_zh": "天主教教会",
@@ -50,7 +50,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.009486",
+      "fetched_at": "2026-11-27T02:42:30.445153",
       "extra": {
         "wordcount": 25627
       },
@@ -62,7 +62,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "The Eastern Catholic Churches or Oriental Catholic Churches, also known as the Eastern-Rite Catholic Churches, Eastern Rite Catholicism, or simply the",
       "summary_zh": "东方天主教会或东方天主教会，也称为东方礼天主教会、东方礼天主教，或简称为东方礼天主教会。",
       "title_zh": "东方天主教堂",
@@ -76,7 +76,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.009504",
+      "fetched_at": "2026-11-27T02:42:30.445175",
       "extra": {
         "wordcount": 9256
       },
@@ -88,7 +88,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "The Eastern Orthodox Church, officially the Orthodox Catholic Church, also known as the Greek Orthodox Church is the second-largest Christian body in",
       "summary_zh": "东正教，正式名称为东正教天主教会，也称为希腊东正教，是希腊第二大基督教团体。",
       "title_zh": "东正教",
@@ -102,7 +102,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.372728",
+      "fetched_at": "2026-11-27T02:42:30.796966",
       "extra": {
         "wordcount": 26962
       },
@@ -114,7 +114,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "The Eastern Orthodox Church, officially the Orthodox Catholic Church and commonly known simply as the Orthodox Church, is a communion composed of up to",
       "summary_zh": "东正教，正式名称为东正教天主教会，通常简称为东正教，是一个由最多",
       "title_zh": "东正教会组织",
@@ -128,7 +128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.372746",
+      "fetched_at": "2026-11-27T02:42:30.796990",
       "extra": {
         "wordcount": 3170
       },
@@ -140,7 +140,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "The Bible is an anthology of religious texts that are central to Judaism and Christianity, and important in other Abrahamic religions such as Islam. The",
       "summary_zh": "圣经是犹太教和基督教的核心宗教文本选集，在伊斯兰教等其他亚伯拉罕宗教中也很重要。这",
       "title_zh": "圣经",
@@ -154,7 +154,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.625981",
+      "fetched_at": "2026-11-27T02:42:31.057678",
       "extra": {
         "wordcount": 23131
       },
@@ -166,7 +166,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "The hierarchy of the Catholic Church consists of its bishops, priests, and deacons. In the ecclesiological sense of the term, hierarchy strictly means",
       "summary_zh": "天主教会的等级制度由主教、神父和执事组成。从教会学的意义上来说，等级制度严格意味着",
       "title_zh": "天主教会的等级制度",
@@ -180,7 +180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.009518",
+      "fetched_at": "2026-11-27T02:42:30.445193",
       "extra": {
         "wordcount": 8703
       },
@@ -192,7 +192,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "Christianity is an Abrahamic monotheistic religion based on the Bible and the teachings of Jesus. The Gospels state that Jesus is the Son of God and rose",
       "summary_zh": "基督教是基于圣经和耶稣教义的亚伯拉罕一神论宗教。福音书说耶稣是神的儿子并且复活了",
       "title_zh": "基督教",
@@ -206,7 +206,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.384775",
+      "fetched_at": "2026-11-27T02:42:29.788995",
       "extra": {
         "wordcount": 33534
       },
@@ -218,7 +218,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "usually refers to evangelical Protestant churches, and therefore to a certain part of Protestantism rather than to Protestantism as a whole. The English word",
       "summary_zh": "通常指福音派新教教会，因此指新教的某一部分，而不是整个新教。英语单词",
       "title_zh": "新教",
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.657383",
+      "fetched_at": "2026-11-27T02:42:30.078242",
       "extra": {
         "wordcount": 29658
       },
@@ -244,7 +244,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "The Old Catholic Church, Old Catholics, Old-Catholic churches, or Old Catholic movement are \"any of the groups of Western Christians who believe themselves",
       "summary_zh": "旧天主教会、旧天主教徒、旧天主教堂或旧天主教运动是“任何相信自己的西方基督徒团体”",
       "title_zh": "天主教教会",
@@ -258,7 +258,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.009538",
+      "fetched_at": "2026-11-27T02:42:30.445216",
       "extra": {
         "wordcount": 5010
       },
@@ -270,7 +270,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "A Christian denomination is a distinct religious group within Christianity that comprises all church congregations of the same kind, identifiable by traits",
       "summary_zh": "基督教教派是基督教内的一个独特的宗教团体，由所有同类教会会众组成，可通过特征来识别",
       "title_zh": "基督教派系",
@@ -284,7 +284,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.384805",
+      "fetched_at": "2026-11-27T02:42:29.789030",
       "extra": {
         "wordcount": 9224
       },
@@ -296,7 +296,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "up Bible study in Wiktionary, the free dictionary. Bible study or Biblical study may refer to: Bible study (Christianity), the study of the Bible by people",
       "summary_zh": "在免费词典维基词典中进行圣经学习。圣经研究或圣经研究可以指：圣经研究（基督教），人们对圣经的研究",
       "title_zh": "圣经研究",
@@ -310,7 +310,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.626013",
+      "fetched_at": "2026-11-27T02:42:31.057750",
       "extra": {
         "wordcount": 252
       },
@@ -322,7 +322,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "Look up Bible or bible in Wiktionary, the free dictionary. The Bible is a canonical collection of texts treated as religious scripture in Judaism, Christianity",
       "summary_zh": "在免费词典维基词典中查找《圣经》或《圣经》。圣经是犹太教、基督教中被视为宗教经典的经典文本集",
       "title_zh": "圣经",
@@ -336,7 +336,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.626038",
+      "fetched_at": "2026-11-27T02:42:31.057731",
       "extra": {
         "wordcount": 348
       },
@@ -348,7 +348,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "for the Orthodox Rum'), is an autocephalous Eastern Orthodox church in full communion with the other autocephalous Eastern Orthodox churches and originates",
       "summary_zh": "为东正教朗姆酒'），是一个独立的东正教教堂，与其他独立的东正教教堂完全共融，起源于",
       "title_zh": "安提阿希腊东正教牧首辖区",
@@ -362,7 +362,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.372768",
+      "fetched_at": "2026-11-27T02:42:30.797017",
       "extra": {
         "wordcount": 7680
       },
@@ -374,7 +374,7 @@
       "category": "wiki",
       "source": "Wikipedia (en)",
       "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "Jewish Christianity is the historical foundation of Early Christianity, which later developed into Nicene Christianity (which comprises the Catholic,",
       "summary_zh": "犹太基督教是早期基督教的历史基础，后来发展成为尼西亚基督教（包括天主教，",
       "title_zh": "犹太基督教",
@@ -388,11 +388,141 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.384817",
+      "fetched_at": "2026-11-27T02:42:29.789047",
       "extra": {
         "wordcount": 16601
       },
       "id": "e544cf152334a6ab"
+    },
+    {
+      "title": "Reformation",
+      "url": "https://en.wikipedia.org/wiki/Reformation",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-27",
+      "summary": "justification. Protestantism also introduced new ecclesiology. The general points of theological agreement by the different Protestant groups have been",
+      "summary_zh": "理由。新教还引入了新的教会学。不同新教团体的神学共识的一般要点是",
+      "title_zh": "宗教改革 Reformation",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:42:30.078261",
+      "extra": {
+        "wordcount": 31265
+      },
+      "id": "d9cf4345642a7c7b"
+    },
+    {
+      "title": "Evangelicalism",
+      "url": "https://en.wikipedia.org/wiki/Evangelicalism",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-27",
+      "summary": "evangelical Christianity or evangelical Protestantism, is a worldwide, interdenominational movement within Protestant Christianity that emphasizes evangelism",
+      "summary_zh": "福音派基督教或福音派新教是新教基督教内强调传福音的世界性跨教派运动",
+      "title_zh": "福音神學",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:42:30.078293",
+      "extra": {
+        "wordcount": 19687
+      },
+      "id": "30540a537212a3f8"
+    },
+    {
+      "title": "Gutenberg Bible",
+      "url": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-27",
+      "summary": "The Gutenberg Bible, also known as the 42-line Bible, the Mazarin Bible or the B42, is the earliest major book printed in Europe using mass-produced metal",
+      "summary_zh": "古腾堡圣经,又称42行圣经,马扎林圣经或B42,是欧洲最早使用量产金属印刷的主要书籍.",
+      "title_zh": "古腾堡圣经",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:42:31.057699",
+      "extra": {
+        "wordcount": 6765
+      },
+      "id": "708a2cf3fc347de0"
+    },
+    {
+      "title": "Protestantism by country",
+      "url": "https://en.wikipedia.org/wiki/Protestantism_by_country",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-27",
+      "summary": "largest Protestant minority. Protestantism is growing in Africa, Asia, Latin America while declining in North America and Europe. In France, Protestantism was",
+      "summary_zh": "最大的新教少数群体。新教在非洲、亚洲、拉丁美洲正在增长，而在北美和欧洲却在衰落。在法国，新教是",
+      "title_zh": "按国家/地区划分的新教",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:42:30.078279",
+      "extra": {
+        "wordcount": 3117
+      },
+      "id": "a52aeae4e1cca4d1"
+    },
+    {
+      "title": "Ecumenical Patriarchate of Constantinople",
+      "url": "https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople",
+      "category": "wiki",
+      "source": "Wikipedia (en)",
+      "source_url": "https://en.wikipedia.org/w/api.php",
+      "published": "2026-11-27",
+      "summary": "Patriarkhíon Konstantinoupóleos) is one of the autocephalous churches of the Eastern Orthodox Church. It is headed by the Ecumenical Patriarch of Constantinople",
+      "summary_zh": "Patriarkhíon Konstantinoupóleos）是东正教会的自治教会之一。由君士坦丁堡大主教领衔。",
+      "title_zh": "君士坦丁堡普世牧首府",
+      "content": "",
+      "content_zh": "",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:42:30.797037",
+      "extra": {
+        "wordcount": 9308
+      },
+      "id": "d043dc97f4a3de04"
     },
     {
       "title": "Proto-Protestantism",
@@ -421,58 +551,6 @@
       "id": "bcf3626112e992d6"
     },
     {
-      "title": "Reformation",
-      "url": "https://en.wikipedia.org/wiki/Reformation",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
-      "summary": "justification. Protestantism also introduced new ecclesiology. The general points of theological agreement by the different Protestant groups have been",
-      "summary_zh": "理由。新教还引入了新的教会学。不同新教团体的神学共识的一般要点是",
-      "title_zh": "宗教改革 Reformation",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.657397",
-      "extra": {
-        "wordcount": 31265
-      },
-      "id": "d9cf4345642a7c7b"
-    },
-    {
-      "title": "Evangelicalism",
-      "url": "https://en.wikipedia.org/wiki/Evangelicalism",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
-      "summary": "evangelical Christianity or evangelical Protestantism, is a worldwide, interdenominational movement within Protestant Christianity that emphasizes evangelism",
-      "summary_zh": "福音派基督教或福音派新教是新教基督教内强调传福音的世界性跨教派运动",
-      "title_zh": "福音神學",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.657408",
-      "extra": {
-        "wordcount": 19687
-      },
-      "id": "30540a537212a3f8"
-    },
-    {
       "title": "Greek Orthodox Church",
       "url": "https://en.wikipedia.org/wiki/Greek_Orthodox_Church",
       "category": "wiki",
@@ -497,32 +575,6 @@
         "wordcount": 1499
       },
       "id": "e5ff167f874cb73f"
-    },
-    {
-      "title": "Gutenberg Bible",
-      "url": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-26",
-      "summary": "The Gutenberg Bible, also known as the 42-line Bible, the Mazarin Bible or the B42, is the earliest major book printed in Europe using mass-produced metal",
-      "summary_zh": "古腾堡圣经,又称42行圣经,马扎林圣经或B42,是欧洲最早使用量产金属印刷的主要书籍.",
-      "title_zh": "古腾堡圣经",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-26T02:42:30.625998",
-      "extra": {
-        "wordcount": 6765
-      },
-      "id": "708a2cf3fc347de0"
     },
     {
       "title": "Mainline Protestant",
@@ -601,32 +653,6 @@
         "wordcount": 12390
       },
       "id": "a0c1be18c72d1fbe"
-    },
-    {
-      "title": "Protestantism by country",
-      "url": "https://en.wikipedia.org/wiki/Protestantism_by_country",
-      "category": "wiki",
-      "source": "Wikipedia (en)",
-      "source_url": "https://en.wikipedia.org/w/api.php",
-      "published": "2026-11-25",
-      "summary": "largest Protestant minority. Protestantism is growing in Africa, Asia, Latin America while declining in North America and Europe. In France, Protestantism was",
-      "summary_zh": "最大的新教少数群体。新教在非洲、亚洲、拉丁美洲正在增长，而在北美和欧洲却在衰落。在法国，新教是",
-      "title_zh": "按国家/地区划分的新教",
-      "content": "",
-      "content_zh": "",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-25T03:25:47.665803",
-      "extra": {
-        "wordcount": 3117
-      },
-      "id": "a52aeae4e1cca4d1"
     },
     {
       "title": "Minister (Christianity)",

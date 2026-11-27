@@ -1,9 +1,65 @@
 {
   "category": "mission",
   "label": "宣教运动",
-  "count": 50,
-  "updated_at": "2026-11-26T10:51:00.974595+08:00",
+  "count": 52,
+  "updated_at": "2026-11-27T10:51:23.704051+08:00",
   "articles": [
+    {
+      "title": "David Platt Says There Are No “Innocent” People Who’ve Never Heard the Gospel",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTkQzQUZfRG1VMktoaG9EYkVDUXZpWjRfMDc0V090b2xBQjdKWVZ2WVVrOEJhZVpaUWI3d0Y4YWd1T0k5ajdPOFNOSjc1VkZkVEpZR0lMR05fdi1GTzZ0clNScEdUTTJkVm5abkpZbEd6UTU2cE80MGNNS3ExQ2lwQ3ZOcW1FRTAzUkM5empVY0pLb0ZtbnZxaWJzc2ZwcEFyY1AtRVlzNVNxTkxacktxTWZ2TG9TUWFp?oc=5",
+      "category": "mission",
+      "source": "未得之民",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-24",
+      "summary": "David Platt Says There Are No “Innocent” People Who’ve Never Heard the Gospel ChurchLeaders",
+      "summary_zh": "大卫·普拉特（David Platt）说，从来没有听过福音的人中没有“无辜”的人——教会领袖",
+      "title_zh": "大卫·普拉特（David Platt）说，没有“无辜”的人从未听过福音",
+      "content": "",
+      "content_zh": "",
+      "author": "ChurchLeaders",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:42:26.461642",
+      "extra": {
+        "provider": "google_news",
+        "query": "unreached people groups mission",
+        "publisher": "ChurchLeaders"
+      },
+      "id": "2669972e97649413"
+    },
+    {
+      "title": "What is Africa’s Largest Religion?",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MYmFwRmMyR0Z5bk9uUmMyUWxIVHZGWnU0UW1sTHEwUkswV2FCUTZoQ2dWOEVqOFRfNHVOZndaVF9YZmF1S21BZXhHM0FGeVdCTTRGZWhCRmtMbHRPQUl5MkNOdjduU1pjMTRRRVVTVQ?oc=5",
+      "category": "mission",
+      "source": "伊斯兰宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-23",
+      "summary": "What is Africa’s Largest Religion? The Guardian Nigeria News",
+      "summary_zh": "非洲最大的宗教是什么？《卫报》尼日利亚新闻",
+      "title_zh": "非洲最大的宗教是什么？",
+      "content": "",
+      "content_zh": "",
+      "author": "The Guardian Nigeria News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:42:26.395419",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian mission to Muslims",
+        "publisher": "The Guardian Nigeria News"
+      },
+      "id": "40418a340dc9daf4"
+    },
     {
       "title": "Faithful to the End: The Harvest One African Missionary Never Saw",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFRvREVkV1VhQTM0VF9peHBGYzlCUGpIOU1ZREt1empKcktjejM2MFU2VEhyS1lsM2FoN19nU0F3R2tGbTctdEx6dXk0anhubG9OM0xUakU5ZUp0ZTBjOXVxeGV1NklaRUVFMndTWjJMandxUUZGSFNOX2ljWWlYWkVzamxLdEkzQjhCS2tXa0RLSmNfdkkxM2l5N2hDUDBTWW14Zi0xSXF2LXcwQUp6aU9KTWd0by1m?oc=5",
@@ -108,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:25.892335",
+      "fetched_at": "2026-11-27T02:42:26.461895",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -164,7 +220,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:25.603880",
+      "fetched_at": "2026-11-27T02:42:25.901031",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -657,7 +713,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:26.056891",
+      "fetched_at": "2026-11-27T02:42:26.302994",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -721,6 +777,34 @@
       "id": "41e6f4b6d2f84c57"
     },
     {
+      "title": "Have We Reached the World Yet?",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rc0hxNlAwcEVWNXJBbl9IaVNVOWZ5V3BPc2tCaW5uTjJzM1RNX3ZlTWYzRHRzLWFNODA4TnVRY2NUN0xrZ3E5Mmk4STZISzF4cjZwVE1hd0dSRHdKMVBRYWtBQzh2ekpYZE80YTl6WTRrTExi?oc=5",
+      "category": "mission",
+      "source": "未得之民",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-19",
+      "summary": "Have We Reached the World Yet? Adventist Review",
+      "summary_zh": "我们是否已经走遍天下？《基督复临会评论》",
+      "title_zh": "我们是否已经走向世界？",
+      "content": "",
+      "content_zh": "",
+      "author": "Adventist Review",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:42:26.462587",
+      "extra": {
+        "provider": "google_news",
+        "query": "unreached people groups mission",
+        "publisher": "Adventist Review"
+      },
+      "id": "ecf1a3bfb4adfb40"
+    },
+    {
       "title": "New York Guard Mobilizes for Southern Border Mission",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3dNRTVrcmY0M2JQV2ViYU1faklFTENTQzdjRlhYX1dzUG0tb0ZPMmhVd09IZFpBZS03LXk1c0RRMTFNTmU0dVJPNlpVb1ZHNTVOcHB2ZmpQanh3eEF0ME1vMU5fWGJrNTZQTFpvRFVmeE1kNGpYeWJUclJkakQwcXJyOXMtRjlEc2RrSXc5V1pBcGx2X1BoS3F6LWt5dmNyTHlJN2RncDJDdEtXdnN0Q1JnYTdTeHRY?oc=5",
       "category": "mission",
@@ -740,7 +824,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-22T00:08:51.960733",
+      "fetched_at": "2026-11-27T02:42:25.901544",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -794,7 +878,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:44.427760",
+      "fetched_at": "2026-11-27T02:42:26.395644",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -957,7 +1041,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:25.328484",
+      "fetched_at": "2026-11-27T02:42:25.671096",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -985,7 +1069,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:44.073815",
+      "fetched_at": "2026-11-27T02:42:25.931067",
       "extra": {
         "provider": "google_news",
         "query": "SIM mission Africa",
@@ -1175,7 +1259,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:26.056764",
+      "fetched_at": "2026-11-27T02:42:26.303698",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -1231,7 +1315,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-20T01:42:44.826011",
+      "fetched_at": "2026-11-27T02:42:25.901702",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -1315,7 +1399,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-04T00:27:25.991037",
+      "fetched_at": "2026-11-27T02:42:26.396170",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -1378,30 +1462,6 @@
         "publisher": "Frontiers"
       },
       "id": "e0b78d37de198f51"
-    },
-    {
-      "title": "在華宣教士司徒雷登誕辰150週年 中國多地展開紀念活動",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43M0J5ZXB0bWZ0SUlWN1c3VHoxOEtOZF81ckYwVFJkNERUNXRJeTZCcjAyMm9oS0ZlSFZEUVBqcVRqNG5lU09FZXkyR09XLTFTV09TSnJuSGlkYjVLMGZ0ZFFtZ1pQOGFZT3Utek1Faw?oc=5",
-      "category": "mission",
-      "source": "宣教运动（中文）",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2026-08-28",
-      "summary": "在華宣教士司徒雷登誕辰150週年 中國多地展開紀念活動 基督日報",
-      "summary_zh": "",
-      "title_zh": "",
-      "content": "",
-      "author": "基督日報",
-      "tags": [],
-      "language": "zh",
-      "country": "CN",
-      "region": "",
-      "fetched_at": "2026-10-29T02:00:10.511029",
-      "extra": {
-        "provider": "google_news",
-        "query": "基督教 宣教 宣教士",
-        "publisher": "基督日報"
-      },
-      "content_zh": ""
     }
   ]
 }

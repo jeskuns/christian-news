@@ -1,9 +1,37 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 60,
-  "updated_at": "2026-11-26T10:51:00.966486+08:00",
+  "count": 61,
+  "updated_at": "2026-11-27T10:51:23.701982+08:00",
   "articles": [
+    {
+      "title": "Latest from Mormon Land: A 35-hour ‘workweek’ for LDS missionaries?",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcG1oTV9BNjhrQ3JiVVNmWGxZUkRMZ3prVmFxZklsZl9KNy1nWDNnbk9sLWZwSXhWZ0Vmc0c2R1lxMXBuRjg2QzMtMTRSUWhsQWJIWXo3bUp2N0plTk5ROEZDYTBBc1RYWWNxNFVtT3RTRUlXZWJ0SGpXdmRnWXVXM1Vn?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-26",
+      "summary": "Latest from Mormon Land: A 35-hour ‘workweek’ for LDS missionaries? The Salt Lake Tribune",
+      "summary_zh": "摩门之地最新消息：耶稣基督后期圣徒教会传教士的“工作周”是35小时？《盐湖城论坛报》",
+      "title_zh": "摩门之地最新消息：耶稣基督后期圣徒教会传教士的“工作周”为35小时？",
+      "content": "",
+      "content_zh": "",
+      "author": "The Salt Lake Tribune",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:42:29.771709",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "The Salt Lake Tribune"
+      },
+      "id": "e3982e3abafba986"
+    },
     {
       "title": "Is the church’s lawsuit really about the word ‘Mormon’?",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVzItZjNGcVNDeC03NmFaTjdxcVFjR3lWcmlvYXpVLUZOSEstNUlHVHJOeVRpZ180UWhEbllxSUduaXZJR2dYOFd5djJCSGVJZzZoM3BEN2ZTZzZodDFBT0tLUjVPZnZBX3FWWU5mVFZpSjJNOEVNXzdSRFhUUVRGemRDc2VxVVlLVGFZNzhLcFhJMkNYaW56cUxZMW9WdldYSFowRjgzdkU?oc=5",
@@ -24,7 +52,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.922110",
+      "fetched_at": "2026-11-27T02:42:29.772068",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -52,7 +80,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.921853",
+      "fetched_at": "2026-11-27T02:42:29.772415",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -108,7 +136,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.922001",
+      "fetched_at": "2026-11-27T02:42:29.771897",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -164,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.922220",
+      "fetched_at": "2026-11-27T02:42:29.772243",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -304,7 +332,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.922712",
+      "fetched_at": "2026-11-27T02:42:29.772905",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1670,7 +1698,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.922801",
+      "fetched_at": "2026-11-27T02:42:29.773058",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
