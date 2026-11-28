@@ -2,7 +2,7 @@
   "category": "mission",
   "label": "宣教运动",
   "count": 52,
-  "updated_at": "2026-11-27T10:51:23.704051+08:00",
+  "updated_at": "2026-11-28T10:39:01.070630+08:00",
   "articles": [
     {
       "title": "David Platt Says There Are No “Innocent” People Who’ve Never Heard the Gospel",
@@ -24,7 +24,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:26.461642",
+      "fetched_at": "2026-11-28T02:32:17.527822",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -52,7 +52,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:26.395419",
+      "fetched_at": "2026-11-28T02:32:17.555809",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -164,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:26.461895",
+      "fetched_at": "2026-11-28T02:32:17.527930",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -192,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-08T23:28:45.998721",
+      "fetched_at": "2026-11-28T02:32:17.111906",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -713,7 +713,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:26.302994",
+      "fetched_at": "2026-11-28T02:32:17.406693",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -796,7 +796,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:26.462587",
+      "fetched_at": "2026-11-28T02:32:17.528177",
       "extra": {
         "provider": "google_news",
         "query": "unreached people groups mission",
@@ -824,7 +824,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:25.901544",
+      "fetched_at": "2026-11-28T02:32:17.112007",
       "extra": {
         "provider": "google_news",
         "query": "Operation Mobilization mission",
@@ -878,7 +878,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:26.395644",
+      "fetched_at": "2026-11-28T02:32:17.555897",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",
@@ -1041,7 +1041,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:25.671096",
+      "fetched_at": "2026-11-28T02:32:16.764094",
       "extra": {
         "provider": "google_news",
         "query": "Wycliffe Bible translators",
@@ -1259,7 +1259,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:26.303698",
+      "fetched_at": "2026-11-28T02:32:17.406958",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission Africa",
@@ -1399,7 +1399,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:26.396170",
+      "fetched_at": "2026-11-28T02:32:17.556140",
       "extra": {
         "provider": "google_news",
         "query": "Christian mission to Muslims",

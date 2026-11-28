@@ -1,9 +1,65 @@
 {
   "category": "heresy",
   "label": "异端辨析",
-  "count": 61,
-  "updated_at": "2026-11-27T10:51:23.701982+08:00",
+  "count": 63,
+  "updated_at": "2026-11-28T10:39:01.063662+08:00",
   "articles": [
+    {
+      "title": "Missionaries to the Jobless",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTU84TE9zQklxa01zcl8wRFg5Rk9sXzZDSnNNQjhCaFNDc1Viak51UTFpazJ6dUZvcXNJeXFCZnpVNlBobzdEVkRQTXJCYjZhZ3FyeXlOcThPalFVTm5hakRpMGZoYVN4T21Udl9tSWFwUHFocHl4TTFrVFlqYmNZeTdUNA?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-27",
+      "summary": "Missionaries to the Jobless City Journal",
+      "summary_zh": "《失业之城传教士日报》",
+      "title_zh": "向失业者传福音的宣教士",
+      "content": "",
+      "content_zh": "",
+      "author": "City Journal",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-28T02:32:20.648011",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "City Journal"
+      },
+      "id": "208de0c86dc741a4"
+    },
+    {
+      "title": "Ikons, Anyone?",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JQ3pidlhUejJibzRmdE84cFNHZjZlXzZZb1B0NkwybU53VzlzMEc4MlZ5WloyUlVRMGNoZU1EZWsxOS1rYlZWVTNlSEl2dmcwNTNXNmtEX2xXV1Zuc1RTX2QwYw?oc=5",
+      "category": "heresy",
+      "source": "摩门教 LDS",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-27",
+      "summary": "Ikons, Anyone? CounterPunch.org",
+      "summary_zh": "有人要圣像吗？CounterPunch.org",
+      "title_zh": "有人要圣像吗？",
+      "content": "",
+      "content_zh": "",
+      "author": "CounterPunch.org",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-28T02:32:20.648483",
+      "extra": {
+        "provider": "google_news",
+        "query": "Mormon LDS church",
+        "publisher": "CounterPunch.org"
+      },
+      "id": "744b935bb1e601f2"
+    },
     {
       "title": "Latest from Mormon Land: A 35-hour ‘workweek’ for LDS missionaries?",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcG1oTV9BNjhrQ3JiVVNmWGxZUkRMZ3prVmFxZklsZl9KNy1nWDNnbk9sLWZwSXhWZ0Vmc0c2R1lxMXBuRjg2QzMtMTRSUWhsQWJIWXo3bUp2N0plTk5ROEZDYTBBc1RYWWNxNFVtT3RTRUlXZWJ0SGpXdmRnWXVXM1Vn?oc=5",
@@ -52,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:29.772068",
+      "fetched_at": "2026-11-28T02:32:20.647923",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -80,7 +136,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:29.772415",
+      "fetched_at": "2026-11-28T02:32:20.647693",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -108,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-26T02:42:29.922326",
+      "fetched_at": "2026-11-28T02:32:20.648330",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -136,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-27T02:42:29.771897",
+      "fetched_at": "2026-11-28T02:32:20.647803",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
@@ -1615,7 +1671,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:25:47.498030",
+      "fetched_at": "2026-11-28T02:32:20.648166",
       "extra": {
         "provider": "google_news",
         "query": "Mormon LDS church",
